@@ -2,6 +2,7 @@ import React from "react";
 import { AbsoluteFill, interpolate, useCurrentFrame } from "remotion";
 import { config, meta, photoCredits, sources } from "../data";
 import { body, C, display } from "../theme";
+import { Monogram } from "../brand/Brand";
 
 const clamp = { extrapolateLeft: "clamp", extrapolateRight: "clamp" } as const;
 
@@ -36,6 +37,32 @@ export const TitleCard: React.FC<{ durationInFrames: number }> = ({
         }}
       />
       <AbsoluteFill style={{ justifyContent: "center", alignItems: "center" }}>
+        {config.series_label && (
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: 18,
+              marginBottom: 46,
+              opacity: interpolate(frame, [5, 30], [0, 1], clamp),
+            }}
+          >
+            <div style={{ width: 60, height: 2, background: C.red }} />
+            <div
+              style={{
+                fontFamily: body,
+                fontWeight: 700,
+                fontSize: 26,
+                letterSpacing: 8,
+                color: C.accent,
+              }}
+            >
+              {config.series_label}
+              {config.file_number ? `  ·  FILE ${config.file_number}` : ""}
+            </div>
+            <div style={{ width: 60, height: 2, background: C.red }} />
+          </div>
+        )}
         <div
           style={{
             fontFamily: body,
@@ -174,6 +201,9 @@ export const EndCard: React.FC<{ durationInFrames: number }> = ({
             paddingLeft: 80,
           }}
         >
+          <div style={{ marginBottom: 20, marginLeft: -20 }}>
+            <Monogram size={150} />
+          </div>
           <div
             style={{
               fontFamily: display,

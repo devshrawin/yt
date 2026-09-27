@@ -48,6 +48,8 @@ export type VideoConfig = {
   end_card_seconds: number;
   music_volume: number;
   channel_name: string;
+  series_label?: string;
+  file_number?: string;
   channel_handle: string;
   end_card_cta: string;
   title_card_position?: "after_cold_open" | "start";

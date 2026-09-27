@@ -256,7 +256,7 @@ const BeatWindow: React.FC<{ beat: Beat }> = ({ beat }) => {
         width: 1920,
         height: 1080,
         position: "relative",
-          flexShrink: 0,
+        flexShrink: 0,
         transformOrigin: "0 0",
         transform: `scale(${(WIN_H / 1080) * punch}) translate(${((1 - punch) * -960) / punch}px, ${((1 - punch) * -540) / punch}px)`,
       }}

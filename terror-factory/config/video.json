@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "fps": 30,
   "width": 1920,
   "height": 1080,
@@ -11,9 +11,9 @@
   "title_card_seconds": 6,
   "end_card_seconds": 12,
   "music_volume": 0.07,
-  "channel_name": "",
-  "channel_handle": "",
-  "end_card_cta": "",
+  "channel_name": "The Sisodia Files",
+  "channel_handle": "@SisodiaFiles",
+  "end_card_cta": "Subscribe — the next file opens soon.",
   "sample_voices": [
     "en-US-GuyNeural",
     "en-US-ChristopherNeural",
@@ -25,5 +25,7 @@
   ],
   "pok_term": "Illegally Occupied Pakistani Kashmir",
   "_pok_term_note": "Legal/editorial requirement (published in India): every spoken/on-screen reference to Pakistan-administered / Azad Kashmir uses pok_term, and maps show all of J&K + Ladakh as India.",
-  "pronunciation_mode": "native"
+  "pronunciation_mode": "native",
+  "series_label": "THE SISODIA FILES",
+  "file_number": "01"
 }

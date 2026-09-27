@@ -4,7 +4,15 @@ Every render is kept locally in `output/versions/terror-factory_v<X.Y>.mp4` (nev
 committed); the pipeline state for each version is tagged `v<X.Y>` in git. v1.0 = first full render; each audit / change round bumps
 the minor version.
 
+## v1.3 — The Sisodia Files branding
+- Title card carries "THE SISODIA FILES · FILE 01"
+- End card: SF monogram, "The Sisodia Files", @SisodiaFiles, "Subscribe — the next file opens soon."
+- Upload kit (`output/youtube_upload.md`): title, chapters from the render timeline, sources,
+  licensed image credits, tags, pinned comment, Instagram caption
+- Channel brand pack in `../brand/` (banner, avatar, watermark, File 01 thumbnail, setup guide)
+
 ## Teaser (Instagram Reel, 1080x1920)
+- teaser v1.2 — CTA "Full documentary · @SisodiaFiles"; closing line names the channel
 - teaser v1.1 — captions wrap instead of running off-screen on long lines
 - teaser v1.0 — 63.6 s, 10 beats (hook → camps → each training phase → proven vs alleged →
   Op Sindoor → CTA), live main-video scenes in a 16:9 window, big word-highlight captions,

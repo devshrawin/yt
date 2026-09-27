@@ -32,12 +32,12 @@
       "text": "Then, in May 2025, Operation Sindoor struck nine sites — including the compound where it all began."
     },
     {
-      "text": "Inside the Terror Factory. The full documentary is out now on YouTube."
+      "text": "Inside the Terror Factory. The full documentary is out now on The Sisodia Files."
     }
   ],
   "audio_file": "audio/teaser.mp3",
-  "audio_hash": "bdd54b323b479001",
-  "duration_seconds": 63.462,
+  "audio_hash": "67869475ec919678",
+  "duration_seconds": 64.182,
   "paragraph_starts": [
     0,
     8702,
@@ -719,50 +719,62 @@
     },
     {
       "text": "The",
-      "startMs": 59693,
-      "endMs": 59772,
+      "startMs": 59706,
+      "endMs": 59785,
       "p": 9
     },
     {
       "text": "full",
-      "startMs": 59785,
-      "endMs": 60032,
+      "startMs": 59798,
+      "endMs": 60058,
       "p": 9
     },
     {
       "text": "documentary",
-      "startMs": 60045,
-      "endMs": 60800,
+      "startMs": 60071,
+      "endMs": 60852,
       "p": 9
     },
     {
       "text": "is",
-      "startMs": 60813,
-      "endMs": 61022,
+      "startMs": 60865,
+      "endMs": 61074,
       "p": 9
     },
     {
       "text": "out",
-      "startMs": 61035,
-      "endMs": 61282,
+      "startMs": 61087,
+      "endMs": 61334,
       "p": 9
     },
     {
       "text": "now",
-      "startMs": 61295,
-      "endMs": 61660,
+      "startMs": 61347,
+      "endMs": 61777,
       "p": 9
     },
     {
       "text": "on",
-      "startMs": 61673,
-      "endMs": 61855,
+      "startMs": 61790,
+      "endMs": 61946,
       "p": 9
     },
     {
-      "text": "YouTube.",
-      "startMs": 61868,
-      "endMs": 62467,
+      "text": "The",
+      "startMs": 61959,
+      "endMs": 62037,
+      "p": 9
+    },
+    {
+      "text": "Sisodia",
+      "startMs": 62050,
+      "endMs": 62597,
+      "p": 9
+    },
+    {
+      "text": "Files.",
+      "startMs": 62610,
+      "endMs": 63183,
       "p": 9
     }
   ],
@@ -898,14 +910,14 @@
       "endMs": 59303
     },
     {
-      "text": "The full documentary is out now on",
-      "startMs": 59693,
-      "endMs": 61855
+      "text": "The full documentary is out now on The",
+      "startMs": 59706,
+      "endMs": 62037
     },
     {
-      "text": "YouTube.",
-      "startMs": 61868,
-      "endMs": 62467
+      "text": "Sisodia Files.",
+      "startMs": 62050,
+      "endMs": 63183
     }
   ],
   "beats": [
@@ -992,7 +1004,7 @@
     },
     {
       "headline": "INSIDE THE TERROR FACTORY",
-      "text": "Inside the Terror Factory. The full documentary is out now on YouTube.",
+      "text": "Inside the Terror Factory. The full documentary is out now on The Sisodia Files.",
       "show": {
         "title_card": true
       }
