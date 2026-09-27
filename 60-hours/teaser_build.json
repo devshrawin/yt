@@ -362,14 +362,8 @@
       "p": 4
     },
     {
-      "text": "Taj'",
+      "text": "Taj's",
       "startMs": 28850,
-      "endMs": 29293,
-      "p": 4
-    },
-    {
-      "text": "'s",
-      "startMs": 29306,
       "endMs": 29488,
       "p": 4
     },
@@ -638,7 +632,7 @@
       "endMs": 27040
     },
     {
-      "text": "a blast tore through the Taj' 's central",
+      "text": "a blast tore through the Taj's central",
       "startMs": 27678,
       "endMs": 29905
     },

@@ -4,8 +4,8 @@ Code-driven investigative documentaries (Remotion + edge-tts) for [@SisodiaFiles
 
 | Video | Folder | Status |
 |---|---|---|
-| File 03 — The Front Man (Tahawwur Rana) | [`front-man/`](front-man/) | v1.0 |
-| File 02 — 60 Hours (26/11 hour by hour) | [`60-hours/`](60-hours/) | v1.2 |
+| File 03 — The Front Man (Tahawwur Rana) | [`front-man/`](front-man/) | v1.1 |
+| File 02 — 60 Hours (26/11 hour by hour) | [`60-hours/`](60-hours/) | v1.3 |
 | Inside the Terror Factory | [`terror-factory/`](terror-factory/) | File 01 — v1.3 + Instagram teaser v1.2 (renders kept locally, not in git) |
 
 Script rules for every video: [`SCRIPT_RULES.md`](SCRIPT_RULES.md) (checked by `pipeline/script_lint.py`).

@@ -161,6 +161,15 @@ def align_words(words, spoken, orig, spans):
             "_end": trail.end() if trail else o_e,
             "punct_end": False,
         })
+    # a respelled name followed by a possessive comes back as two tokens: "Rana'" + "'s"
+    merged = []
+    for w in out:
+        if merged and re.match(r"^['’]s\b", w["text"]) and merged[-1]["text"].endswith(("'", "’")):
+            merged[-1]["text"] = merged[-1]["text"][:-1] + w["text"]
+            merged[-1]["endMs"] = w["endMs"]
+            continue
+        merged.append(w)
+    out = merged
     for i, w in enumerate(out):
         w["punct_end"] = bool(re.search(r"[.!?][\"'’”)]*$", w["text"]))
         w.pop("_end", None)

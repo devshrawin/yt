@@ -1647,14 +1647,8 @@
           "p": 2
         },
         {
-          "text": "Rana'",
+          "text": "Rana's",
           "startMs": 55036,
-          "endMs": 55375,
-          "p": 2
-        },
-        {
-          "text": "'s",
-          "startMs": 55388,
           "endMs": 55583,
           "p": 2
         },
@@ -1997,7 +1991,7 @@
           "endMs": 54619
         },
         {
-          "text": "Rana' 's wife, Samraz,",
+          "text": "Rana's wife, Samraz,",
           "startMs": 55036,
           "endMs": 56807
         },
@@ -2128,14 +2122,8 @@
           "p": 0
         },
         {
-          "text": "Rana'",
+          "text": "Rana's",
           "startMs": 820,
-          "endMs": 1081,
-          "p": 0
-        },
-        {
-          "text": "'s",
-          "startMs": 1094,
           "endMs": 1302,
           "p": 0
         },
@@ -2874,13 +2862,13 @@
       ],
       "caption_lines": [
         {
-          "text": "On paper, Rana' 's life looked nothing",
+          "text": "On paper, Rana's life looked nothing like",
           "startMs": 91,
-          "endMs": 2435
+          "endMs": 2630
         },
         {
-          "text": "like a terrorist's.",
-          "startMs": 2448,
+          "text": "a terrorist's.",
+          "startMs": 2643,
           "endMs": 3437
         },
         {
@@ -3878,14 +3866,8 @@
           "p": 2
         },
         {
-          "text": "Maharashtra'",
+          "text": "Maharashtra's",
           "startMs": 65317,
-          "endMs": 66046,
-          "p": 2
-        },
-        {
-          "text": "'s",
-          "startMs": 66059,
           "endMs": 66267,
           "p": 2
         },
@@ -3950,14 +3932,8 @@
           "p": 2
         },
         {
-          "text": "Lashkar'",
+          "text": "Lashkar's",
           "startMs": 71020,
-          "endMs": 71372,
-          "p": 2
-        },
-        {
-          "text": "'s",
-          "startMs": 71385,
           "endMs": 71528,
           "p": 2
         },
@@ -4141,7 +4117,7 @@
           "endMs": 64677
         },
         {
-          "text": "And Maharashtra' 's Anti-Terrorism Squad",
+          "text": "And Maharashtra's Anti-Terrorism Squad",
           "startMs": 65096,
           "endMs": 67674
         },
@@ -4151,13 +4127,13 @@
           "endMs": 70226
         },
         {
-          "text": "congratulating Lashkar' 's leadership on",
+          "text": "congratulating Lashkar's leadership on the",
           "startMs": 70239,
-          "endMs": 72374
+          "endMs": 72504
         },
         {
-          "text": "the \"excellent planning and execution.\"",
-          "startMs": 72387,
+          "text": "\"excellent planning and execution.\"",
+          "startMs": 72517,
           "endMs": 74457
         }
       ]
@@ -5023,14 +4999,8 @@
           "p": 0
         },
         {
-          "text": "Rana'",
+          "text": "Rana's",
           "startMs": 14084,
-          "endMs": 14501,
-          "p": 1
-        },
-        {
-          "text": "'s",
-          "startMs": 14514,
           "endMs": 14696,
           "p": 1
         },
@@ -5215,14 +5185,8 @@
           "p": 1
         },
         {
-          "text": "Pakistan'",
+          "text": "Pakistan's",
           "startMs": 28641,
-          "endMs": 29345,
-          "p": 1
-        },
-        {
-          "text": "'s",
-          "startMs": 29358,
           "endMs": 29540,
           "p": 1
         },
@@ -5311,14 +5275,8 @@
           "p": 1
         },
         {
-          "text": "Rana'",
+          "text": "Rana's",
           "startMs": 37248,
-          "endMs": 37483,
-          "p": 1
-        },
-        {
-          "text": "'s",
-          "startMs": 37496,
           "endMs": 37652,
           "p": 1
         },
@@ -5824,7 +5782,7 @@
           "endMs": 12896
         },
         {
-          "text": "Rana' 's trial opened in a Chicago federal",
+          "text": "Rana's trial opened in a Chicago federal",
           "startMs": 14084,
           "endMs": 16819
         },
@@ -5849,13 +5807,13 @@
           "endMs": 27170
         },
         {
-          "text": "Headley's assignments came from Pakistan'",
+          "text": "Headley's assignments came from Pakistan's",
           "startMs": 27183,
-          "endMs": 29345
+          "endMs": 29540
         },
         {
-          "text": "'s intelligence service, the ISI — not a",
-          "startMs": 29358,
+          "text": "intelligence service, the ISI — not a",
+          "startMs": 29553,
           "endMs": 32404
         },
         {
@@ -5869,7 +5827,7 @@
           "endMs": 35686
         },
         {
-          "text": "wiretaps and Rana' 's own words after his",
+          "text": "wiretaps and Rana's own words after his",
           "startMs": 36298,
           "endMs": 38824
         },

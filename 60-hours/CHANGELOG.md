@@ -3,6 +3,10 @@
 Every render is kept locally in `output/versions/60-hours_v<X.Y>.mp4` (never committed);
 the pipeline state for each version is tagged `file02-v<X.Y>` in git.
 
+## v1.3 — caption fix
+- Captions: possessives after respelled names read "Mumbai's" / "Pakistan's" (were split)
+- Teaser v1.1 with the same fix ("the Taj's central dome")
+
 ## v1.2 — review fixes
 - Control room: "voice identified" cards moved under the TV wall (the third card ran into the
   captions and the lower third)

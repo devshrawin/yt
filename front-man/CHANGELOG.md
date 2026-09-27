@@ -2,6 +2,10 @@
 
 Every render is kept locally in `output/versions/front-man_v<X.Y>.mp4` (never committed).
 
+## v1.1 — review fixes
+- Captions: possessives after respelled names read "Rana's" (were "Rana'" + "'s")
+- End card hides the empty IMAGE CREDITS heading (no photos in this file)
+
 ## v1.0 — first full render
 - Script restructured from the brief's draft (`script_draft_v0.md`) to `../SCRIPT_RULES.md`:
   hook in the Taj room → paradox (acquitted of Mumbai in the US, extradited to India for it) →

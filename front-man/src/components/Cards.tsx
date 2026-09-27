@@ -174,17 +174,19 @@ export const EndCard: React.FC<{ durationInFrames: number }> = ({
             <span>{s}</span>
           </div>
         ))}
-        <div
-          style={{
-            fontSize: 17,
-            letterSpacing: 4,
-            color: C.accent,
-            fontWeight: 700,
-            margin: "26px 0 10px",
-          }}
-        >
-          IMAGE CREDITS
-        </div>
+        {photoCredits.length > 0 && (
+          <div
+            style={{
+              fontSize: 17,
+              letterSpacing: 4,
+              color: C.accent,
+              fontWeight: 700,
+              margin: "26px 0 10px",
+            }}
+          >
+            IMAGE CREDITS
+          </div>
+        )}
         {photoCredits.map((c) => (
           <div key={c} style={{ fontSize: 17, lineHeight: 1.4, color: C.dim }}>
             {c}

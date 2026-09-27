@@ -27,7 +27,7 @@ def main():
         "tail_ms": 600,
         "paragraphs": [{"text": apply_naming(b["text"], term) if term else b["text"]} for b in teaser["beats"]],
     })
-    built = build_segment(seg, cfg, srt_path=ROOT / "audio" / "teaser.srt")
+    built = build_segment(seg, cfg, force="--force" in __import__("sys").argv, srt_path=ROOT / "audio" / "teaser.srt")
     seg["beats"] = teaser["beats"]
     OUT.write_text(json.dumps(seg, indent=2, ensure_ascii=False))
     dur = seg["duration_seconds"]

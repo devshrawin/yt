@@ -4203,14 +4203,8 @@
           "p": 2
         },
         {
-          "text": "Mumbai'",
+          "text": "Mumbai's",
           "startMs": 51442,
-          "endMs": 51715,
-          "p": 2
-        },
-        {
-          "text": "'s",
-          "startMs": 51728,
           "endMs": 51950,
           "p": 2
         },
@@ -4447,13 +4441,13 @@
           "endMs": 50569
         },
         {
-          "text": "gunmen that Mumbai' 's anti-terrorism",
+          "text": "gunmen that Mumbai's anti-terrorism chief",
           "startMs": 50582,
-          "endMs": 52874
+          "endMs": 53225
         },
         {
-          "text": "chief had just been killed.",
-          "startMs": 52887,
+          "text": "had just been killed.",
+          "startMs": 53239,
           "endMs": 54228
         },
         {
@@ -4763,14 +4757,8 @@
           "p": 1
         },
         {
-          "text": "Mumbai'",
+          "text": "Mumbai's",
           "startMs": 18629,
-          "endMs": 19045,
-          "p": 1
-        },
-        {
-          "text": "'s",
-          "startMs": 19058,
           "endMs": 19280,
           "p": 1
         },
@@ -5443,7 +5431,7 @@
           "endMs": 15786
         },
         {
-          "text": "Outside, three of Mumbai' 's most senior",
+          "text": "Outside, three of Mumbai's most senior",
           "startMs": 16962,
           "endMs": 19918
         },
@@ -10123,14 +10111,8 @@
           "p": 1
         },
         {
-          "text": "Pakistan'",
+          "text": "Pakistan's",
           "startMs": 25192,
-          "endMs": 25960,
-          "p": 1
-        },
-        {
-          "text": "'s",
-          "startMs": 25973,
           "endMs": 26168,
           "p": 1
         },
@@ -10632,7 +10614,7 @@
           "endMs": 21909
         },
         {
-          "text": "On 12 February 2009, Pakistan' 's",
+          "text": "On 12 February 2009, Pakistan's",
           "startMs": 23095,
           "endMs": 26168
         },

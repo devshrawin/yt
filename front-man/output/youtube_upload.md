@@ -1,4 +1,4 @@
-# YouTube upload kit — The Front Man (v1.0)
+# YouTube upload kit — The Front Man (v1.1)
 
 ## Title (61/100)
 The Front Man: The Tahawwur Rana Story | The Sisodia Files 03

@@ -1,48 +1,78 @@
 {
   "_note": "Instagram Reel teaser (1080x1920, <=90s). Each beat = one narration line + a headline + which main-video moment plays in the window (segment + paragraph, optional offset_ms). Same voice and pronunciation guide as the main video.",
-  "version": "1.0",
+  "version": "1.1",
   "max_seconds": 90,
   "cta": "Full documentary · @SisodiaFiles",
   "beats": [
     {
       "headline": "9:20 PM · 26 NOV 2008",
       "text": "9:20 PM. Ten men step ashore in Mumbai. In ten minutes, five attacks begin.",
-      "show": { "segment": "seg_00", "paragraph": 0, "offset_ms": 3000 }
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 0,
+        "offset_ms": 3000
+      }
     },
     {
       "headline": "38 HOURS AT SEA",
       "text": "They had sailed from Karachi for thirty-eight hours — undetected.",
-      "show": { "segment": "seg_01", "paragraph": 1, "offset_ms": 6000 }
+      "show": {
+        "segment": "seg_01",
+        "paragraph": 1,
+        "offset_ms": 6000
+      }
     },
     {
       "headline": "FIVE TARGETS, TEN MINUTES",
       "text": "CST. Leopold Café. The Taj. The Oberoi. Nariman House.",
-      "show": { "segment": "seg_02", "paragraph": 3, "offset_ms": 2000 }
+      "show": {
+        "segment": "seg_02",
+        "paragraph": 3,
+        "offset_ms": 2000
+      }
     },
     {
       "headline": "THE VOICE IN KARACHI",
       "text": "And a control room six hundred kilometers away, watching the news and giving orders by phone.",
-      "show": { "segment": "seg_03", "paragraph": 1, "offset_ms": 2000 }
+      "show": {
+        "segment": "seg_03",
+        "paragraph": 1,
+        "offset_ms": 2000
+      }
     },
     {
       "headline": "THE TAJ BURNS",
       "text": "At 1 AM, a blast tore through the Taj's central dome.",
-      "show": { "segment": "seg_05", "paragraph": 1, "offset_ms": 3000 }
+      "show": {
+        "segment": "seg_05",
+        "paragraph": 1,
+        "offset_ms": 3000
+      }
     },
     {
       "headline": "THREE SIEGES",
       "text": "For three days, the city held its breath.",
-      "show": { "segment": "seg_06", "paragraph": 1, "offset_ms": 0 }
+      "show": {
+        "segment": "seg_06",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
     },
     {
       "headline": "OPERATION TORNADO",
       "text": "Until, sixty hours later, the Taj was finally declared secure.",
-      "show": { "segment": "seg_08", "paragraph": 1, "offset_ms": 6000 }
+      "show": {
+        "segment": "seg_08",
+        "paragraph": 1,
+        "offset_ms": 6000
+      }
     },
     {
       "headline": "60 HOURS",
       "text": "Sixty Hours. The hour-by-hour story of 26/11 — now on The Sisodia Files.",
-      "show": { "title_card": true }
+      "show": {
+        "title_card": true
+      }
     }
   ]
 }

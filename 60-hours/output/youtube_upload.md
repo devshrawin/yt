@@ -1,4 +1,4 @@
-# YouTube upload kit — 60 Hours (v1.2)
+# YouTube upload kit — 60 Hours (v1.3)
 
 ## Title (64/100)
 60 Hours: The Hour-by-Hour Story of 26/11 | The Sisodia Files 02
@@ -65,7 +65,7 @@ Upload `output/captions.srt` as English subtitles.
 ## Pinned comment
 Every timestamp in this video is sourced — the full source list is in the description. In memory of the 166 people who lost their lives. Which story should The Sisodia Files open next?
 
-## Instagram Reel caption (teaser v1.0)
+## Instagram Reel caption (teaser v1.1)
 ```
 9:20 PM, 26 November 2008. Ten men. Five targets. Ten minutes. 🕘
 
