@@ -1,0 +1,25 @@
+{
+  "_note": "Licensed images for File 02 (checked on Wikimedia Commons). Placement: segment + paragraph + at_word (first time that word is spoken in the paragraph) or at_ms. Segment 9 stays image-free per the script (numbers only).",
+  "images": {
+    "cst_bullet": { "file": "photos/cst_bullet_mark.jpg", "credit": "Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0", "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attack_VT_bullet_mark.jpg" },
+    "leopold": { "file": "photos/leopold.jpg", "credit": "Photo: Mike from Vancouver / Wikimedia Commons, CC BY-SA 2.0", "source": "https://commons.wikimedia.org/wiki/File:Leopold_Cafe_(5355931477).jpg" },
+    "police_night": { "file": "photos/taj_smoke.jpg", "credit": "Photo: Vinukumar Ranganathan / Wikimedia Commons, CC BY-SA 2.0", "source": "https://commons.wikimedia.org/wiki/File:Mumbai_attacks_vinu_image01-crop.jpg" },
+    "taj_dome": { "file": "photos/taj_dome_burned.jpg", "credit": "Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0", "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_dome_burned.jpg" },
+    "taj_wasabi": { "file": "photos/taj_wasabi_burned.jpg", "credit": "Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0", "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_Hotel_Wasabi_Restaurant_burned.jpg" },
+    "oberoi": { "file": "photos/oberoi.jpg", "credit": "Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0", "source": "https://commons.wikimedia.org/wiki/File:2009_Mumbai_terror_attacks_Oberoi_Hotel_2.jpg" },
+    "nariman": { "file": "photos/nariman_house.jpg", "credit": "Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0", "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Nariman_House_front_view_3.jpg" },
+    "taj_after": { "file": "photos/taj_after.jpg", "credit": "Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0", "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_full_view_after_attacks.jpg" },
+    "cst_memorial": { "file": "photos/cst_memorial.jpg", "credit": "Photo: IAshishTripathi / Wikimedia Commons, CC BY-SA 4.0", "source": "https://commons.wikimedia.org/wiki/File:IAshishTripathi_Mumbai_26Nov2008_CST-Memorial.jpg" }
+  },
+  "placements": [
+    { "segment": "seg_02", "paragraph": 1, "at_word": "Chhatrapati", "seconds": 8, "images": ["cst_bullet"], "caption": "Bullet marks at CST station, left after the attack" },
+    { "segment": "seg_02", "paragraph": 2, "at_word": "Leopold", "seconds": 7, "images": ["leopold"], "caption": "Leopold Café, Colaba" },
+    { "segment": "seg_04", "paragraph": 1, "at_word": "Outside", "seconds": 7, "images": ["police_night"], "caption": "Police on the streets of South Mumbai during the attacks" },
+    { "segment": "seg_05", "paragraph": 1, "at_word": "dome", "seconds": 8, "images": ["taj_dome"], "caption": "The Taj's fire-damaged central dome" },
+    { "segment": "seg_05", "paragraph": 2, "at_word": "dawn", "seconds": 7, "images": ["taj_wasabi"], "fit": "contain", "caption": "Burned-out restaurant inside the Taj Mahal Palace" },
+    { "segment": "seg_06", "paragraph": 2, "at_word": "Oberoi-Trident", "seconds": 7, "images": ["oberoi"], "caption": "The Oberoi-Trident, damaged in the siege" },
+    { "segment": "seg_06", "paragraph": 3, "at_word": "Nariman", "seconds": 7, "images": ["nariman"], "fit": "contain", "caption": "Nariman House, scarred by the fighting" },
+    { "segment": "seg_08", "paragraph": 2, "at_word": "From", "seconds": 8, "images": ["taj_after"], "caption": "The Taj Mahal Palace after the siege" },
+    { "segment": "seg_10", "paragraph": 1, "at_word": "The", "seconds": 7, "images": ["cst_memorial"], "fit": "contain", "caption": "Memorial to the victims at CST station" }
+  ]
+}

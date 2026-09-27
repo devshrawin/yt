@@ -1,0 +1,41 @@
+{
+  "_note": "Per-video upload text and thumbnail for File 03.",
+  "hook": "In November 2008, a Chicago doctor checked into the Taj Mahal Palace Hotel in Mumbai — about eleven days before gunmen walked its corridors. File {file} of {channel} follows Tahawwur Rana: the boarding-school friendship with David Coleman Headley, the immigration business that became Headley's cover, the 2011 Chicago verdict that acquitted him of the Mumbai conspiracy while convicting him of supporting Lashkar-e-Taiba, and the legal gap that let India extradite him in April 2025.",
+  "promise": "Built from court filings, the NIA's case, US Justice Department and State Department statements, and PBS Frontline's reporting. The case is ongoing: status is current to October 2025 reporting, and no verdict had been reached.",
+  "disclaimer": "This is an explanatory documentary based on public court records and published reporting. Tahawwur Rana's trial in India is ongoing; allegations made by Indian investigators have not been tested in an Indian court. No photographs of the people involved are used.",
+  "hashtags": "#TahawwurRana #2611 #MumbaiAttacks #DavidHeadley #Extradition #Documentary",
+  "tags": [
+    "The Sisodia Files",
+    "The Front Man",
+    "Tahawwur Rana",
+    "David Headley",
+    "26/11",
+    "Mumbai attacks",
+    "Rana extradition",
+    "Hasan Abdal",
+    "First World Immigration",
+    "Jyllands-Posten plot",
+    "Lashkar-e-Taiba",
+    "NIA",
+    "Tihar",
+    "extradition to India",
+    "Ninth Circuit",
+    "documentary",
+    "national security",
+    "explainer"
+  ],
+  "pinned": "Status is current to October 2025 reporting — Rana's trial in India had not reached a verdict. Sources for every claim are in the description. Which story should {channel} open next?",
+  "instagram": "He never fired a shot. He supplied a cover story. 🗂️\n\nThe Front Man — how a boarding-school friendship, an immigration office and a split US verdict led to Tahawwur Rana's extradition to India.\n\nFull documentary on YouTube: {handle}\n\n#TahawwurRana #2611 #Mumbai #India #Documentary #TheSisodiaFiles",
+  "thumbnail": {
+    "image": "photos/taj_after.jpg",
+    "image_credit": "Photo: Nichalp / Wikimedia Commons, CC BY-SA 3.0",
+    "title_lines": [
+      "THE FRONT",
+      "MAN"
+    ],
+    "accent_line": 1,
+    "subtitle": "The friendship behind 26/11 —<br/>and the verdict that split in two",
+    "badge": "CASE OPEN",
+    "pin": null
+  }
+}

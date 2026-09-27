@@ -1,0 +1,315 @@
+{
+  "_note": "Per-segment visual overrides for File 03 (merged into segments.json by parse_script.py). No photographs of named living people — silhouettes, maps and text only. Every element is keyed to the word that triggers it (paragraph + at_word).",
+  "segments": {
+    "seg_00": {
+      "map": "region",
+      "pins": [
+        "Mumbai"
+      ],
+      "intro_zoom": true,
+      "zoom": 0.45
+    },
+    "seg_01": {
+      "visual_type": "friendship",
+      "friendship": {
+        "left_name": "TAHAWWUR RANA",
+        "left_cue": {
+          "at_word": "Tahawwur",
+          "paragraph": 1
+        },
+        "right_name": "DAOOD GILANI",
+        "right_sub": "later known as David Coleman Headley",
+        "right_cue": {
+          "at_word": "Daood",
+          "paragraph": 1
+        },
+        "line_label": "CADET COLLEGE HASAN ABDAL · LATE 1970s",
+        "line_cue": {
+          "at_word": "Hasan",
+          "paragraph": 0
+        },
+        "tags": [
+          {
+            "text": "Medicine",
+            "side": "left",
+            "at_word": "medicine",
+            "paragraph": 2
+          },
+          {
+            "text": "Drug trafficking",
+            "side": "right",
+            "at_word": "trafficking",
+            "paragraph": 2
+          },
+          {
+            "text": "Informant for the US DEA",
+            "side": "right",
+            "at_word": "informant",
+            "paragraph": 2
+          },
+          {
+            "text": "Radicalisation",
+            "side": "right",
+            "at_word": "radicalisation",
+            "paragraph": 2
+          },
+          {
+            "kind": "quote",
+            "text": "sister",
+            "attribution": "Samraz Rana, to PBS Frontline",
+            "side": "center",
+            "at_word": "sister",
+            "paragraph": 2
+          },
+          {
+            "kind": "quote",
+            "text": "special uncle",
+            "attribution": "what her children called Headley",
+            "side": "center",
+            "at_word": "uncle",
+            "paragraph": 2
+          }
+        ]
+      }
+    },
+    "seg_02": {
+      "map": "world",
+      "pins": [
+        "Lahore",
+        "Toronto",
+        "Chicago"
+      ],
+      "route": [
+        "Lahore",
+        "Toronto",
+        "Chicago"
+      ],
+      "route_from_paragraph": 1
+    },
+    "seg_03": {
+      "map": "region",
+      "pins": [
+        "Mumbai",
+        "Agra",
+        "Kochi",
+        "Hapur"
+      ]
+    },
+    "seg_04": {
+      "map": "world",
+      "pins": [
+        "O'Hare",
+        "Copenhagen"
+      ],
+      "route": [
+        "Chicago",
+        "Copenhagen"
+      ],
+      "route_from_paragraph": 0
+    },
+    "seg_05": {
+      "visual_type": "verdict",
+      "verdict": {
+        "intro": {
+          "text": "David Headley: pleaded guilty, 2010 · 35 years · shielded from extradition to India · star witness",
+          "at_word": "pleaded",
+          "paragraph": 0
+        },
+        "sides": [
+          {
+            "label": "DEFENCE",
+            "text": "manipulated; believed the orders came from the ISI",
+            "at_word": "defence",
+            "paragraph": 1
+          },
+          {
+            "label": "PROSECUTION",
+            "text": "emails, wiretaps, his own post-arrest statements",
+            "at_word": "Prosecutors",
+            "paragraph": 1
+          }
+        ],
+        "acquitted": [
+          {
+            "text": "Conspiracy to support the Mumbai attacks",
+            "at_word": "Not",
+            "paragraph": 2
+          }
+        ],
+        "convicted": [
+          {
+            "text": "Conspiracy to support the Denmark plot",
+            "at_word": "Denmark",
+            "paragraph": 2
+          },
+          {
+            "text": "Material support to Lashkar-e-Taiba",
+            "at_word": "material",
+            "paragraph": 2
+          }
+        ],
+        "sentence": {
+          "text": "14 YEARS + 5 SUPERVISED",
+          "at_word": "fourteen",
+          "paragraph": 2
+        }
+      }
+    },
+    "seg_06": {
+      "visual_type": "legal",
+      "legal": {
+        "us": {
+          "title": "UNITED STATES · 2011",
+          "text": "Tried for: conspiracy to support the Mumbai attacks",
+          "result": "ACQUITTED"
+        },
+        "india": {
+          "title": "INDIA · CHARGES",
+          "text": "Murder · waging war against the state · forgery · terrorism under Indian law"
+        },
+        "gap": {
+          "text": "DIFFERENT CHARGES",
+          "at_word": "Different",
+          "paragraph": 0
+        },
+        "quote": {
+          "text": "elements independent",
+          "attribution": "US Court of Appeals, Ninth Circuit",
+          "at_word": "elements",
+          "paragraph": 2
+        },
+        "steps": [
+          {
+            "date": "2018",
+            "text": "NIA warrant",
+            "at_word": "warrant",
+            "paragraph": 1
+          },
+          {
+            "date": "2020",
+            "text": "COVID release, re-arrested",
+            "at_word": "re-arrested",
+            "paragraph": 1
+          },
+          {
+            "date": "Jun 2020",
+            "text": "India's formal request",
+            "at_word": "June",
+            "paragraph": 1
+          },
+          {
+            "date": "May 2023",
+            "text": "Magistrate certifies",
+            "at_word": "certified",
+            "paragraph": 1
+          },
+          {
+            "date": "Aug 2024",
+            "text": "Ninth Circuit affirms",
+            "at_word": "upheld",
+            "paragraph": 1
+          },
+          {
+            "date": "Jan 2025",
+            "text": "Supreme Court denies review",
+            "at_word": "Supreme",
+            "paragraph": 1
+          },
+          {
+            "date": "Mar 2025",
+            "text": "Justice Kagan rejects stay",
+            "at_word": "Kagan",
+            "paragraph": 2
+          },
+          {
+            "date": "Apr 2025",
+            "text": "Final petition dismissed",
+            "at_word": "dismissed",
+            "paragraph": 2
+          }
+        ]
+      }
+    },
+    "seg_07": {
+      "map": "world",
+      "pins": [
+        "Los Angeles",
+        "Delhi"
+      ],
+      "route": [
+        "Los Angeles",
+        "Delhi"
+      ],
+      "route_from_paragraph": 0
+    },
+    "seg_08": {
+      "visual_type": "status",
+      "status": {
+        "steps": [
+          {
+            "text": "Held in Tihar Jail",
+            "at_word": "Tihar",
+            "paragraph": 0
+          },
+          {
+            "text": "Questioned 8–10 h a day",
+            "at_word": "questioned",
+            "paragraph": 0
+          },
+          {
+            "text": "Voice & handwriting samples",
+            "at_word": "samples",
+            "paragraph": 0
+          },
+          {
+            "text": "Solicitor General to prosecute",
+            "at_word": "Mehta",
+            "paragraph": 0
+          },
+          {
+            "text": "Supplementary chargesheet · Jul 2025",
+            "at_word": "chargesheet",
+            "paragraph": 1
+          }
+        ],
+        "pending": "Trial verdict",
+        "stamp": {
+          "text": "NO VERDICT",
+          "at_word": "verdict",
+          "paragraph": 1
+        },
+        "as_of": "STATUS AS OF OCTOBER 2025 REPORTING"
+      }
+    },
+    "seg_09": {
+      "visual_type": "friendship",
+      "friendship": {
+        "left_name": "RANA",
+        "right_name": "HEADLEY",
+        "line_label": "HASAN ABDAL · FORTY YEARS",
+        "fade_line": true,
+        "closing_label": "2011 · A US JURY: NOT ENOUGH FOR MUMBAI     NOW · AN INDIAN COURT DECIDES",
+        "tags": [
+          {
+            "text": "A business card",
+            "side": "left",
+            "at_word": "business",
+            "paragraph": 0
+          },
+          {
+            "text": "An office",
+            "side": "left",
+            "at_word": "office",
+            "paragraph": 0
+          },
+          {
+            "text": "A room at the Taj",
+            "side": "left",
+            "at_word": "room",
+            "paragraph": 0
+          }
+        ]
+      }
+    }
+  }
+}

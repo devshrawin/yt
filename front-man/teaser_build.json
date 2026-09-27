@@ -1,0 +1,596 @@
+{
+  "id": "teaser",
+  "index": 99,
+  "gap_ms": 350,
+  "tail_ms": 600,
+  "paragraphs": [
+    {
+      "text": "He never fired a shot. What he supplied was rarer: a cover story."
+    },
+    {
+      "text": "It began with two boys at a military school in Punjab."
+    },
+    {
+      "text": "One ran an immigration business. The other used its Mumbai office to scout targets."
+    },
+    {
+      "text": "An American jury: not guilty of Mumbai. Guilty of supporting the group behind it."
+    },
+    {
+      "text": "Same events. Different crimes. And that gap brought him to Delhi."
+    },
+    {
+      "text": "The Front Man. Now on The Sisodia Files."
+    }
+  ],
+  "audio_file": "audio/teaser.mp3",
+  "audio_hash": "155eebcc2f8d8c0c",
+  "duration_seconds": 33.742,
+  "paragraph_starts": [
+    0,
+    5630,
+    10060,
+    16722,
+    24008,
+    29542
+  ],
+  "words": [
+    {
+      "text": "He",
+      "startMs": 65,
+      "endMs": 143,
+      "p": 0
+    },
+    {
+      "text": "never",
+      "startMs": 156,
+      "endMs": 469,
+      "p": 0
+    },
+    {
+      "text": "fired",
+      "startMs": 482,
+      "endMs": 924,
+      "p": 0
+    },
+    {
+      "text": "a",
+      "startMs": 938,
+      "endMs": 990,
+      "p": 0
+    },
+    {
+      "text": "shot.",
+      "startMs": 1003,
+      "endMs": 1523,
+      "p": 0
+    },
+    {
+      "text": "What",
+      "startMs": 1940,
+      "endMs": 2070,
+      "p": 0
+    },
+    {
+      "text": "he",
+      "startMs": 2083,
+      "endMs": 2227,
+      "p": 0
+    },
+    {
+      "text": "supplied",
+      "startMs": 2240,
+      "endMs": 2773,
+      "p": 0
+    },
+    {
+      "text": "was",
+      "startMs": 2786,
+      "endMs": 2982,
+      "p": 0
+    },
+    {
+      "text": "rarer:",
+      "startMs": 2995,
+      "endMs": 3568,
+      "p": 0
+    },
+    {
+      "text": "a",
+      "startMs": 3867,
+      "endMs": 3984,
+      "p": 0
+    },
+    {
+      "text": "cover",
+      "startMs": 3997,
+      "endMs": 4310,
+      "p": 0
+    },
+    {
+      "text": "story.",
+      "startMs": 4323,
+      "endMs": 4883,
+      "p": 0
+    },
+    {
+      "text": "It",
+      "startMs": 5721,
+      "endMs": 5864,
+      "p": 1
+    },
+    {
+      "text": "began",
+      "startMs": 5877,
+      "endMs": 6307,
+      "p": 1
+    },
+    {
+      "text": "with",
+      "startMs": 6320,
+      "endMs": 6515,
+      "p": 1
+    },
+    {
+      "text": "two",
+      "startMs": 6528,
+      "endMs": 6763,
+      "p": 1
+    },
+    {
+      "text": "boys",
+      "startMs": 6776,
+      "endMs": 7297,
+      "p": 1
+    },
+    {
+      "text": "at",
+      "startMs": 7323,
+      "endMs": 7479,
+      "p": 1
+    },
+    {
+      "text": "a",
+      "startMs": 7492,
+      "endMs": 7544,
+      "p": 1
+    },
+    {
+      "text": "military",
+      "startMs": 7557,
+      "endMs": 8065,
+      "p": 1
+    },
+    {
+      "text": "school",
+      "startMs": 8078,
+      "endMs": 8482,
+      "p": 1
+    },
+    {
+      "text": "in",
+      "startMs": 8495,
+      "endMs": 8664,
+      "p": 1
+    },
+    {
+      "text": "Punjab.",
+      "startMs": 8664,
+      "endMs": 9315,
+      "p": 1
+    },
+    {
+      "text": "One",
+      "startMs": 10151,
+      "endMs": 10477,
+      "p": 2
+    },
+    {
+      "text": "ran",
+      "startMs": 10490,
+      "endMs": 10880,
+      "p": 2
+    },
+    {
+      "text": "an",
+      "startMs": 10906,
+      "endMs": 11076,
+      "p": 2
+    },
+    {
+      "text": "immigration",
+      "startMs": 11089,
+      "endMs": 11792,
+      "p": 2
+    },
+    {
+      "text": "business.",
+      "startMs": 11805,
+      "endMs": 12417,
+      "p": 2
+    },
+    {
+      "text": "The",
+      "startMs": 12807,
+      "endMs": 12912,
+      "p": 2
+    },
+    {
+      "text": "other",
+      "startMs": 12925,
+      "endMs": 13224,
+      "p": 2
+    },
+    {
+      "text": "used",
+      "startMs": 13237,
+      "endMs": 13667,
+      "p": 2
+    },
+    {
+      "text": "its",
+      "startMs": 13693,
+      "endMs": 13927,
+      "p": 2
+    },
+    {
+      "text": "Mumbai",
+      "startMs": 13927,
+      "endMs": 14357,
+      "p": 2
+    },
+    {
+      "text": "office",
+      "startMs": 14357,
+      "endMs": 14826,
+      "p": 2
+    },
+    {
+      "text": "to",
+      "startMs": 14839,
+      "endMs": 14956,
+      "p": 2
+    },
+    {
+      "text": "scout",
+      "startMs": 14969,
+      "endMs": 15346,
+      "p": 2
+    },
+    {
+      "text": "targets.",
+      "startMs": 15360,
+      "endMs": 15984,
+      "p": 2
+    },
+    {
+      "text": "An",
+      "startMs": 16774,
+      "endMs": 16865,
+      "p": 3
+    },
+    {
+      "text": "American",
+      "startMs": 16878,
+      "endMs": 17373,
+      "p": 3
+    },
+    {
+      "text": "jury:",
+      "startMs": 17386,
+      "endMs": 17868,
+      "p": 3
+    },
+    {
+      "text": "not",
+      "startMs": 18493,
+      "endMs": 18883,
+      "p": 3
+    },
+    {
+      "text": "guilty",
+      "startMs": 18896,
+      "endMs": 19404,
+      "p": 3
+    },
+    {
+      "text": "of",
+      "startMs": 19417,
+      "endMs": 19561,
+      "p": 3
+    },
+    {
+      "text": "Mumbai.",
+      "startMs": 19561,
+      "endMs": 20159,
+      "p": 3
+    },
+    {
+      "text": "Guilty",
+      "startMs": 20576,
+      "endMs": 21188,
+      "p": 3
+    },
+    {
+      "text": "of",
+      "startMs": 21201,
+      "endMs": 21370,
+      "p": 3
+    },
+    {
+      "text": "supporting",
+      "startMs": 21383,
+      "endMs": 22008,
+      "p": 3
+    },
+    {
+      "text": "the",
+      "startMs": 22022,
+      "endMs": 22113,
+      "p": 3
+    },
+    {
+      "text": "group",
+      "startMs": 22126,
+      "endMs": 22503,
+      "p": 3
+    },
+    {
+      "text": "behind",
+      "startMs": 22516,
+      "endMs": 22972,
+      "p": 3
+    },
+    {
+      "text": "it.",
+      "startMs": 22985,
+      "endMs": 23258,
+      "p": 3
+    },
+    {
+      "text": "Same",
+      "startMs": 24073,
+      "endMs": 24386,
+      "p": 4
+    },
+    {
+      "text": "events.",
+      "startMs": 24399,
+      "endMs": 24998,
+      "p": 4
+    },
+    {
+      "text": "Different",
+      "startMs": 25388,
+      "endMs": 25740,
+      "p": 4
+    },
+    {
+      "text": "crimes.",
+      "startMs": 25753,
+      "endMs": 26443,
+      "p": 4
+    },
+    {
+      "text": "And",
+      "startMs": 26820,
+      "endMs": 26951,
+      "p": 4
+    },
+    {
+      "text": "that",
+      "startMs": 26964,
+      "endMs": 27224,
+      "p": 4
+    },
+    {
+      "text": "gap",
+      "startMs": 27237,
+      "endMs": 27615,
+      "p": 4
+    },
+    {
+      "text": "brought",
+      "startMs": 27628,
+      "endMs": 27875,
+      "p": 4
+    },
+    {
+      "text": "him",
+      "startMs": 27888,
+      "endMs": 28084,
+      "p": 4
+    },
+    {
+      "text": "to",
+      "startMs": 28097,
+      "endMs": 28253,
+      "p": 4
+    },
+    {
+      "text": "Delhi.",
+      "startMs": 28253,
+      "endMs": 28800,
+      "p": 4
+    },
+    {
+      "text": "The",
+      "startMs": 29607,
+      "endMs": 29672,
+      "p": 5
+    },
+    {
+      "text": "Front",
+      "startMs": 29685,
+      "endMs": 30024,
+      "p": 5
+    },
+    {
+      "text": "Man.",
+      "startMs": 30037,
+      "endMs": 30479,
+      "p": 5
+    },
+    {
+      "text": "Now",
+      "startMs": 30883,
+      "endMs": 31248,
+      "p": 5
+    },
+    {
+      "text": "on",
+      "startMs": 31261,
+      "endMs": 31456,
+      "p": 5
+    },
+    {
+      "text": "The",
+      "startMs": 31469,
+      "endMs": 31560,
+      "p": 5
+    },
+    {
+      "text": "Sisodia",
+      "startMs": 31573,
+      "endMs": 32159,
+      "p": 5
+    },
+    {
+      "text": "Files.",
+      "startMs": 32172,
+      "endMs": 32758,
+      "p": 5
+    }
+  ],
+  "caption_lines": [
+    {
+      "text": "He never fired a shot.",
+      "startMs": 65,
+      "endMs": 1523
+    },
+    {
+      "text": "What he supplied was rarer: a cover story.",
+      "startMs": 1940,
+      "endMs": 4883
+    },
+    {
+      "text": "It began with two boys at a military",
+      "startMs": 5721,
+      "endMs": 8065
+    },
+    {
+      "text": "school in Punjab.",
+      "startMs": 8078,
+      "endMs": 9315
+    },
+    {
+      "text": "One ran an immigration business.",
+      "startMs": 10151,
+      "endMs": 12417
+    },
+    {
+      "text": "The other used its Mumbai office to scout",
+      "startMs": 12807,
+      "endMs": 15346
+    },
+    {
+      "text": "targets.",
+      "startMs": 15360,
+      "endMs": 15984
+    },
+    {
+      "text": "An American jury:",
+      "startMs": 16774,
+      "endMs": 17868
+    },
+    {
+      "text": "not guilty of Mumbai.",
+      "startMs": 18493,
+      "endMs": 20159
+    },
+    {
+      "text": "Guilty of supporting the group behind it.",
+      "startMs": 20576,
+      "endMs": 23258
+    },
+    {
+      "text": "Same events.",
+      "startMs": 24073,
+      "endMs": 24998
+    },
+    {
+      "text": "Different crimes.",
+      "startMs": 25388,
+      "endMs": 26443
+    },
+    {
+      "text": "And that gap brought him to Delhi.",
+      "startMs": 26820,
+      "endMs": 28800
+    },
+    {
+      "text": "The Front Man.",
+      "startMs": 29607,
+      "endMs": 30479
+    },
+    {
+      "text": "Now on The Sisodia Files.",
+      "startMs": 30883,
+      "endMs": 32758
+    }
+  ],
+  "beats": [
+    {
+      "headline": "HE NEVER FIRED A SHOT",
+      "text": "He never fired a shot. What he supplied was rarer: a cover story.",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "TWO BOYS, ONE SCHOOL",
+      "text": "It began with two boys at a military school in Punjab.",
+      "show": {
+        "segment": "seg_01",
+        "paragraph": 1,
+        "offset_ms": 2000
+      }
+    },
+    {
+      "headline": "THE COVER",
+      "text": "One ran an immigration business. The other used its Mumbai office to scout targets.",
+      "show": {
+        "segment": "seg_03",
+        "paragraph": 0,
+        "offset_ms": 2000
+      }
+    },
+    {
+      "headline": "THE SPLIT VERDICT",
+      "text": "An American jury: not guilty of Mumbai. Guilty of supporting the group behind it.",
+      "show": {
+        "segment": "seg_05",
+        "paragraph": 2,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "THE LOOPHOLE",
+      "text": "Same events. Different crimes. And that gap brought him to Delhi.",
+      "show": {
+        "segment": "seg_06",
+        "paragraph": 0,
+        "offset_ms": 4000
+      }
+    },
+    {
+      "headline": "THE FRONT MAN",
+      "text": "The Front Man. Now on The Sisodia Files.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}
