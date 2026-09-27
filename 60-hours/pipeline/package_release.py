@@ -42,6 +42,8 @@ def main():
     yt, ig, ch = out / "youtube", out / "instagram", out / "channel"
     for d in (yt, ig, ch):
         d.mkdir(parents=True, exist_ok=True)
+    for stale in [*yt.glob("*.mp4"), *ig.glob("*.mp4")]:  # only the current version belongs here
+        stale.unlink()
 
     main_video = ROOT / "output" / "versions" / f"{ROOT.name}_v{cfg['version']}.mp4"
     teaser_video = ROOT / "output" / "versions" / f"{ROOT.name}_teaser_v{teaser_cfg['version']}.mp4"
