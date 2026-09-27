@@ -1,0 +1,96 @@
+{
+  "_note": "Instagram Reel teaser (1080x1920, <=90s). Each beat = one narration line + a headline + which main-video moment plays in the window (segment + paragraph, optional offset_ms). Naming rules and the pronunciation guide apply exactly as in the main video. Rebuild: npm run teaser:tts && npm run teaser:render && npm run teaser:master",
+  "version": "1.1",
+  "max_seconds": 90,
+  "cta": "Full documentary on YouTube",
+  "beats": [
+    {
+      "headline": "26/11 WAS NOT CHAOS",
+      "text": "November 2008. Ten men sailed into Mumbai. They weren't born killers. They were built — by a curriculum.",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 0,
+        "offset_ms": 4500
+      }
+    },
+    {
+      "headline": "FROM THE COURT RECORD",
+      "text": "Using court testimony from Ajmal Kasab and David Headley, we reconstruct how Lashkar-e-Taiba builds a fighter.",
+      "show": {
+        "segment": "seg_01",
+        "paragraph": 2,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "THE CAMPS",
+      "text": "A network of camps — Muridke, Muzaffarabad, Mansehra — each with a job.",
+      "show": {
+        "segment": "seg_02",
+        "paragraph": 3,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "21 DAYS OF BELIEF",
+      "text": "Daura-e-Sufa: twenty-one days of indoctrination. No guns yet.",
+      "show": {
+        "segment": "seg_03",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "21 DAYS OF BODY",
+      "text": "Daura-e-Aam: the basic course, and the first filter.",
+      "show": {
+        "segment": "seg_04",
+        "paragraph": 0,
+        "offset_ms": 2000
+      }
+    },
+    {
+      "headline": "THE LOYALTY TEST",
+      "text": "Khidmat: two months of chores that weed out the uncommitted.",
+      "show": {
+        "segment": "seg_05",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THREE MONTHS OF WEAPONS",
+      "text": "Daura-e-Khaas: the stage that turns a believer into an operative.",
+      "show": {
+        "segment": "seg_06",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "PROVEN VS ALLEGED",
+      "text": "Did the state know? We separate what courts established from what is only alleged.",
+      "show": {
+        "segment": "seg_08",
+        "paragraph": 1,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "MAY 2025: OP SINDOOR",
+      "text": "Then, in May 2025, Operation Sindoor struck nine sites — including the compound where it all began.",
+      "show": {
+        "segment": "seg_09",
+        "paragraph": 9,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "INSIDE THE TERROR FACTORY",
+      "text": "Inside the Terror Factory. The full documentary is out now on YouTube.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}

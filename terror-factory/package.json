@@ -40,7 +40,12 @@
     "build:all": "bash build.sh all",
     "preview": "remotion studio",
     "stage5:audit": ".venv/bin/python pipeline/audit.py",
-    "stage4:master": ".venv/bin/python pipeline/master.py"
+    "stage4:master": ".venv/bin/python pipeline/master.py",
+    "pronounce": ".venv/bin/python pipeline/pronounce.py",
+    "teaser:tts": ".venv/bin/python pipeline/teaser_tts.py",
+    "teaser:render": "remotion render src/index.ts Teaser output/teaser_raw.mp4 --codec=h264 --crf=18 --audio-bitrate=320k --concurrency=50%",
+    "teaser:master": ".venv/bin/python pipeline/master.py --teaser",
+    "teaser": "npm run teaser:tts && npm run teaser:render && npm run teaser:master"
   },
   "sideEffects": [
     "*.css"

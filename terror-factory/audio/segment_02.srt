@@ -1,132 +1,140 @@
 1
-00:00:00,102 --> 00:00:02,329
-LeT's training isn't run out of one secret
+00:00:00,091 --> 00:00:02,513
+LeT's  training isn't run out of one
 
 2
-00:00:02,342 --> 00:00:03,748
-compound in the mountains.
+00:00:02,526 --> 00:00:04,414
+secret compound in the mountains.
 
 3
-00:00:04,648 --> 00:00:06,771
+00:00:04,790 --> 00:00:07,237
 It's spread across a network — and each
 
 4
-00:00:06,784 --> 00:00:08,620
+00:00:07,251 --> 00:00:09,204
 location has a specific job.
 
 5
-00:00:10,330 --> 00:00:13,117
+00:00:10,378 --> 00:00:13,620
 Muridke, about 30 kilometers from Lahore,
 
 6
-00:00:13,390 --> 00:00:14,926
+00:00:14,219 --> 00:00:15,639
 is the group's nerve center.
 
 7
-00:00:15,827 --> 00:00:18,418
+00:00:16,055 --> 00:00:18,855
 The compound is called Markaz-e-Taiba, and
 
 8
-00:00:18,431 --> 00:00:20,488
-it doesn't look like a terror camp — it
+00:00:18,868 --> 00:00:20,573
+it doesn't look like a terror camp —
 
 9
-00:00:20,501 --> 00:00:21,843
-looks like a small town.
+00:00:21,146 --> 00:00:22,657
+it looks like a small town.
 
 10
-00:00:22,741 --> 00:00:23,991
+00:00:23,047 --> 00:00:24,193
 Two hundred acres.
 
 11
-00:00:24,889 --> 00:00:25,787
+00:00:24,569 --> 00:00:25,715
 A madrasa.
 
 12
-00:00:26,686 --> 00:00:27,559
+00:00:26,094 --> 00:00:26,862
 A hospital.
 
 13
-00:00:28,457 --> 00:00:29,134
+00:00:27,240 --> 00:00:27,878
 A market.
 
 14
-00:00:30,033 --> 00:00:31,387
+00:00:28,282 --> 00:00:29,714
 Residential quarters.
 
 15
-00:00:32,285 --> 00:00:34,772
+00:00:30,131 --> 00:00:32,943
 Even a fish farm, according to researchers
 
 16
-00:00:34,785 --> 00:00:35,918
+00:00:32,956 --> 00:00:34,167
 who've mapped the site.
 
 17
-00:00:36,817 --> 00:00:38,939
+00:00:34,571 --> 00:00:36,902
 This is where recruits are first absorbed
 
 18
-00:00:38,952 --> 00:00:40,788
+00:00:36,915 --> 00:00:39,167
 into the organization — and where the
 
 19
-00:00:40,801 --> 00:00:42,285
+00:00:39,180 --> 00:00:40,743
 story usually begins.
 
 20
-00:00:44,006 --> 00:00:46,558
+00:00:41,931 --> 00:00:44,249
 Muzaffarabad, in Illegally Occupied
 
 21
-00:00:46,571 --> 00:00:49,240
-Pakistani Kashmir, is where the physical
+00:00:44,262 --> 00:00:45,499
+Pakistani Kashmir,
 
 22
-00:00:49,254 --> 00:00:50,946
-and combat training happens.
+00:00:46,020 --> 00:00:48,298
+is where the physical and combat training
 
 23
-00:00:51,847 --> 00:00:53,865
-It's close enough to the Line of Control
+00:00:48,311 --> 00:00:48,910
+happens.
 
 24
-00:00:53,878 --> 00:00:56,000
-that the geography itself becomes part of
+00:00:49,327 --> 00:00:51,554
+It's close enough to the Line of Control
 
 25
-00:00:56,013 --> 00:00:56,599
-the lesson.
+00:00:51,567 --> 00:00:53,806
+that the geography itself becomes part of
 
 26
-00:00:58,314 --> 00:01:00,788
-Mansehra, near Abbottabad, hosts a
+00:00:53,819 --> 00:00:54,431
+the lesson.
 
 27
-00:01:00,801 --> 00:01:03,223
-further, more specialized stage that we'll
+00:00:55,602 --> 00:00:57,777
+Mansehra, near Abbottabad,
 
 28
-00:01:03,236 --> 00:01:03,718
-get to.
+00:00:58,258 --> 00:00:59,183
+hosts a further,
 
 29
-00:01:05,422 --> 00:01:07,115
-According to Headley's own courtroom
+00:00:59,717 --> 00:01:01,904
+more specialized stage that we'll get to.
 
 30
-00:01:07,128 --> 00:01:09,576
-account, he named these three locations
+00:01:03,083 --> 00:01:04,750
+According to Headley's own courtroom
 
 31
-00:01:09,589 --> 00:01:12,636
-specifically — Muridke, Muzaffarabad, and
+00:01:04,763 --> 00:01:05,166
+account,
 
 32
-00:01:12,649 --> 00:01:15,956
-Mansehra — as, in his words, the areas
+00:01:05,648 --> 00:01:07,224
+he named these three locations
 
 33
-00:01:16,086 --> 00:01:17,414
-"protected by Lashkar."
+00:01:07,237 --> 00:01:08,747
+specifically — Muridke,
+
+34
+00:01:09,294 --> 00:01:12,771
+Muzaffarabad, and Mansehra — as, in his
+
+35
+00:01:12,784 --> 00:01:15,479
+words, the areas "protected by Lashkar."
 

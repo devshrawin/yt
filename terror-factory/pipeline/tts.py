@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """Stage 2b: narration + captions for every segment.
 
-Per paragraph: edge-tts -> cached mp3 + word timings (audio/cache/<hash>.*), so editing
-one paragraph in script.md only regenerates that paragraph.
+Per paragraph: the pronunciation guide (config/pronunciations.json) respells tricky names
+for the voice only, then edge-tts -> cached mp3 + word timings (audio/cache/<hash>.*), so
+editing one paragraph or one respelling only regenerates the paragraphs affected.
+Captions map the spoken words back to the original spelling.
 Per segment: paragraphs are joined with a short pause into public/audio/seg_XX.mp3,
 per-word timings are written into segments.json, and audio/seg_XX.srt is emitted.
 
@@ -30,6 +32,7 @@ def h(*parts) -> str:
 
 
 def paragraph_audio(text, cfg):
+    """text is the *spoken* text (after the pronunciation guide)."""
     key = h(cfg["voice"], cfg["rate"], cfg["pitch"], text)
     mp3, wav, words_f = CACHE / f"{key}.mp3", CACHE / f"{key}.wav", CACHE / f"{key}.words.json"
     if not (wav.exists() and words_f.exists()):
@@ -70,30 +73,106 @@ TRAIL = re.compile(r"[.,;:!?\"'’”)\]]+")
 LEAD = re.compile(r"[\"'“‘(\[]+$")
 
 
-def attach_punctuation(words, text):
-    """edge-tts word boundaries drop punctuation; re-attach it from the source text for
-    captions and mark sentence ends (used for subtitle line breaks)."""
-    pos, prev = 0, None
+def load_lexicon():
+    """Pronunciation guide -> compiled [(regex, spoken form)], longest keys first.
+
+    config/pronunciations.json holds Latin respellings; when config/video.json has
+    pronunciation_mode = "native" (Multilingual voices), config/pronunciations_native.json
+    overrides them with native-script forms (Devanagari), which those voices read with
+    real Hindi/Urdu phonetics. Anything without a native form (acronyms, French names)
+    keeps its Latin respelling."""
+    path = ROOT / "config" / "pronunciations.json"
+    if not path.exists():
+        return []
+    data = json.loads(path.read_text())
+    terms = dict(data["terms"])
+    native = ROOT / "config" / "pronunciations_native.json"
+    if load_config().get("pronunciation_mode") == "native" and native.exists():
+        terms.update(json.loads(native.read_text())["terms"])
+    cs = set(data.get("case_sensitive", []))
+    out = []
+    for key in sorted(terms, key=len, reverse=True):
+        flags = 0 if key in cs else re.I
+        out.append((re.compile(r"(?<![\w-])" + re.escape(key) + r"(?![\w-])", flags), terms[key]))
+    return out
+
+
+def respell(text, lexicon):
+    """Apply the pronunciation guide. Returns (spoken_text, spans) where each span is
+    (spoken_start, spoken_end, orig_start, orig_end) for a replaced term."""
+    hits = []
+    taken = [False] * len(text)
+    for rx, say in lexicon:
+        for m in rx.finditer(text):
+            if any(taken[m.start():m.end()]):
+                continue
+            for i in range(m.start(), m.end()):
+                taken[i] = True
+            hits.append((m.start(), m.end(), say))
+    hits.sort()
+    spoken, spans, cur = [], [], 0
+    for o_s, o_e, say in hits:
+        spoken.append(text[cur:o_s])
+        s_s = sum(map(len, spoken))
+        spoken.append(say)
+        spans.append((s_s, s_s + len(say), o_s, o_e))
+        cur = o_e
+    spoken.append(text[cur:])
+    return "".join(spoken), spans
+
+
+def align_words(words, spoken, orig, spans):
+    """Map edge-tts word boundaries (spoken text) back to the original script text:
+    respelled terms collapse back to their written form, punctuation and em dashes are
+    re-attached, and sentence ends are marked (used for subtitle line breaks)."""
+    def to_orig(i):
+        return i + sum((o_e - o_s) - (s_e - s_s) for s_s, s_e, o_s, o_e in spans if s_e <= i)
+
+    out, pos, last_span = [], 0, None
     for w in words:
-        w["punct_end"] = False
-        idx = text.find(w["text"], pos)
+        idx = spoken.find(w["text"], pos)
         if idx < 0:
             continue
-        if prev is not None and "—" in text[pos:idx]:
-            prev["text"] += " —"
-        prev = w
-        lead = LEAD.search(text[max(0, idx - 2):idx])
-        end = idx + len(w["text"])
-        trail = TRAIL.match(text, end)
-        pos = trail.end() if trail else end
-        w["text"] = (lead.group(0) if lead else "") + w["text"] + (trail.group(0) if trail else "")
-        w["punct_end"] = bool(trail and re.search(r"[.!?]", trail.group(0)))
+        pos = idx + len(w["text"])
+        span = next((sp for sp in spans if sp[0] <= idx < sp[1]), None)
+        if span is not None and span == last_span:
+            cur = out[-1]
+            cur["endMs"] = w["endMs"]
+            if pos > span[1]:  # e.g. "T's" running past "L E T" -> keep the "'s"
+                extra = orig[cur["_end"]:cur["_end"] + (pos - span[1])]
+                cur["text"] += extra
+                cur["_end"] += len(extra)
+            continue
+        last_span = span
+        if span is not None:
+            o_s, o_e = span[2], span[3]
+            if pos > span[1]:
+                o_e += pos - span[1]
+        else:
+            o_s = to_orig(idx)
+            o_e = o_s + len(w["text"])
+        if out and "—" in orig[out[-1]["_end"]:o_s]:
+            out[-1]["text"] += " —"
+        lead = LEAD.search(orig[max(0, o_s - 2):o_s])
+        trail = TRAIL.match(orig, o_e)
+        out.append({
+            **w,
+            "text": (lead.group(0) if lead else "") + orig[o_s:o_e] + (trail.group(0) if trail else ""),
+            "_end": trail.end() if trail else o_e,
+            "punct_end": False,
+        })
+    for i, w in enumerate(out):
+        w["punct_end"] = bool(re.search(r"[.!?][\"'’”)]*$", w["text"]))
+        w.pop("_end", None)
+    return out
 
 
-def build_segment(seg, cfg, force=False):
-    gap = cfg["paragraph_gap_ms"]
-    tail = cfg["segment_tail_ms"]
-    parts = [paragraph_audio(p["text"], cfg) for p in seg["paragraphs"]]
+def build_segment(seg, cfg, force=False, srt_path=None):
+    gap = seg.get("gap_ms", cfg["paragraph_gap_ms"])
+    tail = seg.get("tail_ms", cfg["segment_tail_ms"])
+    lexicon = load_lexicon()
+    spoken = [respell(p["text"], lexicon) for p in seg["paragraphs"]]
+    parts = [paragraph_audio(sp, cfg) for sp, _ in spoken]
     seg_hash = h(*(k for k, _, _ in parts), gap, tail)
     out_mp3 = PUBLIC_AUDIO / f"{seg['id']}.mp3"
     if not force and seg.get("audio_hash") == seg_hash and out_mp3.exists() and seg.get("words"):
@@ -102,14 +181,14 @@ def build_segment(seg, cfg, force=False):
     frames = b""
     words, starts = [], []
     silence = lambda ms: b"\x00\x00" * int(SAMPLE_RATE * ms / 1000)
-    for i, ((_, wav, pw), para) in enumerate(zip(parts, seg["paragraphs"])):
+    for i, ((_, wav, pw), para, (sp_text, spans)) in enumerate(zip(parts, seg["paragraphs"], spoken)):
         if i:
             frames += silence(gap)
         start_ms = len(frames) / 2 / SAMPLE_RATE * 1000
         starts.append(round(start_ms))
         with wave.open(str(wav)) as wf:
             frames += wf.readframes(wf.getnframes())
-        attach_punctuation(pw, para["text"])
+        pw = align_words(pw, sp_text, para["text"], spans)
         for w in pw:
             words.append({**w, "startMs": round(w["startMs"] + start_ms), "endMs": round(w["endMs"] + start_ms),
                           "p": i})
@@ -129,7 +208,7 @@ def build_segment(seg, cfg, force=False):
     lines = caption_lines(words)
     srt = "".join(f"{n}\n{srt_time(l['startMs'])} --> {srt_time(l['endMs'])}\n{l['text']}\n\n"
                   for n, l in enumerate(lines, 1))
-    (SRT_DIR / f"segment_{seg['index']:02d}.srt").write_text(srt)
+    (srt_path or SRT_DIR / f"segment_{seg['index']:02d}.srt").write_text(srt)
 
     seg.update({
         "audio_file": f"audio/{seg['id']}.mp3",

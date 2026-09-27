@@ -1,76 +1,80 @@
 1
-00:00:00,102 --> 00:00:02,667
+00:00:00,051 --> 00:00:02,967
 Once a recruit completes Sufa, he's moved
 
 2
-00:00:02,680 --> 00:00:05,349
+00:00:02,980 --> 00:00:05,506
 to Muzaffarabad for Daura-e-Aam — the
 
 3
-00:00:05,467 --> 00:00:07,290
+00:00:05,702 --> 00:00:07,733
 "general" or basic course.
 
 4
-00:00:08,190 --> 00:00:09,753
+00:00:08,112 --> 00:00:09,661
 Another 21 days.
 
 5
-00:00:11,458 --> 00:00:13,307
+00:00:10,847 --> 00:00:12,553
 According to the West Point Combating
 
 6
-00:00:13,320 --> 00:00:16,080
+00:00:12,566 --> 00:00:15,391
 Terrorism Center's 2013 study of LeT
 
 7
-00:00:16,094 --> 00:00:18,398
-fighters, this phase builds fundamental
+00:00:15,404 --> 00:00:15,938
+fighters,
 
 8
-00:00:18,411 --> 00:00:20,898
-physical capacity — running, climbing,
+00:00:16,563 --> 00:00:18,399
+this phase builds fundamental physical
 
 9
-00:00:21,159 --> 00:00:23,268
-endurance — alongside continued
+00:00:18,412 --> 00:00:19,076
+capacity —
 
 10
-00:00:23,281 --> 00:00:25,182
-exhortation toward what the group calls
+00:00:19,623 --> 00:00:22,553
+running, climbing, endurance — alongside
 
 11
-00:00:25,195 --> 00:00:25,794
-jihad.
+00:00:22,566 --> 00:00:24,259
+continued exhortation toward what the
 
 12
-00:00:26,695 --> 00:00:29,025
-Other accounts describe early, basic
+00:00:24,272 --> 00:00:25,235
+group calls jihad.
 
 13
-00:00:29,038 --> 00:00:31,291
-weapons familiarization beginning here as
+00:00:25,652 --> 00:00:28,191
+Other accounts describe early, basic
 
 14
-00:00:31,304 --> 00:00:31,734
-well.
+00:00:28,204 --> 00:00:30,509
+weapons familiarization beginning here as
 
 15
-00:00:33,446 --> 00:00:36,167
-This is also, structurally, a filtering
+00:00:30,522 --> 00:00:30,899
+well.
 
 16
-00:00:36,180 --> 00:00:36,845
-stage.
+00:00:32,078 --> 00:00:34,500
+This is also, structurally, a filtering
 
 17
-00:00:37,745 --> 00:00:40,037
-Not everyone who starts a Daura-e-Aam
+00:00:34,513 --> 00:00:35,086
+stage.
 
 18
-00:00:40,050 --> 00:00:42,459
-course is judged fit — physically or
+00:00:35,503 --> 00:00:37,547
+Not everyone who starts a Daura-e-Aam
 
 19
-00:00:42,472 --> 00:00:44,412
-ideologically — to continue.
+00:00:37,547 --> 00:00:38,992
+course is judged fit —
+
+20
+00:00:39,474 --> 00:00:42,326
+physically or ideologically — to continue.
 

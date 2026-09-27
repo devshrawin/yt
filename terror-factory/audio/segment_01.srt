@@ -1,100 +1,108 @@
 1
-00:00:00,102 --> 00:00:02,784
+00:00:00,078 --> 00:00:02,799
 Before we go further — a note on sources,
 
 2
-00:00:03,006 --> 00:00:05,258
+00:00:02,826 --> 00:00:04,974
 because this matters more than usual here.
 
 3
-00:00:06,970 --> 00:00:09,014
+00:00:06,167 --> 00:00:08,133
 Everything in this video comes from public
 
 4
-00:00:09,027 --> 00:00:11,957
-record: court testimony, confessions read
+00:00:08,146 --> 00:00:08,550
+record:
 
 5
-00:00:11,970 --> 00:00:13,897
-into evidence, and research from
+00:00:09,162 --> 00:00:10,152
+court testimony,
 
 6
-00:00:13,910 --> 00:00:16,150
-institutions like the Combating Terrorism
+00:00:10,685 --> 00:00:12,547
+confessions read into evidence, and
 
 7
-00:00:16,163 --> 00:00:17,947
-Center at West Point and the Counter
+00:00:12,560 --> 00:00:14,435
+research from institutions like the
 
 8
-00:00:17,960 --> 00:00:19,314
-Extremism Project.
+00:00:14,448 --> 00:00:16,922
+Combating Terrorism Center at West Point
 
 9
-00:00:20,214 --> 00:00:22,636
-Nothing here is speculation, and nothing
+00:00:17,300 --> 00:00:19,045
+and the Counter Extremism Project.
 
 10
-00:00:22,649 --> 00:00:23,639
-here is a how-to.
+00:00:19,461 --> 00:00:22,248
+Nothing here is speculation, and nothing
 
 11
-00:00:24,537 --> 00:00:26,451
-We're reconstructing an organizational
+00:00:22,261 --> 00:00:23,459
+here is a how-to.
 
 12
-00:00:26,464 --> 00:00:27,819
-structure that has already been
+00:00:23,888 --> 00:00:25,959
+We're reconstructing an organizational
 
 13
-00:00:27,832 --> 00:00:29,915
-established in courts of law — not
+00:00:25,972 --> 00:00:27,573
+structure that has already been
 
 14
-00:00:29,928 --> 00:00:30,891
-teaching a method.
+00:00:27,586 --> 00:00:30,073
+established in courts of law — not
 
 15
-00:00:32,606 --> 00:00:34,611
-Two names will come up again and again:
+00:00:30,086 --> 00:00:31,050
+teaching a method.
 
 16
-00:00:34,911 --> 00:00:37,515
-Ajmal Kasab, the sole surviving gunman
+00:00:32,235 --> 00:00:34,058
+Two names will come up again and again:
 
 17
-00:00:37,528 --> 00:00:40,301
-from the 2008 Mumbai attacks, and David
+00:00:34,071 --> 00:00:36,350
+Ajmal Kasab, the sole surviving gunman
 
 18
-00:00:40,314 --> 00:00:42,671
-Coleman Headley, the American-Pakistani
+00:00:36,363 --> 00:00:38,811
+from the 2008 Mumbai attacks, and David
 
 19
-00:00:42,684 --> 00:00:44,716
-who scouted targets for the same attack
+00:00:38,824 --> 00:00:41,089
+Coleman Headley, the American-Pakistani
 
 20
-00:00:44,728 --> 00:00:47,046
-and later turned approver, testifying via
+00:00:41,102 --> 00:00:42,964
+who scouted targets for the same attack
 
 21
-00:00:47,059 --> 00:00:50,288
-video link from a US facility in 2016.
+00:00:42,977 --> 00:00:44,110
+and later turned approver,
 
 22
-00:00:52,002 --> 00:00:54,398
-Between their two testimonies, we get one
+00:00:44,618 --> 00:00:46,623
+testifying via video link from a US
 
 23
-00:00:54,411 --> 00:00:56,182
-of the most detailed pictures ever
+00:00:46,636 --> 00:00:48,316
+facility in 2016.
 
 24
-00:00:56,195 --> 00:00:58,630
-assembled — from the inside — of how
+00:00:49,482 --> 00:00:51,826
+Between their two testimonies, we get one
 
 25
-00:00:58,643 --> 00:01:01,546
+00:00:51,839 --> 00:00:53,506
+of the most detailed pictures ever
+
+26
+00:00:53,519 --> 00:00:55,875
+assembled — from the inside — of how
+
+27
+00:00:55,875 --> 00:00:59,209
 Lashkar-e-Taiba, or LeT, builds a fighter.
 

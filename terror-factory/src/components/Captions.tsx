@@ -61,7 +61,7 @@ export const Captions: React.FC<{ words: Word[] }> = ({ words }) => {
             key={i}
             style={{
               color: ms >= t.fromMs && ms < t.toMs + 80 ? C.accent : C.ink,
-              whiteSpace: "pre",
+              whiteSpace: "pre-wrap",
             }}
           >
             {t.text}

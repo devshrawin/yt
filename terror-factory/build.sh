@@ -28,6 +28,9 @@ render() {
   npm run stage4:render
   $PY pipeline/master.py
   $PY pipeline/merge_srt.py
+  $PY pipeline/teaser_tts.py
+  npm run teaser:render
+  $PY pipeline/master.py --teaser
   $PY pipeline/qa.py
   $PY pipeline/audit.py
 }

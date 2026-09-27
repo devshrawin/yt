@@ -1,52 +1,52 @@
 1
-00:00:00,102 --> 00:00:02,589
+00:00:00,065 --> 00:00:02,396
 November 26, 2008.
 
 2
-00:00:03,490 --> 00:00:05,703
+00:00:02,772 --> 00:00:05,012
 A fishing trawler drifts toward the coast
 
 3
-00:00:05,716 --> 00:00:06,380
+00:00:05,025 --> 00:00:05,741
 of Mumbai.
 
 4
-00:00:07,292 --> 00:00:09,115
+00:00:06,159 --> 00:00:07,917
 Ten young men aboard it have spent the
 
 5
-00:00:09,128 --> 00:00:11,484
-last eighteen months being built — not
+00:00:07,930 --> 00:00:09,661
+last eighteen months being built —
 
 6
-00:00:11,497 --> 00:00:13,958
-born, built — into what they are about to
+00:00:10,182 --> 00:00:12,487
+not born, built — into what they are about
 
 7
-00:00:13,971 --> 00:00:14,505
-become.
+00:00:12,500 --> 00:00:13,073
+to become.
 
 8
-00:00:16,210 --> 00:00:18,202
+00:00:14,268 --> 00:00:16,469
 One of them will later sit in an Indian
 
 9
-00:00:18,215 --> 00:00:20,832
+00:00:16,482 --> 00:00:18,917
 courtroom and describe, in exact detail,
 
 10
-00:00:21,132 --> 00:00:22,890
+00:00:18,943 --> 00:00:20,740
 how that building process worked.
 
 11
-00:00:23,790 --> 00:00:25,496
+00:00:21,115 --> 00:00:23,290
 His name is Ajmal Kasab.
 
 12
-00:00:26,394 --> 00:00:28,452
+00:00:23,669 --> 00:00:25,883
 And what he described wasn't chaos.
 
 13
-00:00:29,350 --> 00:00:30,522
+00:00:26,258 --> 00:00:27,534
 It was a curriculum.
 

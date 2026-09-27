@@ -1,104 +1,112 @@
 1
-00:00:00,102 --> 00:00:01,652
+00:00:00,091 --> 00:00:01,836
 Here's where we have to be careful,
 
 2
-00:00:01,899 --> 00:00:03,943
+00:00:02,109 --> 00:00:04,115
 because this is the most contested part of
 
 3
-00:00:03,956 --> 00:00:04,581
+00:00:04,128 --> 00:00:04,792
 the story.
 
 4
-00:00:06,298 --> 00:00:08,798
+00:00:05,975 --> 00:00:07,980
 Multiple researchers — including the West
 
 5
-00:00:08,811 --> 00:00:11,233
+00:00:07,993 --> 00:00:10,090
 Point CTC and French counterterrorism
 
 6
-00:00:11,246 --> 00:00:13,381
+00:00:10,103 --> 00:00:12,811
 figures like Jean-Louis Bruguière — have
 
 7
-00:00:13,394 --> 00:00:15,361
-alleged that Pakistan's intelligence
+00:00:12,824 --> 00:00:14,986
+alleged that Pakistan' 's intelligence
 
 8
-00:00:15,374 --> 00:00:18,512
-agency, the ISI, tolerated these camps for
+00:00:14,999 --> 00:00:15,585
+agency,
 
 9
-00:00:18,525 --> 00:00:20,022
-years because of their perceived
+00:00:16,118 --> 00:00:19,113
+the ISI, tolerated these camps for years
 
 10
-00:00:20,035 --> 00:00:22,470
-usefulness in Kashmir and Afghanistan.
+00:00:19,126 --> 00:00:20,884
+because of their perceived usefulness in
 
 11
-00:00:23,370 --> 00:00:25,324
-Some accounts even describe alleged
+00:00:20,884 --> 00:00:22,447
+Kashmir and Afghanistan.
 
 12
-00:00:25,337 --> 00:00:27,238
-army-officer involvement in training,
+00:00:22,863 --> 00:00:24,894
+Some accounts even describe alleged
 
 13
-00:00:27,550 --> 00:00:29,464
-based on interrogations of Western LeT
+00:00:24,920 --> 00:00:26,808
+army-officer involvement in training,
 
 14
-00:00:29,477 --> 00:00:31,027
-recruits like Willy Brigitte.
+00:00:27,368 --> 00:00:29,842
+based on interrogations of Western LeT
 
 15
-00:00:32,726 --> 00:00:34,445
-Pakistan's government has never
+00:00:29,855 --> 00:00:31,548
+recruits like Willy Brigitte.
 
 16
-00:00:34,458 --> 00:00:36,437
-acknowledged state-run terrorist training
+00:00:32,739 --> 00:00:34,901
+Pakistan' 's government has never
 
 17
-00:00:36,450 --> 00:00:38,976
-camps, and has consistently denied direct
+00:00:34,914 --> 00:00:37,075
+acknowledged state-run terrorist training
 
 18
-00:00:38,989 --> 00:00:39,757
-sponsorship.
+00:00:37,088 --> 00:00:37,544
+camps,
 
 19
-00:00:40,658 --> 00:00:42,976
-So it's important we frame this precisely:
+00:00:38,091 --> 00:00:40,031
+and has consistently denied direct
 
 20
-00:00:43,288 --> 00:00:45,671
-this is a documented allegation, made by
+00:00:40,044 --> 00:00:40,747
+sponsorship.
 
 21
-00:00:45,684 --> 00:00:47,598
-credible researchers and intelligence
+00:00:41,151 --> 00:00:43,468
+So it's important we frame this precisely:
 
 22
-00:00:47,611 --> 00:00:49,851
-figures — not a fact established in a
+00:00:43,833 --> 00:00:46,333
+this is a documented allegation, made by
 
 23
-00:00:49,864 --> 00:00:51,739
-court of law the way the camp curriculum
+00:00:46,346 --> 00:00:48,221
+credible researchers and intelligence
 
 24
-00:00:51,752 --> 00:00:52,780
-itself has been.
+00:00:48,234 --> 00:00:50,591
+figures — not a fact established in a
 
 25
-00:00:53,679 --> 00:00:55,410
-Responsible reporting keeps that
+00:00:50,604 --> 00:00:52,544
+court of law the way the camp curriculum
 
 26
-00:00:55,424 --> 00:00:57,676
+00:00:52,557 --> 00:00:53,468
+itself has been.
+
+27
+00:00:53,885 --> 00:00:55,864
+Responsible reporting keeps that
+
+28
+00:00:55,877 --> 00:00:58,117
 distinction visible, and so will we.
 

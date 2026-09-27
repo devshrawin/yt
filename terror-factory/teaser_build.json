@@ -1,0 +1,1001 @@
+{
+  "id": "teaser",
+  "index": 99,
+  "gap_ms": 350,
+  "tail_ms": 600,
+  "paragraphs": [
+    {
+      "text": "November 2008. Ten men sailed into Mumbai. They weren't born killers. They were built — by a curriculum."
+    },
+    {
+      "text": "Using court testimony from Ajmal Kasab and David Headley, we reconstruct how Lashkar-e-Taiba builds a fighter."
+    },
+    {
+      "text": "A network of camps — Muridke, Muzaffarabad, Mansehra — each with a job."
+    },
+    {
+      "text": "Daura-e-Sufa: twenty-one days of indoctrination. No guns yet."
+    },
+    {
+      "text": "Daura-e-Aam: the basic course, and the first filter."
+    },
+    {
+      "text": "Khidmat: two months of chores that weed out the uncommitted."
+    },
+    {
+      "text": "Daura-e-Khaas: the stage that turns a believer into an operative."
+    },
+    {
+      "text": "Did the state know? We separate what courts established from what is only alleged."
+    },
+    {
+      "text": "Then, in May 2025, Operation Sindoor struck nine sites — including the compound where it all began."
+    },
+    {
+      "text": "Inside the Terror Factory. The full documentary is out now on YouTube."
+    }
+  ],
+  "audio_file": "audio/teaser.mp3",
+  "audio_hash": "bdd54b323b479001",
+  "duration_seconds": 63.462,
+  "paragraph_starts": [
+    0,
+    8702,
+    17068,
+    24066,
+    29912,
+    34174,
+    38796,
+    44138,
+    50032,
+    57558
+  ],
+  "words": [
+    {
+      "text": "November 2008.",
+      "startMs": 65,
+      "endMs": 1589,
+      "p": 0
+    },
+    {
+      "text": "Ten",
+      "startMs": 1992,
+      "endMs": 2214,
+      "p": 0
+    },
+    {
+      "text": "men",
+      "startMs": 2227,
+      "endMs": 2513,
+      "p": 0
+    },
+    {
+      "text": "sailed",
+      "startMs": 2526,
+      "endMs": 2982,
+      "p": 0
+    },
+    {
+      "text": "into",
+      "startMs": 2995,
+      "endMs": 3294,
+      "p": 0
+    },
+    {
+      "text": "Mumbai.",
+      "startMs": 3294,
+      "endMs": 3880,
+      "p": 0
+    },
+    {
+      "text": "They",
+      "startMs": 4271,
+      "endMs": 4388,
+      "p": 0
+    },
+    {
+      "text": "weren't",
+      "startMs": 4401,
+      "endMs": 4753,
+      "p": 0
+    },
+    {
+      "text": "born",
+      "startMs": 4766,
+      "endMs": 5091,
+      "p": 0
+    },
+    {
+      "text": "killers.",
+      "startMs": 5104,
+      "endMs": 5703,
+      "p": 0
+    },
+    {
+      "text": "They",
+      "startMs": 6094,
+      "endMs": 6211,
+      "p": 0
+    },
+    {
+      "text": "were",
+      "startMs": 6224,
+      "endMs": 6406,
+      "p": 0
+    },
+    {
+      "text": "built —",
+      "startMs": 6419,
+      "endMs": 6875,
+      "p": 0
+    },
+    {
+      "text": "by",
+      "startMs": 6901,
+      "endMs": 7135,
+      "p": 0
+    },
+    {
+      "text": "a",
+      "startMs": 7148,
+      "endMs": 7227,
+      "p": 0
+    },
+    {
+      "text": "curriculum.",
+      "startMs": 7240,
+      "endMs": 7969,
+      "p": 0
+    },
+    {
+      "text": "Using",
+      "startMs": 8752,
+      "endMs": 9273,
+      "p": 1
+    },
+    {
+      "text": "court",
+      "startMs": 9286,
+      "endMs": 9598,
+      "p": 1
+    },
+    {
+      "text": "testimony",
+      "startMs": 9611,
+      "endMs": 10197,
+      "p": 1
+    },
+    {
+      "text": "from",
+      "startMs": 10210,
+      "endMs": 10510,
+      "p": 1
+    },
+    {
+      "text": "Ajmal Kasab",
+      "startMs": 10523,
+      "endMs": 11512,
+      "p": 1
+    },
+    {
+      "text": "and",
+      "startMs": 11525,
+      "endMs": 11760,
+      "p": 1
+    },
+    {
+      "text": "David",
+      "startMs": 11773,
+      "endMs": 12072,
+      "p": 1
+    },
+    {
+      "text": "Headley,",
+      "startMs": 12085,
+      "endMs": 12645,
+      "p": 1
+    },
+    {
+      "text": "we",
+      "startMs": 12997,
+      "endMs": 13205,
+      "p": 1
+    },
+    {
+      "text": "reconstruct",
+      "startMs": 13218,
+      "endMs": 13973,
+      "p": 1
+    },
+    {
+      "text": "how",
+      "startMs": 13986,
+      "endMs": 14221,
+      "p": 1
+    },
+    {
+      "text": "Lashkar-e-Taiba",
+      "startMs": 14234,
+      "endMs": 15223,
+      "p": 1
+    },
+    {
+      "text": "builds",
+      "startMs": 15236,
+      "endMs": 15601,
+      "p": 1
+    },
+    {
+      "text": "a",
+      "startMs": 15614,
+      "endMs": 15666,
+      "p": 1
+    },
+    {
+      "text": "fighter.",
+      "startMs": 15679,
+      "endMs": 16330,
+      "p": 1
+    },
+    {
+      "text": "A",
+      "startMs": 17118,
+      "endMs": 17261,
+      "p": 2
+    },
+    {
+      "text": "network",
+      "startMs": 17274,
+      "endMs": 17795,
+      "p": 2
+    },
+    {
+      "text": "of",
+      "startMs": 17808,
+      "endMs": 17964,
+      "p": 2
+    },
+    {
+      "text": "camps —",
+      "startMs": 17977,
+      "endMs": 18498,
+      "p": 2
+    },
+    {
+      "text": "Muridke,",
+      "startMs": 18772,
+      "endMs": 19553,
+      "p": 2
+    },
+    {
+      "text": "Muzaffarabad,",
+      "startMs": 19839,
+      "endMs": 20790,
+      "p": 2
+    },
+    {
+      "text": "Mansehra —",
+      "startMs": 21102,
+      "endMs": 21975,
+      "p": 2
+    },
+    {
+      "text": "each",
+      "startMs": 22287,
+      "endMs": 22561,
+      "p": 2
+    },
+    {
+      "text": "with",
+      "startMs": 22574,
+      "endMs": 22730,
+      "p": 2
+    },
+    {
+      "text": "a",
+      "startMs": 22743,
+      "endMs": 22795,
+      "p": 2
+    },
+    {
+      "text": "job.",
+      "startMs": 22808,
+      "endMs": 23329,
+      "p": 2
+    },
+    {
+      "text": "Daura-e-Sufa:",
+      "startMs": 24117,
+      "endMs": 25262,
+      "p": 3
+    },
+    {
+      "text": "twenty-one",
+      "startMs": 25588,
+      "endMs": 26187,
+      "p": 3
+    },
+    {
+      "text": "days",
+      "startMs": 26200,
+      "endMs": 26538,
+      "p": 3
+    },
+    {
+      "text": "of",
+      "startMs": 26551,
+      "endMs": 26747,
+      "p": 3
+    },
+    {
+      "text": "indoctrination.",
+      "startMs": 26760,
+      "endMs": 27840,
+      "p": 3
+    },
+    {
+      "text": "No",
+      "startMs": 28220,
+      "endMs": 28415,
+      "p": 3
+    },
+    {
+      "text": "guns",
+      "startMs": 28428,
+      "endMs": 28780,
+      "p": 3
+    },
+    {
+      "text": "yet.",
+      "startMs": 28793,
+      "endMs": 29183,
+      "p": 3
+    },
+    {
+      "text": "Daura-e-Aam:",
+      "startMs": 30003,
+      "endMs": 30954,
+      "p": 4
+    },
+    {
+      "text": "the",
+      "startMs": 30980,
+      "endMs": 31110,
+      "p": 4
+    },
+    {
+      "text": "basic",
+      "startMs": 31123,
+      "endMs": 31488,
+      "p": 4
+    },
+    {
+      "text": "course,",
+      "startMs": 31501,
+      "endMs": 31969,
+      "p": 4
+    },
+    {
+      "text": "and",
+      "startMs": 32256,
+      "endMs": 32412,
+      "p": 4
+    },
+    {
+      "text": "the",
+      "startMs": 32425,
+      "endMs": 32503,
+      "p": 4
+    },
+    {
+      "text": "first",
+      "startMs": 32516,
+      "endMs": 32933,
+      "p": 4
+    },
+    {
+      "text": "filter.",
+      "startMs": 32946,
+      "endMs": 33441,
+      "p": 4
+    },
+    {
+      "text": "Khidmat:",
+      "startMs": 34226,
+      "endMs": 34890,
+      "p": 5
+    },
+    {
+      "text": "two",
+      "startMs": 35450,
+      "endMs": 35645,
+      "p": 5
+    },
+    {
+      "text": "months",
+      "startMs": 35658,
+      "endMs": 35957,
+      "p": 5
+    },
+    {
+      "text": "of",
+      "startMs": 35970,
+      "endMs": 36062,
+      "p": 5
+    },
+    {
+      "text": "chores",
+      "startMs": 36075,
+      "endMs": 36569,
+      "p": 5
+    },
+    {
+      "text": "that",
+      "startMs": 36582,
+      "endMs": 36713,
+      "p": 5
+    },
+    {
+      "text": "weed",
+      "startMs": 36726,
+      "endMs": 36895,
+      "p": 5
+    },
+    {
+      "text": "out",
+      "startMs": 36908,
+      "endMs": 37168,
+      "p": 5
+    },
+    {
+      "text": "the",
+      "startMs": 37181,
+      "endMs": 37285,
+      "p": 5
+    },
+    {
+      "text": "uncommitted.",
+      "startMs": 37298,
+      "endMs": 38054,
+      "p": 5
+    },
+    {
+      "text": "Daura-e-Khaas:",
+      "startMs": 38846,
+      "endMs": 39940,
+      "p": 6
+    },
+    {
+      "text": "the",
+      "startMs": 40252,
+      "endMs": 40408,
+      "p": 6
+    },
+    {
+      "text": "stage",
+      "startMs": 40422,
+      "endMs": 40903,
+      "p": 6
+    },
+    {
+      "text": "that",
+      "startMs": 40916,
+      "endMs": 41112,
+      "p": 6
+    },
+    {
+      "text": "turns",
+      "startMs": 41125,
+      "endMs": 41437,
+      "p": 6
+    },
+    {
+      "text": "a",
+      "startMs": 41450,
+      "endMs": 41489,
+      "p": 6
+    },
+    {
+      "text": "believer",
+      "startMs": 41502,
+      "endMs": 42088,
+      "p": 6
+    },
+    {
+      "text": "into",
+      "startMs": 42101,
+      "endMs": 42388,
+      "p": 6
+    },
+    {
+      "text": "an",
+      "startMs": 42401,
+      "endMs": 42544,
+      "p": 6
+    },
+    {
+      "text": "operative.",
+      "startMs": 42557,
+      "endMs": 43390,
+      "p": 6
+    },
+    {
+      "text": "Did",
+      "startMs": 44242,
+      "endMs": 44411,
+      "p": 7
+    },
+    {
+      "text": "the",
+      "startMs": 44424,
+      "endMs": 44503,
+      "p": 7
+    },
+    {
+      "text": "state",
+      "startMs": 44516,
+      "endMs": 44880,
+      "p": 7
+    },
+    {
+      "text": "know?",
+      "startMs": 44893,
+      "endMs": 45271,
+      "p": 7
+    },
+    {
+      "text": "We",
+      "startMs": 45688,
+      "endMs": 45792,
+      "p": 7
+    },
+    {
+      "text": "separate",
+      "startMs": 45805,
+      "endMs": 46391,
+      "p": 7
+    },
+    {
+      "text": "what",
+      "startMs": 46404,
+      "endMs": 46612,
+      "p": 7
+    },
+    {
+      "text": "courts",
+      "startMs": 46625,
+      "endMs": 46990,
+      "p": 7
+    },
+    {
+      "text": "established",
+      "startMs": 47003,
+      "endMs": 47732,
+      "p": 7
+    },
+    {
+      "text": "from",
+      "startMs": 47745,
+      "endMs": 47992,
+      "p": 7
+    },
+    {
+      "text": "what",
+      "startMs": 48005,
+      "endMs": 48161,
+      "p": 7
+    },
+    {
+      "text": "is",
+      "startMs": 48174,
+      "endMs": 48318,
+      "p": 7
+    },
+    {
+      "text": "only",
+      "startMs": 48331,
+      "endMs": 48630,
+      "p": 7
+    },
+    {
+      "text": "alleged.",
+      "startMs": 48643,
+      "endMs": 49294,
+      "p": 7
+    },
+    {
+      "text": "Then,",
+      "startMs": 50123,
+      "endMs": 50514,
+      "p": 8
+    },
+    {
+      "text": "in",
+      "startMs": 50540,
+      "endMs": 50709,
+      "p": 8
+    },
+    {
+      "text": "May 2025,",
+      "startMs": 50722,
+      "endMs": 51972,
+      "p": 8
+    },
+    {
+      "text": "Operation",
+      "startMs": 51985,
+      "endMs": 52584,
+      "p": 8
+    },
+    {
+      "text": "Sindoor",
+      "startMs": 52584,
+      "endMs": 53001,
+      "p": 8
+    },
+    {
+      "text": "struck",
+      "startMs": 53001,
+      "endMs": 53378,
+      "p": 8
+    },
+    {
+      "text": "nine",
+      "startMs": 53391,
+      "endMs": 53665,
+      "p": 8
+    },
+    {
+      "text": "sites —",
+      "startMs": 53678,
+      "endMs": 54277,
+      "p": 8
+    },
+    {
+      "text": "including",
+      "startMs": 54563,
+      "endMs": 55058,
+      "p": 8
+    },
+    {
+      "text": "the",
+      "startMs": 55071,
+      "endMs": 55136,
+      "p": 8
+    },
+    {
+      "text": "compound",
+      "startMs": 55149,
+      "endMs": 55787,
+      "p": 8
+    },
+    {
+      "text": "where",
+      "startMs": 55800,
+      "endMs": 55970,
+      "p": 8
+    },
+    {
+      "text": "it",
+      "startMs": 55983,
+      "endMs": 56061,
+      "p": 8
+    },
+    {
+      "text": "all",
+      "startMs": 56074,
+      "endMs": 56282,
+      "p": 8
+    },
+    {
+      "text": "began.",
+      "startMs": 56295,
+      "endMs": 56816,
+      "p": 8
+    },
+    {
+      "text": "Inside",
+      "startMs": 57649,
+      "endMs": 58183,
+      "p": 9
+    },
+    {
+      "text": "the",
+      "startMs": 58196,
+      "endMs": 58287,
+      "p": 9
+    },
+    {
+      "text": "Terror",
+      "startMs": 58300,
+      "endMs": 58652,
+      "p": 9
+    },
+    {
+      "text": "Factory.",
+      "startMs": 58665,
+      "endMs": 59303,
+      "p": 9
+    },
+    {
+      "text": "The",
+      "startMs": 59693,
+      "endMs": 59772,
+      "p": 9
+    },
+    {
+      "text": "full",
+      "startMs": 59785,
+      "endMs": 60032,
+      "p": 9
+    },
+    {
+      "text": "documentary",
+      "startMs": 60045,
+      "endMs": 60800,
+      "p": 9
+    },
+    {
+      "text": "is",
+      "startMs": 60813,
+      "endMs": 61022,
+      "p": 9
+    },
+    {
+      "text": "out",
+      "startMs": 61035,
+      "endMs": 61282,
+      "p": 9
+    },
+    {
+      "text": "now",
+      "startMs": 61295,
+      "endMs": 61660,
+      "p": 9
+    },
+    {
+      "text": "on",
+      "startMs": 61673,
+      "endMs": 61855,
+      "p": 9
+    },
+    {
+      "text": "YouTube.",
+      "startMs": 61868,
+      "endMs": 62467,
+      "p": 9
+    }
+  ],
+  "caption_lines": [
+    {
+      "text": "November 2008.",
+      "startMs": 65,
+      "endMs": 1589
+    },
+    {
+      "text": "Ten men sailed into Mumbai.",
+      "startMs": 1992,
+      "endMs": 3880
+    },
+    {
+      "text": "They weren't born killers.",
+      "startMs": 4271,
+      "endMs": 5703
+    },
+    {
+      "text": "They were built — by a curriculum.",
+      "startMs": 6094,
+      "endMs": 7969
+    },
+    {
+      "text": "Using court testimony from Ajmal Kasab and",
+      "startMs": 8752,
+      "endMs": 11760
+    },
+    {
+      "text": "David Headley, we reconstruct how",
+      "startMs": 11773,
+      "endMs": 14221
+    },
+    {
+      "text": "Lashkar-e-Taiba builds a fighter.",
+      "startMs": 14234,
+      "endMs": 16330
+    },
+    {
+      "text": "A network of camps — Muridke,",
+      "startMs": 17118,
+      "endMs": 19553
+    },
+    {
+      "text": "Muzaffarabad, Mansehra — each with a job.",
+      "startMs": 19839,
+      "endMs": 23329
+    },
+    {
+      "text": "Daura-e-Sufa: twenty-one days of",
+      "startMs": 24117,
+      "endMs": 26747
+    },
+    {
+      "text": "indoctrination.",
+      "startMs": 26760,
+      "endMs": 27840
+    },
+    {
+      "text": "No guns yet.",
+      "startMs": 28220,
+      "endMs": 29183
+    },
+    {
+      "text": "Daura-e-Aam: the basic course, and the",
+      "startMs": 30003,
+      "endMs": 32503
+    },
+    {
+      "text": "first filter.",
+      "startMs": 32516,
+      "endMs": 33441
+    },
+    {
+      "text": "Khidmat:",
+      "startMs": 34226,
+      "endMs": 34890
+    },
+    {
+      "text": "two months of chores that weed out the",
+      "startMs": 35450,
+      "endMs": 37285
+    },
+    {
+      "text": "uncommitted.",
+      "startMs": 37298,
+      "endMs": 38054
+    },
+    {
+      "text": "Daura-e-Khaas: the stage that turns a",
+      "startMs": 38846,
+      "endMs": 41489
+    },
+    {
+      "text": "believer into an operative.",
+      "startMs": 41502,
+      "endMs": 43390
+    },
+    {
+      "text": "Did the state know?",
+      "startMs": 44242,
+      "endMs": 45271
+    },
+    {
+      "text": "We separate what courts established from",
+      "startMs": 45688,
+      "endMs": 47992
+    },
+    {
+      "text": "what is only alleged.",
+      "startMs": 48005,
+      "endMs": 49294
+    },
+    {
+      "text": "Then, in May 2025, Operation Sindoor",
+      "startMs": 50123,
+      "endMs": 53001
+    },
+    {
+      "text": "struck nine sites — including the compound",
+      "startMs": 53001,
+      "endMs": 55787
+    },
+    {
+      "text": "where it all began.",
+      "startMs": 55800,
+      "endMs": 56816
+    },
+    {
+      "text": "Inside the Terror Factory.",
+      "startMs": 57649,
+      "endMs": 59303
+    },
+    {
+      "text": "The full documentary is out now on",
+      "startMs": 59693,
+      "endMs": 61855
+    },
+    {
+      "text": "YouTube.",
+      "startMs": 61868,
+      "endMs": 62467
+    }
+  ],
+  "beats": [
+    {
+      "headline": "26/11 WAS NOT CHAOS",
+      "text": "November 2008. Ten men sailed into Mumbai. They weren't born killers. They were built — by a curriculum.",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 0,
+        "offset_ms": 4500
+      }
+    },
+    {
+      "headline": "FROM THE COURT RECORD",
+      "text": "Using court testimony from Ajmal Kasab and David Headley, we reconstruct how Lashkar-e-Taiba builds a fighter.",
+      "show": {
+        "segment": "seg_01",
+        "paragraph": 2,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "THE CAMPS",
+      "text": "A network of camps — Muridke, Muzaffarabad, Mansehra — each with a job.",
+      "show": {
+        "segment": "seg_02",
+        "paragraph": 3,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "21 DAYS OF BELIEF",
+      "text": "Daura-e-Sufa: twenty-one days of indoctrination. No guns yet.",
+      "show": {
+        "segment": "seg_03",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "21 DAYS OF BODY",
+      "text": "Daura-e-Aam: the basic course, and the first filter.",
+      "show": {
+        "segment": "seg_04",
+        "paragraph": 0,
+        "offset_ms": 2000
+      }
+    },
+    {
+      "headline": "THE LOYALTY TEST",
+      "text": "Khidmat: two months of chores that weed out the uncommitted.",
+      "show": {
+        "segment": "seg_05",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THREE MONTHS OF WEAPONS",
+      "text": "Daura-e-Khaas: the stage that turns a believer into an operative.",
+      "show": {
+        "segment": "seg_06",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "PROVEN VS ALLEGED",
+      "text": "Did the state know? We separate what courts established from what is only alleged.",
+      "show": {
+        "segment": "seg_08",
+        "paragraph": 1,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "MAY 2025: OP SINDOOR",
+      "text": "Then, in May 2025, Operation Sindoor struck nine sites — including the compound where it all began.",
+      "show": {
+        "segment": "seg_09",
+        "paragraph": 9,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "INSIDE THE TERROR FACTORY",
+      "text": "Inside the Terror Factory. The full documentary is out now on YouTube.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}

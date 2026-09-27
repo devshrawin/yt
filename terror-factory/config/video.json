@@ -1,8 +1,9 @@
 {
+  "version": "1.2",
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "voice": "en-US-ChristopherNeural",
+  "voice": "en-US-BrianMultilingualNeural",
   "rate": "-4%",
   "pitch": "+0Hz",
   "paragraph_gap_ms": 700,
@@ -23,5 +24,6 @@
     "en-IN-PrabhatNeural"
   ],
   "pok_term": "Illegally Occupied Pakistani Kashmir",
-  "_pok_term_note": "Legal/editorial requirement (published in India): every spoken/on-screen reference to Pakistan-administered / Azad Kashmir uses pok_term, and maps show all of J&K + Ladakh as India."
+  "_pok_term_note": "Legal/editorial requirement (published in India): every spoken/on-screen reference to Pakistan-administered / Azad Kashmir uses pok_term, and maps show all of J&K + Ladakh as India.",
+  "pronunciation_mode": "native"
 }

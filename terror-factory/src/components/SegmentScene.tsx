@@ -64,7 +64,9 @@ const HeadlineBeats: React.FC<{ seg: Segment; durationInFrames: number }> = ({
 export const SegmentScene: React.FC<{
   seg: Segment;
   durationInFrames: number;
-}> = ({ seg, durationInFrames }) => {
+  /** teaser window: no narration audio and no burned-in captions */
+  embedded?: boolean;
+}> = ({ seg, durationInFrames, embedded = false }) => {
   const { fps } = useVideoConfig();
   const phase = phaseIndexFor(seg);
   const cueFrame = (after: number | null, lagMs: number) =>
@@ -173,8 +175,10 @@ export const SegmentScene: React.FC<{
         </Sequence>
       )}
 
-      {seg.audio_file && <Audio src={staticFile(seg.audio_file)} />}
-      {seg.words && <Captions words={seg.words} />}
+      {!embedded && seg.audio_file && (
+        <Audio src={staticFile(seg.audio_file)} />
+      )}
+      {!embedded && seg.words && <Captions words={seg.words} />}
     </AbsoluteFill>
   );
 };

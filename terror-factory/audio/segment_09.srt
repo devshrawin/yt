@@ -1,244 +1,268 @@
 1
-00:00:00,102 --> 00:00:02,107
+00:00:00,091 --> 00:00:01,615
 Everything you've just heard about — the
 
 2
-00:00:02,120 --> 00:00:05,376
+00:00:01,628 --> 00:00:04,388
 camps, the courses, the compounds — most
 
 3
-00:00:05,389 --> 00:00:07,394
+00:00:04,401 --> 00:00:06,211
 of it existed openly for over three
 
 4
-00:00:07,407 --> 00:00:08,123
+00:00:06,224 --> 00:00:06,823
 decades.
 
 5
-00:00:09,023 --> 00:00:11,497
+00:00:07,240 --> 00:00:09,857
 That changed, at least partially, on the
 
 6
-00:00:11,510 --> 00:00:14,375
+00:00:09,870 --> 00:00:12,630
 night of May 6–7, 2025.
 
 7
-00:00:16,090 --> 00:00:18,199
+00:00:13,799 --> 00:00:16,000
 Following the Pahalgam terror attack that
 
 8
-00:00:18,212 --> 00:00:21,012
+00:00:16,013 --> 00:00:18,708
 killed 26 people in April 2025,
 
 9
-00:00:21,338 --> 00:00:23,681
-India launched Operation Sindoor — a
+00:00:19,255 --> 00:00:21,247
+India launched Operation Sindoor —
 
 10
-00:00:23,694 --> 00:00:25,804
-coordinated strike by the Army and Air
+00:00:21,807 --> 00:00:24,034
+a coordinated strike by the Army and Air
 
 11
-00:00:25,817 --> 00:00:28,291
+00:00:24,047 --> 00:00:26,586
 Force across nine sites in Pakistan and
 
 12
-00:00:28,304 --> 00:00:30,830
+00:00:26,599 --> 00:00:28,968
 Illegally Occupied Pakistani Kashmir.
 
 13
-00:00:31,730 --> 00:00:33,761
+00:00:29,385 --> 00:00:31,481
 According to India's Foreign Secretary
 
 14
-00:00:33,774 --> 00:00:36,118
+00:00:31,481 --> 00:00:34,060
 Vikram Misri and military officials at the
 
 15
-00:00:36,131 --> 00:00:37,694
-briefing, the strikes hit:
+00:00:34,073 --> 00:00:34,580
+briefing,
 
 16
-00:00:39,398 --> 00:00:42,119
-Markaz Taiba, Muridke — the very LeT
+00:00:35,166 --> 00:00:36,000
+the strikes hit:
 
 17
-00:00:42,132 --> 00:00:44,320
-training compound we described in Segment
+00:00:37,179 --> 00:00:40,252
+Markaz Taiba, Muridke — the very LeT
 
 18
-00:00:44,333 --> 00:00:46,872
-2, where officials publicly stated Ajmal
+00:00:40,265 --> 00:00:42,427
+training compound we described in Segment
 
 19
-00:00:46,885 --> 00:00:49,086
-Kasab and David Headley had trained.
+00:00:42,440 --> 00:00:42,791
+2,
 
 20
-00:00:50,802 --> 00:00:53,901
-Markaz Subhanallah, Bahawalpur — JeM's
+00:00:43,442 --> 00:00:45,109
+where officials publicly stated
 
 21
-00:00:53,914 --> 00:00:56,010
-headquarters and training / recruitment
+00:00:45,109 --> 00:00:47,869
+Ajmal Kasab and David Headley had trained.
 
 22
-00:00:56,023 --> 00:00:56,505
-center.
+00:00:48,998 --> 00:00:51,902
+Markaz Subhanallah, Bahawalpur —
 
 23
-00:00:58,222 --> 00:01:01,191
-Sawai Nala camp, Muzaffarabad — an LeT
+00:00:52,175 --> 00:00:54,714
+JeM's  headquarters and training
 
 24
-00:01:01,204 --> 00:01:03,509
-training site, which officials said was
+00:00:54,792 --> 00:00:56,029
+recruitment center.
 
 25
-00:01:03,522 --> 00:01:05,058
-linked to the planning of the Pahalgam
+00:00:57,203 --> 00:01:00,289
+Sawai Nala camp, Muzaffarabad — an LeT
 
 26
-00:01:05,071 --> 00:01:06,061
-attack itself.
+00:01:00,302 --> 00:01:01,083
+training site,
 
 27
-00:01:07,778 --> 00:01:10,955
-Syedna Bilal camp, Muzaffarabad — a JeM
+00:01:01,617 --> 00:01:03,336
+which officials said was linked to the
 
 28
-00:01:10,968 --> 00:01:11,997
-staging area.
+00:01:03,349 --> 00:01:05,576
+planning of the Pahalgam attack itself.
 
 29
-00:01:13,710 --> 00:01:16,536
-Gulpur camp, Kotli — an LeT base.
+00:01:06,718 --> 00:01:10,103
+Syedna Bilal camp, Muzaffarabad — a
 
 30
-00:01:18,250 --> 00:01:20,880
-Barnala camp, Bhimber — described as a
+00:01:10,116 --> 00:01:12,017
+JeM staging area.
 
 31
-00:01:20,893 --> 00:01:24,109
-site for weapons, IED, and jungle-survival
+00:01:13,195 --> 00:01:16,359
+Gulpur camp, Kotli — an LeT
 
 32
-00:01:24,122 --> 00:01:24,656
-training.
+00:01:16,372 --> 00:01:16,906
+base.
 
 33
-00:01:26,366 --> 00:01:29,244
-Abbas camp, Kotli — reportedly an LeT
+00:01:18,095 --> 00:01:20,387
+Barnala camp, Bhimber — described as a
 
 34
-00:01:29,257 --> 00:01:32,030
-fidayeen (suicide-attacker) training
+00:01:20,400 --> 00:01:21,533
+site for weapons,
 
 35
-00:01:32,043 --> 00:01:32,720
-facility.
+00:01:22,040 --> 00:01:24,475
+IED, and jungle-survival training.
 
 36
-00:01:34,434 --> 00:01:37,221
-Sarjal camp and Mahmoona Joya camp, both
+00:01:25,659 --> 00:01:28,732
+Abbas camp, Kotli — reportedly an
 
 37
-00:01:37,234 --> 00:01:39,799
-near Sialkot — the latter linked to Hizbul
+00:01:28,745 --> 00:01:32,078
+LeT fidayeen (suicide-attacker) training
 
 38
-00:01:39,812 --> 00:01:40,632
-Mujahideen.
+00:01:32,091 --> 00:01:32,834
+facility.
 
 39
-00:01:42,334 --> 00:01:44,183
-Indian officials said the strikes were
+00:01:33,974 --> 00:01:37,294
+Sarjal camp and Mahmoona Joya camp, both
 
 40
-00:01:44,300 --> 00:01:46,384
-"measured, non-escalatory, and
+00:01:37,307 --> 00:01:39,690
+near Sialkot — the latter linked to
 
 41
-00:01:46,397 --> 00:01:48,584
-proportionate," and that no Pakistani
+00:01:39,703 --> 00:01:41,096
+Hizbul Mujahideen.
 
 42
-00:01:48,597 --> 00:01:50,693
-military installations were targeted.
+00:01:42,275 --> 00:01:44,072
+Indian officials said the strikes were
 
 43
-00:01:51,594 --> 00:01:53,469
-Pakistan disputed elements of this
+00:01:44,385 --> 00:01:44,905
+"measured,
 
 44
-00:01:53,482 --> 00:01:56,125
-account — its military spokesperson called
+00:01:45,478 --> 00:01:47,496
+non-escalatory, and proportionate,"
 
 45
-00:01:56,138 --> 00:01:58,404
-it an attack on civilians, and local
+00:01:48,148 --> 00:01:49,892
+and that no Pakistani military
 
 46
-00:01:58,417 --> 00:02:00,318
-reporting from Bahawalpur described
+00:01:49,905 --> 00:01:51,260
+installations were targeted.
 
 47
-00:02:00,331 --> 00:02:02,336
-civilian casualties near the targeted
+00:01:51,676 --> 00:01:53,577
+Pakistan disputed elements of this
 
 48
-00:02:02,349 --> 00:02:03,443
-mosque complex.
+00:01:53,590 --> 00:01:53,994
+account —
 
 49
-00:02:04,341 --> 00:02:07,011
-Satellite imagery from Maxar, reviewed by
+00:01:54,762 --> 00:01:56,663
+its military spokesperson called it an
 
 50
-00:02:07,024 --> 00:02:09,576
-Reuters, showed structural damage at both
+00:01:56,676 --> 00:01:57,952
+attack on civilians,
 
 51
-00:02:09,589 --> 00:02:11,112
-Muridke and Bahawalpur.
+00:01:58,408 --> 00:02:00,543
+and local reporting from Bahawalpur
 
 52
-00:02:12,011 --> 00:02:14,328
-Al Jazeera noted that neither side's full
+00:02:00,543 --> 00:02:02,653
+described civilian casualties near the
 
 53
-00:02:14,341 --> 00:02:16,529
-claims could be independently verified.
+00:02:02,666 --> 00:02:04,202
+targeted mosque complex.
 
 54
-00:02:18,242 --> 00:02:20,391
-We include both sides of that dispute
+00:02:04,619 --> 00:02:06,351
+Satellite imagery from Maxar,
 
 55
-00:02:20,404 --> 00:02:22,448
-deliberately — because it matters.
+00:02:06,963 --> 00:02:08,095
+reviewed by Reuters,
 
 56
-00:02:23,348 --> 00:02:25,796
-What's not in dispute is this: the same
+00:02:08,590 --> 00:02:11,103
+showed structural damage at both Muridke
 
 57
-00:02:25,809 --> 00:02:27,867
-compound named in a Mumbai terrorist's
+00:02:11,103 --> 00:02:12,197
+and Bahawalpur.
 
 58
-00:02:27,880 --> 00:02:30,158
-confession seventeen years earlier was,
+00:02:12,614 --> 00:02:14,996
+Al Jazeera noted that neither side's full
 
 59
-00:02:30,458 --> 00:02:32,229
-per the Indian government's own account,
+00:02:15,010 --> 00:02:17,418
+claims could be independently verified.
 
 60
-00:02:32,541 --> 00:02:34,572
-standing at that location right up until
+00:02:18,602 --> 00:02:20,777
+We include both sides of that dispute
 
 61
-00:02:34,585 --> 00:02:35,653
+00:02:20,790 --> 00:02:22,482
+deliberately — because it matters.
+
+62
+00:02:22,912 --> 00:02:25,347
+What's not in dispute is this: the same
+
+63
+00:02:25,360 --> 00:02:27,430
+compound named in a Mumbai terrorist's
+
+64
+00:02:27,443 --> 00:02:29,579
+confession seventeen years earlier was,
+
+65
+00:02:29,904 --> 00:02:31,714
+per the Indian government's own account,
+
+66
+00:02:32,079 --> 00:02:34,188
+standing at that location right up until
+
+67
+00:02:34,201 --> 00:02:35,360
 the night it was struck.
 

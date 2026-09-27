@@ -9,7 +9,10 @@ out
 audio/cache/
 __pycache__/
 
-# renders: the final MP4 is too large for git (published as a GitHub Release asset)
+# renders stay local — video files are never committed
 output/*.mp4
-output/render.log
+output/*.log
 output/previews/
+output/versions/
+audio/pron_tests/
+audio/pronunciation/

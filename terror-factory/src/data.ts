@@ -132,7 +132,9 @@ export const findSpoken = (
 ): number | null => {
   const target = norm(phrase.split(/\s+/)[0]);
   const w = (s.words ?? []).find(
-    (x) => x.startMs >= fromMs && norm(x.text).startsWith(target),
+    (x) =>
+      x.startMs >= fromMs &&
+      x.text.split(/\s+/).some((part) => norm(part).startsWith(target)),
   );
   return w ? w.startMs : null;
 };

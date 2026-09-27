@@ -22,11 +22,20 @@ so editing `script.md` only re-voices the paragraphs that changed.
 
 ## Configuration
 
-- `config/video.json` — voice (`en-US-ChristopherNeural`), rate, card lengths, music level,
+- `config/video.json` — version, voice (`en-US-BrianMultilingualNeural`), `pronunciation_mode`, rate, card lengths, music level,
   channel name / handle / CTA for the end card (column hidden while empty), `pok_term`.
 - `config/locations.json` — researched coordinates for map pins (training camps, the nine
   Op Sindoor sites, Mumbai 26/11 sites for a follow-up video).
 - `config/photos.json` — licensed images, where they appear, captions and credits.
+- `config/pronunciations.json` / `pronunciations_native.json` — pronunciation guide (Latin
+  respellings; native Devanagari forms for Multilingual voices). Audit new scripts with
+  `.venv/bin/python pipeline/pronounce_audit.py`, audition with `npm run pronounce`.
+
+## Versions
+
+Every render is kept as `output/versions/terror-factory_v<X.Y>.mp4` (`final_video.mp4` = latest)
+and tagged `v<X.Y>` in git (video files are never committed or uploaded). Bump `version`
+in `config/video.json` before each render; see [CHANGELOG.md](CHANGELOG.md).
 
 ## Editorial / legal rules (published in India)
 
