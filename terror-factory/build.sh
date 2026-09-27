@@ -34,6 +34,7 @@ render() {
   $PY pipeline/qa.py
   $PY pipeline/audit.py
   $PY pipeline/youtube_meta.py
+  $PY pipeline/package_release.py
 }
 
 case "${1:-all}" in

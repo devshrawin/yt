@@ -47,7 +47,8 @@
     "teaser:master": ".venv/bin/python pipeline/master.py --teaser",
     "teaser": "npm run teaser:tts && npm run teaser:render && npm run teaser:master",
     "youtube:meta": ".venv/bin/python pipeline/youtube_meta.py",
-    "brand": "for c in Banner Avatar Thumbnail Watermark; do remotion still src/index.ts $c ../brand/$c.png --image-format=png; done"
+    "brand": "for c in Banner Avatar Thumbnail Watermark; do remotion still src/index.ts $c ../brand/$c.png --image-format=png; done",
+    "package": ".venv/bin/python pipeline/package_release.py"
   },
   "sideEffects": [
     "*.css"

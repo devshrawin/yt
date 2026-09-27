@@ -41,7 +41,8 @@ def chapter_name(seg):
     return title_case(seg["title"])
 
 
-def main():
+def build_meta():
+    """Return every upload text as a dict (used by main() and package_release.py)."""
     cfg = load_config()
     data = json.loads((ROOT / "segments.json").read_text())
     photos = json.loads((ROOT / "config" / "photos.json").read_text())
@@ -112,8 +113,19 @@ This is an explanatory documentary based on public court records and published r
              f"Full documentary on YouTube: {handle}\n\n"
              "#OperationSindoor #2611 #India #Documentary #Geopolitics #NationalSecurity #TheSisodiaFiles")
 
+    return {"cfg": cfg, "title": title, "description": desc, "tags": tags, "pinned": pinned,
+            "instagram": insta, "chapters": chapters, "teaser_version": teaser_cfg["version"],
+            "title_case": title_case(meta["title"])}
+
+
+def main():
+    m = build_meta()
+    cfg, title, desc, tags, pinned, insta = m["cfg"], m["title"], m["description"], m["tags"], m["pinned"], m["instagram"]
+    teaser_cfg = {"version": m["teaser_version"]}
+    meta = {"title": m["title_case"]}
+    chapters = m["chapters"]
     out = ROOT / "output" / "youtube_upload.md"
-    out.write_text(f"""# YouTube upload kit — {title_case(meta['title'])} (v{cfg['version']})
+    out.write_text(f"""# YouTube upload kit — {meta['title']} (v{cfg['version']})
 
 ## Title ({len(title)}/100)
 {title}
