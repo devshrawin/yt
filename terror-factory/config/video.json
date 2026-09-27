@@ -1,0 +1,27 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "voice": "en-US-ChristopherNeural",
+  "rate": "-4%",
+  "pitch": "+0Hz",
+  "paragraph_gap_ms": 700,
+  "segment_tail_ms": 900,
+  "title_card_seconds": 6,
+  "end_card_seconds": 12,
+  "music_volume": 0.07,
+  "channel_name": "",
+  "channel_handle": "",
+  "end_card_cta": "",
+  "sample_voices": [
+    "en-US-GuyNeural",
+    "en-US-ChristopherNeural",
+    "en-US-AndrewNeural",
+    "en-US-SteffanNeural",
+    "en-GB-RyanNeural",
+    "en-GB-ThomasNeural",
+    "en-IN-PrabhatNeural"
+  ],
+  "pok_term": "Illegally Occupied Pakistani Kashmir",
+  "_pok_term_note": "Legal/editorial requirement (published in India): every spoken/on-screen reference to Pakistan-administered / Azad Kashmir uses pok_term, and maps show all of J&K + Ladakh as India."
+}

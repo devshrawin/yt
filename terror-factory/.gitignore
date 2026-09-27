@@ -1,0 +1,15 @@
+node_modules
+dist
+.DS_Store
+.env
+out
+
+# pipeline caches / local tools
+.venv/
+audio/cache/
+__pycache__/
+
+# renders: the final MP4 is too large for git (published as a GitHub Release asset)
+output/*.mp4
+output/render.log
+output/previews/
