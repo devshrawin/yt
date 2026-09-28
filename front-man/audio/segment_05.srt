@@ -67,51 +67,51 @@ arrest.
 The jury split the verdict in two.
 
 18
-00:00:44,011 --> 00:00:46,042
+00:00:44,011 --> 00:00:46,003
 Not guilty of supporting the Mumbai
 
 19
-00:00:46,042 --> 00:00:48,412
+00:00:46,016 --> 00:00:48,360
 attacks — the event at the heart of this
 
 20
-00:00:48,425 --> 00:00:48,946
+00:00:48,373 --> 00:00:48,894
 story.
 
 21
-00:00:49,363 --> 00:00:51,667
+00:00:49,311 --> 00:00:51,615
 Guilty of supporting the Denmark plot,
 
 22
-00:00:52,123 --> 00:00:53,699
+00:00:52,071 --> 00:00:53,647
 and of material support to
 
 23
-00:00:53,699 --> 00:00:54,871
+00:00:53,647 --> 00:00:54,818
 Lashkar-e-Taiba.
 
 24
-00:00:55,287 --> 00:00:57,253
+00:00:55,235 --> 00:00:57,201
 Judge Harry Leinenweber called it "a
 
 25
-00:00:57,266 --> 00:00:58,321
+00:00:57,214 --> 00:00:58,269
 dastardly plot"
 
 26
-00:00:58,907 --> 00:01:00,769
+00:00:58,855 --> 00:01:00,717
 and sentenced him to fourteen years,
 
 27
-00:01:01,277 --> 00:01:03,647
+00:01:01,225 --> 00:01:03,594
 plus five years of supervised release.
 
 28
-00:01:04,810 --> 00:01:06,802
+00:01:04,762 --> 00:01:06,793
 Not convinced enough for Mumbai.
 
 29
-00:01:07,219 --> 00:01:09,706
+00:01:07,210 --> 00:01:09,697
 Convinced enough for everything around it.
 
 30

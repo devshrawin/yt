@@ -84,11 +84,11 @@
       "clock_start": null,
       "clock_events": [],
       "duration_seconds": 45.852,
-      "audio_hash": "f9ce0ca788f02dbf",
+      "audio_hash": "a208f8c5ef82e350",
       "paragraph_starts": [
         0,
-        18900,
-        26872
+        18948,
+        26920
       ],
       "audio_file": "audio/seg_00.mp3",
       "words": [
@@ -101,24 +101,24 @@
         {
           "text": "A",
           "startMs": 2005,
-          "endMs": 2070,
+          "endMs": 2083,
           "p": 0
         },
         {
           "text": "doctor",
-          "startMs": 2083,
+          "startMs": 2096,
           "endMs": 2487,
           "p": 0
         },
         {
           "text": "from",
           "startMs": 2500,
-          "endMs": 2669,
+          "endMs": 2656,
           "p": 0
         },
         {
           "text": "Chicago",
-          "startMs": 2682,
+          "startMs": 2669,
           "endMs": 3190,
           "p": 0
         },
@@ -131,18 +131,18 @@
         {
           "text": "into",
           "startMs": 3646,
-          "endMs": 3906,
+          "endMs": 3919,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 3919,
-          "endMs": 4036,
+          "startMs": 3932,
+          "endMs": 4049,
           "p": 0
         },
         {
           "text": "Taj Mahal Palace",
-          "startMs": 4036,
+          "startMs": 4050,
           "endMs": 5234,
           "p": 0
         },
@@ -155,355 +155,355 @@
         {
           "text": "in",
           "startMs": 5781,
-          "endMs": 5964,
+          "endMs": 5951,
           "p": 0
         },
         {
           "text": "Mumbai.",
           "startMs": 5964,
-          "endMs": 6549,
+          "endMs": 6576,
           "p": 0
         },
         {
           "text": "He",
-          "startMs": 6966,
-          "endMs": 7161,
+          "startMs": 6992,
+          "endMs": 7188,
           "p": 0
         },
         {
           "text": "is",
-          "startMs": 7174,
-          "endMs": 7331,
+          "startMs": 7201,
+          "endMs": 7357,
           "p": 0
         },
         {
           "text": "there",
-          "startMs": 7344,
-          "endMs": 7630,
+          "startMs": 7370,
+          "endMs": 7656,
           "p": 0
         },
         {
           "text": "on",
-          "startMs": 7643,
-          "endMs": 7839,
+          "startMs": 7669,
+          "endMs": 7865,
           "p": 0
         },
         {
           "text": "business —",
-          "startMs": 7852,
-          "endMs": 8477,
+          "startMs": 7878,
+          "endMs": 8503,
           "p": 0
         },
         {
           "text": "his",
-          "startMs": 8503,
-          "endMs": 9036,
+          "startMs": 8529,
+          "endMs": 9063,
           "p": 0
         },
         {
           "text": "immigration",
-          "startMs": 9050,
-          "endMs": 9701,
+          "startMs": 9076,
+          "endMs": 9727,
           "p": 0
         },
         {
           "text": "consultancy",
-          "startMs": 9714,
-          "endMs": 10495,
+          "startMs": 9740,
+          "endMs": 10521,
           "p": 0
         },
         {
           "text": "has",
-          "startMs": 10508,
-          "endMs": 10755,
+          "startMs": 10534,
+          "endMs": 10781,
           "p": 0
         },
         {
           "text": "an",
-          "startMs": 10768,
-          "endMs": 10872,
+          "startMs": 10794,
+          "endMs": 10898,
           "p": 0
         },
         {
           "text": "office",
-          "startMs": 10885,
-          "endMs": 11341,
+          "startMs": 10911,
+          "endMs": 11367,
           "p": 0
         },
         {
           "text": "in",
-          "startMs": 11354,
-          "endMs": 11484,
+          "startMs": 11380,
+          "endMs": 11510,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 11497,
-          "endMs": 11576,
+          "startMs": 11523,
+          "endMs": 11602,
           "p": 0
         },
         {
           "text": "city.",
-          "startMs": 11589,
-          "endMs": 12031,
+          "startMs": 11615,
+          "endMs": 12057,
           "p": 0
         },
         {
           "text": "About",
-          "startMs": 13299,
-          "endMs": 13651,
+          "startMs": 13347,
+          "endMs": 13699,
           "p": 0
         },
         {
           "text": "eleven",
-          "startMs": 13677,
-          "endMs": 14093,
+          "startMs": 13725,
+          "endMs": 14141,
           "p": 0
         },
         {
           "text": "days",
-          "startMs": 14106,
-          "endMs": 14380,
+          "startMs": 14154,
+          "endMs": 14428,
           "p": 0
         },
         {
           "text": "later,",
-          "startMs": 14393,
-          "endMs": 14888,
+          "startMs": 14441,
+          "endMs": 14936,
           "p": 0
         },
         {
           "text": "gunmen",
-          "startMs": 15291,
-          "endMs": 15786,
+          "startMs": 15339,
+          "endMs": 15834,
           "p": 0
         },
         {
           "text": "will",
-          "startMs": 15799,
-          "endMs": 15942,
+          "startMs": 15847,
+          "endMs": 15990,
           "p": 0
         },
         {
           "text": "be",
-          "startMs": 15955,
-          "endMs": 16099,
+          "startMs": 16003,
+          "endMs": 16147,
           "p": 0
         },
         {
           "text": "walking",
-          "startMs": 16112,
-          "endMs": 16606,
+          "startMs": 16160,
+          "endMs": 16654,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 16619,
-          "endMs": 16698,
+          "startMs": 16667,
+          "endMs": 16746,
           "p": 0
         },
         {
           "text": "same",
-          "startMs": 16711,
-          "endMs": 17036,
+          "startMs": 16759,
+          "endMs": 17084,
           "p": 0
         },
         {
           "text": "corridors.",
-          "startMs": 17049,
-          "endMs": 17804,
+          "startMs": 17097,
+          "endMs": 17852,
           "p": 0
         },
         {
           "text": "He",
-          "startMs": 18978,
-          "endMs": 19043,
+          "startMs": 19026,
+          "endMs": 19091,
           "p": 1
         },
         {
           "text": "never",
-          "startMs": 19056,
-          "endMs": 19382,
+          "startMs": 19104,
+          "endMs": 19430,
           "p": 1
         },
         {
           "text": "fires",
-          "startMs": 19395,
-          "endMs": 19864,
+          "startMs": 19443,
+          "endMs": 19912,
           "p": 1
         },
         {
           "text": "a",
-          "startMs": 19877,
-          "endMs": 19929,
+          "startMs": 19925,
+          "endMs": 19977,
           "p": 1
         },
         {
           "text": "shot.",
-          "startMs": 19942,
-          "endMs": 20462,
+          "startMs": 19990,
+          "endMs": 20510,
           "p": 1
         },
         {
           "text": "He",
-          "startMs": 20866,
-          "endMs": 20944,
+          "startMs": 20914,
+          "endMs": 20992,
           "p": 1
         },
         {
           "text": "never",
-          "startMs": 20957,
-          "endMs": 21296,
+          "startMs": 21005,
+          "endMs": 21344,
           "p": 1
         },
         {
           "text": "plans",
-          "startMs": 21309,
-          "endMs": 21752,
+          "startMs": 21357,
+          "endMs": 21800,
           "p": 1
         },
         {
           "text": "a",
-          "startMs": 21765,
-          "endMs": 21843,
+          "startMs": 21813,
+          "endMs": 21891,
           "p": 1
         },
         {
           "text": "target.",
-          "startMs": 21856,
-          "endMs": 22494,
+          "startMs": 21904,
+          "endMs": 22542,
           "p": 1
         },
         {
           "text": "What",
-          "startMs": 22910,
-          "endMs": 23028,
+          "startMs": 22958,
+          "endMs": 23076,
           "p": 1
         },
         {
           "text": "he",
-          "startMs": 23041,
-          "endMs": 23197,
+          "startMs": 23089,
+          "endMs": 23245,
           "p": 1
         },
         {
           "text": "supplies",
-          "startMs": 23210,
-          "endMs": 23783,
+          "startMs": 23258,
+          "endMs": 23831,
           "p": 1
         },
         {
           "text": "is",
-          "startMs": 23796,
-          "endMs": 23965,
+          "startMs": 23844,
+          "endMs": 24013,
           "p": 1
         },
         {
           "text": "rarer:",
-          "startMs": 23978,
-          "endMs": 24538,
+          "startMs": 24026,
+          "endMs": 24586,
           "p": 1
         },
         {
           "text": "a",
-          "startMs": 24772,
-          "endMs": 24890,
+          "startMs": 24820,
+          "endMs": 24938,
           "p": 1
         },
         {
           "text": "cover",
-          "startMs": 24903,
-          "endMs": 25215,
+          "startMs": 24951,
+          "endMs": 25263,
           "p": 1
         },
         {
           "text": "story.",
-          "startMs": 25228,
-          "endMs": 25788,
+          "startMs": 25276,
+          "endMs": 25836,
           "p": 1
         },
         {
           "text": "Three",
-          "startMs": 26963,
-          "endMs": 27250,
+          "startMs": 27011,
+          "endMs": 27246,
           "p": 2
         },
         {
           "text": "years",
-          "startMs": 27263,
-          "endMs": 27549,
+          "startMs": 27259,
+          "endMs": 27532,
           "p": 2
         },
         {
           "text": "later,",
-          "startMs": 27562,
-          "endMs": 28083,
+          "startMs": 27545,
+          "endMs": 28066,
           "p": 2
         },
         {
           "text": "an",
-          "startMs": 28343,
-          "endMs": 28487,
+          "startMs": 28404,
+          "endMs": 28548,
           "p": 2
         },
         {
           "text": "American",
-          "startMs": 28500,
-          "endMs": 28955,
+          "startMs": 28561,
+          "endMs": 29016,
           "p": 2
         },
         {
           "text": "jury",
-          "startMs": 28968,
-          "endMs": 29359,
+          "startMs": 29029,
+          "endMs": 29407,
           "p": 2
         },
         {
           "text": "clears",
-          "startMs": 29372,
-          "endMs": 29750,
+          "startMs": 29420,
+          "endMs": 29798,
           "p": 2
         },
         {
           "text": "him",
-          "startMs": 29763,
-          "endMs": 30023,
+          "startMs": 29811,
+          "endMs": 30071,
           "p": 2
         },
         {
           "text": "of",
-          "startMs": 30036,
-          "endMs": 30166,
+          "startMs": 30084,
+          "endMs": 30214,
           "p": 2
         },
         {
           "text": "helping",
-          "startMs": 30179,
-          "endMs": 30583,
+          "startMs": 30227,
+          "endMs": 30605,
           "p": 2
         },
         {
           "text": "plan",
-          "startMs": 30596,
-          "endMs": 30974,
+          "startMs": 30618,
+          "endMs": 31022,
           "p": 2
         },
         {
           "text": "the",
-          "startMs": 30987,
-          "endMs": 31078,
+          "startMs": 31035,
+          "endMs": 31113,
           "p": 2
         },
         {
           "text": "Mumbai",
-          "startMs": 31078,
-          "endMs": 31533,
+          "startMs": 31126,
+          "endMs": 31542,
           "p": 2
         },
         {
           "text": "attacks.",
-          "startMs": 31533,
-          "endMs": 32145,
+          "startMs": 31555,
+          "endMs": 32154,
           "p": 2
         },
         {
@@ -726,57 +726,57 @@
         {
           "text": "A doctor from Chicago checks into the",
           "startMs": 2005,
-          "endMs": 4036
+          "endMs": 4049
         },
         {
           "text": "Taj Mahal Palace Hotel in Mumbai.",
-          "startMs": 4036,
-          "endMs": 6549
+          "startMs": 4050,
+          "endMs": 6576
         },
         {
           "text": "He is there on business — his immigration",
-          "startMs": 6966,
-          "endMs": 9701
+          "startMs": 6992,
+          "endMs": 9727
         },
         {
           "text": "consultancy has an office in the city.",
-          "startMs": 9714,
-          "endMs": 12031
+          "startMs": 9740,
+          "endMs": 12057
         },
         {
           "text": "About eleven days later, gunmen will be",
-          "startMs": 13299,
-          "endMs": 16099
+          "startMs": 13347,
+          "endMs": 16147
         },
         {
           "text": "walking the same corridors.",
-          "startMs": 16112,
-          "endMs": 17804
+          "startMs": 16160,
+          "endMs": 17852
         },
         {
           "text": "He never fires a shot.",
-          "startMs": 18978,
-          "endMs": 20462
+          "startMs": 19026,
+          "endMs": 20510
         },
         {
           "text": "He never plans a target.",
-          "startMs": 20866,
-          "endMs": 22494
+          "startMs": 20914,
+          "endMs": 22542
         },
         {
           "text": "What he supplies is rarer: a cover story.",
-          "startMs": 22910,
-          "endMs": 25788
+          "startMs": 22958,
+          "endMs": 25836
         },
         {
           "text": "Three years later, an American jury clears",
-          "startMs": 26963,
-          "endMs": 29750
+          "startMs": 27011,
+          "endMs": 29798
         },
         {
           "text": "him of helping plan the Mumbai attacks.",
-          "startMs": 29763,
-          "endMs": 32145
+          "startMs": 29811,
+          "endMs": 32154
         },
         {
           "text": "Cleared.",
@@ -2100,12 +2100,12 @@
       "route_from_paragraph": 1,
       "clock_start": null,
       "clock_events": [],
-      "duration_seconds": 58.26,
-      "audio_hash": "34df44551a929efd",
+      "duration_seconds": 58.188,
+      "audio_hash": "1aa59be8b7aa9386",
       "paragraph_starts": [
         0,
         25980,
-        50968
+        50896
       ],
       "audio_file": "audio/seg_02.mp3",
       "words": [
@@ -2676,187 +2676,187 @@
         {
           "text": "there",
           "startMs": 43024,
-          "endMs": 43128,
+          "endMs": 43154,
           "p": 1
         },
         {
           "text": "was",
-          "startMs": 43141,
-          "endMs": 43324,
+          "startMs": 43168,
+          "endMs": 43350,
           "p": 1
         },
         {
           "text": "First",
-          "startMs": 43337,
-          "endMs": 43727,
+          "startMs": 43363,
+          "endMs": 43740,
           "p": 1
         },
         {
           "text": "World",
-          "startMs": 43740,
-          "endMs": 44092,
+          "startMs": 43753,
+          "endMs": 44079,
           "p": 1
         },
         {
           "text": "Immigration",
-          "startMs": 44105,
-          "endMs": 44678,
+          "startMs": 44092,
+          "endMs": 44652,
           "p": 1
         },
         {
           "text": "Services —",
-          "startMs": 44691,
-          "endMs": 45394,
+          "startMs": 44665,
+          "endMs": 45355,
           "p": 1
         },
         {
           "text": "offices",
-          "startMs": 45681,
-          "endMs": 46201,
+          "startMs": 45602,
+          "endMs": 46123,
           "p": 1
         },
         {
           "text": "across",
-          "startMs": 46214,
-          "endMs": 46631,
+          "startMs": 46136,
+          "endMs": 46553,
           "p": 1
         },
         {
           "text": "North",
-          "startMs": 46644,
-          "endMs": 46891,
+          "startMs": 46566,
+          "endMs": 46813,
           "p": 1
         },
         {
           "text": "America",
-          "startMs": 46904,
-          "endMs": 47503,
+          "startMs": 46826,
+          "endMs": 47386,
           "p": 1
         },
         {
           "text": "and,",
-          "startMs": 47516,
-          "endMs": 47920,
+          "startMs": 47399,
+          "endMs": 47790,
           "p": 1
         },
         {
           "text": "eventually,",
-          "startMs": 47933,
-          "endMs": 48636,
+          "startMs": 47816,
+          "endMs": 48506,
           "p": 1
         },
         {
           "text": "a",
-          "startMs": 48662,
-          "endMs": 48779,
+          "startMs": 48532,
+          "endMs": 48649,
           "p": 1
         },
         {
           "text": "branch",
-          "startMs": 48792,
-          "endMs": 49196,
+          "startMs": 48662,
+          "endMs": 49079,
           "p": 1
         },
         {
           "text": "in",
-          "startMs": 49209,
-          "endMs": 49326,
+          "startMs": 49092,
+          "endMs": 49209,
           "p": 1
         },
         {
           "text": "Mumbai.",
-          "startMs": 49326,
-          "endMs": 49886,
+          "startMs": 49222,
+          "endMs": 49795,
           "p": 1
         },
         {
           "text": "It",
-          "startMs": 51033,
-          "endMs": 51111,
+          "startMs": 50961,
+          "endMs": 51039,
           "p": 2
         },
         {
           "text": "was",
-          "startMs": 51124,
-          "endMs": 51241,
+          "startMs": 51052,
+          "endMs": 51169,
           "p": 2
         },
         {
           "text": "a",
-          "startMs": 51254,
-          "endMs": 51307,
+          "startMs": 51182,
+          "endMs": 51235,
           "p": 2
         },
         {
           "text": "real",
-          "startMs": 51320,
-          "endMs": 51619,
+          "startMs": 51248,
+          "endMs": 51547,
           "p": 2
         },
         {
           "text": "business,",
-          "startMs": 51632,
-          "endMs": 52166,
+          "startMs": 51560,
+          "endMs": 52094,
           "p": 2
         },
         {
           "text": "with",
-          "startMs": 52192,
-          "endMs": 52452,
+          "startMs": 52120,
+          "endMs": 52380,
           "p": 2
         },
         {
           "text": "real",
-          "startMs": 52465,
-          "endMs": 52726,
+          "startMs": 52393,
+          "endMs": 52654,
           "p": 2
         },
         {
           "text": "clients.",
-          "startMs": 52739,
-          "endMs": 53429,
+          "startMs": 52667,
+          "endMs": 53357,
           "p": 2
         },
         {
           "text": "That",
-          "startMs": 54702,
-          "endMs": 54910,
+          "startMs": 54630,
+          "endMs": 54838,
           "p": 2
         },
         {
           "text": "is",
-          "startMs": 54924,
-          "endMs": 55093,
+          "startMs": 54852,
+          "endMs": 55021,
           "p": 2
         },
         {
           "text": "exactly",
-          "startMs": 55106,
-          "endMs": 55757,
+          "startMs": 55034,
+          "endMs": 55685,
           "p": 2
         },
         {
           "text": "what",
-          "startMs": 55770,
-          "endMs": 55991,
+          "startMs": 55698,
+          "endMs": 55919,
           "p": 2
         },
         {
           "text": "made",
-          "startMs": 56004,
-          "endMs": 56213,
+          "startMs": 55932,
+          "endMs": 56141,
           "p": 2
         },
         {
           "text": "it",
-          "startMs": 56226,
-          "endMs": 56356,
+          "startMs": 56154,
+          "endMs": 56284,
           "p": 2
         },
         {
           "text": "useful.",
-          "startMs": 56369,
-          "endMs": 56981,
+          "startMs": 56297,
+          "endMs": 56909,
           "p": 2
         }
       ],
@@ -2959,27 +2959,27 @@
         {
           "text": "And there was First World Immigration",
           "startMs": 42907,
-          "endMs": 44678
+          "endMs": 44652
         },
         {
           "text": "Services — offices across North America",
-          "startMs": 44691,
-          "endMs": 47503
+          "startMs": 44665,
+          "endMs": 47386
         },
         {
           "text": "and, eventually, a branch in Mumbai.",
-          "startMs": 47516,
-          "endMs": 49886
+          "startMs": 47399,
+          "endMs": 49795
         },
         {
           "text": "It was a real business, with real clients.",
-          "startMs": 51033,
-          "endMs": 53429
+          "startMs": 50961,
+          "endMs": 53357
         },
         {
           "text": "That is exactly what made it useful.",
-          "startMs": 54702,
-          "endMs": 56981
+          "startMs": 54630,
+          "endMs": 56909
         }
       ]
     },
@@ -3052,1089 +3052,1089 @@
       ],
       "clock_start": null,
       "clock_events": [],
-      "duration_seconds": 75.852,
-      "audio_hash": "204000e5c476ce9f",
+      "duration_seconds": 75.636,
+      "audio_hash": "18fe9f6d25beb0a7",
       "paragraph_starts": [
         0,
-        20908,
-        39760
+        20692,
+        39544
       ],
       "audio_file": "audio/seg_03.mp3",
       "words": [
         {
           "text": "According",
-          "startMs": 51,
-          "endMs": 468,
+          "startMs": 65,
+          "endMs": 443,
           "p": 0
         },
         {
           "text": "to",
-          "startMs": 481,
-          "endMs": 637,
+          "startMs": 456,
+          "endMs": 612,
           "p": 0
         },
         {
           "text": "Indian",
-          "startMs": 650,
-          "endMs": 1028,
+          "startMs": 625,
+          "endMs": 1003,
           "p": 0
         },
         {
           "text": "investigators,",
-          "startMs": 1041,
-          "endMs": 2030,
+          "startMs": 1016,
+          "endMs": 1992,
           "p": 0
         },
         {
           "text": "Headley",
-          "startMs": 2460,
-          "endMs": 2968,
+          "startMs": 2331,
+          "endMs": 2839,
           "p": 0
         },
         {
           "text": "used",
-          "startMs": 2981,
-          "endMs": 3436,
+          "startMs": 2852,
+          "endMs": 3268,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 3450,
-          "endMs": 3554,
+          "startMs": 3281,
+          "endMs": 3359,
           "p": 0
         },
         {
           "text": "Mumbai",
-          "startMs": 3554,
-          "endMs": 4022,
+          "startMs": 3372,
+          "endMs": 3815,
           "p": 0
         },
         {
           "text": "branch",
-          "startMs": 4022,
-          "endMs": 4504,
+          "startMs": 3828,
+          "endMs": 4310,
           "p": 0
         },
         {
           "text": "as",
-          "startMs": 4530,
-          "endMs": 4699,
+          "startMs": 4336,
+          "endMs": 4505,
           "p": 0
         },
         {
           "text": "his",
-          "startMs": 4712,
-          "endMs": 4882,
+          "startMs": 4518,
+          "endMs": 4688,
           "p": 0
         },
         {
           "text": "cover",
-          "startMs": 4895,
-          "endMs": 5181,
+          "startMs": 4701,
+          "endMs": 4987,
           "p": 0
         },
         {
           "text": "story.",
-          "startMs": 5194,
-          "endMs": 5728,
+          "startMs": 5000,
+          "endMs": 5534,
           "p": 0
         },
         {
           "text": "He",
-          "startMs": 6172,
-          "endMs": 6328,
+          "startMs": 5977,
+          "endMs": 6133,
           "p": 0
         },
         {
           "text": "travelled",
-          "startMs": 6341,
-          "endMs": 6836,
+          "startMs": 6146,
+          "endMs": 6641,
           "p": 0
         },
         {
           "text": "to",
-          "startMs": 6849,
-          "endMs": 6979,
+          "startMs": 6654,
+          "endMs": 6784,
           "p": 0
         },
         {
           "text": "India",
-          "startMs": 6992,
-          "endMs": 7409,
+          "startMs": 6797,
+          "endMs": 7214,
           "p": 0
         },
         {
           "text": "again",
-          "startMs": 7422,
-          "endMs": 7943,
+          "startMs": 7227,
+          "endMs": 7747,
           "p": 0
         },
         {
           "text": "and",
-          "startMs": 7969,
-          "endMs": 8125,
+          "startMs": 7773,
+          "endMs": 7930,
           "p": 0
         },
         {
           "text": "again",
-          "startMs": 8138,
-          "endMs": 8646,
+          "startMs": 7943,
+          "endMs": 8451,
           "p": 0
         },
         {
           "text": "as",
-          "startMs": 8672,
-          "endMs": 8880,
+          "startMs": 8477,
+          "endMs": 8685,
           "p": 0
         },
         {
           "text": "an",
-          "startMs": 8893,
-          "endMs": 8984,
+          "startMs": 8698,
+          "endMs": 8789,
           "p": 0
         },
         {
           "text": "immigration",
-          "startMs": 8997,
-          "endMs": 9622,
+          "startMs": 8802,
+          "endMs": 9427,
           "p": 0
         },
         {
           "text": "consultant.",
-          "startMs": 9635,
-          "endMs": 10352,
+          "startMs": 9440,
+          "endMs": 10156,
           "p": 0
         },
         {
           "text": "His",
-          "startMs": 10768,
-          "endMs": 10990,
+          "startMs": 10573,
+          "endMs": 10794,
           "p": 0
         },
         {
           "text": "real",
-          "startMs": 11003,
-          "endMs": 11315,
+          "startMs": 10807,
+          "endMs": 11120,
           "p": 0
         },
         {
           "text": "assignment,",
-          "startMs": 11328,
-          "endMs": 12031,
+          "startMs": 11133,
+          "endMs": 11836,
           "p": 0
         },
         {
           "text": "investigators",
-          "startMs": 12331,
-          "endMs": 13255,
+          "startMs": 12135,
+          "endMs": 13060,
           "p": 0
         },
         {
           "text": "say,",
-          "startMs": 13268,
-          "endMs": 13620,
+          "startMs": 13073,
+          "endMs": 13424,
           "p": 0
         },
         {
           "text": "came",
-          "startMs": 13932,
-          "endMs": 14206,
+          "startMs": 13737,
+          "endMs": 14010,
           "p": 0
         },
         {
           "text": "from",
-          "startMs": 14219,
-          "endMs": 14440,
+          "startMs": 14023,
+          "endMs": 14245,
           "p": 0
         },
         {
           "text": "Lashkar-e-Taiba's",
-          "startMs": 14453,
-          "endMs": 15508,
+          "startMs": 14258,
+          "endMs": 15313,
           "p": 0
         },
         {
           "text": "Hafiz Saeed",
-          "startMs": 15521,
-          "endMs": 16367,
+          "startMs": 15326,
+          "endMs": 16172,
           "p": 0
         },
         {
           "text": "and",
-          "startMs": 16380,
-          "endMs": 16706,
+          "startMs": 16185,
+          "endMs": 16510,
           "p": 0
         },
         {
           "text": "Zaki-ur-Rehman Lakhvi:",
-          "startMs": 16719,
-          "endMs": 18086,
+          "startMs": 16523,
+          "endMs": 17891,
           "p": 0
         },
         {
           "text": "surveil",
-          "startMs": 18438,
-          "endMs": 18971,
+          "startMs": 18242,
+          "endMs": 18776,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 18984,
-          "endMs": 19062,
+          "startMs": 18789,
+          "endMs": 18867,
           "p": 0
         },
         {
           "text": "targets.",
-          "startMs": 19076,
-          "endMs": 19805,
+          "startMs": 18880,
+          "endMs": 19609,
           "p": 0
         },
         {
           "text": "Rana",
-          "startMs": 21012,
-          "endMs": 21520,
+          "startMs": 20796,
+          "endMs": 21304,
           "p": 1
         },
         {
           "text": "made",
-          "startMs": 21520,
-          "endMs": 21728,
+          "startMs": 21304,
+          "endMs": 21512,
           "p": 1
         },
         {
           "text": "his",
-          "startMs": 21741,
-          "endMs": 21924,
+          "startMs": 21525,
+          "endMs": 21708,
           "p": 1
         },
         {
           "text": "own",
-          "startMs": 21937,
-          "endMs": 22158,
+          "startMs": 21721,
+          "endMs": 21942,
           "p": 1
         },
         {
           "text": "trip",
-          "startMs": 22171,
-          "endMs": 22575,
+          "startMs": 21955,
+          "endMs": 22359,
           "p": 1
         },
         {
           "text": "roughly",
-          "startMs": 22601,
-          "endMs": 23030,
+          "startMs": 22385,
+          "endMs": 22814,
           "p": 1
         },
         {
           "text": "eleven",
-          "startMs": 23043,
-          "endMs": 23421,
+          "startMs": 22827,
+          "endMs": 23205,
           "p": 1
         },
         {
           "text": "days",
-          "startMs": 23434,
-          "endMs": 23812,
+          "startMs": 23218,
+          "endMs": 23596,
           "p": 1
         },
         {
           "text": "before",
-          "startMs": 23825,
-          "endMs": 24176,
+          "startMs": 23609,
+          "endMs": 23960,
           "p": 1
         },
         {
           "text": "the",
-          "startMs": 24189,
-          "endMs": 24267,
+          "startMs": 23973,
+          "endMs": 24051,
           "p": 1
         },
         {
           "text": "attack.",
-          "startMs": 24280,
-          "endMs": 24879,
+          "startMs": 24064,
+          "endMs": 24663,
           "p": 1
         },
         {
           "text": "He",
-          "startMs": 25335,
-          "endMs": 25491,
+          "startMs": 25119,
+          "endMs": 25275,
           "p": 1
         },
         {
           "text": "stayed",
-          "startMs": 25504,
-          "endMs": 25934,
+          "startMs": 25288,
+          "endMs": 25718,
           "p": 1
         },
         {
           "text": "at",
-          "startMs": 25947,
-          "endMs": 26064,
+          "startMs": 25731,
+          "endMs": 25848,
           "p": 1
         },
         {
           "text": "the",
-          "startMs": 26077,
-          "endMs": 26181,
+          "startMs": 25861,
+          "endMs": 25965,
           "p": 1
         },
         {
           "text": "Taj —",
-          "startMs": 26181,
-          "endMs": 26741,
+          "startMs": 25965,
+          "endMs": 26525,
           "p": 1
         },
         {
           "text": "one",
-          "startMs": 26767,
-          "endMs": 26989,
+          "startMs": 26551,
+          "endMs": 26773,
           "p": 1
         },
         {
           "text": "of",
-          "startMs": 27002,
-          "endMs": 27080,
+          "startMs": 26786,
+          "endMs": 26864,
           "p": 1
         },
         {
           "text": "the",
-          "startMs": 27093,
-          "endMs": 27197,
+          "startMs": 26877,
+          "endMs": 26981,
           "p": 1
         },
         {
           "text": "buildings",
-          "startMs": 27210,
-          "endMs": 27757,
+          "startMs": 26994,
+          "endMs": 27541,
           "p": 1
         },
         {
           "text": "that",
-          "startMs": 27770,
-          "endMs": 27939,
+          "startMs": 27554,
+          "endMs": 27723,
           "p": 1
         },
         {
           "text": "would",
-          "startMs": 27952,
-          "endMs": 28082,
+          "startMs": 27736,
+          "endMs": 27866,
           "p": 1
         },
         {
           "text": "soon",
-          "startMs": 28096,
-          "endMs": 28421,
+          "startMs": 27880,
+          "endMs": 28205,
           "p": 1
         },
         {
           "text": "be",
-          "startMs": 28434,
-          "endMs": 28642,
+          "startMs": 28218,
+          "endMs": 28426,
           "p": 1
         },
         {
           "text": "under",
-          "startMs": 28655,
-          "endMs": 28916,
+          "startMs": 28439,
+          "endMs": 28700,
           "p": 1
         },
         {
           "text": "siege.",
-          "startMs": 28929,
-          "endMs": 29515,
+          "startMs": 28713,
+          "endMs": 29299,
           "p": 1
         },
         {
           "text": "NIA",
-          "startMs": 29931,
-          "endMs": 30387,
+          "startMs": 29715,
+          "endMs": 30171,
           "p": 1
         },
         {
           "text": "records",
-          "startMs": 30400,
-          "endMs": 30934,
+          "startMs": 30184,
+          "endMs": 30718,
           "p": 1
         },
         {
           "text": "place",
-          "startMs": 30947,
-          "endMs": 31273,
+          "startMs": 30731,
+          "endMs": 31057,
           "p": 1
         },
         {
           "text": "him",
-          "startMs": 31286,
-          "endMs": 31546,
+          "startMs": 31070,
+          "endMs": 31330,
           "p": 1
         },
         {
           "text": "on",
-          "startMs": 31572,
-          "endMs": 31793,
+          "startMs": 31356,
+          "endMs": 31577,
           "p": 1
         },
         {
           "text": "other",
-          "startMs": 31806,
-          "endMs": 32041,
+          "startMs": 31590,
+          "endMs": 31825,
           "p": 1
         },
         {
           "text": "trips",
-          "startMs": 32054,
-          "endMs": 32536,
+          "startMs": 31838,
+          "endMs": 32320,
           "p": 1
         },
         {
           "text": "under",
-          "startMs": 32562,
-          "endMs": 32861,
+          "startMs": 32346,
+          "endMs": 32645,
           "p": 1
         },
         {
           "text": "the",
-          "startMs": 32874,
-          "endMs": 32952,
+          "startMs": 32658,
+          "endMs": 32736,
           "p": 1
         },
         {
           "text": "same",
-          "startMs": 32965,
-          "endMs": 33330,
+          "startMs": 32749,
+          "endMs": 33114,
           "p": 1
         },
         {
           "text": "consultant",
-          "startMs": 33343,
-          "endMs": 33916,
+          "startMs": 33127,
+          "endMs": 33700,
           "p": 1
         },
         {
           "text": "cover.",
-          "startMs": 33929,
-          "endMs": 34385,
+          "startMs": 33713,
+          "endMs": 34169,
           "p": 1
         },
         {
           "text": "Agra.",
-          "startMs": 35630,
-          "endMs": 36359,
+          "startMs": 35414,
+          "endMs": 36143,
           "p": 1
         },
         {
           "text": "Kochi.",
-          "startMs": 36737,
-          "endMs": 37505,
+          "startMs": 36521,
+          "endMs": 37289,
           "p": 1
         },
         {
           "text": "Hapur.",
-          "startMs": 37883,
-          "endMs": 38677,
+          "startMs": 37667,
+          "endMs": 38461,
           "p": 1
         },
         {
           "text": "So",
-          "startMs": 39811,
-          "endMs": 40019,
+          "startMs": 39595,
+          "endMs": 39803,
           "p": 2
         },
         {
           "text": "was",
-          "startMs": 40032,
-          "endMs": 40215,
+          "startMs": 39816,
+          "endMs": 39999,
           "p": 2
         },
         {
           "text": "he",
-          "startMs": 40228,
-          "endMs": 40475,
+          "startMs": 40012,
+          "endMs": 40259,
           "p": 2
         },
         {
           "text": "an",
-          "startMs": 40488,
-          "endMs": 40631,
+          "startMs": 40272,
+          "endMs": 40415,
           "p": 2
         },
         {
           "text": "unwitting",
-          "startMs": 40644,
-          "endMs": 41191,
+          "startMs": 40428,
+          "endMs": 40975,
           "p": 2
         },
         {
           "text": "friend?",
-          "startMs": 41204,
-          "endMs": 41751,
+          "startMs": 40988,
+          "endMs": 41535,
           "p": 2
         },
         {
           "text": "Or",
-          "startMs": 42169,
-          "endMs": 42494,
+          "startMs": 41953,
+          "endMs": 42278,
           "p": 2
         },
         {
           "text": "an",
-          "startMs": 42520,
-          "endMs": 42651,
+          "startMs": 42304,
+          "endMs": 42435,
           "p": 2
         },
         {
           "text": "informed",
-          "startMs": 42664,
-          "endMs": 43380,
+          "startMs": 42448,
+          "endMs": 43164,
           "p": 2
         },
         {
           "text": "participant?",
-          "startMs": 43393,
-          "endMs": 44226,
+          "startMs": 43177,
+          "endMs": 44010,
           "p": 2
         },
         {
           "text": "In",
-          "startMs": 45499,
-          "endMs": 45616,
+          "startMs": 45283,
+          "endMs": 45400,
           "p": 2
         },
         {
           "text": "early",
-          "startMs": 45629,
-          "endMs": 45955,
+          "startMs": 45413,
+          "endMs": 45739,
           "p": 2
         },
         {
           "text": "2009,",
-          "startMs": 45968,
-          "endMs": 46997,
+          "startMs": 45752,
+          "endMs": 46781,
           "p": 2
         },
         {
           "text": "months",
-          "startMs": 47322,
-          "endMs": 47778,
+          "startMs": 47106,
+          "endMs": 47562,
           "p": 2
         },
         {
           "text": "after",
-          "startMs": 47791,
-          "endMs": 48090,
+          "startMs": 47575,
+          "endMs": 47874,
           "p": 2
         },
         {
           "text": "the",
-          "startMs": 48103,
-          "endMs": 48181,
+          "startMs": 47887,
+          "endMs": 47965,
           "p": 2
         },
         {
           "text": "attack,",
-          "startMs": 48194,
-          "endMs": 48754,
+          "startMs": 47978,
+          "endMs": 48538,
           "p": 2
         },
         {
           "text": "Headley",
-          "startMs": 48963,
-          "endMs": 49405,
+          "startMs": 48747,
+          "endMs": 49189,
           "p": 2
         },
         {
           "text": "phoned",
-          "startMs": 49418,
-          "endMs": 49718,
+          "startMs": 49202,
+          "endMs": 49502,
           "p": 2
         },
         {
           "text": "Rana",
-          "startMs": 49718,
-          "endMs": 50095,
+          "startMs": 49502,
+          "endMs": 49879,
           "p": 2
         },
         {
           "text": "in",
-          "startMs": 50096,
-          "endMs": 50265,
+          "startMs": 49880,
+          "endMs": 50049,
           "p": 2
         },
         {
           "text": "Chicago.",
-          "startMs": 50278,
-          "endMs": 50968,
+          "startMs": 50062,
+          "endMs": 50752,
           "p": 2
         },
         {
           "text": "He",
-          "startMs": 51424,
-          "endMs": 51580,
+          "startMs": 51208,
+          "endMs": 51364,
           "p": 2
         },
         {
           "text": "wanted",
-          "startMs": 51593,
-          "endMs": 51892,
+          "startMs": 51377,
+          "endMs": 51676,
           "p": 2
         },
         {
           "text": "to",
-          "startMs": 51905,
-          "endMs": 51997,
+          "startMs": 51689,
+          "endMs": 51781,
           "p": 2
         },
         {
           "text": "play",
-          "startMs": 52010,
-          "endMs": 52283,
+          "startMs": 51794,
+          "endMs": 52067,
           "p": 2
         },
         {
           "text": "him",
-          "startMs": 52296,
-          "endMs": 52543,
+          "startMs": 52080,
+          "endMs": 52327,
           "p": 2
         },
         {
           "text": "a",
-          "startMs": 52569,
-          "endMs": 52674,
+          "startMs": 52353,
+          "endMs": 52458,
           "p": 2
         },
         {
           "text": "recording —",
-          "startMs": 52687,
-          "endMs": 53364,
+          "startMs": 52471,
+          "endMs": 53148,
           "p": 2
         },
         {
           "text": "senior",
-          "startMs": 53390,
-          "endMs": 53780,
+          "startMs": 53174,
+          "endMs": 53564,
           "p": 2
         },
         {
           "text": "Lashkar",
-          "startMs": 53780,
-          "endMs": 54145,
+          "startMs": 53564,
+          "endMs": 53929,
           "p": 2
         },
         {
           "text": "commanders",
-          "startMs": 54145,
-          "endMs": 54770,
+          "startMs": 53929,
+          "endMs": 54554,
           "p": 2
         },
         {
           "text": "directing",
-          "startMs": 54783,
-          "endMs": 55252,
+          "startMs": 54567,
+          "endMs": 55036,
           "p": 2
         },
         {
           "text": "the",
-          "startMs": 55265,
-          "endMs": 55343,
+          "startMs": 55049,
+          "endMs": 55127,
           "p": 2
         },
         {
           "text": "ten",
-          "startMs": 55356,
-          "endMs": 55616,
+          "startMs": 55140,
+          "endMs": 55400,
           "p": 2
         },
         {
           "text": "gunmen",
-          "startMs": 55629,
-          "endMs": 56033,
+          "startMs": 55413,
+          "endMs": 55817,
           "p": 2
         },
         {
           "text": "in",
-          "startMs": 56046,
-          "endMs": 56228,
+          "startMs": 55830,
+          "endMs": 56012,
           "p": 2
         },
         {
           "text": "real",
-          "startMs": 56241,
-          "endMs": 56463,
+          "startMs": 56025,
+          "endMs": 56247,
           "p": 2
         },
         {
           "text": "time.",
-          "startMs": 56476,
-          "endMs": 56918,
+          "startMs": 56260,
+          "endMs": 56702,
           "p": 2
         },
         {
           "text": "One",
-          "startMs": 57294,
-          "endMs": 57737,
+          "startMs": 57078,
+          "endMs": 57521,
           "p": 2
         },
         {
           "text": "voice",
-          "startMs": 57750,
-          "endMs": 58127,
+          "startMs": 57534,
+          "endMs": 57911,
           "p": 2
         },
         {
           "text": "impressed",
-          "startMs": 58140,
-          "endMs": 58713,
+          "startMs": 57924,
+          "endMs": 58497,
           "p": 2
         },
         {
           "text": "Rana.",
-          "startMs": 58726,
-          "endMs": 59273,
+          "startMs": 58510,
+          "endMs": 59057,
           "p": 2
         },
         {
           "text": "It",
-          "startMs": 59651,
-          "endMs": 59885,
+          "startMs": 59435,
+          "endMs": 59669,
           "p": 2
         },
         {
           "text": "belonged",
-          "startMs": 59898,
-          "endMs": 60367,
+          "startMs": 59682,
+          "endMs": 60151,
           "p": 2
         },
         {
           "text": "to",
-          "startMs": 60380,
-          "endMs": 60484,
+          "startMs": 60164,
+          "endMs": 60268,
           "p": 2
         },
         {
           "text": "Sajid Mir,",
-          "startMs": 60497,
-          "endMs": 61435,
+          "startMs": 60281,
+          "endMs": 61219,
           "p": 2
         },
         {
           "text": "an",
-          "startMs": 61786,
-          "endMs": 62008,
+          "startMs": 61570,
+          "endMs": 61792,
           "p": 2
         },
         {
           "text": "alleged",
-          "startMs": 62020,
-          "endMs": 62463,
+          "startMs": 61804,
+          "endMs": 62247,
           "p": 2
         },
         {
           "text": "mastermind",
-          "startMs": 62476,
-          "endMs": 63205,
+          "startMs": 62260,
+          "endMs": 62989,
           "p": 2
         },
         {
           "text": "who",
-          "startMs": 63218,
-          "endMs": 63336,
+          "startMs": 63002,
+          "endMs": 63120,
           "p": 2
         },
         {
           "text": "remains",
-          "startMs": 63349,
-          "endMs": 63869,
+          "startMs": 63133,
+          "endMs": 63653,
           "p": 2
         },
         {
           "text": "at",
-          "startMs": 63882,
-          "endMs": 64078,
+          "startMs": 63666,
+          "endMs": 63862,
           "p": 2
         },
         {
           "text": "large.",
-          "startMs": 64091,
-          "endMs": 64677,
+          "startMs": 63875,
+          "endMs": 64461,
           "p": 2
         },
         {
           "text": "And",
-          "startMs": 65096,
-          "endMs": 65317,
+          "startMs": 64880,
+          "endMs": 65101,
           "p": 2
         },
         {
           "text": "Maharashtra's",
-          "startMs": 65317,
-          "endMs": 66267,
+          "startMs": 65101,
+          "endMs": 66051,
           "p": 2
         },
         {
           "text": "Anti-Terrorism",
-          "startMs": 66280,
-          "endMs": 67166,
+          "startMs": 66064,
+          "endMs": 66950,
           "p": 2
         },
         {
           "text": "Squad",
-          "startMs": 67179,
-          "endMs": 67674,
+          "startMs": 66963,
+          "endMs": 67458,
           "p": 2
         },
         {
           "text": "says",
-          "startMs": 68208,
-          "endMs": 68403,
+          "startMs": 67992,
+          "endMs": 68187,
           "p": 2
         },
         {
           "text": "it",
-          "startMs": 68416,
-          "endMs": 68494,
+          "startMs": 68200,
+          "endMs": 68278,
           "p": 2
         },
         {
           "text": "holds",
-          "startMs": 68507,
-          "endMs": 68845,
+          "startMs": 68291,
+          "endMs": 68629,
           "p": 2
         },
         {
           "text": "recordings",
-          "startMs": 68859,
-          "endMs": 69392,
+          "startMs": 68643,
+          "endMs": 69176,
           "p": 2
         },
         {
           "text": "of",
-          "startMs": 69405,
-          "endMs": 69536,
+          "startMs": 69189,
+          "endMs": 69320,
           "p": 2
         },
         {
           "text": "both",
-          "startMs": 69549,
-          "endMs": 69861,
+          "startMs": 69333,
+          "endMs": 69645,
           "p": 2
         },
         {
           "text": "men",
-          "startMs": 69874,
-          "endMs": 70226,
+          "startMs": 69658,
+          "endMs": 70010,
           "p": 2
         },
         {
           "text": "congratulating",
-          "startMs": 70239,
-          "endMs": 71020,
+          "startMs": 70023,
+          "endMs": 70804,
           "p": 2
         },
         {
           "text": "Lashkar's",
-          "startMs": 71020,
-          "endMs": 71528,
+          "startMs": 70804,
+          "endMs": 71312,
           "p": 2
         },
         {
           "text": "leadership",
-          "startMs": 71541,
-          "endMs": 72153,
+          "startMs": 71325,
+          "endMs": 71937,
           "p": 2
         },
         {
           "text": "on",
-          "startMs": 72218,
-          "endMs": 72374,
+          "startMs": 72002,
+          "endMs": 72158,
           "p": 2
         },
         {
           "text": "the",
-          "startMs": 72387,
-          "endMs": 72504,
+          "startMs": 72171,
+          "endMs": 72288,
           "p": 2
         },
         {
           "text": "\"excellent",
-          "startMs": 72517,
-          "endMs": 72986,
+          "startMs": 72301,
+          "endMs": 72770,
           "p": 2
         },
         {
           "text": "planning",
-          "startMs": 72999,
-          "endMs": 73520,
+          "startMs": 72783,
+          "endMs": 73304,
           "p": 2
         },
         {
           "text": "and",
-          "startMs": 73533,
-          "endMs": 73715,
+          "startMs": 73317,
+          "endMs": 73499,
           "p": 2
         },
         {
           "text": "execution.\"",
-          "startMs": 73728,
-          "endMs": 74457,
+          "startMs": 73512,
+          "endMs": 74241,
           "p": 2
         }
       ],
       "caption_lines": [
         {
           "text": "According to Indian investigators, Headley",
-          "startMs": 51,
-          "endMs": 2968
+          "startMs": 65,
+          "endMs": 2839
         },
         {
           "text": "used the Mumbai branch as his cover story.",
-          "startMs": 2981,
-          "endMs": 5728
+          "startMs": 2852,
+          "endMs": 5534
         },
         {
           "text": "He travelled to India again and again as",
-          "startMs": 6172,
-          "endMs": 8880
+          "startMs": 5977,
+          "endMs": 8685
         },
         {
           "text": "an immigration consultant.",
-          "startMs": 8893,
-          "endMs": 10352
+          "startMs": 8698,
+          "endMs": 10156
         },
         {
           "text": "His real assignment, investigators say,",
-          "startMs": 10768,
-          "endMs": 13620
+          "startMs": 10573,
+          "endMs": 13424
         },
         {
           "text": "came from Lashkar-e-Taiba's Hafiz Saeed",
-          "startMs": 13932,
-          "endMs": 16367
+          "startMs": 13737,
+          "endMs": 16172
         },
         {
           "text": "and Zaki-ur-Rehman Lakhvi: surveil the",
-          "startMs": 16380,
-          "endMs": 19062
+          "startMs": 16185,
+          "endMs": 18867
         },
         {
           "text": "targets.",
-          "startMs": 19076,
-          "endMs": 19805
+          "startMs": 18880,
+          "endMs": 19609
         },
         {
           "text": "Rana made his own trip roughly eleven days",
-          "startMs": 21012,
-          "endMs": 23812
+          "startMs": 20796,
+          "endMs": 23596
         },
         {
           "text": "before the attack.",
-          "startMs": 23825,
-          "endMs": 24879
+          "startMs": 23609,
+          "endMs": 24663
         },
         {
           "text": "He stayed at the Taj — one of the",
-          "startMs": 25335,
-          "endMs": 27197
+          "startMs": 25119,
+          "endMs": 26981
         },
         {
           "text": "buildings that would soon be under siege.",
-          "startMs": 27210,
-          "endMs": 29515
+          "startMs": 26994,
+          "endMs": 29299
         },
         {
           "text": "NIA records place him on other trips under",
-          "startMs": 29931,
-          "endMs": 32861
+          "startMs": 29715,
+          "endMs": 32645
         },
         {
           "text": "the same consultant cover.",
-          "startMs": 32874,
-          "endMs": 34385
+          "startMs": 32658,
+          "endMs": 34169
         },
         {
           "text": "Agra.",
-          "startMs": 35630,
-          "endMs": 36359
+          "startMs": 35414,
+          "endMs": 36143
         },
         {
           "text": "Kochi.",
-          "startMs": 36737,
-          "endMs": 37505
+          "startMs": 36521,
+          "endMs": 37289
         },
         {
           "text": "Hapur.",
-          "startMs": 37883,
-          "endMs": 38677
+          "startMs": 37667,
+          "endMs": 38461
         },
         {
           "text": "So was he an unwitting friend?",
-          "startMs": 39811,
-          "endMs": 41751
+          "startMs": 39595,
+          "endMs": 41535
         },
         {
           "text": "Or an informed participant?",
-          "startMs": 42169,
-          "endMs": 44226
+          "startMs": 41953,
+          "endMs": 44010
         },
         {
           "text": "In early 2009, months after the attack,",
-          "startMs": 45499,
-          "endMs": 48754
+          "startMs": 45283,
+          "endMs": 48538
         },
         {
           "text": "Headley phoned Rana in Chicago.",
-          "startMs": 48963,
-          "endMs": 50968
+          "startMs": 48747,
+          "endMs": 50752
         },
         {
           "text": "He wanted to play him a recording — senior",
-          "startMs": 51424,
-          "endMs": 53780
+          "startMs": 51208,
+          "endMs": 53564
         },
         {
           "text": "Lashkar commanders directing the ten",
-          "startMs": 53780,
-          "endMs": 55616
+          "startMs": 53564,
+          "endMs": 55400
         },
         {
           "text": "gunmen in real time.",
-          "startMs": 55629,
-          "endMs": 56918
+          "startMs": 55413,
+          "endMs": 56702
         },
         {
           "text": "One voice impressed Rana.",
-          "startMs": 57294,
-          "endMs": 59273
+          "startMs": 57078,
+          "endMs": 59057
         },
         {
           "text": "It belonged to Sajid Mir, an alleged",
-          "startMs": 59651,
-          "endMs": 62463
+          "startMs": 59435,
+          "endMs": 62247
         },
         {
           "text": "mastermind who remains at large.",
-          "startMs": 62476,
-          "endMs": 64677
+          "startMs": 62260,
+          "endMs": 64461
         },
         {
           "text": "And Maharashtra's Anti-Terrorism Squad",
-          "startMs": 65096,
-          "endMs": 67674
+          "startMs": 64880,
+          "endMs": 67458
         },
         {
           "text": "says it holds recordings of both men",
-          "startMs": 68208,
-          "endMs": 70226
+          "startMs": 67992,
+          "endMs": 70010
         },
         {
           "text": "congratulating Lashkar's leadership on the",
-          "startMs": 70239,
-          "endMs": 72504
+          "startMs": 70023,
+          "endMs": 72288
         },
         {
           "text": "\"excellent planning and execution.\"",
-          "startMs": 72517,
-          "endMs": 74457
+          "startMs": 72301,
+          "endMs": 74241
         }
       ]
     },
@@ -4199,521 +4199,521 @@
       "route_from_paragraph": 0,
       "clock_start": null,
       "clock_events": [],
-      "duration_seconds": 34.376,
-      "audio_hash": "def618025baf0de7",
+      "duration_seconds": 34.592,
+      "audio_hash": "a7b185d18c2ecf25",
       "paragraph_starts": [
         0,
-        18604
+        18724
       ],
       "audio_file": "audio/seg_04.mp3",
       "words": [
         {
           "text": "Mumbai",
-          "startMs": 78,
-          "endMs": 586,
+          "startMs": 91,
+          "endMs": 703,
           "p": 0
         },
         {
           "text": "wasn't",
-          "startMs": 586,
-          "endMs": 1029,
+          "startMs": 716,
+          "endMs": 1133,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 1042,
-          "endMs": 1120,
+          "startMs": 1146,
+          "endMs": 1224,
           "p": 0
         },
         {
           "text": "only",
-          "startMs": 1133,
-          "endMs": 1536,
+          "startMs": 1237,
+          "endMs": 1641,
           "p": 0
         },
         {
           "text": "operation",
-          "startMs": 1550,
-          "endMs": 2214,
+          "startMs": 1654,
+          "endMs": 2318,
           "p": 0
         },
         {
           "text": "running",
-          "startMs": 2227,
-          "endMs": 2617,
+          "startMs": 2331,
+          "endMs": 2721,
           "p": 0
         },
         {
           "text": "through",
-          "startMs": 2630,
-          "endMs": 2839,
+          "startMs": 2734,
+          "endMs": 2943,
           "p": 0
         },
         {
           "text": "this",
-          "startMs": 2852,
-          "endMs": 3034,
+          "startMs": 2956,
+          "endMs": 3138,
           "p": 0
         },
         {
           "text": "friendship.",
-          "startMs": 3047,
-          "endMs": 3698,
+          "startMs": 3151,
+          "endMs": 3815,
           "p": 0
         },
         {
           "text": "The",
-          "startMs": 4115,
-          "endMs": 4193,
+          "startMs": 4232,
+          "endMs": 4310,
           "p": 0
         },
         {
           "text": "two",
-          "startMs": 4206,
-          "endMs": 4401,
+          "startMs": 4323,
+          "endMs": 4518,
           "p": 0
         },
         {
           "text": "men",
-          "startMs": 4414,
-          "endMs": 4701,
+          "startMs": 4531,
+          "endMs": 4818,
           "p": 0
         },
         {
           "text": "were",
-          "startMs": 4714,
-          "endMs": 4896,
+          "startMs": 4831,
+          "endMs": 5013,
           "p": 0
         },
         {
           "text": "also",
-          "startMs": 4909,
-          "endMs": 5247,
+          "startMs": 5026,
+          "endMs": 5365,
           "p": 0
         },
         {
           "text": "drawn",
-          "startMs": 5260,
-          "endMs": 5651,
+          "startMs": 5378,
+          "endMs": 5768,
           "p": 0
         },
         {
           "text": "into",
-          "startMs": 5664,
-          "endMs": 5964,
+          "startMs": 5781,
+          "endMs": 6081,
           "p": 0
         },
         {
           "text": "a",
-          "startMs": 5977,
-          "endMs": 6042,
+          "startMs": 6094,
+          "endMs": 6159,
           "p": 0
         },
         {
           "text": "plot",
-          "startMs": 6055,
-          "endMs": 6484,
+          "startMs": 6172,
+          "endMs": 6602,
           "p": 0
         },
         {
           "text": "against",
-          "startMs": 6562,
-          "endMs": 6914,
-          "p": 0
-        },
-        {
-          "text": "the",
-          "startMs": 6927,
+          "startMs": 6680,
           "endMs": 7031,
           "p": 0
         },
         {
-          "text": "Danish",
+          "text": "the",
           "startMs": 7044,
-          "endMs": 7448,
+          "endMs": 7148,
+          "p": 0
+        },
+        {
+          "text": "Danish",
+          "startMs": 7161,
+          "endMs": 7565,
           "p": 0
         },
         {
           "text": "newspaper",
-          "startMs": 7461,
-          "endMs": 8138,
+          "startMs": 7578,
+          "endMs": 8255,
           "p": 0
         },
         {
           "text": "Jyllands-Posten,",
-          "startMs": 8151,
-          "endMs": 9115,
+          "startMs": 8268,
+          "endMs": 9232,
           "p": 0
         },
         {
           "text": "which",
-          "startMs": 9753,
-          "endMs": 9896,
+          "startMs": 9870,
+          "endMs": 10013,
           "p": 0
         },
         {
           "text": "had",
-          "startMs": 9909,
-          "endMs": 10091,
+          "startMs": 10026,
+          "endMs": 10208,
           "p": 0
         },
         {
           "text": "published",
-          "startMs": 10104,
-          "endMs": 10547,
+          "startMs": 10221,
+          "endMs": 10664,
           "p": 0
         },
         {
           "text": "cartoons",
-          "startMs": 10560,
-          "endMs": 11263,
-          "p": 0
-        },
-        {
-          "text": "of",
-          "startMs": 11276,
+          "startMs": 10677,
           "endMs": 11380,
           "p": 0
         },
         {
-          "text": "the",
+          "text": "of",
           "startMs": 11393,
-          "endMs": 11484,
+          "endMs": 11497,
+          "p": 0
+        },
+        {
+          "text": "the",
+          "startMs": 11510,
+          "endMs": 11602,
           "p": 0
         },
         {
           "text": "Prophet",
-          "startMs": 11497,
-          "endMs": 11901,
+          "startMs": 11615,
+          "endMs": 12018,
           "p": 0
         },
         {
           "text": "Muhammad",
-          "startMs": 11914,
-          "endMs": 12422,
+          "startMs": 12031,
+          "endMs": 12539,
           "p": 0
         },
         {
           "text": "in 2005.",
-          "startMs": 12435,
-          "endMs": 13607,
+          "startMs": 12552,
+          "endMs": 13724,
           "p": 0
         },
         {
           "text": "Court",
-          "startMs": 14010,
-          "endMs": 14245,
+          "startMs": 14128,
+          "endMs": 14362,
           "p": 0
         },
         {
           "text": "documents",
-          "startMs": 14258,
-          "endMs": 14844,
+          "startMs": 14375,
+          "endMs": 14961,
           "p": 0
         },
         {
           "text": "describe",
-          "startMs": 14857,
-          "endMs": 15286,
+          "startMs": 14974,
+          "endMs": 15404,
           "p": 0
         },
         {
           "text": "a",
-          "startMs": 15300,
-          "endMs": 15378,
+          "startMs": 15417,
+          "endMs": 15495,
           "p": 0
         },
         {
           "text": "plan",
-          "startMs": 15391,
-          "endMs": 15820,
+          "startMs": 15508,
+          "endMs": 15938,
           "p": 0
         },
         {
           "text": "to",
-          "startMs": 15833,
-          "endMs": 15977,
+          "startMs": 15951,
+          "endMs": 16094,
           "p": 0
         },
         {
           "text": "attack",
-          "startMs": 15990,
-          "endMs": 16471,
+          "startMs": 16107,
+          "endMs": 16589,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 16484,
-          "endMs": 16562,
+          "startMs": 16602,
+          "endMs": 16680,
           "p": 0
         },
         {
           "text": "paper's",
-          "startMs": 16576,
-          "endMs": 16979,
+          "startMs": 16693,
+          "endMs": 17096,
           "p": 0
         },
         {
           "text": "staff.",
-          "startMs": 16992,
-          "endMs": 17513,
+          "startMs": 17109,
+          "endMs": 17630,
           "p": 0
         },
         {
           "text": "It",
-          "startMs": 18654,
-          "endMs": 18784,
+          "startMs": 18774,
+          "endMs": 18904,
           "p": 1
         },
         {
           "text": "was",
-          "startMs": 18797,
-          "endMs": 18940,
+          "startMs": 18917,
+          "endMs": 19060,
           "p": 1
         },
         {
           "text": "never",
-          "startMs": 18954,
-          "endMs": 19292,
+          "startMs": 19074,
+          "endMs": 19412,
           "p": 1
         },
         {
           "text": "carried",
-          "startMs": 19305,
-          "endMs": 19709,
+          "startMs": 19425,
+          "endMs": 19829,
           "p": 1
         },
         {
           "text": "out.",
-          "startMs": 19722,
-          "endMs": 20112,
+          "startMs": 19842,
+          "endMs": 20232,
           "p": 1
         },
         {
           "text": "Instead,",
-          "startMs": 21351,
-          "endMs": 21923,
+          "startMs": 21471,
+          "endMs": 22043,
           "p": 1
         },
         {
           "text": "it",
-          "startMs": 21936,
-          "endMs": 22080,
+          "startMs": 22056,
+          "endMs": 22200,
           "p": 1
         },
         {
           "text": "caught",
-          "startMs": 22093,
-          "endMs": 22418,
+          "startMs": 22213,
+          "endMs": 22538,
           "p": 1
         },
         {
           "text": "them.",
-          "startMs": 22431,
-          "endMs": 22757,
+          "startMs": 22551,
+          "endMs": 22877,
           "p": 1
         },
         {
           "text": "On",
-          "startMs": 23175,
-          "endMs": 23292,
+          "startMs": 23295,
+          "endMs": 23412,
           "p": 1
         },
         {
           "text": "October 18, 2009,",
-          "startMs": 23305,
-          "endMs": 25389,
+          "startMs": 23425,
+          "endMs": 25509,
           "p": 1
         },
         {
           "text": "federal",
-          "startMs": 25870,
-          "endMs": 26339,
+          "startMs": 25990,
+          "endMs": 26459,
           "p": 1
         },
         {
           "text": "agents",
-          "startMs": 26352,
-          "endMs": 26795,
+          "startMs": 26472,
+          "endMs": 26915,
           "p": 1
         },
         {
           "text": "arrested",
-          "startMs": 26808,
-          "endMs": 27342,
+          "startMs": 26928,
+          "endMs": 27462,
           "p": 1
         },
         {
           "text": "both",
-          "startMs": 27355,
-          "endMs": 27641,
+          "startMs": 27475,
+          "endMs": 27761,
           "p": 1
         },
         {
           "text": "men",
-          "startMs": 27654,
-          "endMs": 27993,
+          "startMs": 27774,
+          "endMs": 28113,
           "p": 1
         },
         {
           "text": "at",
-          "startMs": 28006,
-          "endMs": 28162,
+          "startMs": 28126,
+          "endMs": 28282,
           "p": 1
         },
         {
           "text": "O'Hare",
-          "startMs": 28175,
-          "endMs": 28566,
+          "startMs": 28295,
+          "endMs": 28686,
           "p": 1
         },
         {
           "text": "Airport.",
-          "startMs": 28579,
-          "endMs": 29178,
+          "startMs": 28699,
+          "endMs": 29298,
           "p": 1
         },
         {
           "text": "It",
-          "startMs": 30407,
-          "endMs": 30524,
+          "startMs": 30526,
+          "endMs": 30669,
           "p": 1
         },
         {
           "text": "was",
-          "startMs": 30537,
-          "endMs": 30680,
+          "startMs": 30682,
+          "endMs": 30826,
           "p": 1
         },
         {
           "text": "almost",
-          "startMs": 30694,
-          "endMs": 31071,
+          "startMs": 30838,
+          "endMs": 31216,
           "p": 1
         },
         {
           "text": "a",
-          "startMs": 31084,
-          "endMs": 31136,
+          "startMs": 31229,
+          "endMs": 31281,
           "p": 1
         },
         {
           "text": "year",
-          "startMs": 31149,
-          "endMs": 31592,
+          "startMs": 31294,
+          "endMs": 31737,
           "p": 1
         },
         {
           "text": "to",
-          "startMs": 31605,
-          "endMs": 31761,
+          "startMs": 31750,
+          "endMs": 31893,
           "p": 1
         },
         {
           "text": "the",
-          "startMs": 31774,
-          "endMs": 31891,
+          "startMs": 31906,
+          "endMs": 32023,
           "p": 1
         },
         {
           "text": "day",
-          "startMs": 31904,
-          "endMs": 32191,
+          "startMs": 32036,
+          "endMs": 32336,
           "p": 1
         },
         {
           "text": "after",
-          "startMs": 32204,
-          "endMs": 32529,
+          "startMs": 32349,
+          "endMs": 32674,
           "p": 1
         },
         {
           "text": "Mumbai.",
-          "startMs": 32529,
-          "endMs": 33089,
+          "startMs": 32687,
+          "endMs": 33299,
           "p": 1
         }
       ],
       "caption_lines": [
         {
           "text": "Mumbai wasn't the only operation running",
-          "startMs": 78,
-          "endMs": 2617
+          "startMs": 91,
+          "endMs": 2721
         },
         {
           "text": "through this friendship.",
-          "startMs": 2630,
-          "endMs": 3698
+          "startMs": 2734,
+          "endMs": 3815
         },
         {
           "text": "The two men were also drawn into a plot",
-          "startMs": 4115,
-          "endMs": 6484
+          "startMs": 4232,
+          "endMs": 6602
         },
         {
           "text": "against the Danish newspaper",
-          "startMs": 6562,
-          "endMs": 8138
+          "startMs": 6680,
+          "endMs": 8255
         },
         {
           "text": "Jyllands-Posten,",
-          "startMs": 8151,
-          "endMs": 9115
+          "startMs": 8268,
+          "endMs": 9232
         },
         {
           "text": "which had published cartoons of the",
-          "startMs": 9753,
-          "endMs": 11484
+          "startMs": 9870,
+          "endMs": 11602
         },
         {
           "text": "Prophet Muhammad in 2005.",
-          "startMs": 11497,
-          "endMs": 13607
+          "startMs": 11615,
+          "endMs": 13724
         },
         {
           "text": "Court documents describe a plan to attack",
-          "startMs": 14010,
-          "endMs": 16471
+          "startMs": 14128,
+          "endMs": 16589
         },
         {
           "text": "the paper's staff.",
-          "startMs": 16484,
-          "endMs": 17513
+          "startMs": 16602,
+          "endMs": 17630
         },
         {
           "text": "It was never carried out.",
-          "startMs": 18654,
-          "endMs": 20112
+          "startMs": 18774,
+          "endMs": 20232
         },
         {
           "text": "Instead, it caught them.",
-          "startMs": 21351,
-          "endMs": 22757
+          "startMs": 21471,
+          "endMs": 22877
         },
         {
           "text": "On October 18, 2009,",
-          "startMs": 23175,
-          "endMs": 25389
+          "startMs": 23295,
+          "endMs": 25509
         },
         {
           "text": "federal agents arrested both men at O'Hare",
-          "startMs": 25870,
-          "endMs": 28566
+          "startMs": 25990,
+          "endMs": 28686
         },
         {
           "text": "Airport.",
-          "startMs": 28579,
-          "endMs": 29178
+          "startMs": 28699,
+          "endMs": 29298
         },
         {
           "text": "It was almost a year to the day after",
-          "startMs": 30407,
-          "endMs": 32529
+          "startMs": 30526,
+          "endMs": 32674
         },
         {
           "text": "Mumbai.",
-          "startMs": 32529,
-          "endMs": 33089
+          "startMs": 32687,
+          "endMs": 33299
         }
       ]
     },
@@ -4833,12 +4833,12 @@
       "clock_start": null,
       "clock_events": [],
       "duration_seconds": 75.144,
-      "audio_hash": "d7d970502a54a961",
+      "audio_hash": "582d7b34eb72c114",
       "paragraph_starts": [
         0,
         13980,
         40480,
-        64732
+        64684
       ],
       "audio_file": "audio/seg_05.mp3",
       "words": [
@@ -5355,349 +5355,349 @@
         {
           "text": "Not",
           "startMs": 44011,
-          "endMs": 44337,
+          "endMs": 44324,
           "p": 2
         },
         {
           "text": "guilty",
-          "startMs": 44350,
-          "endMs": 44818,
+          "startMs": 44337,
+          "endMs": 44792,
           "p": 2
         },
         {
           "text": "of",
-          "startMs": 44831,
-          "endMs": 44936,
+          "startMs": 44805,
+          "endMs": 44910,
           "p": 2
         },
         {
           "text": "supporting",
-          "startMs": 44949,
-          "endMs": 45509,
+          "startMs": 44923,
+          "endMs": 45483,
           "p": 2
         },
         {
           "text": "the",
-          "startMs": 45522,
-          "endMs": 45613,
+          "startMs": 45496,
+          "endMs": 45574,
           "p": 2
         },
         {
           "text": "Mumbai",
-          "startMs": 45613,
-          "endMs": 46042,
+          "startMs": 45587,
+          "endMs": 46003,
           "p": 2
         },
         {
           "text": "attacks —",
-          "startMs": 46042,
-          "endMs": 46706,
+          "startMs": 46016,
+          "endMs": 46667,
           "p": 2
         },
         {
           "text": "the",
-          "startMs": 47019,
-          "endMs": 47123,
+          "startMs": 46993,
+          "endMs": 47084,
           "p": 2
         },
         {
           "text": "event",
-          "startMs": 47136,
-          "endMs": 47592,
+          "startMs": 47097,
+          "endMs": 47540,
           "p": 2
         },
         {
           "text": "at",
-          "startMs": 47618,
-          "endMs": 47748,
+          "startMs": 47566,
+          "endMs": 47696,
           "p": 2
         },
         {
           "text": "the",
-          "startMs": 47761,
-          "endMs": 47839,
+          "startMs": 47709,
+          "endMs": 47787,
           "p": 2
         },
         {
           "text": "heart",
-          "startMs": 47852,
-          "endMs": 48152,
+          "startMs": 47800,
+          "endMs": 48100,
           "p": 2
         },
         {
           "text": "of",
-          "startMs": 48165,
-          "endMs": 48256,
+          "startMs": 48113,
+          "endMs": 48204,
           "p": 2
         },
         {
           "text": "this",
-          "startMs": 48269,
-          "endMs": 48412,
+          "startMs": 48217,
+          "endMs": 48360,
           "p": 2
         },
         {
           "text": "story.",
-          "startMs": 48425,
-          "endMs": 48946,
+          "startMs": 48373,
+          "endMs": 48894,
           "p": 2
         },
         {
           "text": "Guilty",
-          "startMs": 49363,
-          "endMs": 49923,
+          "startMs": 49311,
+          "endMs": 49871,
           "p": 2
         },
         {
           "text": "of",
-          "startMs": 49936,
-          "endMs": 50040,
+          "startMs": 49884,
+          "endMs": 49988,
           "p": 2
         },
         {
           "text": "supporting",
-          "startMs": 50053,
-          "endMs": 50626,
+          "startMs": 50001,
+          "endMs": 50574,
           "p": 2
         },
         {
           "text": "the",
-          "startMs": 50639,
-          "endMs": 50743,
+          "startMs": 50587,
+          "endMs": 50691,
           "p": 2
         },
         {
           "text": "Denmark",
-          "startMs": 50756,
-          "endMs": 51225,
+          "startMs": 50704,
+          "endMs": 51173,
           "p": 2
         },
         {
           "text": "plot,",
-          "startMs": 51238,
-          "endMs": 51667,
+          "startMs": 51186,
+          "endMs": 51615,
           "p": 2
         },
         {
           "text": "and",
-          "startMs": 52123,
-          "endMs": 52358,
+          "startMs": 52071,
+          "endMs": 52305,
           "p": 2
         },
         {
           "text": "of",
-          "startMs": 52371,
-          "endMs": 52488,
+          "startMs": 52318,
+          "endMs": 52436,
           "p": 2
         },
         {
           "text": "material",
-          "startMs": 52501,
-          "endMs": 52996,
+          "startMs": 52449,
+          "endMs": 52943,
           "p": 2
         },
         {
           "text": "support",
-          "startMs": 53009,
-          "endMs": 53542,
+          "startMs": 52956,
+          "endMs": 53490,
           "p": 2
         },
         {
           "text": "to",
-          "startMs": 53555,
-          "endMs": 53699,
+          "startMs": 53503,
+          "endMs": 53647,
           "p": 2
         },
         {
           "text": "Lashkar-e-Taiba.",
-          "startMs": 53699,
-          "endMs": 54871,
+          "startMs": 53647,
+          "endMs": 54818,
           "p": 2
         },
         {
           "text": "Judge",
-          "startMs": 55287,
-          "endMs": 55652,
+          "startMs": 55235,
+          "endMs": 55600,
           "p": 2
         },
         {
           "text": "Harry",
-          "startMs": 55665,
-          "endMs": 55977,
+          "startMs": 55613,
+          "endMs": 55925,
           "p": 2
         },
         {
           "text": "Leinenweber",
-          "startMs": 55990,
-          "endMs": 56706,
+          "startMs": 55938,
+          "endMs": 56654,
           "p": 2
         },
         {
           "text": "called",
-          "startMs": 56720,
-          "endMs": 56993,
+          "startMs": 56667,
+          "endMs": 56941,
           "p": 2
         },
         {
           "text": "it",
-          "startMs": 57006,
-          "endMs": 57136,
+          "startMs": 56954,
+          "endMs": 57084,
           "p": 2
         },
         {
           "text": "\"a",
-          "startMs": 57149,
-          "endMs": 57253,
+          "startMs": 57097,
+          "endMs": 57201,
           "p": 2
         },
         {
           "text": "dastardly",
-          "startMs": 57266,
-          "endMs": 57865,
+          "startMs": 57214,
+          "endMs": 57813,
           "p": 2
         },
         {
           "text": "plot\"",
-          "startMs": 57878,
-          "endMs": 58321,
+          "startMs": 57826,
+          "endMs": 58269,
           "p": 2
         },
         {
           "text": "and",
-          "startMs": 58907,
-          "endMs": 59011,
+          "startMs": 58855,
+          "endMs": 58959,
           "p": 2
         },
         {
           "text": "sentenced",
-          "startMs": 59024,
-          "endMs": 59506,
+          "startMs": 58972,
+          "endMs": 59454,
           "p": 2
         },
         {
           "text": "him",
-          "startMs": 59519,
-          "endMs": 59701,
+          "startMs": 59467,
+          "endMs": 59649,
           "p": 2
         },
         {
           "text": "to",
-          "startMs": 59714,
-          "endMs": 59818,
+          "startMs": 59662,
+          "endMs": 59766,
           "p": 2
         },
         {
           "text": "fourteen",
-          "startMs": 59831,
-          "endMs": 60300,
+          "startMs": 59779,
+          "endMs": 60248,
           "p": 2
         },
         {
           "text": "years,",
-          "startMs": 60313,
-          "endMs": 60769,
+          "startMs": 60261,
+          "endMs": 60717,
           "p": 2
         },
         {
           "text": "plus",
-          "startMs": 61277,
-          "endMs": 61589,
+          "startMs": 61225,
+          "endMs": 61537,
           "p": 2
         },
         {
           "text": "five",
-          "startMs": 61602,
-          "endMs": 61941,
+          "startMs": 61550,
+          "endMs": 61889,
           "p": 2
         },
         {
           "text": "years",
-          "startMs": 61954,
-          "endMs": 62332,
+          "startMs": 61902,
+          "endMs": 62279,
           "p": 2
         },
         {
           "text": "of",
-          "startMs": 62344,
-          "endMs": 62436,
+          "startMs": 62292,
+          "endMs": 62384,
           "p": 2
         },
         {
           "text": "supervised",
-          "startMs": 62449,
-          "endMs": 63113,
+          "startMs": 62397,
+          "endMs": 63061,
           "p": 2
         },
         {
           "text": "release.",
-          "startMs": 63126,
-          "endMs": 63647,
+          "startMs": 63074,
+          "endMs": 63594,
           "p": 2
         },
         {
           "text": "Not",
-          "startMs": 64810,
-          "endMs": 65097,
+          "startMs": 64762,
+          "endMs": 65036,
           "p": 3
         },
         {
           "text": "convinced",
-          "startMs": 65110,
-          "endMs": 65630,
+          "startMs": 65049,
+          "endMs": 65569,
           "p": 3
         },
         {
           "text": "enough",
-          "startMs": 65643,
-          "endMs": 65956,
+          "startMs": 65582,
+          "endMs": 65908,
           "p": 3
         },
         {
           "text": "for",
-          "startMs": 65969,
-          "endMs": 66190,
+          "startMs": 65921,
+          "endMs": 66129,
           "p": 3
         },
         {
           "text": "Mumbai.",
-          "startMs": 66190,
-          "endMs": 66802,
+          "startMs": 66142,
+          "endMs": 66793,
           "p": 3
         },
         {
           "text": "Convinced",
-          "startMs": 67219,
-          "endMs": 67766,
+          "startMs": 67210,
+          "endMs": 67757,
           "p": 3
         },
         {
           "text": "enough",
-          "startMs": 67779,
-          "endMs": 68170,
+          "startMs": 67770,
+          "endMs": 68161,
           "p": 3
         },
         {
           "text": "for",
-          "startMs": 68183,
-          "endMs": 68469,
+          "startMs": 68174,
+          "endMs": 68460,
           "p": 3
         },
         {
           "text": "everything",
-          "startMs": 68482,
-          "endMs": 68938,
+          "startMs": 68473,
+          "endMs": 68929,
           "p": 3
         },
         {
           "text": "around",
-          "startMs": 68951,
-          "endMs": 69406,
+          "startMs": 68942,
+          "endMs": 69398,
           "p": 3
         },
         {
           "text": "it.",
-          "startMs": 69420,
-          "endMs": 69706,
+          "startMs": 69411,
+          "endMs": 69697,
           "p": 3
         },
         {
@@ -5844,62 +5844,62 @@
         {
           "text": "Not guilty of supporting the Mumbai",
           "startMs": 44011,
-          "endMs": 46042
+          "endMs": 46003
         },
         {
           "text": "attacks — the event at the heart of this",
-          "startMs": 46042,
-          "endMs": 48412
+          "startMs": 46016,
+          "endMs": 48360
         },
         {
           "text": "story.",
-          "startMs": 48425,
-          "endMs": 48946
+          "startMs": 48373,
+          "endMs": 48894
         },
         {
           "text": "Guilty of supporting the Denmark plot,",
-          "startMs": 49363,
-          "endMs": 51667
+          "startMs": 49311,
+          "endMs": 51615
         },
         {
           "text": "and of material support to",
-          "startMs": 52123,
-          "endMs": 53699
+          "startMs": 52071,
+          "endMs": 53647
         },
         {
           "text": "Lashkar-e-Taiba.",
-          "startMs": 53699,
-          "endMs": 54871
+          "startMs": 53647,
+          "endMs": 54818
         },
         {
           "text": "Judge Harry Leinenweber called it \"a",
-          "startMs": 55287,
-          "endMs": 57253
+          "startMs": 55235,
+          "endMs": 57201
         },
         {
           "text": "dastardly plot\"",
-          "startMs": 57266,
-          "endMs": 58321
+          "startMs": 57214,
+          "endMs": 58269
         },
         {
           "text": "and sentenced him to fourteen years,",
-          "startMs": 58907,
-          "endMs": 60769
+          "startMs": 58855,
+          "endMs": 60717
         },
         {
           "text": "plus five years of supervised release.",
-          "startMs": 61277,
-          "endMs": 63647
+          "startMs": 61225,
+          "endMs": 63594
         },
         {
           "text": "Not convinced enough for Mumbai.",
-          "startMs": 64810,
-          "endMs": 66802
+          "startMs": 64762,
+          "endMs": 66793
         },
         {
           "text": "Convinced enough for everything around it.",
-          "startMs": 67219,
-          "endMs": 69706
+          "startMs": 67210,
+          "endMs": 69697
         },
         {
           "text": "And that gap would decide the next",
@@ -6047,7 +6047,7 @@
       "clock_start": null,
       "clock_events": [],
       "duration_seconds": 86.196,
-      "audio_hash": "6260ee7b6977c193",
+      "audio_hash": "1f6cfe9d6730c3cf",
       "paragraph_starts": [
         0,
         19356,
@@ -6094,78 +6094,78 @@
         {
           "text": "US,",
           "startMs": 1875,
-          "endMs": 2370,
+          "endMs": 2357,
           "p": 0
         },
         {
           "text": "Rana",
-          "startMs": 2383,
-          "endMs": 2812,
+          "startMs": 2370,
+          "endMs": 2799,
           "p": 0
         },
         {
           "text": "was",
-          "startMs": 2812,
-          "endMs": 2995,
+          "startMs": 2800,
+          "endMs": 2982,
           "p": 0
         },
         {
           "text": "tried",
-          "startMs": 3008,
-          "endMs": 3385,
+          "startMs": 2995,
+          "endMs": 3372,
           "p": 0
         },
         {
           "text": "for",
-          "startMs": 3398,
-          "endMs": 3594,
+          "startMs": 3385,
+          "endMs": 3568,
           "p": 0
         },
         {
           "text": "one",
-          "startMs": 3607,
-          "endMs": 3815,
+          "startMs": 3581,
+          "endMs": 3789,
           "p": 0
         },
         {
           "text": "specific",
-          "startMs": 3828,
-          "endMs": 4336,
+          "startMs": 3802,
+          "endMs": 4310,
           "p": 0
         },
         {
           "text": "crime",
-          "startMs": 4349,
-          "endMs": 4779,
+          "startMs": 4323,
+          "endMs": 4740,
           "p": 0
         },
         {
           "text": "connected",
-          "startMs": 4792,
-          "endMs": 5247,
+          "startMs": 4753,
+          "endMs": 5195,
           "p": 0
         },
         {
           "text": "to",
-          "startMs": 5260,
-          "endMs": 5378,
+          "startMs": 5208,
+          "endMs": 5312,
           "p": 0
         },
         {
           "text": "Mumbai —",
-          "startMs": 5378,
-          "endMs": 5912,
+          "startMs": 5326,
+          "endMs": 5898,
           "p": 0
         },
         {
           "text": "and",
-          "startMs": 5938,
-          "endMs": 6107,
+          "startMs": 5924,
+          "endMs": 6094,
           "p": 0
         },
         {
           "text": "acquitted.",
-          "startMs": 6120,
+          "startMs": 6107,
           "endMs": 6719,
           "p": 0
         },
@@ -7145,11 +7145,11 @@
         {
           "text": "In the US, Rana was tried for one specific",
           "startMs": 1680,
-          "endMs": 4336
+          "endMs": 4310
         },
         {
           "text": "crime connected to Mumbai — and acquitted.",
-          "startMs": 4349,
+          "startMs": 4323,
           "endMs": 6719
         },
         {
@@ -7390,7 +7390,7 @@
       "clock_start": null,
       "clock_events": [],
       "duration_seconds": 33.968,
-      "audio_hash": "531d0393a35bc47b",
+      "audio_hash": "762ddb2aba3c63a1",
       "paragraph_starts": [
         0,
         17580
@@ -7616,97 +7616,97 @@
         {
           "text": "Secretary",
           "startMs": 17671,
-          "endMs": 18296,
+          "endMs": 18309,
           "p": 1
         },
         {
           "text": "of",
-          "startMs": 18309,
-          "endMs": 18387,
+          "startMs": 18322,
+          "endMs": 18400,
           "p": 1
         },
         {
           "text": "State",
-          "startMs": 18400,
-          "endMs": 18765,
+          "startMs": 18413,
+          "endMs": 18778,
           "p": 1
         },
         {
           "text": "Marco",
-          "startMs": 18778,
-          "endMs": 19156,
+          "startMs": 18791,
+          "endMs": 19169,
           "p": 1
         },
         {
           "text": "Rubio",
-          "startMs": 19169,
-          "endMs": 19546,
+          "startMs": 19182,
+          "endMs": 19559,
           "p": 1
         },
         {
           "text": "said",
-          "startMs": 19559,
-          "endMs": 19807,
+          "startMs": 19572,
+          "endMs": 19820,
           "p": 1
         },
         {
           "text": "Rana",
-          "startMs": 19807,
-          "endMs": 20223,
+          "startMs": 19820,
+          "endMs": 20236,
           "p": 1
         },
         {
           "text": "would",
-          "startMs": 20223,
-          "endMs": 20432,
+          "startMs": 20236,
+          "endMs": 20445,
           "p": 1
         },
         {
           "text": "face",
-          "startMs": 20445,
-          "endMs": 20796,
+          "startMs": 20458,
+          "endMs": 20809,
           "p": 1
         },
         {
           "text": "justice",
-          "startMs": 20809,
-          "endMs": 21356,
+          "startMs": 20822,
+          "endMs": 21369,
           "p": 1
         },
         {
           "text": "for",
-          "startMs": 21369,
-          "endMs": 21512,
+          "startMs": 21382,
+          "endMs": 21525,
           "p": 1
         },
         {
           "text": "his",
-          "startMs": 21525,
-          "endMs": 21708,
+          "startMs": 21538,
+          "endMs": 21721,
           "p": 1
         },
         {
           "text": "role",
-          "startMs": 21721,
-          "endMs": 22098,
+          "startMs": 21734,
+          "endMs": 22124,
           "p": 1
         },
         {
           "text": "in",
-          "startMs": 22111,
-          "endMs": 22268,
+          "startMs": 22150,
+          "endMs": 22294,
           "p": 1
         },
         {
           "text": "the",
-          "startMs": 22281,
+          "startMs": 22307,
           "endMs": 22359,
           "p": 1
         },
         {
           "text": "Mumbai",
-          "startMs": 22359,
-          "endMs": 22788,
+          "startMs": 22372,
+          "endMs": 22775,
           "p": 1
         },
         {
@@ -7892,16 +7892,16 @@
         {
           "text": "Secretary of State Marco Rubio said Rana",
           "startMs": 17671,
-          "endMs": 20223
+          "endMs": 20236
         },
         {
           "text": "would face justice for his role in the",
-          "startMs": 20223,
+          "startMs": 20236,
           "endMs": 22359
         },
         {
           "text": "Mumbai attacks.",
-          "startMs": 22359,
+          "startMs": 22372,
           "endMs": 23400
         },
         {
@@ -8010,11 +8010,11 @@
       },
       "clock_start": null,
       "clock_events": [],
-      "duration_seconds": 38.52,
-      "audio_hash": "123a0d55d133abc3",
+      "duration_seconds": 38.568,
+      "audio_hash": "bf8779601726b969",
       "paragraph_starts": [
         0,
-        24940
+        24988
       ],
       "audio_file": "audio/seg_08.mp3",
       "words": [
@@ -8057,439 +8057,439 @@
         {
           "text": "In",
           "startMs": 2812,
-          "endMs": 2917,
+          "endMs": 2891,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 2930,
-          "endMs": 3021,
+          "startMs": 2904,
+          "endMs": 2995,
           "p": 0
         },
         {
           "text": "first",
-          "startMs": 3034,
-          "endMs": 3385,
+          "startMs": 3008,
+          "endMs": 3333,
           "p": 0
         },
         {
           "text": "weeks,",
-          "startMs": 3398,
-          "endMs": 3789,
+          "startMs": 3346,
+          "endMs": 3763,
           "p": 0
         },
         {
           "text": "Mumbai",
-          "startMs": 3802,
-          "endMs": 4141,
+          "startMs": 3789,
+          "endMs": 4206,
           "p": 0
         },
         {
           "text": "Police",
-          "startMs": 4141,
-          "endMs": 4648,
+          "startMs": 4219,
+          "endMs": 4727,
           "p": 0
         },
         {
           "text": "and",
-          "startMs": 4661,
-          "endMs": 4818,
+          "startMs": 4740,
+          "endMs": 4909,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 4831,
-          "endMs": 4896,
+          "startMs": 4922,
+          "endMs": 4987,
           "p": 0
         },
         {
           "text": "NIA",
-          "startMs": 4909,
-          "endMs": 5560,
+          "startMs": 5000,
+          "endMs": 5638,
           "p": 0
         },
         {
           "text": "reportedly",
-          "startMs": 5573,
-          "endMs": 6159,
+          "startMs": 5651,
+          "endMs": 6224,
           "p": 0
         },
         {
           "text": "questioned",
-          "startMs": 6172,
-          "endMs": 6589,
+          "startMs": 6237,
+          "endMs": 6654,
           "p": 0
         },
         {
           "text": "him",
-          "startMs": 6602,
-          "endMs": 6810,
+          "startMs": 6667,
+          "endMs": 6875,
           "p": 0
         },
         {
           "text": "for",
-          "startMs": 6823,
-          "endMs": 7057,
+          "startMs": 6888,
+          "endMs": 7122,
           "p": 0
         },
         {
           "text": "eight",
-          "startMs": 7070,
-          "endMs": 7305,
+          "startMs": 7135,
+          "endMs": 7370,
           "p": 0
         },
         {
           "text": "to",
-          "startMs": 7318,
-          "endMs": 7435,
+          "startMs": 7383,
+          "endMs": 7500,
           "p": 0
         },
         {
           "text": "ten",
-          "startMs": 7448,
-          "endMs": 7669,
+          "startMs": 7513,
+          "endMs": 7734,
           "p": 0
         },
         {
           "text": "hours",
-          "startMs": 7682,
-          "endMs": 7995,
+          "startMs": 7747,
+          "endMs": 8060,
           "p": 0
         },
         {
           "text": "a",
-          "startMs": 8008,
-          "endMs": 8073,
+          "startMs": 8073,
+          "endMs": 8138,
           "p": 0
         },
         {
           "text": "day.",
-          "startMs": 8086,
-          "endMs": 8438,
+          "startMs": 8151,
+          "endMs": 8503,
           "p": 0
         },
         {
           "text": "Reports",
-          "startMs": 8841,
-          "endMs": 9388,
+          "startMs": 8906,
+          "endMs": 9453,
           "p": 0
         },
         {
           "text": "described",
-          "startMs": 9401,
-          "endMs": 10013,
+          "startMs": 9466,
+          "endMs": 10078,
           "p": 0
         },
         {
           "text": "his",
-          "startMs": 10026,
-          "endMs": 10221,
+          "startMs": 10091,
+          "endMs": 10286,
           "p": 0
         },
         {
           "text": "answers",
-          "startMs": 10234,
-          "endMs": 10820,
+          "startMs": 10300,
+          "endMs": 10885,
           "p": 0
         },
         {
           "text": "as",
-          "startMs": 10833,
-          "endMs": 11055,
+          "startMs": 10898,
+          "endMs": 11120,
           "p": 0
         },
         {
           "text": "evasive.",
-          "startMs": 11068,
-          "endMs": 11771,
+          "startMs": 11133,
+          "endMs": 11836,
           "p": 0
         },
         {
           "text": "Investigators",
-          "startMs": 12188,
-          "endMs": 13073,
+          "startMs": 12253,
+          "endMs": 13138,
           "p": 0
         },
         {
           "text": "took",
-          "startMs": 13086,
-          "endMs": 13320,
+          "startMs": 13151,
+          "endMs": 13385,
           "p": 0
         },
         {
           "text": "voice",
-          "startMs": 13333,
-          "endMs": 13789,
+          "startMs": 13398,
+          "endMs": 13854,
           "p": 0
         },
         {
           "text": "and",
-          "startMs": 13802,
-          "endMs": 13984,
+          "startMs": 13867,
+          "endMs": 14049,
           "p": 0
         },
         {
           "text": "handwriting",
-          "startMs": 13997,
-          "endMs": 14557,
+          "startMs": 14062,
+          "endMs": 14622,
           "p": 0
         },
         {
           "text": "samples,",
-          "startMs": 14570,
-          "endMs": 15234,
+          "startMs": 14635,
+          "endMs": 15299,
           "p": 0
         },
         {
           "text": "to",
-          "startMs": 15560,
-          "endMs": 15690,
+          "startMs": 15625,
+          "endMs": 15755,
           "p": 0
         },
         {
           "text": "match",
-          "startMs": 15703,
-          "endMs": 16081,
+          "startMs": 15768,
+          "endMs": 16146,
           "p": 0
         },
         {
           "text": "against",
-          "startMs": 16094,
-          "endMs": 16523,
+          "startMs": 16159,
+          "endMs": 16589,
           "p": 0
         },
         {
           "text": "intercepted",
-          "startMs": 16536,
-          "endMs": 17214,
+          "startMs": 16602,
+          "endMs": 17279,
           "p": 0
         },
         {
           "text": "communications",
-          "startMs": 17227,
-          "endMs": 18034,
+          "startMs": 17292,
+          "endMs": 18099,
           "p": 0
         },
         {
           "text": "with",
-          "startMs": 18047,
-          "endMs": 18190,
+          "startMs": 18112,
+          "endMs": 18255,
           "p": 0
         },
         {
           "text": "Headley.",
-          "startMs": 18203,
-          "endMs": 18724,
+          "startMs": 18268,
+          "endMs": 18789,
           "p": 0
         },
         {
           "text": "Solicitor",
-          "startMs": 19128,
-          "endMs": 19766,
+          "startMs": 19193,
+          "endMs": 19831,
           "p": 0
         },
         {
           "text": "General",
-          "startMs": 19779,
-          "endMs": 20221,
+          "startMs": 19844,
+          "endMs": 20286,
           "p": 0
         },
         {
           "text": "Tushar Mehta",
-          "startMs": 20221,
-          "endMs": 21211,
+          "startMs": 20286,
+          "endMs": 21276,
           "p": 0
         },
         {
           "text": "was",
-          "startMs": 21211,
-          "endMs": 21406,
+          "startMs": 21276,
+          "endMs": 21471,
           "p": 0
         },
         {
           "text": "appointed",
-          "startMs": 21419,
-          "endMs": 21914,
+          "startMs": 21484,
+          "endMs": 21979,
           "p": 0
         },
         {
           "text": "to",
-          "startMs": 21927,
-          "endMs": 22057,
+          "startMs": 21992,
+          "endMs": 22122,
           "p": 0
         },
         {
           "text": "lead",
-          "startMs": 22070,
-          "endMs": 22435,
+          "startMs": 22135,
+          "endMs": 22500,
           "p": 0
         },
         {
           "text": "the",
-          "startMs": 22448,
-          "endMs": 22539,
+          "startMs": 22513,
+          "endMs": 22604,
           "p": 0
         },
         {
           "text": "prosecution",
-          "startMs": 22552,
-          "endMs": 23255,
+          "startMs": 22617,
+          "endMs": 23320,
           "p": 0
         },
         {
           "text": "himself.",
-          "startMs": 23268,
-          "endMs": 23841,
+          "startMs": 23333,
+          "endMs": 23906,
           "p": 0
         },
         {
           "text": "A",
-          "startMs": 25031,
-          "endMs": 25070,
+          "startMs": 25079,
+          "endMs": 25118,
           "p": 1
         },
         {
           "text": "supplementary",
-          "startMs": 25083,
-          "endMs": 25773,
+          "startMs": 25131,
+          "endMs": 25821,
           "p": 1
         },
         {
           "text": "chargesheet",
-          "startMs": 25786,
-          "endMs": 26476,
+          "startMs": 25834,
+          "endMs": 26524,
           "p": 1
         },
         {
           "text": "followed",
-          "startMs": 26490,
-          "endMs": 27049,
+          "startMs": 26538,
+          "endMs": 27097,
           "p": 1
         },
         {
           "text": "in",
-          "startMs": 27062,
-          "endMs": 27245,
+          "startMs": 27110,
+          "endMs": 27293,
           "p": 1
         },
         {
           "text": "July 2025.",
-          "startMs": 27258,
-          "endMs": 28833,
+          "startMs": 27306,
+          "endMs": 28881,
           "p": 1
         },
         {
           "text": "By",
-          "startMs": 29237,
-          "endMs": 29380,
+          "startMs": 29285,
+          "endMs": 29428,
           "p": 1
         },
         {
           "text": "October,",
-          "startMs": 29393,
-          "endMs": 30083,
+          "startMs": 29441,
+          "endMs": 30131,
           "p": 1
         },
         {
           "text": "India",
-          "startMs": 30109,
-          "endMs": 30500,
+          "startMs": 30157,
+          "endMs": 30548,
           "p": 1
         },
         {
           "text": "was",
-          "startMs": 30513,
-          "endMs": 30656,
+          "startMs": 30561,
+          "endMs": 30704,
           "p": 1
         },
         {
           "text": "still",
-          "startMs": 30669,
-          "endMs": 30995,
+          "startMs": 30717,
+          "endMs": 31043,
           "p": 1
         },
         {
           "text": "asking",
-          "startMs": 31008,
-          "endMs": 31424,
+          "startMs": 31056,
+          "endMs": 31472,
           "p": 1
         },
         {
           "text": "the",
-          "startMs": 31437,
-          "endMs": 31489,
+          "startMs": 31485,
+          "endMs": 31537,
           "p": 1
         },
         {
           "text": "US",
-          "startMs": 31502,
-          "endMs": 31945,
+          "startMs": 31550,
+          "endMs": 31993,
           "p": 1
         },
         {
           "text": "for",
-          "startMs": 31958,
-          "endMs": 32128,
+          "startMs": 32006,
+          "endMs": 32176,
           "p": 1
         },
         {
           "text": "more",
-          "startMs": 32141,
-          "endMs": 32336,
+          "startMs": 32189,
+          "endMs": 32384,
           "p": 1
         },
         {
           "text": "details.",
-          "startMs": 32349,
-          "endMs": 33000,
+          "startMs": 32397,
+          "endMs": 33048,
           "p": 1
         },
         {
           "text": "As",
-          "startMs": 34279,
-          "endMs": 34474,
+          "startMs": 34327,
+          "endMs": 34522,
           "p": 1
         },
         {
           "text": "of",
-          "startMs": 34488,
-          "endMs": 34592,
+          "startMs": 34536,
+          "endMs": 34640,
           "p": 1
         },
         {
           "text": "that",
-          "startMs": 34605,
-          "endMs": 34852,
+          "startMs": 34653,
+          "endMs": 34900,
           "p": 1
         },
         {
           "text": "reporting,",
-          "startMs": 34865,
-          "endMs": 35594,
+          "startMs": 34913,
+          "endMs": 35642,
           "p": 1
         },
         {
           "text": "there",
-          "startMs": 35946,
-          "endMs": 36180,
+          "startMs": 35994,
+          "endMs": 36228,
           "p": 1
         },
         {
           "text": "is",
-          "startMs": 36193,
-          "endMs": 36336,
+          "startMs": 36241,
+          "endMs": 36384,
           "p": 1
         },
         {
           "text": "no",
-          "startMs": 36349,
-          "endMs": 36571,
+          "startMs": 36397,
+          "endMs": 36619,
           "p": 1
         },
         {
           "text": "verdict.",
-          "startMs": 36584,
-          "endMs": 37222,
+          "startMs": 36632,
+          "endMs": 37270,
           "p": 1
         }
       ],
@@ -8502,72 +8502,72 @@
         {
           "text": "In the first weeks, Mumbai Police and the",
           "startMs": 2812,
-          "endMs": 4896
+          "endMs": 4987
         },
         {
           "text": "NIA reportedly questioned him for eight to",
-          "startMs": 4909,
-          "endMs": 7435
+          "startMs": 5000,
+          "endMs": 7500
         },
         {
           "text": "ten hours a day.",
-          "startMs": 7448,
-          "endMs": 8438
+          "startMs": 7513,
+          "endMs": 8503
         },
         {
           "text": "Reports described his answers as evasive.",
-          "startMs": 8841,
-          "endMs": 11771
+          "startMs": 8906,
+          "endMs": 11836
         },
         {
           "text": "Investigators took voice and handwriting",
-          "startMs": 12188,
-          "endMs": 14557
+          "startMs": 12253,
+          "endMs": 14622
         },
         {
           "text": "samples, to match against intercepted",
-          "startMs": 14570,
-          "endMs": 17214
+          "startMs": 14635,
+          "endMs": 17279
         },
         {
           "text": "communications with Headley.",
-          "startMs": 17227,
-          "endMs": 18724
+          "startMs": 17292,
+          "endMs": 18789
         },
         {
           "text": "Solicitor General Tushar Mehta was",
-          "startMs": 19128,
-          "endMs": 21406
+          "startMs": 19193,
+          "endMs": 21471
         },
         {
           "text": "appointed to lead the prosecution himself.",
-          "startMs": 21419,
-          "endMs": 23841
+          "startMs": 21484,
+          "endMs": 23906
         },
         {
           "text": "A supplementary chargesheet followed in",
-          "startMs": 25031,
-          "endMs": 27245
+          "startMs": 25079,
+          "endMs": 27293
         },
         {
           "text": "July 2025.",
-          "startMs": 27258,
-          "endMs": 28833
+          "startMs": 27306,
+          "endMs": 28881
         },
         {
           "text": "By October, India was still asking the US",
-          "startMs": 29237,
-          "endMs": 31945
+          "startMs": 29285,
+          "endMs": 31993
         },
         {
           "text": "for more details.",
-          "startMs": 31958,
-          "endMs": 33000
+          "startMs": 32006,
+          "endMs": 33048
         },
         {
           "text": "As of that reporting, there is no verdict.",
-          "startMs": 34279,
-          "endMs": 37222
+          "startMs": 34327,
+          "endMs": 37270
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "_note": "Native-script (Devanagari) forms for Hindi/Urdu/Arabic names. Used when config/video.json pronunciation_mode = \"native\" with a Multilingual voice, which reads these with native phonetics. Terms not listed here fall back to the Latin respelling in pronunciations.json (acronyms, French names). Captions always keep the original spelling.",
+  "_note": "Native-script (Devanagari) forms for Hindi/Urdu/Arabic names. Used when config/video.json pronunciation_mode = \"native\" with a Multilingual voice, which reads these with native phonetics. Terms not listed here fall back to the Latin respelling in pronunciations.json (acronyms, French names). Captions always keep the original spelling. 'Mumbai' is deliberately NOT here: the Devanagari form made the voice say 'Mumbbury'; plain English reads correctly.",
   "terms": {
     "Lashkar-e-Taiba": "लश्कर-ए-तैयबा",
     "Lashkar": "लश्कर",
@@ -16,7 +16,6 @@
     "Bhimber": "भिम्बर",
     "Sialkot": "सियालकोट",
     "Lahore": "लाहौर",
-    "Mumbai": "मुंबई",
     "Kashmir": "कश्मीर",
     "Pakistan": "पाकिस्तान",
     "Daura-e-Sufa": "दौरा-ए-सुफ़ा",

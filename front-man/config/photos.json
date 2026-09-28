@@ -1,11 +1,271 @@
 {
-  "_note": "File 03: no photographs of named living people. The thumbnail uses a CC BY-SA photo of the Taj Mahal Palace (a building).",
+  "_note": "Licensed images for File 03 (US government public domain, CC0, CC BY-SA via Wikimedia Commons). No licence-clean photo of David Headley or Ajmal Kasab exists (published photos are copyrighted news images), so both remain silhouettes/text. Overlaps trimmed automatically.",
   "images": {
     "taj_after": {
       "file": "photos/taj_after.jpg",
       "credit": "Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_full_view_after_attacks.jpg"
+    },
+    "rana_extradition": {
+      "file": "photos/rana_extradition.jpg",
+      "credit": "Photo: U.S. Marshals Service (public domain)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tahawwur_Rana_extradition_to_India.jpg"
+    },
+    "rana_extradition2": {
+      "file": "photos/rana_extradition2.jpg",
+      "credit": "Photo: U.S. Marshals Service (public domain)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tahawwur_Rana_extradition_to_India_(2).jpg"
+    },
+    "hasan_abdal": {
+      "file": "photos/hasan_abdal.jpg",
+      "credit": "Photo: Saira Qudus / Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_grey_and_the_green_-_Cadet_College_Hasan_Abdal.jpg"
+    },
+    "devon_ave": {
+      "file": "photos/devon_ave.jpg",
+      "credit": "Photo: Erstwhile.Human from Ellensburg, Washington, USA / Wikimedia Commons, CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Devon_Street_(117977640).jpg"
+    },
+    "jp_building": {
+      "file": "photos/jp_building.jpg",
+      "credit": "Photo: user:tsca (public domain)",
+      "source": "https://commons.wikimedia.org/wiki/File:JP_Koebenhavn_2009-172_ubt.JPG"
+    },
+    "ohare": {
+      "file": "photos/ohare.jpg",
+      "credit": "Photo: Jstuby (CC0)",
+      "source": "https://commons.wikimedia.org/wiki/File:O'Hare_Airport_20251026.jpg"
+    },
+    "leinenweber": {
+      "file": "photos/leinenweber.jpg",
+      "credit": "Photo: United States District Court for the Northern District of Illinois (public domain)",
+      "source": "https://commons.wikimedia.org/wiki/File:Harry_D._Leinenweber,_U.S._District_Court_Judge.jpg"
+    },
+    "scotus": {
+      "file": "photos/scotus.jpg",
+      "credit": "Photo: Joe Ravi / Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg"
+    },
+    "kagan": {
+      "file": "photos/kagan.jpg",
+      "credit": "Photo: Steve Petteway, Collection of the Supreme Court of the United States (public domain)",
+      "source": "https://commons.wikimedia.org/wiki/File:Elena_Kagan_official_SCOTUS_portrait.jpg"
+    },
+    "rubio": {
+      "file": "photos/rubio.jpg",
+      "credit": "Photo: U.S. Department of State (public domain)",
+      "source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio,_January_2025.jpg"
+    },
+    "tihar": {
+      "file": "photos/tihar.jpg",
+      "credit": "Photo: Zuck28 (CC0)",
+      "source": "https://commons.wikimedia.org/wiki/File:Tihar_Jail,_Delhi.jpg"
+    },
+    "patiala": {
+      "file": "photos/patiala.jpg",
+      "credit": "Photo: Ramesh lalwani / Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Patiala_House_Courts.jpg"
+    },
+    "dirksen": {
+      "file": "photos/dirksen.jpg",
+      "credit": "Photo: Ken Lund from Reno, Nevada, USA / Wikimedia Commons, CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dirksen_United_States_Courthouse,_Chicago_Loop,_Chicago,_Illinois_(11004376983).jpg"
+    },
+    "ninth_circuit": {
+      "file": "photos/ninth_circuit.jpg",
+      "credit": "Photo: Ken Lund from Reno, Nevada, USA / Wikimedia Commons, CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Richard_H._Chambers_United_States_Court_of_Appeals,_Pasadena,_California_(14514432551).jpg"
+    },
+    "taj_exterior": {
+      "file": "photos/taj_exterior.jpg",
+      "credit": "Photo: Joe Ravi / Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel.jpg"
+    },
+    "taj_gateway": {
+      "file": "photos/taj_gateway.jpg",
+      "credit": "Photo: iMahesh / Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background_(cropped).jpg"
+    },
+    "sajid_mir": {
+      "file": "photos/sajid_mir.png",
+      "credit": "Photo: FBI (public domain)",
+      "source": "https://commons.wikimedia.org/wiki/File:Sajid_Mir.png"
     }
   },
-  "placements": []
+  "placements": [
+    {
+      "segment": "seg_00",
+      "paragraph": 0,
+      "at_word": "Taj",
+      "seconds": 6,
+      "images": [
+        "taj_exterior"
+      ],
+      "caption": "The Taj Mahal Palace Hotel, Mumbai"
+    },
+    {
+      "segment": "seg_00",
+      "paragraph": 2,
+      "at_word": "Delhi",
+      "seconds": 6,
+      "images": [
+        "rana_extradition"
+      ],
+      "caption": "April 2025: US Marshals and the NIA at Rana's handover"
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 0,
+      "at_word": "Hasan",
+      "seconds": 6,
+      "images": [
+        "hasan_abdal"
+      ],
+      "caption": "Cadet College Hasan Abdal, Punjab"
+    },
+    {
+      "segment": "seg_02",
+      "paragraph": 1,
+      "at_word": "Devon",
+      "seconds": 6,
+      "images": [
+        "devon_ave"
+      ],
+      "caption": "Devon Avenue, Chicago"
+    },
+    {
+      "segment": "seg_03",
+      "paragraph": 1,
+      "at_word": "Taj",
+      "seconds": 5,
+      "images": [
+        "taj_gateway"
+      ],
+      "caption": "The Taj Mahal Palace, Mumbai"
+    },
+    {
+      "segment": "seg_03",
+      "paragraph": 2,
+      "at_word": "Sajid",
+      "seconds": 5,
+      "images": [
+        "sajid_mir"
+      ],
+      "fit": "contain",
+      "caption": "Sajid Mir — FBI wanted photo"
+    },
+    {
+      "segment": "seg_04",
+      "paragraph": 0,
+      "at_word": "Jyllands-Posten",
+      "seconds": 6,
+      "images": [
+        "jp_building"
+      ],
+      "caption": "Jyllands-Posten's offices, Copenhagen"
+    },
+    {
+      "segment": "seg_04",
+      "paragraph": 1,
+      "at_word": "O'Hare",
+      "seconds": 5,
+      "images": [
+        "ohare"
+      ],
+      "caption": "O'Hare International Airport, Chicago"
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 1,
+      "at_word": "Chicago",
+      "seconds": 5,
+      "images": [
+        "dirksen"
+      ],
+      "caption": "Dirksen US Courthouse, Chicago — site of the 2011 trial"
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 2,
+      "at_word": "Leinenweber",
+      "seconds": 5,
+      "images": [
+        "leinenweber"
+      ],
+      "fit": "contain",
+      "caption": "Judge Harry Leinenweber"
+    },
+    {
+      "segment": "seg_06",
+      "paragraph": 1,
+      "at_word": "torture",
+      "seconds": 5,
+      "images": [
+        "scotus"
+      ],
+      "caption": "The US Supreme Court"
+    },
+    {
+      "segment": "seg_06",
+      "paragraph": 2,
+      "at_word": "Ninth",
+      "seconds": 4,
+      "images": [
+        "ninth_circuit"
+      ],
+      "caption": "US Court of Appeals for the Ninth Circuit, Pasadena"
+    },
+    {
+      "segment": "seg_06",
+      "paragraph": 2,
+      "at_word": "Kagan",
+      "seconds": 4,
+      "images": [
+        "kagan"
+      ],
+      "fit": "contain",
+      "caption": "Justice Elena Kagan"
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 0,
+      "at_word": "Marshals",
+      "seconds": 6,
+      "images": [
+        "rana_extradition2"
+      ],
+      "caption": "The handover, April 2025"
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 1,
+      "at_word": "Rubio",
+      "seconds": 5,
+      "images": [
+        "rubio"
+      ],
+      "fit": "contain",
+      "caption": "Secretary of State Marco Rubio"
+    },
+    {
+      "segment": "seg_08",
+      "paragraph": 0,
+      "at_word": "Tihar",
+      "seconds": 6,
+      "images": [
+        "tihar"
+      ],
+      "caption": "Tihar Jail, Delhi"
+    },
+    {
+      "segment": "seg_08",
+      "paragraph": 1,
+      "at_word": "chargesheet",
+      "seconds": 5,
+      "images": [
+        "patiala"
+      ],
+      "caption": "Patiala House Courts, New Delhi"
+    }
+  ]
 }

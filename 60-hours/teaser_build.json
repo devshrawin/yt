@@ -30,17 +30,17 @@
     }
   ],
   "audio_file": "audio/teaser.mp3",
-  "audio_hash": "6f30455d386833f3",
-  "duration_seconds": 46.73,
+  "audio_hash": "a3c20c7f135d0c48",
+  "duration_seconds": 46.706,
   "paragraph_starts": [
     0,
-    7718,
-    12604,
-    19674,
-    26168,
-    31102,
-    34332,
-    39554
+    7694,
+    12580,
+    19650,
+    26144,
+    31078,
+    34308,
+    39530
   ],
   "words": [
     {
@@ -51,512 +51,512 @@
     },
     {
       "text": "Ten",
-      "startMs": 1823,
-      "endMs": 2070,
+      "startMs": 1836,
+      "endMs": 2083,
       "p": 0
     },
     {
       "text": "men",
-      "startMs": 2083,
+      "startMs": 2096,
       "endMs": 2344,
       "p": 0
     },
     {
       "text": "step",
       "startMs": 2357,
-      "endMs": 2721,
+      "endMs": 2682,
       "p": 0
     },
     {
       "text": "ashore",
-      "startMs": 2734,
-      "endMs": 3229,
+      "startMs": 2695,
+      "endMs": 3177,
       "p": 0
     },
     {
       "text": "in",
-      "startMs": 3242,
-      "endMs": 3424,
+      "startMs": 3190,
+      "endMs": 3346,
       "p": 0
     },
     {
       "text": "Mumbai.",
-      "startMs": 3424,
-      "endMs": 4023,
+      "startMs": 3359,
+      "endMs": 3984,
       "p": 0
     },
     {
       "text": "In",
-      "startMs": 4401,
-      "endMs": 4531,
+      "startMs": 4361,
+      "endMs": 4492,
       "p": 0
     },
     {
       "text": "ten",
-      "startMs": 4544,
-      "endMs": 4804,
+      "startMs": 4505,
+      "endMs": 4765,
       "p": 0
     },
     {
       "text": "minutes,",
-      "startMs": 4817,
-      "endMs": 5364,
+      "startMs": 4778,
+      "endMs": 5325,
       "p": 0
     },
     {
       "text": "five",
-      "startMs": 5624,
-      "endMs": 5963,
+      "startMs": 5585,
+      "endMs": 5924,
       "p": 0
     },
     {
       "text": "attacks",
-      "startMs": 5976,
-      "endMs": 6445,
+      "startMs": 5937,
+      "endMs": 6406,
       "p": 0
     },
     {
       "text": "begin.",
-      "startMs": 6458,
-      "endMs": 6979,
+      "startMs": 6419,
+      "endMs": 6940,
       "p": 0
     },
     {
       "text": "They",
-      "startMs": 7796,
-      "endMs": 7913,
+      "startMs": 7772,
+      "endMs": 7889,
       "p": 1
     },
     {
       "text": "had",
-      "startMs": 7926,
-      "endMs": 8083,
+      "startMs": 7902,
+      "endMs": 8059,
       "p": 1
     },
     {
       "text": "sailed",
-      "startMs": 8096,
-      "endMs": 8538,
+      "startMs": 8072,
+      "endMs": 8514,
       "p": 1
     },
     {
       "text": "from",
-      "startMs": 8551,
-      "endMs": 8760,
+      "startMs": 8527,
+      "endMs": 8736,
       "p": 1
     },
     {
       "text": "Karachi",
-      "startMs": 8760,
-      "endMs": 9372,
+      "startMs": 8736,
+      "endMs": 9348,
       "p": 1
     },
     {
       "text": "for",
-      "startMs": 9372,
-      "endMs": 9580,
+      "startMs": 9348,
+      "endMs": 9556,
       "p": 1
     },
     {
       "text": "thirty-eight",
-      "startMs": 9593,
-      "endMs": 10101,
+      "startMs": 9569,
+      "endMs": 10077,
       "p": 1
     },
     {
       "text": "hours —",
-      "startMs": 10114,
-      "endMs": 10713,
+      "startMs": 10090,
+      "endMs": 10689,
       "p": 1
     },
     {
       "text": "undetected.",
-      "startMs": 11038,
-      "endMs": 11872,
+      "startMs": 11014,
+      "endMs": 11848,
       "p": 1
     },
     {
       "text": "CST.",
-      "startMs": 12654,
-      "endMs": 13487,
+      "startMs": 12630,
+      "endMs": 13463,
       "p": 2
     },
     {
       "text": "Leopold",
-      "startMs": 13500,
-      "endMs": 13969,
+      "startMs": 13476,
+      "endMs": 13945,
       "p": 2
     },
     {
       "text": "Café.",
-      "startMs": 13982,
-      "endMs": 14529,
+      "startMs": 13958,
+      "endMs": 14505,
       "p": 2
     },
     {
       "text": "The",
-      "startMs": 14948,
-      "endMs": 15091,
+      "startMs": 14924,
+      "endMs": 15067,
       "p": 2
     },
     {
       "text": "Taj.",
-      "startMs": 15104,
-      "endMs": 15703,
+      "startMs": 15080,
+      "endMs": 15679,
       "p": 2
     },
     {
       "text": "The",
-      "startMs": 16078,
-      "endMs": 16378,
+      "startMs": 16054,
+      "endMs": 16354,
       "p": 2
     },
     {
       "text": "Oberoi.",
-      "startMs": 16391,
-      "endMs": 17185,
+      "startMs": 16367,
+      "endMs": 17161,
       "p": 2
     },
     {
       "text": "Nariman House.",
-      "startMs": 17563,
-      "endMs": 18930,
+      "startMs": 17539,
+      "endMs": 18906,
       "p": 2
     },
     {
       "text": "And",
-      "startMs": 19765,
-      "endMs": 19895,
+      "startMs": 19741,
+      "endMs": 19871,
       "p": 3
     },
     {
       "text": "a",
-      "startMs": 19908,
-      "endMs": 19960,
+      "startMs": 19884,
+      "endMs": 19936,
       "p": 3
     },
     {
       "text": "control",
-      "startMs": 19974,
-      "endMs": 20468,
+      "startMs": 19950,
+      "endMs": 20444,
       "p": 3
     },
     {
       "text": "room",
-      "startMs": 20481,
-      "endMs": 20755,
+      "startMs": 20457,
+      "endMs": 20731,
       "p": 3
     },
     {
       "text": "six",
-      "startMs": 20768,
-      "endMs": 21054,
+      "startMs": 20744,
+      "endMs": 21030,
       "p": 3
     },
     {
       "text": "hundred",
-      "startMs": 21067,
-      "endMs": 21367,
+      "startMs": 21043,
+      "endMs": 21343,
       "p": 3
     },
     {
       "text": "kilometers",
-      "startMs": 21380,
-      "endMs": 21940,
+      "startMs": 21356,
+      "endMs": 21916,
       "p": 3
     },
     {
       "text": "away,",
-      "startMs": 21953,
-      "endMs": 22382,
+      "startMs": 21929,
+      "endMs": 22358,
       "p": 3
     },
     {
       "text": "watching",
-      "startMs": 22747,
-      "endMs": 23216,
+      "startMs": 22723,
+      "endMs": 23192,
       "p": 3
     },
     {
       "text": "the",
-      "startMs": 23229,
-      "endMs": 23294,
+      "startMs": 23205,
+      "endMs": 23270,
       "p": 3
     },
     {
       "text": "news",
-      "startMs": 23307,
-      "endMs": 23802,
+      "startMs": 23283,
+      "endMs": 23778,
       "p": 3
     },
     {
       "text": "and",
-      "startMs": 23815,
-      "endMs": 23997,
+      "startMs": 23791,
+      "endMs": 23973,
       "p": 3
     },
     {
       "text": "giving",
-      "startMs": 24010,
-      "endMs": 24309,
+      "startMs": 23986,
+      "endMs": 24285,
       "p": 3
     },
     {
       "text": "orders",
-      "startMs": 24322,
-      "endMs": 24765,
+      "startMs": 24298,
+      "endMs": 24741,
       "p": 3
     },
     {
       "text": "by",
-      "startMs": 24778,
-      "endMs": 24947,
+      "startMs": 24754,
+      "endMs": 24923,
       "p": 3
     },
     {
       "text": "phone.",
-      "startMs": 24960,
-      "endMs": 25442,
+      "startMs": 24936,
+      "endMs": 25418,
       "p": 3
     },
     {
       "text": "At",
-      "startMs": 26259,
-      "endMs": 26402,
+      "startMs": 26235,
+      "endMs": 26378,
       "p": 4
     },
     {
       "text": "1 AM,",
-      "startMs": 26415,
-      "endMs": 27040,
+      "startMs": 26391,
+      "endMs": 27016,
       "p": 4
     },
     {
       "text": "a",
-      "startMs": 27678,
-      "endMs": 27730,
+      "startMs": 27654,
+      "endMs": 27706,
       "p": 4
     },
     {
       "text": "blast",
-      "startMs": 27744,
-      "endMs": 28173,
+      "startMs": 27720,
+      "endMs": 28149,
       "p": 4
     },
     {
       "text": "tore",
-      "startMs": 28186,
-      "endMs": 28525,
+      "startMs": 28162,
+      "endMs": 28501,
       "p": 4
     },
     {
       "text": "through",
-      "startMs": 28538,
-      "endMs": 28720,
+      "startMs": 28514,
+      "endMs": 28696,
       "p": 4
     },
     {
       "text": "the",
-      "startMs": 28733,
-      "endMs": 28850,
+      "startMs": 28709,
+      "endMs": 28826,
       "p": 4
     },
     {
       "text": "Taj's",
-      "startMs": 28850,
-      "endMs": 29488,
+      "startMs": 28826,
+      "endMs": 29464,
       "p": 4
     },
     {
       "text": "central",
-      "startMs": 29501,
-      "endMs": 29905,
+      "startMs": 29477,
+      "endMs": 29881,
       "p": 4
     },
     {
       "text": "dome.",
-      "startMs": 29918,
-      "endMs": 30361,
+      "startMs": 29894,
+      "endMs": 30337,
       "p": 4
     },
     {
       "text": "For",
-      "startMs": 31167,
-      "endMs": 31271,
+      "startMs": 31143,
+      "endMs": 31247,
       "p": 5
     },
     {
       "text": "three",
-      "startMs": 31284,
-      "endMs": 31558,
+      "startMs": 31260,
+      "endMs": 31534,
       "p": 5
     },
     {
       "text": "days,",
-      "startMs": 31571,
-      "endMs": 32013,
+      "startMs": 31547,
+      "endMs": 31989,
       "p": 5
     },
     {
       "text": "the",
-      "startMs": 32040,
-      "endMs": 32157,
+      "startMs": 32016,
+      "endMs": 32133,
       "p": 5
     },
     {
       "text": "city",
-      "startMs": 32170,
-      "endMs": 32560,
+      "startMs": 32146,
+      "endMs": 32536,
       "p": 5
     },
     {
       "text": "held",
-      "startMs": 32573,
-      "endMs": 32873,
+      "startMs": 32549,
+      "endMs": 32849,
       "p": 5
     },
     {
       "text": "its",
-      "startMs": 32886,
-      "endMs": 33068,
+      "startMs": 32862,
+      "endMs": 33044,
       "p": 5
     },
     {
       "text": "breath.",
-      "startMs": 33081,
-      "endMs": 33602,
+      "startMs": 33057,
+      "endMs": 33578,
       "p": 5
     },
     {
       "text": "Until,",
-      "startMs": 34423,
-      "endMs": 34931,
+      "startMs": 34399,
+      "endMs": 34907,
       "p": 6
     },
     {
       "text": "sixty",
-      "startMs": 34944,
-      "endMs": 35400,
+      "startMs": 34920,
+      "endMs": 35376,
       "p": 6
     },
     {
       "text": "hours",
-      "startMs": 35413,
-      "endMs": 35738,
+      "startMs": 35389,
+      "endMs": 35714,
       "p": 6
     },
     {
       "text": "later,",
-      "startMs": 35751,
-      "endMs": 36233,
+      "startMs": 35727,
+      "endMs": 36209,
       "p": 6
     },
     {
       "text": "the",
-      "startMs": 36441,
-      "endMs": 36598,
+      "startMs": 36417,
+      "endMs": 36574,
       "p": 6
     },
     {
       "text": "Taj",
-      "startMs": 36598,
-      "endMs": 37014,
+      "startMs": 36574,
+      "endMs": 36990,
       "p": 6
     },
     {
       "text": "was",
-      "startMs": 37014,
-      "endMs": 37236,
+      "startMs": 36990,
+      "endMs": 37212,
       "p": 6
     },
     {
       "text": "finally",
-      "startMs": 37249,
-      "endMs": 37717,
+      "startMs": 37225,
+      "endMs": 37693,
       "p": 6
     },
     {
       "text": "declared",
-      "startMs": 37730,
-      "endMs": 38212,
+      "startMs": 37706,
+      "endMs": 38188,
       "p": 6
     },
     {
       "text": "secure.",
-      "startMs": 38225,
-      "endMs": 38811,
+      "startMs": 38201,
+      "endMs": 38787,
       "p": 6
     },
     {
       "text": "Sixty",
-      "startMs": 39605,
-      "endMs": 40074,
+      "startMs": 39581,
+      "endMs": 40050,
       "p": 7
     },
     {
       "text": "Hours.",
-      "startMs": 40087,
-      "endMs": 40608,
+      "startMs": 40063,
+      "endMs": 40584,
       "p": 7
     },
     {
       "text": "The",
-      "startMs": 40999,
-      "endMs": 41090,
+      "startMs": 40975,
+      "endMs": 41066,
       "p": 7
     },
     {
       "text": "hour-by-hour",
-      "startMs": 41104,
-      "endMs": 41872,
+      "startMs": 41080,
+      "endMs": 41848,
       "p": 7
     },
     {
       "text": "story",
-      "startMs": 41885,
-      "endMs": 42340,
+      "startMs": 41861,
+      "endMs": 42316,
       "p": 7
     },
     {
       "text": "of",
-      "startMs": 42354,
-      "endMs": 42471,
+      "startMs": 42330,
+      "endMs": 42447,
       "p": 7
     },
     {
       "text": "26/11 —",
-      "startMs": 42484,
-      "endMs": 43590,
+      "startMs": 42460,
+      "endMs": 43566,
       "p": 7
     },
     {
       "text": "now",
-      "startMs": 43864,
-      "endMs": 44320,
+      "startMs": 43840,
+      "endMs": 44296,
       "p": 7
     },
     {
       "text": "on",
-      "startMs": 44333,
-      "endMs": 44502,
+      "startMs": 44309,
+      "endMs": 44478,
       "p": 7
     },
     {
       "text": "The",
-      "startMs": 44515,
-      "endMs": 44593,
+      "startMs": 44491,
+      "endMs": 44569,
       "p": 7
     },
     {
       "text": "Sisodia",
-      "startMs": 44606,
-      "endMs": 45140,
+      "startMs": 44582,
+      "endMs": 45116,
       "p": 7
     },
     {
       "text": "Files.",
-      "startMs": 45153,
-      "endMs": 45739,
+      "startMs": 45129,
+      "endMs": 45715,
       "p": 7
     }
   ],
@@ -568,108 +568,108 @@
     },
     {
       "text": "Ten men step ashore in Mumbai.",
-      "startMs": 1823,
-      "endMs": 4023
+      "startMs": 1836,
+      "endMs": 3984
     },
     {
       "text": "In ten minutes, five attacks begin.",
-      "startMs": 4401,
-      "endMs": 6979
+      "startMs": 4361,
+      "endMs": 6940
     },
     {
       "text": "They had sailed from Karachi for",
-      "startMs": 7796,
-      "endMs": 9580
+      "startMs": 7772,
+      "endMs": 9556
     },
     {
       "text": "thirty-eight hours — undetected.",
-      "startMs": 9593,
-      "endMs": 11872
+      "startMs": 9569,
+      "endMs": 11848
     },
     {
       "text": "CST.",
-      "startMs": 12654,
-      "endMs": 13487
+      "startMs": 12630,
+      "endMs": 13463
     },
     {
       "text": "Leopold Café.",
-      "startMs": 13500,
-      "endMs": 14529
+      "startMs": 13476,
+      "endMs": 14505
     },
     {
       "text": "The Taj.",
-      "startMs": 14948,
-      "endMs": 15703
+      "startMs": 14924,
+      "endMs": 15679
     },
     {
       "text": "The Oberoi.",
-      "startMs": 16078,
-      "endMs": 17185
+      "startMs": 16054,
+      "endMs": 17161
     },
     {
       "text": "Nariman House.",
-      "startMs": 17563,
-      "endMs": 18930
+      "startMs": 17539,
+      "endMs": 18906
     },
     {
       "text": "And a control room six hundred kilometers",
-      "startMs": 19765,
-      "endMs": 21940
+      "startMs": 19741,
+      "endMs": 21916
     },
     {
       "text": "away, watching the news and giving orders",
-      "startMs": 21953,
-      "endMs": 24765
+      "startMs": 21929,
+      "endMs": 24741
     },
     {
       "text": "by phone.",
-      "startMs": 24778,
-      "endMs": 25442
+      "startMs": 24754,
+      "endMs": 25418
     },
     {
       "text": "At 1 AM,",
-      "startMs": 26259,
-      "endMs": 27040
+      "startMs": 26235,
+      "endMs": 27016
     },
     {
       "text": "a blast tore through the Taj's central",
-      "startMs": 27678,
-      "endMs": 29905
+      "startMs": 27654,
+      "endMs": 29881
     },
     {
       "text": "dome.",
-      "startMs": 29918,
-      "endMs": 30361
+      "startMs": 29894,
+      "endMs": 30337
     },
     {
       "text": "For three days, the city held its breath.",
-      "startMs": 31167,
-      "endMs": 33602
+      "startMs": 31143,
+      "endMs": 33578
     },
     {
       "text": "Until, sixty hours later, the Taj was",
-      "startMs": 34423,
-      "endMs": 37236
+      "startMs": 34399,
+      "endMs": 37212
     },
     {
       "text": "finally declared secure.",
-      "startMs": 37249,
-      "endMs": 38811
+      "startMs": 37225,
+      "endMs": 38787
     },
     {
       "text": "Sixty Hours.",
-      "startMs": 39605,
-      "endMs": 40608
+      "startMs": 39581,
+      "endMs": 40584
     },
     {
       "text": "The hour-by-hour story of 26/11 — now",
-      "startMs": 40999,
-      "endMs": 44320
+      "startMs": 40975,
+      "endMs": 44296
     },
     {
       "text": "on The Sisodia Files.",
-      "startMs": 44333,
-      "endMs": 45739
+      "startMs": 44309,
+      "endMs": 45715
     }
   ],
   "beats": [

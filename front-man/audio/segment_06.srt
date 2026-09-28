@@ -3,11 +3,11 @@
 Here is the hinge.
 
 2
-00:00:01,680 --> 00:00:04,336
+00:00:01,680 --> 00:00:04,310
 In the US, Rana was tried for one specific
 
 3
-00:00:04,349 --> 00:00:06,719
+00:00:04,323 --> 00:00:06,719
 crime connected to Mumbai — and acquitted.
 
 4

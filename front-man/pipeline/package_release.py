@@ -55,8 +55,15 @@ def main():
     reel_name = f"{slug}_Reel_v{teaser_cfg['version']}.mp4"
     link(main_video, yt / video_name)
     # per-video thumbnail (config/youtube.json "thumbnail"), rendered fresh
-    subprocess.run(["npx", "remotion", "still", "src/index.ts", "Thumbnail", str(yt / "thumbnail.png"),
-                    "--image-format=png", "--log=error"], cwd=ROOT, check=True)
+    # thumbnail A (default) + B for YouTube's thumbnail A/B test, when the project defines them
+    comps = subprocess.run(["npx", "remotion", "compositions", "src/index.ts", "-q"], cwd=ROOT, capture_output=True, text=True).stdout
+    for suffix, out_name in (("A", "thumbnail.png"), ("B", "thumbnail_B.png")):
+        comp = f"Thumb{file_no}{suffix}"
+        if comp not in comps:
+            comp = "Thumbnail" if suffix == "A" else None
+        if comp:
+            subprocess.run(["npx", "remotion", "still", "src/index.ts", comp, str(yt / out_name),
+                            "--image-format=png", "--log=error"], cwd=ROOT, check=True)
     shutil.copy2(ROOT / "output" / "captions.srt", yt / "captions_en.srt")
     (yt / "title.txt").write_text(m["title"] + "\n")
     (yt / "description.txt").write_text(m["description"] + "\n")

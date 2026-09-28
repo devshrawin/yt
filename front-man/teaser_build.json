@@ -24,15 +24,15 @@
     }
   ],
   "audio_file": "audio/teaser.mp3",
-  "audio_hash": "155eebcc2f8d8c0c",
-  "duration_seconds": 33.742,
+  "audio_hash": "4ba7c79a2a760a9d",
+  "duration_seconds": 33.718,
   "paragraph_starts": [
     0,
     5630,
     10060,
-    16722,
-    24008,
-    29542
+    16674,
+    23984,
+    29518
   ],
   "words": [
     {
@@ -224,241 +224,241 @@
     {
       "text": "used",
       "startMs": 13237,
-      "endMs": 13667,
+      "endMs": 13654,
       "p": 2
     },
     {
       "text": "its",
-      "startMs": 13693,
-      "endMs": 13927,
+      "startMs": 13667,
+      "endMs": 13862,
       "p": 2
     },
     {
       "text": "Mumbai",
-      "startMs": 13927,
-      "endMs": 14357,
+      "startMs": 13875,
+      "endMs": 14318,
       "p": 2
     },
     {
       "text": "office",
-      "startMs": 14357,
-      "endMs": 14826,
+      "startMs": 14331,
+      "endMs": 14774,
       "p": 2
     },
     {
       "text": "to",
-      "startMs": 14839,
-      "endMs": 14956,
+      "startMs": 14787,
+      "endMs": 14904,
       "p": 2
     },
     {
       "text": "scout",
-      "startMs": 14969,
-      "endMs": 15346,
+      "startMs": 14917,
+      "endMs": 15294,
       "p": 2
     },
     {
       "text": "targets.",
-      "startMs": 15360,
-      "endMs": 15984,
+      "startMs": 15307,
+      "endMs": 15945,
       "p": 2
     },
     {
       "text": "An",
-      "startMs": 16774,
-      "endMs": 16865,
+      "startMs": 16752,
+      "endMs": 16830,
       "p": 3
     },
     {
       "text": "American",
-      "startMs": 16878,
-      "endMs": 17373,
+      "startMs": 16843,
+      "endMs": 17338,
       "p": 3
     },
     {
       "text": "jury:",
-      "startMs": 17386,
-      "endMs": 17868,
+      "startMs": 17351,
+      "endMs": 17833,
       "p": 3
     },
     {
       "text": "not",
-      "startMs": 18493,
-      "endMs": 18883,
+      "startMs": 18471,
+      "endMs": 18848,
       "p": 3
     },
     {
       "text": "guilty",
-      "startMs": 18896,
-      "endMs": 19404,
+      "startMs": 18862,
+      "endMs": 19369,
       "p": 3
     },
     {
       "text": "of",
-      "startMs": 19417,
-      "endMs": 19561,
+      "startMs": 19382,
+      "endMs": 19513,
       "p": 3
     },
     {
       "text": "Mumbai.",
-      "startMs": 19561,
-      "endMs": 20159,
+      "startMs": 19526,
+      "endMs": 20138,
       "p": 3
     },
     {
       "text": "Guilty",
-      "startMs": 20576,
-      "endMs": 21188,
+      "startMs": 20554,
+      "endMs": 21166,
       "p": 3
     },
     {
       "text": "of",
-      "startMs": 21201,
-      "endMs": 21370,
+      "startMs": 21179,
+      "endMs": 21348,
       "p": 3
     },
     {
       "text": "supporting",
-      "startMs": 21383,
-      "endMs": 22008,
+      "startMs": 21362,
+      "endMs": 21986,
       "p": 3
     },
     {
       "text": "the",
-      "startMs": 22022,
-      "endMs": 22113,
+      "startMs": 22000,
+      "endMs": 22091,
       "p": 3
     },
     {
       "text": "group",
-      "startMs": 22126,
-      "endMs": 22503,
+      "startMs": 22104,
+      "endMs": 22481,
       "p": 3
     },
     {
       "text": "behind",
-      "startMs": 22516,
-      "endMs": 22972,
+      "startMs": 22494,
+      "endMs": 22950,
       "p": 3
     },
     {
       "text": "it.",
-      "startMs": 22985,
-      "endMs": 23258,
+      "startMs": 22963,
+      "endMs": 23237,
       "p": 3
     },
     {
       "text": "Same",
-      "startMs": 24073,
-      "endMs": 24386,
+      "startMs": 24049,
+      "endMs": 24362,
       "p": 4
     },
     {
       "text": "events.",
-      "startMs": 24399,
-      "endMs": 24998,
+      "startMs": 24375,
+      "endMs": 24974,
       "p": 4
     },
     {
       "text": "Different",
-      "startMs": 25388,
-      "endMs": 25740,
+      "startMs": 25364,
+      "endMs": 25716,
       "p": 4
     },
     {
       "text": "crimes.",
-      "startMs": 25753,
-      "endMs": 26443,
+      "startMs": 25729,
+      "endMs": 26419,
       "p": 4
     },
     {
       "text": "And",
-      "startMs": 26820,
-      "endMs": 26951,
+      "startMs": 26796,
+      "endMs": 26927,
       "p": 4
     },
     {
       "text": "that",
-      "startMs": 26964,
-      "endMs": 27224,
+      "startMs": 26940,
+      "endMs": 27200,
       "p": 4
     },
     {
       "text": "gap",
-      "startMs": 27237,
-      "endMs": 27615,
+      "startMs": 27213,
+      "endMs": 27591,
       "p": 4
     },
     {
       "text": "brought",
-      "startMs": 27628,
-      "endMs": 27875,
+      "startMs": 27604,
+      "endMs": 27851,
       "p": 4
     },
     {
       "text": "him",
-      "startMs": 27888,
-      "endMs": 28084,
+      "startMs": 27864,
+      "endMs": 28060,
       "p": 4
     },
     {
       "text": "to",
-      "startMs": 28097,
-      "endMs": 28253,
+      "startMs": 28073,
+      "endMs": 28229,
       "p": 4
     },
     {
       "text": "Delhi.",
-      "startMs": 28253,
-      "endMs": 28800,
+      "startMs": 28229,
+      "endMs": 28776,
       "p": 4
     },
     {
       "text": "The",
-      "startMs": 29607,
-      "endMs": 29672,
+      "startMs": 29583,
+      "endMs": 29648,
       "p": 5
     },
     {
       "text": "Front",
-      "startMs": 29685,
-      "endMs": 30024,
+      "startMs": 29661,
+      "endMs": 30000,
       "p": 5
     },
     {
       "text": "Man.",
-      "startMs": 30037,
-      "endMs": 30479,
+      "startMs": 30013,
+      "endMs": 30455,
       "p": 5
     },
     {
       "text": "Now",
-      "startMs": 30883,
-      "endMs": 31248,
+      "startMs": 30859,
+      "endMs": 31224,
       "p": 5
     },
     {
       "text": "on",
-      "startMs": 31261,
-      "endMs": 31456,
+      "startMs": 31237,
+      "endMs": 31432,
       "p": 5
     },
     {
       "text": "The",
-      "startMs": 31469,
-      "endMs": 31560,
+      "startMs": 31445,
+      "endMs": 31536,
       "p": 5
     },
     {
       "text": "Sisodia",
-      "startMs": 31573,
-      "endMs": 32159,
+      "startMs": 31549,
+      "endMs": 32135,
       "p": 5
     },
     {
       "text": "Files.",
-      "startMs": 32172,
-      "endMs": 32758,
+      "startMs": 32148,
+      "endMs": 32734,
       "p": 5
     }
   ],
@@ -491,52 +491,52 @@
     {
       "text": "The other used its Mumbai office to scout",
       "startMs": 12807,
-      "endMs": 15346
+      "endMs": 15294
     },
     {
       "text": "targets.",
-      "startMs": 15360,
-      "endMs": 15984
+      "startMs": 15307,
+      "endMs": 15945
     },
     {
       "text": "An American jury:",
-      "startMs": 16774,
-      "endMs": 17868
+      "startMs": 16752,
+      "endMs": 17833
     },
     {
       "text": "not guilty of Mumbai.",
-      "startMs": 18493,
-      "endMs": 20159
+      "startMs": 18471,
+      "endMs": 20138
     },
     {
       "text": "Guilty of supporting the group behind it.",
-      "startMs": 20576,
-      "endMs": 23258
+      "startMs": 20554,
+      "endMs": 23237
     },
     {
       "text": "Same events.",
-      "startMs": 24073,
-      "endMs": 24998
+      "startMs": 24049,
+      "endMs": 24974
     },
     {
       "text": "Different crimes.",
-      "startMs": 25388,
-      "endMs": 26443
+      "startMs": 25364,
+      "endMs": 26419
     },
     {
       "text": "And that gap brought him to Delhi.",
-      "startMs": 26820,
-      "endMs": 28800
+      "startMs": 26796,
+      "endMs": 28776
     },
     {
       "text": "The Front Man.",
-      "startMs": 29607,
-      "endMs": 30479
+      "startMs": 29583,
+      "endMs": 30455
     },
     {
       "text": "Now on The Sisodia Files.",
-      "startMs": 30883,
-      "endMs": 32758
+      "startMs": 30859,
+      "endMs": 32734
     }
   ],
   "beats": [

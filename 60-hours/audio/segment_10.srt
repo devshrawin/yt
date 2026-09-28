@@ -39,10 +39,10 @@ file, watching the siege on television and
 steering it in real time.
 
 11
-00:00:22,463 --> 00:00:24,677
+00:00:22,463 --> 00:00:24,611
 So after sixty hours, who was really
 
 12
-00:00:24,690 --> 00:00:25,627
+00:00:24,624 --> 00:00:25,601
 holding Mumbai?
 

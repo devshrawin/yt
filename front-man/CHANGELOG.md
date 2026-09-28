@@ -2,6 +2,16 @@
 
 Every render is kept locally in `output/versions/front-man_v<X.Y>.mp4` (never committed).
 
+## v1.2 — real photos, Mumbai pronunciation, new thumbnails
+- Real photographs now used (owner's decision): Rana's handover to the NIA (US Marshals
+  Service, public domain), official portraits of Judge Leinenweber, Justice Kagan and
+  Secretary Rubio (public domain), Sajid Mir (FBI), and the places — Cadet College Hasan Abdal,
+  Devon Avenue, Jyllands-Posten, O'Hare, the Dirksen courthouse, the Supreme Court, the Ninth
+  Circuit, Tihar, Patiala House. 17 photo moments (about one every 33 s). No licence-clean
+  photo of David Headley exists, so he stays a silhouette
+- "Mumbai" voiced in plain English
+- Thumbnails A ("The Handover") and B ("The Verdict") for YouTube's A/B test; teaser v1.1
+
 ## v1.1 — review fixes
 - Captions: possessives after respelled names read "Rana's" (were "Rana'" + "'s")
 - End card hides the empty IMAGE CREDITS heading (no photos in this file)

@@ -3,6 +3,14 @@
 Every render is kept locally in `output/versions/60-hours_v<X.Y>.mp4` (never committed);
 the pipeline state for each version is tagged `file02-v<X.Y>` in git.
 
+## v1.4 — real photos, Mumbai pronunciation, new thumbnails
+- Photo moments 9 → 28 (about one every 24 s): CST, Cuffe Parade, Cama Hospital, the spot
+  where Karkare fell, Girgaum Chowpatty, Marine Drive at night, Karachi port, the Taj and
+  Gateway, Oberoi-Trident and Nariman House after the siege, NSG commandos, the Ashoka Chakra
+  ceremonies for Karkare, Kamte and Salaskar (GODL-India) — all CC / GODL / public domain
+- "Mumbai" voiced in plain English (the Devanagari form produced "Mumbbury")
+- Thumbnails A ("The Clock") and B ("The Voice") for YouTube's A/B test; teaser v1.2
+
 ## v1.3 — caption fix
 - Captions: possessives after respelled names read "Mumbai's" / "Pakistan's" (were split)
 - Teaser v1.1 with the same fix ("the Taj's central dome")

@@ -1,9 +1,9 @@
-# YouTube upload kit — 60 Hours (v1.3)
+# YouTube upload kit — 60 Hours (v1.4)
 
 ## Title (64/100)
 60 Hours: The Hour-by-Hour Story of 26/11 | The Sisodia Files 02
 
-## Description (4022/5000)
+## Description (8351/5000)
 ```
 At 9:20 PM on November 26, 2008, ten men who had sailed from Karachi began five attacks across South Mumbai in ten minutes — directed by phone from a control room 600 km away. File 02 of The Sisodia Files reconstructs the 60-hour siege of 26/11 hour by hour: the 38-hour voyage, CST, Leopold Café, Cama Hospital and the deaths of Hemant Karkare, Ashok Kamte and Vijay Salaskar, the Taj, the Oberoi-Trident, Nariman House, and the NSG's Operation Tornado.
 
@@ -15,7 +15,7 @@ CHAPTERS
 2:07 Ten Minutes
 3:37 The Voice in Karachi
 4:40 The One Who Lived
-5:49 The Fire
+5:48 The Fire
 6:46 The Wait
 8:00 The Price
 9:09 The Last Man
@@ -34,15 +34,33 @@ SOURCES
 8. PBS, "Facts about the November 2008 Mumbai Terrorist Attacks"
 
 IMAGE CREDITS
+Photo: Av9 / Wikimedia Commons, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Mumbai_Skyline_Marine_Drive_Night.jpg (licence: https://creativecommons.org/licenses/by-sa/4.0/)
 Photo: IAshishTripathi / Wikimedia Commons, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:IAshishTripathi_Mumbai_26Nov2008_CST-Memorial.jpg (licence: https://creativecommons.org/licenses/by-sa/4.0/)
+Photo: Ingo Mehling / Wikimedia Commons, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Mumbai_-_Chhatrapati_Shivaji_Terminus_Tracks.jpg (licence: https://creativecommons.org/licenses/by-sa/4.0/)
+Photo: Joe Ravi / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
+Photo: Joe Ravi / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Main_Dome_of_Taj_Mahal_Palace_Hotel.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
+Photo: Joe Ravi / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
+Photo: Jorge Láscar / Wikimedia Commons, CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Chowpatti_Beach_(Girgaum_Chowpatty).jpg
 Photo: Mike from Vancouver / Wikimedia Commons, CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Leopold_Cafe_(5355931477).jpg (licence: https://creativecommons.org/licenses/by-sa/2.0/)
+Photo: Ministry of Defence, Government of India (GODL-India) — https://commons.wikimedia.org/wiki/File:Smt._Kavita_Karkare_receiving_Ashoka_Chakra_awarded_to_her_husband_Shri_Hemant_Kamalakar_Karkare_(Posthumous)_from_the_President,_Smt._Pratibha_Devisingh_Patil,_during_the_60th_Republic_Day_Parade-2009,_in_New_Delhi.jpg (licence: https://data.gov.in/government-open-data-license-india)
+Photo: Ministry of Defence, Government of India (GODL-India) — https://commons.wikimedia.org/wiki/File:Smt._Smita_Vijay_Salaskar_receiving_Ashoka_Chakra_awarded_to_her_husband_Shri_Vijay_Salaskar_(Posthumous)_from_the_President,_Smt._Pratibha_Devisingh_Patil,_during_the_60th_Republic_Day_Parade-2009,_in_New_Delhi.jpg (licence: https://data.gov.in/government-open-data-license-india)
+Photo: Ministry of Defence, Government of India (GODL-India) — https://commons.wikimedia.org/wiki/File:Smt._Vinita_Ashok_Kamte_receiving_Ashoka_Chakra_awarded_to_her_husband_Shri_Ashok_Marutrao_Kamte_(Posthumous)_from_the_President,_Smt._Pratibha_Devisingh_Patil,_during_the_60th_Republic_Day_Parade-2009,_in_New_Delhi.jpg (licence: https://data.gov.in/government-open-data-license-india)
+Photo: Ministry of Home Affairs, Government of India (GODL-India) — https://commons.wikimedia.org/wiki/File:Sushil_Kumar_Shinde_with_the_Black_Cat_Commandos,_at_the_28th_NSG_Raising_Day_Function,_at_Manesar,_Gurgaon,_Haryana_on_October_16,_2012._The_Director_General,_National_Security_Guard,_Shri_Subhash_Joshi_is_also_seen.jpg (licence: https://data.gov.in/government-open-data-license-india)
+Photo: Nawazahmed12 / Wikimedia Commons, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Karachi_port_trust.jpg (licence: https://creativecommons.org/licenses/by-sa/4.0/)
+Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attack_Cama_Hospital_1.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
 Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attack_VT_bullet_mark.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
+Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Karkare's_death_location.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
 Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Nariman_House_front_view_3.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
+Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Nariman_House_side_view_1.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
+Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Oberoi_Restaurant.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
+Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Oberoi_burned_room.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
 Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_Hotel_Wasabi_Restaurant_burned.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
 Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_dome_burned.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
 Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_full_view_after_attacks.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
 Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:2009_Mumbai_terror_attacks_Oberoi_Hotel_2.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
 Photo: Vinukumar Ranganathan / Wikimedia Commons, CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Mumbai_attacks_vinu_image01-crop.jpg (licence: https://creativecommons.org/licenses/by-sa/2.0/)
+Photo: gineshgandhi / Wikimedia Commons, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Cuffe_Parade.jpg (licence: https://creativecommons.org/licenses/by-sa/3.0/)
+Photo: iMahesh / Wikimedia Commons, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background_(cropped).jpg (licence: https://creativecommons.org/licenses/by-sa/4.0/)
 Maps: Natural Earth (public domain), India point-of-view boundaries. City map data © OpenStreetMap contributors (ODbL, openstreetmap.org/copyright). Music: original, generated for this channel.
 
 This is an explanatory documentary based on public records, court testimony and published reporting. It does not provide, and should not be read as, operational or tactical information. In memory of the 166 people killed.
@@ -65,7 +83,7 @@ Upload `output/captions.srt` as English subtitles.
 ## Pinned comment
 Every timestamp in this video is sourced — the full source list is in the description. In memory of the 166 people who lost their lives. Which story should The Sisodia Files open next?
 
-## Instagram Reel caption (teaser v1.1)
+## Instagram Reel caption (teaser v1.2)
 ```
 9:20 PM, 26 November 2008. Ten men. Five targets. Ten minutes. 🕘
 

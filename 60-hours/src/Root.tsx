@@ -4,6 +4,7 @@ import { buildTimeline, config } from "./data";
 import { Documentary } from "./Documentary";
 import { Teaser, teaserFrames } from "./Teaser";
 import { Avatar, Banner, Thumbnail, Watermark } from "./brand/Brand";
+import { Thumb02A, Thumb02B } from "./brand/Thumbs";
 
 const calculateMetadata: CalculateMetadataFunction<
   Record<string, unknown>
@@ -64,5 +65,7 @@ export const RemotionRoot: React.FC = () => (
       width={1280}
       height={720}
     />
+    <Composition id="Thumb02A" component={Thumb02A} durationInFrames={1} fps={config.fps} width={1280} height={720} />
+    <Composition id="Thumb02B" component={Thumb02B} durationInFrames={1} fps={config.fps} width={1280} height={720} />
   </>
 );

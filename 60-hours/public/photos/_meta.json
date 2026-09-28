@@ -1,0 +1,116 @@
+{
+ "taj_gateway": {
+  "file": "photos/taj_gateway.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "iMahesh",
+  "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background_(cropped).jpg"
+ },
+ "nariman_building": {
+  "file": "photos/nariman_building.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Nicholas (Nichalp)",
+  "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attack_Nariman_House_building.jpg"
+ },
+ "cama_hospital": {
+  "file": "photos/cama_hospital.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Nicholas (Nichalp)",
+  "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attack_Cama_Hospital_1.jpg"
+ },
+ "karkare_spot": {
+  "file": "photos/karkare_spot.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Nicholas (Nichalp)",
+  "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Karkare's_death_location.jpg"
+ },
+ "chakra_karkare": {
+  "file": "photos/chakra_karkare.jpg",
+  "license": "GODL-India",
+  "artist": "Ministry of Defence",
+  "source": "https://commons.wikimedia.org/wiki/File:Smt._Kavita_Karkare_receiving_Ashoka_Chakra_awarded_to_her_husband_Shri_Hemant_Kamalakar_Karkare_(Posthumous)_from_the_President,_Smt._Pratibha_Devisingh_Patil,_during_the_60th_Republic_Day_Parade-2009,_in_New_Delhi.jpg"
+ },
+ "chakra_kamte": {
+  "file": "photos/chakra_kamte.jpg",
+  "license": "GODL-India",
+  "artist": "Ministry of Defence",
+  "source": "https://commons.wikimedia.org/wiki/File:Smt._Vinita_Ashok_Kamte_receiving_Ashoka_Chakra_awarded_to_her_husband_Shri_Ashok_Marutrao_Kamte_(Posthumous)_from_the_President,_Smt._Pratibha_Devisingh_Patil,_during_the_60th_Republic_Day_Parade-2009,_in_New_Delhi.jpg"
+ },
+ "chakra_salaskar": {
+  "file": "photos/chakra_salaskar.jpg",
+  "license": "GODL-India",
+  "artist": "Ministry of Defence",
+  "source": "https://commons.wikimedia.org/wiki/File:Smt._Smita_Vijay_Salaskar_receiving_Ashoka_Chakra_awarded_to_her_husband_Shri_Vijay_Salaskar_(Posthumous)_from_the_President,_Smt._Pratibha_Devisingh_Patil,_during_the_60th_Republic_Day_Parade-2009,_in_New_Delhi.jpg"
+ },
+ "chowpatty": {
+  "file": "photos/chowpatty.jpg",
+  "license": "CC BY 2.0",
+  "artist": "Jorge L\u00e1scar",
+  "source": "https://commons.wikimedia.org/wiki/File:Chowpatti_Beach_(Girgaum_Chowpatty).jpg"
+ },
+ "nsg_commandos": {
+  "file": "photos/nsg_commandos.jpg",
+  "license": "GODL-India",
+  "artist": "Ministry of Home Affairs",
+  "source": "https://commons.wikimedia.org/wiki/File:Sushil_Kumar_Shinde_with_the_Black_Cat_Commandos,_at_the_28th_NSG_Raising_Day_Function,_at_Manesar,_Gurgaon,_Haryana_on_October_16,_2012._The_Director_General,_National_Security_Guard,_Shri_Subhash_Joshi_is_also_seen.jpg"
+ },
+ "oberoi_room": {
+  "file": "photos/oberoi_room.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Nicholas (Nichalp)",
+  "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Oberoi_burned_room.jpg"
+ },
+ "nariman_side": {
+  "file": "photos/nariman_side.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Nicholas (Nichalp)",
+  "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Nariman_House_side_view_1.jpg"
+ },
+ "oberoi_restaurant": {
+  "file": "photos/oberoi_restaurant.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Nicholas (Nichalp)",
+  "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Oberoi_Restaurant.jpg"
+ },
+ "taj_main_dome": {
+  "file": "photos/taj_main_dome.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Joe Ravi",
+  "source": "https://commons.wikimedia.org/wiki/File:Main_Dome_of_Taj_Mahal_Palace_Hotel.jpg"
+ },
+ "cst_tracks": {
+  "file": "photos/cst_tracks.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Ingo Mehling",
+  "source": "https://commons.wikimedia.org/wiki/File:Mumbai_-_Chhatrapati_Shivaji_Terminus_Tracks.jpg"
+ },
+ "marine_night": {
+  "file": "photos/marine_night.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Av9",
+  "source": "https://commons.wikimedia.org/wiki/File:Mumbai_Skyline_Marine_Drive_Night.jpg"
+ },
+ "karachi_port": {
+  "file": "photos/karachi_port.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Nawazahmed12",
+  "source": "https://commons.wikimedia.org/wiki/File:Karachi_port_trust.jpg"
+ },
+ "taj_exterior": {
+  "file": "photos/taj_exterior.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Joe Ravi",
+  "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel.jpg"
+ },
+ "cuffe_parade": {
+  "file": "photos/cuffe_parade.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "gineshgandhi",
+  "source": "https://commons.wikimedia.org/wiki/File:Cuffe_Parade.jpg"
+ },
+ "cst_exterior": {
+  "file": "photos/cst_exterior.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Joe Ravi",
+  "source": "https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).jpg"
+ }
+}
