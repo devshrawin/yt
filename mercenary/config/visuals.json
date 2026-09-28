@@ -1,0 +1,285 @@
+{
+  "_note": "Per-segment visual overrides for File 04 (merged into segments.json by parse_script.py). Headley has no licence-clean photo: he is a silhouette. Every element is keyed to the word that triggers it (paragraph + at_word).",
+  "segments": {
+    "seg_00": {
+      "visual_type": "venn",
+      "venn": {
+        "circles": [
+          {
+            "label": "DEA",
+            "sub": "paid informant",
+            "at_word": "informant",
+            "paragraph": 1
+          },
+          {
+            "label": "LASHKAR-E-TAIBA",
+            "sub": "five training courses",
+            "at_word": "trained",
+            "paragraph": 2
+          },
+          {
+            "label": "ISI",
+            "sub": "by his own testimony",
+            "at_word": "intelligence",
+            "paragraph": 2
+          }
+        ],
+        "center_label": "DAVID COLEMAN HEADLEY",
+        "center_cue": {
+          "at_word": "Headley",
+          "paragraph": 3
+        }
+      }
+    },
+    "seg_01": {
+      "map": "world",
+      "pins": [
+        "Washington",
+        "Philadelphia",
+        "Lahore"
+      ],
+      "route": [
+        "Washington",
+        "Lahore",
+        "Philadelphia"
+      ],
+      "route_from_paragraph": 0
+    },
+    "seg_02": {
+      "map": "world",
+      "pins": [
+        "Lahore",
+        "Frankfurt",
+        "Manhattan"
+      ],
+      "route": [
+        "Lahore",
+        "Frankfurt"
+      ],
+      "route_from_paragraph": 1
+    },
+    "seg_03": {
+      "map": "region",
+      "pins": [
+        "Muzaffarabad",
+        "Mansehra",
+        "Karachi"
+      ],
+      "zoom": 0.8
+    },
+    "seg_04": {
+      "map": "city",
+      "pins": [
+        "Taj",
+        "Oberoi-Trident",
+        "Leopold Café",
+        "Nariman House",
+        "CST"
+      ]
+    },
+    "seg_05": {
+      "visual_type": "checklist",
+      "checklist": {
+        "items": [
+          {
+            "year": "2001 · 2002",
+            "who": "Further tips",
+            "text": "extremist sympathies",
+            "at_word": "tips",
+            "paragraph": 4
+          },
+          {
+            "year": "2005",
+            "who": "His American wife → FBI, New York",
+            "text": "\"an active Lashkar militant\" who trained in its camps",
+            "at_word": "American",
+            "paragraph": 2
+          },
+          {
+            "year": "2007",
+            "who": "Faiza Outalha → US Embassy, Islamabad",
+            "text": "twice · photos of their stays at the Taj and the Oberoi",
+            "at_word": "Moroccan",
+            "paragraph": 3
+          },
+          {
+            "year": "Apr 2008",
+            "who": "Another tip",
+            "text": "seven months before the attack",
+            "at_word": "April",
+            "paragraph": 4
+          },
+          {
+            "year": "Dec 2008",
+            "who": "A last tip",
+            "text": "a month after 26/11",
+            "after": true,
+            "at_word": "December",
+            "paragraph": 4
+          }
+        ],
+        "tally": {
+          "text": "5+ WARNINGS",
+          "at_word": "five",
+          "paragraph": 1
+        },
+        "footer": {
+          "text": "Arrested October 2009 — after British intelligence flagged his al-Qaeda contacts in Europe.",
+          "at_word": "British",
+          "paragraph": 5
+        }
+      }
+    },
+    "seg_06": {
+      "map": "world",
+      "pins": [
+        "Chicago",
+        "Delhi",
+        "Copenhagen"
+      ],
+      "route": [
+        "Chicago",
+        "Copenhagen",
+        "Delhi"
+      ],
+      "route_from_paragraph": 1
+    },
+    "seg_07": {
+      "visual_type": "verdict",
+      "verdict": {
+        "titles": [
+          "THE PLEA",
+          "THE DEAL"
+        ],
+        "intro": {
+          "text": "October 3, 2009 · arrested at O'Hare · about 13 surveillance videos",
+          "at_word": "O'Hare",
+          "paragraph": 0
+        },
+        "acquitted": [
+          {
+            "text": "Guilty on all 12 counts",
+            "at_word": "twelve",
+            "paragraph": 1
+          },
+          {
+            "text": "Full cooperation",
+            "at_word": "cooperate",
+            "paragraph": 1
+          },
+          {
+            "text": "Star witness against Tahawwur Rana",
+            "at_word": "stand",
+            "paragraph": 1
+          }
+        ],
+        "convicted": [
+          {
+            "text": "No death penalty",
+            "at_word": "death",
+            "paragraph": 1
+          },
+          {
+            "text": "No extradition to India",
+            "at_word": "extradited",
+            "paragraph": 1
+          }
+        ],
+        "sentence": {
+          "text": "35 YEARS",
+          "at_word": "thirty-five",
+          "paragraph": 2
+        }
+      }
+    },
+    "seg_08": {
+      "visual_type": "legal",
+      "legal": {
+        "us": {
+          "title": "UNITED STATES",
+          "text": "Undisclosed location · serving 35 years",
+          "result": "ON SCREEN ONLY"
+        },
+        "india": {
+          "title": "INDIA · SPECIAL COURT, MUMBAI",
+          "text": "Testimony by video link · pardoned as an approver"
+        },
+        "gap": {
+          "text": "VIDEO LINK",
+          "at_word": "video",
+          "paragraph": 0
+        },
+        "quote": {
+          "text": "It is also his account.",
+          "attribution": "every claim rests on Headley's word",
+          "at_word": "account",
+          "paragraph": 2
+        },
+        "steps": [
+          {
+            "date": "Dec 2015",
+            "text": "Pardon · approver",
+            "at_word": "pardon",
+            "paragraph": 0
+          },
+          {
+            "date": "Feb 2016",
+            "text": "Examination",
+            "at_word": "February",
+            "paragraph": 1
+          },
+          {
+            "date": "Mar 2016",
+            "text": "Cross-examination",
+            "at_word": "March",
+            "paragraph": 1
+          },
+          {
+            "date": "Claim",
+            "text": "ISI officers named",
+            "at_word": "officers",
+            "paragraph": 1
+          },
+          {
+            "date": "Claim",
+            "text": "Ishrat Jahan claim · contested",
+            "at_word": "Ishrat",
+            "paragraph": 1
+          }
+        ]
+      }
+    },
+    "seg_09": {
+      "visual_type": "venn",
+      "venn": {
+        "circles": [
+          {
+            "label": "DEA",
+            "sub": "drugs",
+            "at_word": "David",
+            "paragraph": 0
+          },
+          {
+            "label": "LASHKAR-E-TAIBA",
+            "sub": "terror",
+            "at_word": "serving",
+            "paragraph": 0
+          },
+          {
+            "label": "ISI",
+            "sub": "spies",
+            "at_word": "prison",
+            "paragraph": 0
+          }
+        ],
+        "center_label": "THE SEAM",
+        "center_cue": {
+          "at_word": "seam",
+          "paragraph": 2
+        },
+        "separate": true,
+        "closing_label": "SERVING 35 YEARS · UNDISCLOSED US PRISON · INDIA STILL WAITING"
+      }
+    }
+  }
+}

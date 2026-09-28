@@ -1,0 +1,508 @@
+{
+  "id": "teaser",
+  "index": 99,
+  "gap_ms": 350,
+  "tail_ms": 600,
+  "paragraphs": [
+    {
+      "text": "One man worked for America's drug agency, trained with Lashkar-e-Taiba, and took money from Pakistani intelligence."
+    },
+    {
+      "text": "Every time he was caught, he made a deal."
+    },
+    {
+      "text": "He checked into the Taj, filmed the routes, and marked the targets for 26/11."
+    },
+    {
+      "text": "His own wives warned US authorities. \"He's either a terrorist, or he's working for you.\""
+    },
+    {
+      "text": "The Mercenary. Now on The Sisodia Files."
+    }
+  ],
+  "audio_file": "audio/teaser.mp3",
+  "audio_hash": "700292fd49baa116",
+  "duration_seconds": 28.568,
+  "paragraph_starts": [
+    0,
+    8582,
+    11596,
+    17826,
+    24344
+  ],
+  "words": [
+    {
+      "text": "One",
+      "startMs": 91,
+      "endMs": 378,
+      "p": 0
+    },
+    {
+      "text": "man",
+      "startMs": 391,
+      "endMs": 690,
+      "p": 0
+    },
+    {
+      "text": "worked",
+      "startMs": 703,
+      "endMs": 1055,
+      "p": 0
+    },
+    {
+      "text": "for",
+      "startMs": 1068,
+      "endMs": 1237,
+      "p": 0
+    },
+    {
+      "text": "America's",
+      "startMs": 1250,
+      "endMs": 1732,
+      "p": 0
+    },
+    {
+      "text": "drug",
+      "startMs": 1745,
+      "endMs": 2031,
+      "p": 0
+    },
+    {
+      "text": "agency,",
+      "startMs": 2044,
+      "endMs": 2643,
+      "p": 0
+    },
+    {
+      "text": "trained",
+      "startMs": 3229,
+      "endMs": 3698,
+      "p": 0
+    },
+    {
+      "text": "with",
+      "startMs": 3711,
+      "endMs": 3906,
+      "p": 0
+    },
+    {
+      "text": "Lashkar-e-Taiba,",
+      "startMs": 3906,
+      "endMs": 5117,
+      "p": 0
+    },
+    {
+      "text": "and",
+      "startMs": 5378,
+      "endMs": 5573,
+      "p": 0
+    },
+    {
+      "text": "took",
+      "startMs": 5586,
+      "endMs": 5833,
+      "p": 0
+    },
+    {
+      "text": "money",
+      "startMs": 5846,
+      "endMs": 6185,
+      "p": 0
+    },
+    {
+      "text": "from",
+      "startMs": 6198,
+      "endMs": 6367,
+      "p": 0
+    },
+    {
+      "text": "Pakistani",
+      "startMs": 6380,
+      "endMs": 7044,
+      "p": 0
+    },
+    {
+      "text": "intelligence.",
+      "startMs": 7057,
+      "endMs": 7839,
+      "p": 0
+    },
+    {
+      "text": "Every",
+      "startMs": 8647,
+      "endMs": 8882,
+      "p": 1
+    },
+    {
+      "text": "time",
+      "startMs": 8894,
+      "endMs": 9181,
+      "p": 1
+    },
+    {
+      "text": "he",
+      "startMs": 9194,
+      "endMs": 9298,
+      "p": 1
+    },
+    {
+      "text": "was",
+      "startMs": 9311,
+      "endMs": 9480,
+      "p": 1
+    },
+    {
+      "text": "caught,",
+      "startMs": 9493,
+      "endMs": 9884,
+      "p": 1
+    },
+    {
+      "text": "he",
+      "startMs": 9910,
+      "endMs": 10079,
+      "p": 1
+    },
+    {
+      "text": "made",
+      "startMs": 10092,
+      "endMs": 10288,
+      "p": 1
+    },
+    {
+      "text": "a",
+      "startMs": 10301,
+      "endMs": 10379,
+      "p": 1
+    },
+    {
+      "text": "deal.",
+      "startMs": 10392,
+      "endMs": 10861,
+      "p": 1
+    },
+    {
+      "text": "He",
+      "startMs": 11687,
+      "endMs": 11817,
+      "p": 2
+    },
+    {
+      "text": "checked",
+      "startMs": 11830,
+      "endMs": 12182,
+      "p": 2
+    },
+    {
+      "text": "into",
+      "startMs": 12195,
+      "endMs": 12442,
+      "p": 2
+    },
+    {
+      "text": "the",
+      "startMs": 12455,
+      "endMs": 12573,
+      "p": 2
+    },
+    {
+      "text": "Taj,",
+      "startMs": 12573,
+      "endMs": 13145,
+      "p": 2
+    },
+    {
+      "text": "filmed",
+      "startMs": 13653,
+      "endMs": 14057,
+      "p": 2
+    },
+    {
+      "text": "the",
+      "startMs": 14070,
+      "endMs": 14135,
+      "p": 2
+    },
+    {
+      "text": "routes,",
+      "startMs": 14148,
+      "endMs": 14630,
+      "p": 2
+    },
+    {
+      "text": "and",
+      "startMs": 14656,
+      "endMs": 14864,
+      "p": 2
+    },
+    {
+      "text": "marked",
+      "startMs": 14877,
+      "endMs": 15177,
+      "p": 2
+    },
+    {
+      "text": "the",
+      "startMs": 15190,
+      "endMs": 15268,
+      "p": 2
+    },
+    {
+      "text": "targets",
+      "startMs": 15281,
+      "endMs": 15802,
+      "p": 2
+    },
+    {
+      "text": "for",
+      "startMs": 15815,
+      "endMs": 15984,
+      "p": 2
+    },
+    {
+      "text": "26/11.",
+      "startMs": 15997,
+      "endMs": 17078,
+      "p": 2
+    },
+    {
+      "text": "His",
+      "startMs": 17904,
+      "endMs": 18060,
+      "p": 3
+    },
+    {
+      "text": "own",
+      "startMs": 18073,
+      "endMs": 18308,
+      "p": 3
+    },
+    {
+      "text": "wives",
+      "startMs": 18321,
+      "endMs": 18777,
+      "p": 3
+    },
+    {
+      "text": "warned",
+      "startMs": 18790,
+      "endMs": 19219,
+      "p": 3
+    },
+    {
+      "text": "US",
+      "startMs": 19232,
+      "endMs": 19610,
+      "p": 3
+    },
+    {
+      "text": "authorities.",
+      "startMs": 19623,
+      "endMs": 20378,
+      "p": 3
+    },
+    {
+      "text": "\"He's",
+      "startMs": 20951,
+      "endMs": 21146,
+      "p": 3
+    },
+    {
+      "text": "either",
+      "startMs": 21224,
+      "endMs": 21524,
+      "p": 3
+    },
+    {
+      "text": "a",
+      "startMs": 21537,
+      "endMs": 21602,
+      "p": 3
+    },
+    {
+      "text": "terrorist,",
+      "startMs": 21615,
+      "endMs": 22292,
+      "p": 3
+    },
+    {
+      "text": "or",
+      "startMs": 22318,
+      "endMs": 22461,
+      "p": 3
+    },
+    {
+      "text": "he's",
+      "startMs": 22474,
+      "endMs": 22683,
+      "p": 3
+    },
+    {
+      "text": "working",
+      "startMs": 22696,
+      "endMs": 23112,
+      "p": 3
+    },
+    {
+      "text": "for",
+      "startMs": 23126,
+      "endMs": 23321,
+      "p": 3
+    },
+    {
+      "text": "you.\"",
+      "startMs": 23334,
+      "endMs": 23594,
+      "p": 3
+    },
+    {
+      "text": "The",
+      "startMs": 24422,
+      "endMs": 24500,
+      "p": 4
+    },
+    {
+      "text": "Mercenary.",
+      "startMs": 24513,
+      "endMs": 25295,
+      "p": 4
+    },
+    {
+      "text": "Now",
+      "startMs": 25698,
+      "endMs": 26063,
+      "p": 4
+    },
+    {
+      "text": "on",
+      "startMs": 26076,
+      "endMs": 26271,
+      "p": 4
+    },
+    {
+      "text": "The",
+      "startMs": 26284,
+      "endMs": 26375,
+      "p": 4
+    },
+    {
+      "text": "Sisodia",
+      "startMs": 26388,
+      "endMs": 26974,
+      "p": 4
+    },
+    {
+      "text": "Files.",
+      "startMs": 26987,
+      "endMs": 27573,
+      "p": 4
+    }
+  ],
+  "caption_lines": [
+    {
+      "text": "One man worked for America's drug agency,",
+      "startMs": 91,
+      "endMs": 2643
+    },
+    {
+      "text": "trained with Lashkar-e-Taiba, and took",
+      "startMs": 3229,
+      "endMs": 5833
+    },
+    {
+      "text": "money from Pakistani intelligence.",
+      "startMs": 5846,
+      "endMs": 7839
+    },
+    {
+      "text": "Every time he was caught, he made a deal.",
+      "startMs": 8647,
+      "endMs": 10861
+    },
+    {
+      "text": "He checked into the Taj,",
+      "startMs": 11687,
+      "endMs": 13145
+    },
+    {
+      "text": "filmed the routes, and marked the targets",
+      "startMs": 13653,
+      "endMs": 15802
+    },
+    {
+      "text": "for 26/11.",
+      "startMs": 15815,
+      "endMs": 17078
+    },
+    {
+      "text": "His own wives warned US authorities.",
+      "startMs": 17904,
+      "endMs": 20378
+    },
+    {
+      "text": "\"He's either a terrorist, or he's working",
+      "startMs": 20951,
+      "endMs": 23112
+    },
+    {
+      "text": "for you.\"",
+      "startMs": 23126,
+      "endMs": 23594
+    },
+    {
+      "text": "The Mercenary.",
+      "startMs": 24422,
+      "endMs": 25295
+    },
+    {
+      "text": "Now on The Sisodia Files.",
+      "startMs": 25698,
+      "endMs": 27573
+    }
+  ],
+  "beats": [
+    {
+      "headline": "THREE MASTERS",
+      "text": "One man worked for America's drug agency, trained with Lashkar-e-Taiba, and took money from Pakistani intelligence.",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 2,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE BARGAIN",
+      "text": "Every time he was caught, he made a deal.",
+      "show": {
+        "segment": "seg_02",
+        "paragraph": 2,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "THE TOURIST",
+      "text": "He checked into the Taj, filmed the routes, and marked the targets for 26/11.",
+      "show": {
+        "segment": "seg_04",
+        "paragraph": 1,
+        "offset_ms": 2000
+      }
+    },
+    {
+      "headline": "FIVE WARNINGS",
+      "text": "His own wives warned US authorities. \"He's either a terrorist, or he's working for you.\"",
+      "show": {
+        "segment": "seg_05",
+        "paragraph": 3,
+        "offset_ms": 2000
+      }
+    },
+    {
+      "headline": "THE MERCENARY",
+      "text": "The Mercenary. Now on The Sisodia Files.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "_note": "Map places for File 04. map = 'world' (India-POV world basemap), 'region' (South Asia, India-POV) or 'city' (South Mumbai, OSM). Coordinates from research.md.",
+  "places": {
+    "Washington": {
+      "lonLat": [
+        -77.0369,
+        38.9072
+      ],
+      "aliases": [
+        "Washington, D.C.",
+        "Washington"
+      ],
+      "map": "world",
+      "label": "Washington, D.C."
+    },
+    "Philadelphia": {
+      "lonLat": [
+        -75.1652,
+        39.9526
+      ],
+      "aliases": [
+        "Philadelphia"
+      ],
+      "map": "world",
+      "label": "Philadelphia"
+    },
+    "Lahore": {
+      "lonLat": [
+        74.3436,
+        31.5497
+      ],
+      "aliases": [
+        "Lahore"
+      ],
+      "map": "world",
+      "label": "Lahore"
+    },
+    "Hasan Abdal": {
+      "lonLat": [
+        72.689,
+        33.8195
+      ],
+      "aliases": [
+        "Hasan Abdal"
+      ],
+      "map": "region",
+      "label": "Cadet College Hasan Abdal"
+    },
+    "Frankfurt": {
+      "lonLat": [
+        8.6821,
+        50.1109
+      ],
+      "aliases": [
+        "Frankfurt"
+      ],
+      "map": "world",
+      "label": "Frankfurt"
+    },
+    "Manhattan": {
+      "lonLat": [
+        -74.006,
+        40.7128
+      ],
+      "aliases": [
+        "Manhattan",
+        "New York"
+      ],
+      "map": "world",
+      "label": "New York"
+    },
+    "Muzaffarabad": {
+      "lonLat": [
+        73.472,
+        34.358
+      ],
+      "aliases": [
+        "Muzaffarabad"
+      ],
+      "map": "region",
+      "label": "Muzaffarabad (Illegally Occupied Pakistani Kashmir)"
+    },
+    "Mansehra": {
+      "lonLat": [
+        73.2,
+        34.333
+      ],
+      "aliases": [
+        "Mansehra"
+      ],
+      "map": "region",
+      "label": "Mansehra"
+    },
+    "Islamabad": {
+      "lonLat": [
+        73.0479,
+        33.6844
+      ],
+      "aliases": [
+        "Islamabad"
+      ],
+      "map": "region",
+      "label": "US Embassy, Islamabad"
+    },
+    "Karachi": {
+      "lonLat": [
+        67.0011,
+        24.8607
+      ],
+      "aliases": [
+        "Karachi"
+      ],
+      "map": "region",
+      "label": "Karachi"
+    },
+    "Mumbai": {
+      "lonLat": [
+        72.8332,
+        18.9217
+      ],
+      "aliases": [
+        "Mumbai"
+      ],
+      "map": "region",
+      "label": "Mumbai"
+    },
+    "Taj": {
+      "lonLat": [
+        72.8332,
+        18.9217
+      ],
+      "aliases": [
+        "Taj Mahal Palace",
+        "the Taj",
+        "Taj"
+      ],
+      "map": "city",
+      "label": "Taj Mahal Palace"
+    },
+    "Oberoi-Trident": {
+      "lonLat": [
+        72.8204,
+        18.927
+      ],
+      "aliases": [
+        "Oberoi-Trident",
+        "Oberoi"
+      ],
+      "map": "city",
+      "label": "Oberoi-Trident"
+    },
+    "Leopold Café": {
+      "lonLat": [
+        72.8322,
+        18.9068
+      ],
+      "aliases": [
+        "Leopold Café"
+      ],
+      "map": "city",
+      "label": "Leopold Café"
+    },
+    "Nariman House": {
+      "lonLat": [
+        72.8281,
+        18.9086
+      ],
+      "aliases": [
+        "Nariman House"
+      ],
+      "map": "city",
+      "label": "Nariman House"
+    },
+    "CST": {
+      "lonLat": [
+        72.8355,
+        18.9398
+      ],
+      "aliases": [
+        "CST"
+      ],
+      "map": "city",
+      "label": "CST station"
+    },
+    "Delhi": {
+      "lonLat": [
+        77.1025,
+        28.7041
+      ],
+      "aliases": [
+        "Delhi"
+      ],
+      "map": "world",
+      "label": "Delhi"
+    },
+    "Copenhagen": {
+      "lonLat": [
+        12.5683,
+        55.6761
+      ],
+      "aliases": [
+        "Copenhagen",
+        "Denmark",
+        "Jyllands-Posten"
+      ],
+      "map": "world",
+      "label": "Copenhagen"
+    },
+    "Chicago": {
+      "lonLat": [
+        -87.6298,
+        41.8781
+      ],
+      "aliases": [
+        "Chicago"
+      ],
+      "map": "world",
+      "label": "Chicago"
+    },
+    "O'Hare": {
+      "lonLat": [
+        -87.9073,
+        41.9742
+      ],
+      "aliases": [
+        "O'Hare Airport",
+        "O'Hare"
+      ],
+      "map": "world",
+      "label": "O'Hare Airport, Chicago"
+    }
+  },
+  "city_labels": [
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        72.797,
+        18.93
+      ],
+      "size": 30
+    },
+    {
+      "text": "BACK BAY",
+      "lonLat": [
+        72.814,
+        18.938
+      ],
+      "size": 18
+    },
+    {
+      "text": "MUMBAI HARBOUR",
+      "lonLat": [
+        72.858,
+        18.925
+      ],
+      "size": 22
+    },
+    {
+      "text": "COLABA",
+      "lonLat": [
+        72.818,
+        18.902
+      ],
+      "size": 18
+    },
+    {
+      "text": "FORT",
+      "lonLat": [
+        72.838,
+        18.932
+      ],
+      "size": 16
+    },
+    {
+      "text": "NARIMAN POINT",
+      "lonLat": [
+        72.8215,
+        18.9215
+      ],
+      "size": 14
+    },
+    {
+      "text": "MARINE DRIVE",
+      "lonLat": [
+        72.8235,
+        18.946
+      ],
+      "size": 14
+    }
+  ],
+  "region_labels": [
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        65.5,
+        15.0
+      ],
+      "size": 40
+    },
+    {
+      "text": "BAY OF BENGAL",
+      "lonLat": [
+        88.5,
+        15.0
+      ],
+      "size": 34
+    },
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79.0,
+        22.5
+      ],
+      "size": 50
+    },
+    {
+      "text": "PAKISTAN",
+      "lonLat": [
+        68.6,
+        28.2
+      ],
+      "size": 38
+    }
+  ],
+  "world_labels": [
+    {
+      "text": "ATLANTIC OCEAN",
+      "lonLat": [
+        -40,
+        32
+      ],
+      "size": 34
+    },
+    {
+      "text": "PACIFIC OCEAN",
+      "lonLat": [
+        -150,
+        20
+      ],
+      "size": 34
+    },
+    {
+      "text": "INDIAN OCEAN",
+      "lonLat": [
+        78,
+        -10
+      ],
+      "size": 34
+    },
+    {
+      "text": "NORTH AMERICA",
+      "lonLat": [
+        -100,
+        50
+      ],
+      "size": 28
+    },
+    {
+      "text": "EUROPE",
+      "lonLat": [
+        15,
+        50
+      ],
+      "size": 26
+    },
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79,
+        22
+      ],
+      "size": 26
+    }
+  ]
+}

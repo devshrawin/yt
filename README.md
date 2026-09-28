@@ -4,6 +4,7 @@ Code-driven investigative documentaries (Remotion + edge-tts) for [@SisodiaFiles
 
 | Video | Folder | Status |
 |---|---|---|
+| File 04 — The Mercenary (David Headley) | [`mercenary/`](mercenary/) | v1.0 |
 | File 03 — The Front Man (Tahawwur Rana) | [`front-man/`](front-man/) | v1.2 |
 | File 02 — 60 Hours (26/11 hour by hour) | [`60-hours/`](60-hours/) | v1.4 |
 | Inside the Terror Factory | [`terror-factory/`](terror-factory/) | File 01 — v1.3 + Instagram teaser v1.2 (renders kept locally, not in git) |
