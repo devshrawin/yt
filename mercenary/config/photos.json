@@ -122,7 +122,7 @@
       "segment": "seg_00",
       "paragraph": 0,
       "at_word": "O'Hare",
-      "seconds": 6,
+      "seconds": 11,
       "images": [
         "ohare"
       ],
@@ -130,8 +130,18 @@
     },
     {
       "segment": "seg_00",
+      "paragraph": 0,
+      "at_word": "never",
+      "seconds": 4.2,
+      "images": [
+        "fbi_badge"
+      ],
+      "caption": "FBI special agent's badge"
+    },
+    {
+      "segment": "seg_00",
       "paragraph": 1,
-      "at_word": "Mumbai",
+      "at_word": "Eleven",
       "seconds": 5,
       "images": [
         "taj_gateway"
@@ -141,8 +151,18 @@
     {
       "segment": "seg_00",
       "paragraph": 1,
-      "at_word": "drug",
-      "seconds": 5,
+      "at_word": "Denmark",
+      "seconds": 4,
+      "images": [
+        "jp_building"
+      ],
+      "caption": "Jyllands-Posten's offices, Copenhagen"
+    },
+    {
+      "segment": "seg_00",
+      "paragraph": 1,
+      "at_word": "paid",
+      "seconds": 4.5,
       "images": [
         "dea_flag"
       ],

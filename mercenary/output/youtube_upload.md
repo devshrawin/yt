@@ -1,4 +1,4 @@
-# YouTube upload kit — The Mercenary (v1.0)
+# YouTube upload kit — The Mercenary (v1.1)
 
 ## Title (61/100)
 The Mercenary: The David Headley Story | The Sisodia Files 04

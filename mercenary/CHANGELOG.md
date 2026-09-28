@@ -11,3 +11,8 @@
 - New scenes: `venn`, `checklist`; South Mumbai city basemap added to the world-map MapScene.
 - 25 photo moments (US-government public domain, CC0, CC BY / BY-SA); Headley stays a silhouette.
 - Pronunciation: Daood Gilani, Faiza Outalha, Ishrat Jahan, Ilyas Kashmiri, Islamabad, al-Qaeda, DEA, FBI added.
+
+## v1.1 — audit round 1
+- Cold open: the 6–24 s stretch between the O'Hare photo and the first circle was an empty dark frame.
+  Now carried by photos on the spoken words (O'Hare held through "sent him", FBI badge at "never boards",
+  Mumbai at "Eleven months earlier", Jyllands-Posten at "Denmark", DEA flag at "paid informant").
