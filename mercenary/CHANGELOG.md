@@ -16,3 +16,6 @@
 - Cold open: the 6–24 s stretch between the O'Hare photo and the first circle was an empty dark frame.
   Now carried by photos on the spoken words (O'Hare held through "sent him", FBI badge at "never boards",
   Mumbai at "Eleven months earlier", Jyllands-Posten at "Denmark", DEA flag at "paid informant").
+
+## v1.2 — end-card credits
+- The end card cut off most image credits (long source list + many photos ran past the frame). Sources now tighten and credits split into two columns when there are many, so every licence credit is on screen.

@@ -128,6 +128,9 @@ export const EndCard: React.FC<{ durationInFrames: number }> = ({
     end_card_cta: cta,
   } = config;
   const hasChannel = Boolean(name || handle || cta);
+  // long source lists + many photo credits: tighten the list and split credits into two columns
+  const dense = sources.length > 10 || photoCredits.length > 6;
+  const twoCol = photoCredits.length > 6;
   return (
     <AbsoluteFill
       style={{
@@ -156,10 +159,10 @@ export const EndCard: React.FC<{ durationInFrames: number }> = ({
             style={{
               display: "flex",
               gap: 14,
-              fontSize: 21,
-              lineHeight: 1.35,
+              fontSize: dense ? 17 : 21,
+              lineHeight: 1.3,
               color: C.ink,
-              marginBottom: 13,
+              marginBottom: dense ? 6 : 13,
               opacity: interpolate(
                 frame,
                 [8 + i * 4, 20 + i * 4],
@@ -181,17 +184,19 @@ export const EndCard: React.FC<{ durationInFrames: number }> = ({
               letterSpacing: 4,
               color: C.accent,
               fontWeight: 700,
-              margin: "26px 0 10px",
+              margin: dense ? "18px 0 8px" : "26px 0 10px",
             }}
           >
             IMAGE CREDITS
           </div>
         )}
-        {photoCredits.map((c) => (
-          <div key={c} style={{ fontSize: 17, lineHeight: 1.4, color: C.dim }}>
-            {c}
-          </div>
-        ))}
+        <div style={{ display: "grid", gridTemplateColumns: twoCol ? "1fr 1fr" : "1fr", columnGap: 28 }}>
+          {photoCredits.map((c) => (
+            <div key={c} style={{ fontSize: twoCol ? 13 : 17, lineHeight: 1.35, color: C.dim }}>
+              {c}
+            </div>
+          ))}
+        </div>
       </div>
       {hasChannel && (
         <div

@@ -1,4 +1,4 @@
-# YouTube upload kit — The Voice in the Room (v1.0)
+# YouTube upload kit — The Voice in the Room (v1.1)
 
 ## Title (65/100)
 The Voice in the Room: The Sajid Mir Story | The Sisodia Files 05

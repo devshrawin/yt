@@ -9,3 +9,6 @@
   Nashik is north-east of Mumbai; the closing drops Kasab (not established in this script) and "seventeen years".
 - Control-room scene made config-driven; checklist title configurable.
 - 15 photo moments (FBI and Government of India public domain, CC BY / BY-SA). No map images with non-India-POV borders.
+
+## v1.1 — end-card credits
+- The end card cut off most image credits (long source list + many photos ran past the frame). Sources now tighten and credits split into two columns when there are many, so every licence credit is on screen.
