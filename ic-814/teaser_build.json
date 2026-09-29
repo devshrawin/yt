@@ -1,0 +1,517 @@
+{
+  "id": "teaser",
+  "index": 99,
+  "gap_ms": 350,
+  "tail_ms": 600,
+  "paragraphs": [
+    {
+      "text": "December 1999. A hijacked Indian plane on a Taliban runway, and three prisoners traded to bring the hostages home."
+    },
+    {
+      "text": "The hostages walked free. So did the three men."
+    },
+    {
+      "text": "Within weeks, one of them founded Jaish-e-Mohammed."
+    },
+    {
+      "text": "A parliament attacked. A journalist taken. A convoy bombed. Every link runs back to the same seven days."
+    },
+    {
+      "text": "The Butterfly Effect. Now on The Sisodia Files."
+    }
+  ],
+  "audio_file": "audio/teaser.mp3",
+  "audio_hash": "19ee7ec03c8459b3",
+  "duration_seconds": 26.168,
+  "paragraph_starts": [
+    0,
+    7958,
+    11428,
+    15234,
+    22112
+  ],
+  "words": [
+    {
+      "text": "December 1999.",
+      "startMs": 65,
+      "endMs": 1696,
+      "p": 0
+    },
+    {
+      "text": "A",
+      "startMs": 2043,
+      "endMs": 2076,
+      "p": 0
+    },
+    {
+      "text": "hijacked",
+      "startMs": 2087,
+      "endMs": 2565,
+      "p": 0
+    },
+    {
+      "text": "Indian",
+      "startMs": 2576,
+      "endMs": 2880,
+      "p": 0
+    },
+    {
+      "text": "plane",
+      "startMs": 2891,
+      "endMs": 3250,
+      "p": 0
+    },
+    {
+      "text": "on",
+      "startMs": 3272,
+      "endMs": 3391,
+      "p": 0
+    },
+    {
+      "text": "a",
+      "startMs": 3402,
+      "endMs": 3456,
+      "p": 0
+    },
+    {
+      "text": "Taliban",
+      "startMs": 3467,
+      "endMs": 3913,
+      "p": 0
+    },
+    {
+      "text": "runway,",
+      "startMs": 3924,
+      "endMs": 4359,
+      "p": 0
+    },
+    {
+      "text": "and",
+      "startMs": 4804,
+      "endMs": 4956,
+      "p": 0
+    },
+    {
+      "text": "three",
+      "startMs": 4967,
+      "endMs": 5217,
+      "p": 0
+    },
+    {
+      "text": "prisoners",
+      "startMs": 5228,
+      "endMs": 5685,
+      "p": 0
+    },
+    {
+      "text": "traded",
+      "startMs": 5696,
+      "endMs": 6043,
+      "p": 0
+    },
+    {
+      "text": "to",
+      "startMs": 6054,
+      "endMs": 6141,
+      "p": 0
+    },
+    {
+      "text": "bring",
+      "startMs": 6152,
+      "endMs": 6391,
+      "p": 0
+    },
+    {
+      "text": "the",
+      "startMs": 6402,
+      "endMs": 6456,
+      "p": 0
+    },
+    {
+      "text": "hostages",
+      "startMs": 6467,
+      "endMs": 6935,
+      "p": 0
+    },
+    {
+      "text": "home.",
+      "startMs": 6946,
+      "endMs": 7272,
+      "p": 0
+    },
+    {
+      "text": "The",
+      "startMs": 8012,
+      "endMs": 8067,
+      "p": 1
+    },
+    {
+      "text": "hostages",
+      "startMs": 8078,
+      "endMs": 8654,
+      "p": 1
+    },
+    {
+      "text": "walked",
+      "startMs": 8665,
+      "endMs": 8969,
+      "p": 1
+    },
+    {
+      "text": "free.",
+      "startMs": 8980,
+      "endMs": 9360,
+      "p": 1
+    },
+    {
+      "text": "So",
+      "startMs": 9679,
+      "endMs": 9842,
+      "p": 1
+    },
+    {
+      "text": "did",
+      "startMs": 9853,
+      "endMs": 10037,
+      "p": 1
+    },
+    {
+      "text": "the",
+      "startMs": 10048,
+      "endMs": 10135,
+      "p": 1
+    },
+    {
+      "text": "three",
+      "startMs": 10146,
+      "endMs": 10385,
+      "p": 1
+    },
+    {
+      "text": "men.",
+      "startMs": 10396,
+      "endMs": 10744,
+      "p": 1
+    },
+    {
+      "text": "Within",
+      "startMs": 11478,
+      "endMs": 11891,
+      "p": 2
+    },
+    {
+      "text": "weeks,",
+      "startMs": 11902,
+      "endMs": 12304,
+      "p": 2
+    },
+    {
+      "text": "one",
+      "startMs": 12565,
+      "endMs": 12804,
+      "p": 2
+    },
+    {
+      "text": "of",
+      "startMs": 12815,
+      "endMs": 12924,
+      "p": 2
+    },
+    {
+      "text": "them",
+      "startMs": 12935,
+      "endMs": 13108,
+      "p": 2
+    },
+    {
+      "text": "founded",
+      "startMs": 13119,
+      "endMs": 13543,
+      "p": 2
+    },
+    {
+      "text": "Jaish-e-Mohammed.",
+      "startMs": 13554,
+      "endMs": 14565,
+      "p": 2
+    },
+    {
+      "text": "A",
+      "startMs": 15277,
+      "endMs": 15310,
+      "p": 3
+    },
+    {
+      "text": "parliament",
+      "startMs": 15321,
+      "endMs": 15777,
+      "p": 3
+    },
+    {
+      "text": "attacked.",
+      "startMs": 15799,
+      "endMs": 16354,
+      "p": 3
+    },
+    {
+      "text": "A",
+      "startMs": 16669,
+      "endMs": 16734,
+      "p": 3
+    },
+    {
+      "text": "journalist",
+      "startMs": 16745,
+      "endMs": 17267,
+      "p": 3
+    },
+    {
+      "text": "taken.",
+      "startMs": 17277,
+      "endMs": 17712,
+      "p": 3
+    },
+    {
+      "text": "A",
+      "startMs": 18027,
+      "endMs": 18060,
+      "p": 3
+    },
+    {
+      "text": "convoy",
+      "startMs": 18071,
+      "endMs": 18430,
+      "p": 3
+    },
+    {
+      "text": "bombed.",
+      "startMs": 18441,
+      "endMs": 18854,
+      "p": 3
+    },
+    {
+      "text": "Every",
+      "startMs": 19201,
+      "endMs": 19430,
+      "p": 3
+    },
+    {
+      "text": "link",
+      "startMs": 19441,
+      "endMs": 19712,
+      "p": 3
+    },
+    {
+      "text": "runs",
+      "startMs": 19723,
+      "endMs": 20017,
+      "p": 3
+    },
+    {
+      "text": "back",
+      "startMs": 20027,
+      "endMs": 20277,
+      "p": 3
+    },
+    {
+      "text": "to",
+      "startMs": 20288,
+      "endMs": 20386,
+      "p": 3
+    },
+    {
+      "text": "the",
+      "startMs": 20397,
+      "endMs": 20473,
+      "p": 3
+    },
+    {
+      "text": "same",
+      "startMs": 20484,
+      "endMs": 20734,
+      "p": 3
+    },
+    {
+      "text": "seven",
+      "startMs": 20745,
+      "endMs": 21038,
+      "p": 3
+    },
+    {
+      "text": "days.",
+      "startMs": 21049,
+      "endMs": 21440,
+      "p": 3
+    },
+    {
+      "text": "The",
+      "startMs": 22177,
+      "endMs": 22264,
+      "p": 4
+    },
+    {
+      "text": "Butterfly",
+      "startMs": 22275,
+      "endMs": 22786,
+      "p": 4
+    },
+    {
+      "text": "Effect.",
+      "startMs": 22797,
+      "endMs": 23329,
+      "p": 4
+    },
+    {
+      "text": "Now",
+      "startMs": 23666,
+      "endMs": 23971,
+      "p": 4
+    },
+    {
+      "text": "on",
+      "startMs": 23982,
+      "endMs": 24145,
+      "p": 4
+    },
+    {
+      "text": "The",
+      "startMs": 24155,
+      "endMs": 24232,
+      "p": 4
+    },
+    {
+      "text": "Sisodia",
+      "startMs": 24242,
+      "endMs": 24732,
+      "p": 4
+    },
+    {
+      "text": "Files.",
+      "startMs": 24742,
+      "endMs": 25232,
+      "p": 4
+    }
+  ],
+  "caption_lines": [
+    {
+      "text": "December 1999.",
+      "startMs": 65,
+      "endMs": 1696
+    },
+    {
+      "text": "A hijacked Indian plane on a Taliban",
+      "startMs": 2043,
+      "endMs": 3913
+    },
+    {
+      "text": "runway, and three prisoners traded to",
+      "startMs": 3924,
+      "endMs": 6141
+    },
+    {
+      "text": "bring the hostages home.",
+      "startMs": 6152,
+      "endMs": 7272
+    },
+    {
+      "text": "The hostages walked free.",
+      "startMs": 8012,
+      "endMs": 9360
+    },
+    {
+      "text": "So did the three men.",
+      "startMs": 9679,
+      "endMs": 10744
+    },
+    {
+      "text": "Within weeks, one of them founded",
+      "startMs": 11478,
+      "endMs": 13543
+    },
+    {
+      "text": "Jaish-e-Mohammed.",
+      "startMs": 13554,
+      "endMs": 14565
+    },
+    {
+      "text": "A parliament attacked.",
+      "startMs": 15277,
+      "endMs": 16354
+    },
+    {
+      "text": "A journalist taken.",
+      "startMs": 16669,
+      "endMs": 17712
+    },
+    {
+      "text": "A convoy bombed.",
+      "startMs": 18027,
+      "endMs": 18854
+    },
+    {
+      "text": "Every link runs back to the same seven",
+      "startMs": 19201,
+      "endMs": 21038
+    },
+    {
+      "text": "days.",
+      "startMs": 21049,
+      "endMs": 21440
+    },
+    {
+      "text": "The Butterfly Effect.",
+      "startMs": 22177,
+      "endMs": 23329
+    },
+    {
+      "text": "Now on The Sisodia Files.",
+      "startMs": 23666,
+      "endMs": 25232
+    }
+  ],
+  "beats": [
+    {
+      "headline": "KANDAHAR, 1999",
+      "text": "December 1999. A hijacked Indian plane on a Taliban runway, and three prisoners traded to bring the hostages home.",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 0,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE PRICE",
+      "text": "The hostages walked free. So did the three men.",
+      "show": {
+        "segment": "seg_02",
+        "paragraph": 2,
+        "offset_ms": 2000
+      }
+    },
+    {
+      "headline": "THE CLERIC",
+      "text": "Within weeks, one of them founded Jaish-e-Mohammed.",
+      "show": {
+        "segment": "seg_03",
+        "paragraph": 2,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "THE CHAIN",
+      "text": "A parliament attacked. A journalist taken. A convoy bombed. Every link runs back to the same seven days.",
+      "show": {
+        "segment": "seg_08",
+        "paragraph": 1,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "THE BUTTERFLY EFFECT",
+      "text": "The Butterfly Effect. Now on The Sisodia Files.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}

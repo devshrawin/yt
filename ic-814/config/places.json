@@ -1,0 +1,320 @@
+{
+  "_note": "Map places for File 06 (IC-814). Coordinates: airports for the flight stops; city centres otherwise.",
+  "places": {
+    "Kathmandu": {
+      "lonLat": [
+        85.3591,
+        27.6966
+      ],
+      "aliases": [
+        "Kathmandu"
+      ],
+      "map": "region",
+      "label": "Kathmandu (Tribhuvan Airport)"
+    },
+    "Amritsar": {
+      "lonLat": [
+        74.7973,
+        31.7096
+      ],
+      "aliases": [
+        "Amritsar"
+      ],
+      "map": "region",
+      "label": "Amritsar"
+    },
+    "Lahore": {
+      "lonLat": [
+        74.4036,
+        31.5216
+      ],
+      "aliases": [
+        "Lahore"
+      ],
+      "map": "region",
+      "label": "Lahore"
+    },
+    "Dubai": {
+      "lonLat": [
+        55.4655,
+        25.0275
+      ],
+      "aliases": [
+        "Dubai"
+      ],
+      "map": "region",
+      "label": "Dubai (Al Minhad air base)"
+    },
+    "Kandahar": {
+      "lonLat": [
+        65.8478,
+        31.5058
+      ],
+      "aliases": [
+        "Kandahar"
+      ],
+      "map": "region",
+      "label": "Kandahar"
+    },
+    "Delhi": {
+      "lonLat": [
+        77.1025,
+        28.5562
+      ],
+      "aliases": [
+        "Delhi"
+      ],
+      "map": "region",
+      "label": "Delhi"
+    },
+    "Srinagar": {
+      "lonLat": [
+        74.8,
+        34.0837
+      ],
+      "aliases": [
+        "Srinagar"
+      ],
+      "map": "region",
+      "label": "Srinagar"
+    },
+    "Muzaffarabad": {
+      "lonLat": [
+        73.472,
+        34.358
+      ],
+      "aliases": [
+        "Muzaffarabad"
+      ],
+      "map": "region",
+      "label": "Illegally Occupied Pakistani Kashmir"
+    },
+    "Karachi": {
+      "lonLat": [
+        67.0011,
+        24.8607
+      ],
+      "aliases": [
+        "Karachi"
+      ],
+      "map": "region",
+      "label": "Karachi"
+    },
+    "Pulwama": {
+      "lonLat": [
+        74.8933,
+        33.8716
+      ],
+      "aliases": [
+        "Pulwama"
+      ],
+      "map": "region",
+      "label": "Pulwama"
+    },
+    "Pathankot": {
+      "lonLat": [
+        75.6346,
+        32.2336
+      ],
+      "aliases": [
+        "Pathankot"
+      ],
+      "map": "region",
+      "label": "Pathankot air base"
+    },
+    "Parliament": {
+      "lonLat": [
+        77.208,
+        28.6172
+      ],
+      "aliases": [
+        "Parliament"
+      ],
+      "map": "region",
+      "label": "Parliament of India, New Delhi"
+    },
+    "Anantnag": {
+      "lonLat": [
+        75.1487,
+        33.7311
+      ],
+      "aliases": [
+        "Anantnag"
+      ],
+      "map": "region",
+      "label": "Anantnag"
+    },
+    "Balakot": {
+      "lonLat": [
+        73.3524,
+        34.5486
+      ],
+      "aliases": [
+        "Balakot"
+      ],
+      "map": "region",
+      "label": "Balakot"
+    },
+    "New Delhi": {
+      "lonLat": [
+        77.208,
+        28.6172
+      ],
+      "aliases": [
+        "New Delhi"
+      ],
+      "map": "region",
+      "label": "Parliament, New Delhi"
+    }
+  },
+  "city_labels": [
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        72.797,
+        18.93
+      ],
+      "size": 30
+    },
+    {
+      "text": "BACK BAY",
+      "lonLat": [
+        72.814,
+        18.938
+      ],
+      "size": 18
+    },
+    {
+      "text": "MUMBAI HARBOUR",
+      "lonLat": [
+        72.858,
+        18.925
+      ],
+      "size": 22
+    },
+    {
+      "text": "COLABA",
+      "lonLat": [
+        72.818,
+        18.902
+      ],
+      "size": 18
+    },
+    {
+      "text": "FORT",
+      "lonLat": [
+        72.838,
+        18.932
+      ],
+      "size": 16
+    },
+    {
+      "text": "NARIMAN POINT",
+      "lonLat": [
+        72.8215,
+        18.9215
+      ],
+      "size": 14
+    },
+    {
+      "text": "MARINE DRIVE",
+      "lonLat": [
+        72.8235,
+        18.946
+      ],
+      "size": 14
+    }
+  ],
+  "region_labels": [
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        63.5,
+        17.5
+      ],
+      "size": 40
+    },
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79.0,
+        22.5
+      ],
+      "size": 50
+    },
+    {
+      "text": "PAKISTAN",
+      "lonLat": [
+        68.6,
+        28.2
+      ],
+      "size": 38
+    },
+    {
+      "text": "AFGHANISTAN",
+      "lonLat": [
+        65.0,
+        33.8
+      ],
+      "size": 32
+    },
+    {
+      "text": "NEPAL",
+      "lonLat": [
+        84.0,
+        28.4
+      ],
+      "size": 22
+    }
+  ],
+  "world_labels": [
+    {
+      "text": "ATLANTIC OCEAN",
+      "lonLat": [
+        -40,
+        32
+      ],
+      "size": 34
+    },
+    {
+      "text": "PACIFIC OCEAN",
+      "lonLat": [
+        -150,
+        20
+      ],
+      "size": 34
+    },
+    {
+      "text": "INDIAN OCEAN",
+      "lonLat": [
+        78,
+        -10
+      ],
+      "size": 34
+    },
+    {
+      "text": "NORTH AMERICA",
+      "lonLat": [
+        -100,
+        50
+      ],
+      "size": 28
+    },
+    {
+      "text": "EUROPE",
+      "lonLat": [
+        15,
+        50
+      ],
+      "size": 26
+    },
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79,
+        22
+      ],
+      "size": 26
+    }
+  ]
+}

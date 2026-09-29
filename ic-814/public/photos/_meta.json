@@ -1,0 +1,80 @@
+{
+ "a300": {
+  "file": "photos/a300.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Aeroprints.com",
+  "source": "https://commons.wikimedia.org/wiki/File:VT-EHD_Airbus_A300_Indian_Airlines_(8414575918).jpg"
+ },
+ "kathmandu": {
+  "file": "photos/kathmandu.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "AgainErick",
+  "source": "https://commons.wikimedia.org/wiki/File:Tribhuvan_International_Airport_International_Terminal_-_seen_from_airport_apron.jpg"
+ },
+ "amritsar": {
+  "file": "photos/amritsar.jpg",
+  "license": "CC0",
+  "artist": "\u307b\u3063\u304d\u30fc",
+  "source": "https://commons.wikimedia.org/wiki/File:Amritsar_Airport_2024.jpg"
+ },
+ "lahore_airport": {
+  "file": "photos/lahore_airport.jpg",
+  "license": "CC BY 3.0",
+  "artist": "Ali Raza",
+  "source": "https://commons.wikimedia.org/wiki/File:Allamah_Iqbal_International_,Departure_Lounge_-_panoramio.jpg"
+ },
+ "minhad": {
+  "file": "photos/minhad.jpg",
+  "license": "Public domain",
+  "artist": "Matt Hecht",
+  "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Al_Minhad_Air_Base,_UAE.jpg"
+ },
+ "kandahar": {
+  "file": "photos/kandahar.jpg",
+  "license": "Public domain",
+  "artist": "U.S. Department of Defense",
+  "source": "https://commons.wikimedia.org/wiki/File:A_frontal_view_of_the_terminal_roof_line_and_air_control_tower_at_the_Khandahar_International_Airport,_Khandahar,_Afghanistan_during_Operation_Enduring_Freedom._\"Texas_17\"_the_Marin_-_DPLA_-_08e94477fdb2d5ee14db1103ffa512ef.jpeg"
+ },
+ "jaswant": {
+  "file": "photos/jaswant.jpg",
+  "license": "Public domain",
+  "artist": "R. D. Ward",
+  "source": "https://commons.wikimedia.org/wiki/File:Jaswant_Singh_in_2001.jpg"
+ },
+ "parliament": {
+  "file": "photos/parliament.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Nikhilb239",
+  "source": "https://commons.wikimedia.org/wiki/File:Sansad_Bhavan,_New_Delhi.jpg"
+ },
+ "srinagar": {
+  "file": "photos/srinagar.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "KennyOMG",
+  "source": "https://commons.wikimedia.org/wiki/File:Srinagar_pano.jpg"
+ },
+ "lse": {
+  "file": "photos/lse.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Shadowssettle",
+  "source": "https://commons.wikimedia.org/wiki/File:LSE_Old_Building_Entrance,_Houghton_Street.jpg"
+ },
+ "karachi": {
+  "file": "photos/karachi.jpg",
+  "license": "CC0",
+  "artist": "Ktownboy103",
+  "source": "https://commons.wikimedia.org/wiki/File:Karachi_Skyline_2025.jpg"
+ },
+ "crpf": {
+  "file": "photos/crpf.jpg",
+  "license": "GODL-India",
+  "artist": "Ministry of Defence",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Central_Reserve_Police_Force_marching_contingent_passes_through_the_Rajpath_during_the_62nd_Republic_Day_Parade-2011,_in_New_Delhi_on_January_26,_2011.jpg"
+ },
+ "unsc": {
+  "file": "photos/unsc.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Jdforrester",
+  "source": "https://commons.wikimedia.org/wiki/File:United_Nations_Headquarters_-_Security_Council_chamber,_straight-on_view.jpg"
+ }
+}

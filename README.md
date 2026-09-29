@@ -4,6 +4,7 @@ Code-driven investigative documentaries (Remotion + edge-tts) for [@SisodiaFiles
 
 | Video | Folder | Status |
 |---|---|---|
+| File 06 — The Butterfly Effect (IC-814) | [`ic-814/`](ic-814/) | v1.0 |
 | File 05 — The Voice in the Room (Sajid Mir) | [`voice-in-the-room/`](voice-in-the-room/) | v1.1 |
 | File 04 — The Mercenary (David Headley) | [`mercenary/`](mercenary/) | v1.2 |
 | File 03 — The Front Man (Tahawwur Rana) | [`front-man/`](front-man/) | v1.2 |
