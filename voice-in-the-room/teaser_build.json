@@ -1,0 +1,523 @@
+{
+  "id": "teaser",
+  "index": 99,
+  "gap_ms": 350,
+  "tail_ms": 600,
+  "paragraphs": [
+    {
+      "text": "Nariman House, 2008. A voice on a phone from Pakistan: pile the mattresses at the top of the stairs."
+    },
+    {
+      "text": "The FBI calls him the chief planner of 26/11. His name is Sajid Mir."
+    },
+    {
+      "text": "Then Pakistan let the world believe he was dead."
+    },
+    {
+      "text": "Until a financial watchdog needed proof. Arrested. Convicted. Never for Mumbai."
+    },
+    {
+      "text": "The Voice in the Room. Now on The Sisodia Files."
+    }
+  ],
+  "audio_file": "audio/teaser.mp3",
+  "audio_hash": "65f1bae7fb7a938a",
+  "duration_seconds": 31.952,
+  "paragraph_starts": [
+    0,
+    9662,
+    16372,
+    20082,
+    27392
+  ],
+  "words": [
+    {
+      "text": "Nariman House,",
+      "startMs": 50,
+      "endMs": 1248,
+      "p": 0
+    },
+    {
+      "text": "2008.",
+      "startMs": 1547,
+      "endMs": 2928,
+      "p": 0
+    },
+    {
+      "text": "A",
+      "startMs": 3346,
+      "endMs": 3412,
+      "p": 0
+    },
+    {
+      "text": "voice",
+      "startMs": 3424,
+      "endMs": 3893,
+      "p": 0
+    },
+    {
+      "text": "on",
+      "startMs": 3906,
+      "endMs": 4062,
+      "p": 0
+    },
+    {
+      "text": "a",
+      "startMs": 4076,
+      "endMs": 4141,
+      "p": 0
+    },
+    {
+      "text": "phone",
+      "startMs": 4154,
+      "endMs": 4544,
+      "p": 0
+    },
+    {
+      "text": "from",
+      "startMs": 4557,
+      "endMs": 4792,
+      "p": 0
+    },
+    {
+      "text": "Pakistan:",
+      "startMs": 4792,
+      "endMs": 5638,
+      "p": 0
+    },
+    {
+      "text": "pile",
+      "startMs": 6328,
+      "endMs": 6719,
+      "p": 0
+    },
+    {
+      "text": "the",
+      "startMs": 6732,
+      "endMs": 6823,
+      "p": 0
+    },
+    {
+      "text": "mattresses",
+      "startMs": 6836,
+      "endMs": 7565,
+      "p": 0
+    },
+    {
+      "text": "at",
+      "startMs": 7578,
+      "endMs": 7734,
+      "p": 0
+    },
+    {
+      "text": "the",
+      "startMs": 7747,
+      "endMs": 7826,
+      "p": 0
+    },
+    {
+      "text": "top",
+      "startMs": 7839,
+      "endMs": 8112,
+      "p": 0
+    },
+    {
+      "text": "of",
+      "startMs": 8125,
+      "endMs": 8203,
+      "p": 0
+    },
+    {
+      "text": "the",
+      "startMs": 8216,
+      "endMs": 8294,
+      "p": 0
+    },
+    {
+      "text": "stairs.",
+      "startMs": 8307,
+      "endMs": 8919,
+      "p": 0
+    },
+    {
+      "text": "The",
+      "startMs": 9727,
+      "endMs": 9792,
+      "p": 1
+    },
+    {
+      "text": "FBI",
+      "startMs": 9805,
+      "endMs": 10508,
+      "p": 1
+    },
+    {
+      "text": "calls",
+      "startMs": 10521,
+      "endMs": 10860,
+      "p": 1
+    },
+    {
+      "text": "him",
+      "startMs": 10873,
+      "endMs": 11146,
+      "p": 1
+    },
+    {
+      "text": "the",
+      "startMs": 11159,
+      "endMs": 11251,
+      "p": 1
+    },
+    {
+      "text": "chief",
+      "startMs": 11264,
+      "endMs": 11615,
+      "p": 1
+    },
+    {
+      "text": "planner",
+      "startMs": 11628,
+      "endMs": 12123,
+      "p": 1
+    },
+    {
+      "text": "of",
+      "startMs": 12136,
+      "endMs": 12253,
+      "p": 1
+    },
+    {
+      "text": "26/11.",
+      "startMs": 12266,
+      "endMs": 13399,
+      "p": 1
+    },
+    {
+      "text": "His",
+      "startMs": 13816,
+      "endMs": 14063,
+      "p": 1
+    },
+    {
+      "text": "name",
+      "startMs": 14076,
+      "endMs": 14428,
+      "p": 1
+    },
+    {
+      "text": "is",
+      "startMs": 14441,
+      "endMs": 14623,
+      "p": 1
+    },
+    {
+      "text": "Sajid Mir.",
+      "startMs": 14636,
+      "endMs": 15626,
+      "p": 1
+    },
+    {
+      "text": "Then",
+      "startMs": 16463,
+      "endMs": 16632,
+      "p": 2
+    },
+    {
+      "text": "Pakistan",
+      "startMs": 16632,
+      "endMs": 17492,
+      "p": 2
+    },
+    {
+      "text": "let",
+      "startMs": 17492,
+      "endMs": 17700,
+      "p": 2
+    },
+    {
+      "text": "the",
+      "startMs": 17713,
+      "endMs": 17817,
+      "p": 2
+    },
+    {
+      "text": "world",
+      "startMs": 17830,
+      "endMs": 18182,
+      "p": 2
+    },
+    {
+      "text": "believe",
+      "startMs": 18195,
+      "endMs": 18559,
+      "p": 2
+    },
+    {
+      "text": "he",
+      "startMs": 18573,
+      "endMs": 18703,
+      "p": 2
+    },
+    {
+      "text": "was",
+      "startMs": 18716,
+      "endMs": 18898,
+      "p": 2
+    },
+    {
+      "text": "dead.",
+      "startMs": 18911,
+      "endMs": 19354,
+      "p": 2
+    },
+    {
+      "text": "Until",
+      "startMs": 20160,
+      "endMs": 20564,
+      "p": 3
+    },
+    {
+      "text": "a",
+      "startMs": 20577,
+      "endMs": 20655,
+      "p": 3
+    },
+    {
+      "text": "financial",
+      "startMs": 20668,
+      "endMs": 21306,
+      "p": 3
+    },
+    {
+      "text": "watchdog",
+      "startMs": 21319,
+      "endMs": 21892,
+      "p": 3
+    },
+    {
+      "text": "needed",
+      "startMs": 21905,
+      "endMs": 22243,
+      "p": 3
+    },
+    {
+      "text": "proof.",
+      "startMs": 22256,
+      "endMs": 22790,
+      "p": 3
+    },
+    {
+      "text": "Arrested.",
+      "startMs": 23181,
+      "endMs": 23897,
+      "p": 3
+    },
+    {
+      "text": "Convicted.",
+      "startMs": 24288,
+      "endMs": 25056,
+      "p": 3
+    },
+    {
+      "text": "Never",
+      "startMs": 25460,
+      "endMs": 25811,
+      "p": 3
+    },
+    {
+      "text": "for",
+      "startMs": 25824,
+      "endMs": 26020,
+      "p": 3
+    },
+    {
+      "text": "Mumbai.",
+      "startMs": 26033,
+      "endMs": 26645,
+      "p": 3
+    },
+    {
+      "text": "The",
+      "startMs": 27470,
+      "endMs": 27535,
+      "p": 4
+    },
+    {
+      "text": "Voice",
+      "startMs": 27548,
+      "endMs": 27965,
+      "p": 4
+    },
+    {
+      "text": "in",
+      "startMs": 27978,
+      "endMs": 28134,
+      "p": 4
+    },
+    {
+      "text": "the",
+      "startMs": 28147,
+      "endMs": 28212,
+      "p": 4
+    },
+    {
+      "text": "Room.",
+      "startMs": 28225,
+      "endMs": 28694,
+      "p": 4
+    },
+    {
+      "text": "Now",
+      "startMs": 29098,
+      "endMs": 29462,
+      "p": 4
+    },
+    {
+      "text": "on",
+      "startMs": 29475,
+      "endMs": 29671,
+      "p": 4
+    },
+    {
+      "text": "The",
+      "startMs": 29684,
+      "endMs": 29775,
+      "p": 4
+    },
+    {
+      "text": "Sisodia",
+      "startMs": 29788,
+      "endMs": 30374,
+      "p": 4
+    },
+    {
+      "text": "Files.",
+      "startMs": 30387,
+      "endMs": 30973,
+      "p": 4
+    }
+  ],
+  "caption_lines": [
+    {
+      "text": "Nariman House, 2008.",
+      "startMs": 50,
+      "endMs": 2928
+    },
+    {
+      "text": "A voice on a phone from Pakistan:",
+      "startMs": 3346,
+      "endMs": 5638
+    },
+    {
+      "text": "pile the mattresses at the top of the",
+      "startMs": 6328,
+      "endMs": 8294
+    },
+    {
+      "text": "stairs.",
+      "startMs": 8307,
+      "endMs": 8919
+    },
+    {
+      "text": "The FBI calls him the chief planner of",
+      "startMs": 9727,
+      "endMs": 12253
+    },
+    {
+      "text": "26/11.",
+      "startMs": 12266,
+      "endMs": 13399
+    },
+    {
+      "text": "His name is Sajid Mir.",
+      "startMs": 13816,
+      "endMs": 15626
+    },
+    {
+      "text": "Then Pakistan let the world believe he was",
+      "startMs": 16463,
+      "endMs": 18898
+    },
+    {
+      "text": "dead.",
+      "startMs": 18911,
+      "endMs": 19354
+    },
+    {
+      "text": "Until a financial watchdog needed proof.",
+      "startMs": 20160,
+      "endMs": 22790
+    },
+    {
+      "text": "Arrested.",
+      "startMs": 23181,
+      "endMs": 23897
+    },
+    {
+      "text": "Convicted.",
+      "startMs": 24288,
+      "endMs": 25056
+    },
+    {
+      "text": "Never for Mumbai.",
+      "startMs": 25460,
+      "endMs": 26645
+    },
+    {
+      "text": "The Voice in the Room.",
+      "startMs": 27470,
+      "endMs": 28694
+    },
+    {
+      "text": "Now on The Sisodia Files.",
+      "startMs": 29098,
+      "endMs": 30973
+    }
+  ],
+  "beats": [
+    {
+      "headline": "THE ORDER",
+      "text": "Nariman House, 2008. A voice on a phone from Pakistan: pile the mattresses at the top of the stairs.",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 0,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE CHIEF PLANNER",
+      "text": "The FBI calls him the chief planner of 26/11. His name is Sajid Mir.",
+      "show": {
+        "segment": "seg_03",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "DEAD, ON PAPER",
+      "text": "Then Pakistan let the world believe he was dead.",
+      "show": {
+        "segment": "seg_05",
+        "paragraph": 1,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "RESURRECTED",
+      "text": "Until a financial watchdog needed proof. Arrested. Convicted. Never for Mumbai.",
+      "show": {
+        "segment": "seg_06",
+        "paragraph": 2,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "THE VOICE IN THE ROOM",
+      "text": "The Voice in the Room. Now on The Sisodia Files.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}

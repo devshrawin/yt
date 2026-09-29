@@ -1,0 +1,232 @@
+{
+  "_note": "Licensed images for File 05 (US government public domain, GODL-India, CC BY / BY-SA via Wikimedia Commons). Mir's only image is the FBI's public-domain wanted photo, which predates 2008; he reportedly had plastic surgery since. Overlaps trimmed automatically.",
+  "images": {
+    "punjab_univ": {
+      "file": "photos/punjab_univ.jpg",
+      "credit": "Photo: Khalid Mahmood / Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Punjab_University_Hall,_Lahore.jpg"
+    },
+    "lahore": {
+      "file": "photos/lahore.jpg",
+      "credit": "Photo: Harvinder Chandigarh / Wikimedia Commons, CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Badshahi_Mosque_in_Lahore_,Pakistan_01.jpg"
+    },
+    "delhi_stadium": {
+      "file": "photos/delhi_stadium.jpg",
+      "credit": "Photo: Vineetmbbs / Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Feroz_Shah_Kotla_Cricket_Stadium,_Delhi.jpg"
+    },
+    "nashik": {
+      "file": "photos/nashik.jpg",
+      "credit": "Photo: Vallabhdhootwtn / Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Godavari_River_in_Nashik.jpg"
+    },
+    "unsc": {
+      "file": "photos/unsc.jpg",
+      "credit": "Photo: Jdforrester / Wikimedia Commons, CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:United_Nations_Headquarters_-_Security_Council_chamber,_straight-on_view.jpg"
+    },
+    "bahawalpur": {
+      "file": "photos/bahawalpur.jpg",
+      "credit": "Photo: Abdullahvance / Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Noor_Mahal_at_Bahawalpur.jpg"
+    },
+    "dg_khan": {
+      "file": "photos/dg_khan.jpg",
+      "credit": "Photo: Fahads1982 / Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dera_ghazi_khan_railway_station.jpg"
+    },
+    "nariman_side": {
+      "file": "photos/nariman_side.jpg",
+      "credit": "Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Nariman_House_side_view_1.jpg"
+    },
+    "nsg_commandos": {
+      "file": "photos/nsg_commandos.jpg",
+      "credit": "Photo: Ministry of Home Affairs, Government of India (GODL-India)",
+      "source": "https://commons.wikimedia.org/wiki/File:Sushil_Kumar_Shinde_with_the_Black_Cat_Commandos,_at_the_28th_NSG_Raising_Day_Function,_at_Manesar,_Gurgaon,_Haryana_on_October_16,_2012._The_Director_General,_National_Security_Guard,_Shri_Subhash_Joshi_is_also_seen.jpg"
+    },
+    "karachi_port": {
+      "file": "photos/karachi_port.jpg",
+      "credit": "Photo: Nawazahmed12 / Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Karachi_port_trust.jpg"
+    },
+    "taj_exterior": {
+      "file": "photos/taj_exterior.jpg",
+      "credit": "Photo: Joe Ravi / Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel.jpg"
+    },
+    "nariman_building": {
+      "file": "photos/nariman_building.jpg",
+      "credit": "Photo: Nicholas (Nichalp) / Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attack_Nariman_House_building.jpg"
+    },
+    "sajid_mir": {
+      "file": "photos/sajid_mir.png",
+      "credit": "Photo: FBI (public domain)",
+      "source": "https://commons.wikimedia.org/wiki/File:Sajid_Mir.png"
+    },
+    "dirksen": {
+      "file": "photos/dirksen.jpg",
+      "credit": "Photo: Ken Lund from Reno, Nevada, USA / Wikimedia Commons, CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dirksen_United_States_Courthouse,_Chicago_Loop,_Chicago,_Illinois_(11004376983).jpg"
+    },
+    "hafiz_saeed": {
+      "file": "photos/hafiz_saeed.jpg",
+      "credit": "Photo: Voice of America (public domain)",
+      "source": "https://commons.wikimedia.org/wiki/File:Hafiz_Saeed.jpg"
+    }
+  },
+  "placements": [
+    {
+      "segment": "seg_00",
+      "paragraph": 0,
+      "at_word": "Nariman",
+      "seconds": 6,
+      "images": [
+        "nariman_building"
+      ],
+      "caption": "Nariman House, Mumbai, after the siege"
+    },
+    {
+      "segment": "seg_00",
+      "paragraph": 1,
+      "at_word": "Six",
+      "seconds": 5,
+      "images": [
+        "nariman_side"
+      ],
+      "caption": "Nariman House — commandos landed on this roof"
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 0,
+      "at_word": "Lahore",
+      "seconds": 5,
+      "images": [
+        "lahore"
+      ],
+      "caption": "Lahore"
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 0,
+      "at_word": "University",
+      "seconds": 6,
+      "images": [
+        "punjab_univ"
+      ],
+      "caption": "University of the Punjab, Lahore"
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 1,
+      "at_word": "deputy",
+      "seconds": 6,
+      "images": [
+        "sajid_mir"
+      ],
+      "caption": "Sajid Mir — FBI wanted photo, taken before 2008"
+    },
+    {
+      "segment": "seg_02",
+      "paragraph": 0,
+      "at_word": "cricket",
+      "seconds": 6,
+      "images": [
+        "delhi_stadium"
+      ],
+      "caption": "Feroz Shah Kotla (now Arun Jaitley) Stadium, Delhi"
+    },
+    {
+      "segment": "seg_02",
+      "paragraph": 1,
+      "at_word": "Taj",
+      "seconds": 6,
+      "images": [
+        "taj_exterior"
+      ],
+      "caption": "The Taj Mahal Palace, Mumbai"
+    },
+    {
+      "segment": "seg_03",
+      "paragraph": 0,
+      "at_word": "Karachi",
+      "seconds": 6,
+      "images": [
+        "karachi_port"
+      ],
+      "caption": "Karachi"
+    },
+    {
+      "segment": "seg_03",
+      "paragraph": 2,
+      "at_word": "commandos",
+      "seconds": 6,
+      "images": [
+        "nsg_commandos"
+      ],
+      "caption": "NSG \"Black Cat\" commandos (raising day, 2012)"
+    },
+    {
+      "segment": "seg_04",
+      "paragraph": 2,
+      "at_word": "Nashik",
+      "seconds": 6,
+      "images": [
+        "nashik"
+      ],
+      "caption": "Nashik, north-east of Mumbai"
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 0,
+      "at_word": "Chicago",
+      "seconds": 6,
+      "images": [
+        "dirksen"
+      ],
+      "caption": "Dirksen US Courthouse, Chicago"
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 0,
+      "at_word": "Security",
+      "seconds": 6,
+      "images": [
+        "unsc"
+      ],
+      "caption": "UN Security Council chamber, New York"
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 1,
+      "at_word": "Hafiz",
+      "seconds": 5,
+      "images": [
+        "hafiz_saeed"
+      ],
+      "caption": "Hafiz Saeed — his son's UN listing was blocked the same way"
+    },
+    {
+      "segment": "seg_08",
+      "paragraph": 0,
+      "at_word": "Dera",
+      "seconds": 5,
+      "images": [
+        "dg_khan"
+      ],
+      "caption": "Dera Ghazi Khan"
+    },
+    {
+      "segment": "seg_08",
+      "paragraph": 0,
+      "at_word": "Bahawalpur",
+      "seconds": 5,
+      "images": [
+        "bahawalpur"
+      ],
+      "caption": "Bahawalpur"
+    }
+  ]
+}

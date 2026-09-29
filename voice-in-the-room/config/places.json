@@ -1,0 +1,316 @@
+{
+  "_note": "Map places for File 05. Adiala Jail uses the corrected Rawalpindi coordinate (the brief flagged a Delhi placeholder).",
+  "places": {
+    "Lahore": {
+      "lonLat": [
+        74.3436,
+        31.5497
+      ],
+      "aliases": [
+        "Lahore"
+      ],
+      "map": "region",
+      "label": "Lahore"
+    },
+    "Karachi": {
+      "lonLat": [
+        67.0011,
+        24.8607
+      ],
+      "aliases": [
+        "Karachi"
+      ],
+      "map": "region",
+      "label": "Karachi control room"
+    },
+    "Delhi": {
+      "lonLat": [
+        77.1025,
+        28.7041
+      ],
+      "aliases": [
+        "Delhi"
+      ],
+      "map": "region",
+      "label": "Delhi"
+    },
+    "Mumbai": {
+      "lonLat": [
+        72.8332,
+        18.9217
+      ],
+      "aliases": [
+        "Mumbai"
+      ],
+      "map": "region",
+      "label": "Mumbai"
+    },
+    "Taj": {
+      "lonLat": [
+        72.8332,
+        18.9217
+      ],
+      "aliases": [
+        "the Taj",
+        "Taj"
+      ],
+      "map": "city",
+      "label": "Taj Mahal Palace"
+    },
+    "Nariman House": {
+      "lonLat": [
+        72.8281,
+        18.9086
+      ],
+      "aliases": [
+        "Nariman House"
+      ],
+      "map": "city",
+      "label": "Nariman House"
+    },
+    "Chicago": {
+      "lonLat": [
+        -87.6298,
+        41.8781
+      ],
+      "aliases": [
+        "Chicago"
+      ],
+      "map": "world",
+      "label": "Chicago"
+    },
+    "Adiala": {
+      "lonLat": [
+        73.0169,
+        33.5651
+      ],
+      "aliases": [
+        "Adiala Jail",
+        "Adiala",
+        "Rawalpindi"
+      ],
+      "map": "region",
+      "label": "Adiala Jail, Rawalpindi"
+    },
+    "Nashik": {
+      "lonLat": [
+        73.7898,
+        19.9975
+      ],
+      "aliases": [
+        "Nashik"
+      ],
+      "map": "region",
+      "label": "Nashik"
+    },
+    "Gujranwala": {
+      "lonLat": [
+        74.187,
+        32.1557
+      ],
+      "aliases": [
+        "Gujranwala"
+      ],
+      "map": "region",
+      "label": "Gujranwala"
+    },
+    "Kot Lakhpat": {
+      "lonLat": [
+        74.3411,
+        31.5204
+      ],
+      "aliases": [
+        "Kot Lakhpat Jail",
+        "Kot Lakhpat"
+      ],
+      "map": "region",
+      "label": "Kot Lakhpat Jail, Lahore"
+    },
+    "Dera Ghazi Khan": {
+      "lonLat": [
+        70.6348,
+        30.0561
+      ],
+      "aliases": [
+        "Dera Ghazi Khan"
+      ],
+      "map": "region",
+      "label": "Dera Ghazi Khan Central Jail"
+    },
+    "Bahawalpur": {
+      "lonLat": [
+        71.684,
+        29.396
+      ],
+      "aliases": [
+        "Bahawalpur"
+      ],
+      "map": "region",
+      "label": "Bahawalpur (military hospital)"
+    },
+    "Berlin": {
+      "lonLat": [
+        13.405,
+        52.52
+      ],
+      "aliases": [
+        "Berlin"
+      ],
+      "map": "world",
+      "label": "Berlin"
+    },
+    "Virginia": {
+      "lonLat": [
+        -77.4,
+        38.9
+      ],
+      "aliases": [
+        "Virginia"
+      ],
+      "map": "world",
+      "label": "Virginia"
+    }
+  },
+  "city_labels": [
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        72.797,
+        18.93
+      ],
+      "size": 30
+    },
+    {
+      "text": "BACK BAY",
+      "lonLat": [
+        72.814,
+        18.938
+      ],
+      "size": 18
+    },
+    {
+      "text": "MUMBAI HARBOUR",
+      "lonLat": [
+        72.858,
+        18.925
+      ],
+      "size": 22
+    },
+    {
+      "text": "COLABA",
+      "lonLat": [
+        72.818,
+        18.902
+      ],
+      "size": 18
+    },
+    {
+      "text": "FORT",
+      "lonLat": [
+        72.838,
+        18.932
+      ],
+      "size": 16
+    },
+    {
+      "text": "NARIMAN POINT",
+      "lonLat": [
+        72.8215,
+        18.9215
+      ],
+      "size": 14
+    },
+    {
+      "text": "MARINE DRIVE",
+      "lonLat": [
+        72.8235,
+        18.946
+      ],
+      "size": 14
+    }
+  ],
+  "region_labels": [
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        65.5,
+        15.0
+      ],
+      "size": 40
+    },
+    {
+      "text": "BAY OF BENGAL",
+      "lonLat": [
+        88.5,
+        15.0
+      ],
+      "size": 34
+    },
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79.0,
+        22.5
+      ],
+      "size": 50
+    },
+    {
+      "text": "PAKISTAN",
+      "lonLat": [
+        68.6,
+        28.2
+      ],
+      "size": 38
+    }
+  ],
+  "world_labels": [
+    {
+      "text": "ATLANTIC OCEAN",
+      "lonLat": [
+        -40,
+        32
+      ],
+      "size": 34
+    },
+    {
+      "text": "PACIFIC OCEAN",
+      "lonLat": [
+        -150,
+        20
+      ],
+      "size": 34
+    },
+    {
+      "text": "INDIAN OCEAN",
+      "lonLat": [
+        78,
+        -10
+      ],
+      "size": 34
+    },
+    {
+      "text": "NORTH AMERICA",
+      "lonLat": [
+        -100,
+        50
+      ],
+      "size": 28
+    },
+    {
+      "text": "EUROPE",
+      "lonLat": [
+        15,
+        50
+      ],
+      "size": 26
+    },
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79,
+        22
+      ],
+      "size": 26
+    }
+  ]
+}

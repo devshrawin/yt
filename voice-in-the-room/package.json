@@ -1,0 +1,59 @@
+{
+  "name": "the-voice-in-the-room",
+  "version": "1.0.0",
+  "description": "The Voice in the Room — Remotion documentary pipeline",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/captions": "^4.0.529",
+    "@remotion/cli": "4.0.529",
+    "@remotion/google-fonts": "^4.0.529",
+    "@remotion/media": "^4.0.529",
+    "d3-geo": "^3.1.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.529"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.529",
+    "@types/d3-geo": "^3.1.1",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.19.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "stage0:setup": "bash build.sh setup",
+    "stage1:parse": ".venv/bin/python pipeline/parse_script.py",
+    "stage2:samples": ".venv/bin/python pipeline/voice_samples.py",
+    "stage2:tts": ".venv/bin/python pipeline/tts.py",
+    "assets": "node pipeline/make_map.mjs && .venv/bin/python pipeline/make_music.py",
+    "stage4:render": "remotion render src/index.ts Documentary output/render_raw.mp4 --codec=h264 --crf=18 --audio-bitrate=320k --concurrency=50%",
+    "stage4:srt": ".venv/bin/python pipeline/merge_srt.py",
+    "stage5:qa": ".venv/bin/python pipeline/qa.py",
+    "build:all": "bash build.sh all",
+    "preview": "remotion studio",
+    "stage5:audit": ".venv/bin/python pipeline/audit.py",
+    "stage4:master": ".venv/bin/python pipeline/master.py",
+    "pronounce": ".venv/bin/python pipeline/pronounce.py",
+    "teaser:tts": ".venv/bin/python pipeline/teaser_tts.py",
+    "teaser:render": "remotion render src/index.ts Teaser output/teaser_raw.mp4 --codec=h264 --crf=18 --audio-bitrate=320k --concurrency=50%",
+    "teaser:master": ".venv/bin/python pipeline/master.py --teaser",
+    "teaser": "npm run teaser:tts && npm run teaser:render && npm run teaser:master",
+    "youtube:meta": ".venv/bin/python pipeline/youtube_meta.py",
+    "brand": "for c in Banner Avatar Thumbnail Watermark; do remotion still src/index.ts $c ../brand/$c.png --image-format=png; done",
+    "package": ".venv/bin/python pipeline/package_release.py"
+  },
+  "sideEffects": [
+    "*.css"
+  ],
+  "allowScripts": {
+    "esbuild@0.28.1": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_note": "Per-video upload text and thumbnail for File 05.",
+  "hook": "During the siege of Nariman House in November 2008, a voice on the phone from Pakistan told two gunmen to pile mattresses at the top of the stairs and wait for the commandos. File {file} of {channel} follows Sajid Mir — the Lashkar-e-Taiba handler the FBI calls the chief planner of 26/11: the quiet recruiter, the 2005 scouting trip, the Karachi control room, the years Pakistan let the world believe he was dead, the closed-door 2022 conviction timed to a FATF review, and China's holds on his UN listing.",
+  "promise": "Built from the FBI's wanted notice, David Headley's testimony in the 2011 Chicago trial, the Jamestown Foundation's analysis of Mir's conviction, and reporting by Dawn, Al Jazeera, ProPublica and PBS Frontline. Unconfirmed reports — including the December 2023 poisoning claims — are labelled as such.",
+  "disclaimer": "This is an explanatory documentary based on public records and published reporting. Sajid Mir has never been tried for the Mumbai attacks; the FBI's description of his role has not been tested in court. Reports of his December 2023 poisoning are unconfirmed, and his current status is not publicly verified.",
+  "hashtags": "#SajidMir #2611 #MumbaiAttacks #LashkarETaiba #FATF #Documentary",
+  "tags": [
+    "The Sisodia Files",
+    "The Voice in the Room",
+    "Sajid Mir",
+    "26/11",
+    "Mumbai attacks",
+    "Nariman House",
+    "Lashkar-e-Taiba",
+    "Karachi control room",
+    "David Headley",
+    "FATF grey list",
+    "Pakistan",
+    "UN Security Council",
+    "China technical hold",
+    "FBI most wanted",
+    "documentary",
+    "national security",
+    "explainer"
+  ],
+  "pinned": "Sajid Mir has never been tried for Mumbai — only for terror financing, in a closed court, weeks before a FATF review. Sources for every claim are in the description. Which story should {channel} open next?",
+  "instagram": "A voice on the phone from Pakistan directed the Nariman House siege. 🗂️\n\nSince then he has been free, \"dead\", and — just in time for a financial audit — a convict. Never tried for Mumbai.\n\nThe Voice in the Room — the Sajid Mir story.\n\nFull documentary on YouTube: {handle}\n\n#SajidMir #2611 #Mumbai #India #Documentary #TheSisodiaFiles",
+  "thumbnail": {
+    "image": "photos/nariman_building.jpg",
+    "image_credit": "",
+    "title_lines": [
+      "THE VOICE",
+      "IN THE ROOM"
+    ],
+    "accent_line": 1,
+    "subtitle": "Dead, alive, convicted —<br/>never tried for Mumbai",
+    "badge": "FILE 05",
+    "pin": null
+  }
+}
