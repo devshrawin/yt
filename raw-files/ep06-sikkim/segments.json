@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "title": "THE 22ND STATE",
+    "subtitle": "G.B.S. Sidhu and the Merger of Sikkim"
+  },
+  "sources": [
+    "G.B.S. Sidhu, \"Sikkim: Dawn of Democracy — The Truth Behind the Merger with India\" (Penguin Viking, 2018)",
+    "The Tribune, G.B.S. Sidhu, \"50 years on: the inside story of the merger of Sikkim with India\"",
+    "Northeast Now, \"India's secret operations to merge Sikkim revealed\"",
+    "The Quint, \"Dawn of Democracy: the truth behind Sikkim's merger with India\"",
+    "Sunanda K. Datta-Ray, \"Smash and Grab: Annexation of Sikkim\" (Vikas, 1984)",
+    "ThePrint, \"Remembering the war we forgot: 51 years ago, how India gave China a bloody nose\"",
+    "The Diplomat, \"The Sikkim Anniversary\" (December 2015)",
+    "The Tribune, \"Beijing accepts Sikkim as part of India\" (June 24, 2003)",
+    "ThePrint, \"Former Sikkim CM Dorjee and Sikkim's history\"",
+    "Foreign Relations of the United States, 1969–1976, Volume E-8: South Asia, documents 253 and 258",
+    "Wikipedia, \"1975 Sikkimese monarchy referendum\", \"Palden Thondup Namgyal\", \"Hope Cooke\""
+  ],
+  "segments": [
+    {
+      "id": "seg_00",
+      "index": 0,
+      "header": "COLD OPEN (0:00–1:30)",
+      "label": "COLD OPEN",
+      "title": "COLD OPEN",
+      "visual_cue_raw": "Gangtok, 9 April 1975. The Sikkim Guards' barracks; a clock at 12:45; Indian Army trucks.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": true,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "April 9, 1975. A quarter to one, in the afternoon. Indian troops enter Gangtok, the capital of the Himalayan kingdom of Sikkim. In about twenty minutes, they disarm the Chogyal's palace guards. One young guardsman is killed. By Sidhu's account, it is the only time the army is used.",
+          "pieces": [
+            "April 9, 1975. A quarter to one, in the afternoon. Indian troops enter Gangtok, the capital of the Himalayan kingdom of Sikkim. In about twenty minutes, they disarm the Chogyal's palace guards.",
+            "One young guardsman is killed. By Sidhu's account, it is the only time the army is used."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "April 9, 1975."
+        },
+        {
+          "text": "Five days later, Sikkim votes. About ninety-seven per cent choose to join India. Within weeks, it becomes the country's twenty-second state.",
+          "pieces": [
+            "Five days later, Sikkim votes. About ninety-seven per cent choose to join India. Within weeks, it becomes the country's twenty-second state."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Five days later, Sikkim votes."
+        },
+        {
+          "text": "To India, this was the peaceful completion of a democratic movement. To its critics, it was an annexation. Either way, one small team had worked for two years to make it happen. Its leader was a police officer named G.B.S. Sidhu, and he wrote the story down. So how did a mountain kingdom become an Indian state, without a war? This is the account of the man who was inside the room. It begins in a border pass, in 1967.",
+          "pieces": [
+            "To India, this was the peaceful completion of a democratic movement. To its critics, it was an annexation.",
+            "Either way, one small team had worked for two years to make it happen. Its leader was a police officer named G.B.S. Sidhu, and he wrote the story down. So how did a mountain kingdom become an Indian state, without a war?",
+            "This is the account of the man who was inside the room. It begins in a border pass, in 1967."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "To India, this was the peaceful completion of a democratic movement."
+        }
+      ],
+      "narration_text": "April 9, 1975. A quarter to one, in the afternoon. Indian troops enter Gangtok, the capital of the Himalayan kingdom of Sikkim. In about twenty minutes, they disarm the Chogyal's palace guards. One young guardsman is killed. By Sidhu's account, it is the only time the army is used.\n\nFive days later, Sikkim votes. About ninety-seven per cent choose to join India. Within weeks, it becomes the country's twenty-second state.\n\nTo India, this was the peaceful completion of a democratic movement. To its critics, it was an annexation. Either way, one small team had worked for two years to make it happen. Its leader was a police officer named G.B.S. Sidhu, and he wrote the story down. So how did a mountain kingdom become an Indian state, without a war? This is the account of the man who was inside the room. It begins in a border pass, in 1967.",
+      "locations": [
+        "Gangtok"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_01",
+      "index": 1,
+      "header": "SEGMENT 1 — A KINGDOM ON THE BORDER (1:30–3:15)",
+      "label": "SEGMENT 1",
+      "title": "A KINGDOM ON THE BORDER",
+      "visual_cue_raw": "Region map, Sikkim between Nepal, Tibet and Bhutan; Nathu La; Indian soldiers, 1967.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "Sources — ThePrint, Nathu La and Cho La, 1967; Wikipedia",
+      "citation_after_paragraph": 2,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "Sikkim was a small kingdom in the eastern Himalayas. Its ruler was the Chogyal, Palden Thondup Namgyal. Since 1950, a treaty had made it an Indian protectorate. India handled its defence and foreign affairs. Sikkim ran its own affairs.",
+          "pieces": [
+            "Sikkim was a small kingdom in the eastern Himalayas. Its ruler was the Chogyal, Palden Thondup Namgyal. Since 1950, a treaty had made it an Indian protectorate. India handled its defence and foreign affairs. Sikkim ran its own affairs."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Sikkim was a small kingdom in the eastern Himalayas."
+        },
+        {
+          "text": "It sat on the most sensitive stretch of India's northern frontier. Above it lay Tibet, and beyond that, China. Below it ran the narrow corridor that connects mainland India to its north-east. If that corridor were cut, the north-east would be cut off.",
+          "pieces": [
+            "It sat on the most sensitive stretch of India's northern frontier. Above it lay Tibet, and beyond that, China. Below it ran the narrow corridor that connects mainland India to its north-east.",
+            "If that corridor were cut, the north-east would be cut off."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "It sat on the most sensitive stretch of India's northern frontier."
+        },
+        {
+          "text": "In September 1967, the danger became real. Chinese troops attacked at Nathu La, a border pass on the Sikkim frontier, and again, weeks later, at Cho La. Indian forces under General Sagat Singh drove them back. According to Indian defence figures, eighty-eight Indian soldiers died. Sikkim was no longer a quiet protectorate. It was a front line.",
+          "pieces": [
+            "In September 1967, the danger became real. Chinese troops attacked at Nathu La, a border pass on the Sikkim frontier, and again, weeks later, at Cho La. Indian forces under General Sagat Singh drove them back. According to Indian defence figures, eighty-eight Indian soldiers died.",
+            "Sikkim was no longer a quiet protectorate. It was a front line."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In September 1967, the danger became real."
+        }
+      ],
+      "narration_text": "Sikkim was a small kingdom in the eastern Himalayas. Its ruler was the Chogyal, Palden Thondup Namgyal. Since 1950, a treaty had made it an Indian protectorate. India handled its defence and foreign affairs. Sikkim ran its own affairs.\n\nIt sat on the most sensitive stretch of India's northern frontier. Above it lay Tibet, and beyond that, China. Below it ran the narrow corridor that connects mainland India to its north-east. If that corridor were cut, the north-east would be cut off.\n\nIn September 1967, the danger became real. Chinese troops attacked at Nathu La, a border pass on the Sikkim frontier, and again, weeks later, at Cho La. Indian forces under General Sagat Singh drove them back. According to Indian defence figures, eighty-eight Indian soldiers died. Sikkim was no longer a quiet protectorate. It was a front line.",
+      "locations": [
+        "Nathu La",
+        "Cho La"
+      ],
+      "visual_type": "map",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_02",
+      "index": 2,
+      "header": "SEGMENT 2 — THE CHOGYAL AND THE QUEEN (3:15–4:45)",
+      "label": "SEGMENT 2",
+      "title": "THE CHOGYAL AND THE QUEEN",
+      "visual_cue_raw": "Dossier portraits — the Chogyal, Palden Thondup Namgyal; Hope Cooke. Gangtok and the royal palace.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "The Chogyal was born in Gangtok in 1923. In 1963, he married an American, Hope Cooke. The wedding drew the world's press to Sikkim. Their marriage made the kingdom famous. It also made India uneasy.",
+          "pieces": [
+            "The Chogyal was born in Gangtok in 1923. In 1963, he married an American, Hope Cooke. The wedding drew the world's press to Sikkim. Their marriage made the kingdom famous.",
+            "It also made India uneasy."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The Chogyal was born in Gangtok in 1923."
+        },
+        {
+          "text": "By the mid-1960s, the Chogyal was openly asking for more autonomy. In June 1967, he told the press: \"We want India to look after our defence, and leave the rest to us.\"",
+          "pieces": [
+            "By the mid-1960s, the Chogyal was openly asking for more autonomy. In June 1967, he told the press: \"We want India to look after our defence, and leave the rest to us.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "By the mid-1960s, the Chogyal was openly asking for more autonomy."
+        },
+        {
+          "text": "In Gangtok, students chanted a slogan on Independence Day in 1968: \"We are buffers, not duffers.\" Sikkimese politicians who wanted democracy, and closer ties to India, had begun to organise against him. By 1972, Delhi's talks with the palace had stalled. The Chogyal had rejected India's offer of a permanent association, and had taken legal advice from abroad.",
+          "pieces": [
+            "In Gangtok, students chanted a slogan on Independence Day in 1968: \"We are buffers, not duffers.\" Sikkimese politicians who wanted democracy, and closer ties to India, had begun to organise against him.",
+            "By 1972, Delhi's talks with the palace had stalled. The Chogyal had rejected India's offer of a permanent association, and had taken legal advice from abroad."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In Gangtok, students chanted a slogan on Independence Day in 1968: \"We are buffers, not duffers.\""
+        },
+        {
+          "text": "Indira Gandhi had won a war in 1971. Now she had a problem on her doorstep.",
+          "pieces": [
+            "Indira Gandhi had won a war in 1971. Now she had a problem on her doorstep."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Indira Gandhi had won a war in 1971."
+        }
+      ],
+      "narration_text": "The Chogyal was born in Gangtok in 1923. In 1963, he married an American, Hope Cooke. The wedding drew the world's press to Sikkim. Their marriage made the kingdom famous. It also made India uneasy.\n\nBy the mid-1960s, the Chogyal was openly asking for more autonomy. In June 1967, he told the press: \"We want India to look after our defence, and leave the rest to us.\"\n\nIn Gangtok, students chanted a slogan on Independence Day in 1968: \"We are buffers, not duffers.\" Sikkimese politicians who wanted democracy, and closer ties to India, had begun to organise against him. By 1972, Delhi's talks with the palace had stalled. The Chogyal had rejected India's offer of a permanent association, and had taken legal advice from abroad.\n\nIndira Gandhi had won a war in 1971. Now she had a problem on her doorstep.",
+      "locations": [
+        "Gangtok",
+        "Delhi"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_03",
+      "index": 3,
+      "header": "SEGMENT 3 — THE DECISION (4:45–6:15)",
+      "label": "SEGMENT 3",
+      "title": "THE DECISION",
+      "visual_cue_raw": "Indira Gandhi; R.N. Kao; a checklist — three phases: transfer of power · elections · referendum.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "Sources — The Tribune, G.B.S. Sidhu, \"50 years on: the inside story of the merger of Sikkim with India",
+      "citation_after_paragraph": 2,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "In late 1972, according to G.B.S. Sidhu's own account, Indira Gandhi called in R.N. Kao and her Principal Secretary, P.N. Haksar. She showed them a letter from the Chogyal that styled him \"His Majesty.\" She asked Kao one question. \"Can you do something about this?\"",
+          "pieces": [
+            "In late 1972, according to G.B.S. Sidhu's own account, Indira Gandhi called in R.N. Kao and her Principal Secretary, P.N. Haksar. She showed them a letter from the Chogyal that styled him \"His Majesty.\" She asked Kao one question.",
+            "\"Can you do something about this?\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In late 1972, according to G."
+        },
+        {
+          "text": "Kao asked for two weeks. He came back in ten days, with a yes. Gandhi set one condition. The operation could go as far as merger, but only with the support of the people of Sikkim.",
+          "pieces": [
+            "Kao asked for two weeks. He came back in ten days, with a yes. Gandhi set one condition. The operation could go as far as merger, but only with the support of the people of Sikkim."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Kao asked for two weeks."
+        },
+        {
+          "text": "Sidhu describes a plan in three phases, each begun only after the last succeeded. First, pressure the palace to hand over real power. Second, help Sikkim's democratic parties unite and win an election. Third, put merger to the vote. Only three men in R&AW knew the whole plan. In the Foreign Ministry, only one did.",
+          "pieces": [
+            "Sidhu describes a plan in three phases, each begun only after the last succeeded. First, pressure the palace to hand over real power. Second, help Sikkim's democratic parties unite and win an election. Third, put merger to the vote.",
+            "Only three men in R&AW knew the whole plan. In the Foreign Ministry, only one did."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Sidhu describes a plan in three phases, each begun only after the last succeeded."
+        }
+      ],
+      "narration_text": "In late 1972, according to G.B.S. Sidhu's own account, Indira Gandhi called in R.N. Kao and her Principal Secretary, P.N. Haksar. She showed them a letter from the Chogyal that styled him \"His Majesty.\" She asked Kao one question. \"Can you do something about this?\"\n\nKao asked for two weeks. He came back in ten days, with a yes. Gandhi set one condition. The operation could go as far as merger, but only with the support of the people of Sikkim.\n\nSidhu describes a plan in three phases, each begun only after the last succeeded. First, pressure the palace to hand over real power. Second, help Sikkim's democratic parties unite and win an election. Third, put merger to the vote. Only three men in R&AW knew the whole plan. In the Foreign Ministry, only one did.",
+      "locations": [],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_04",
+      "index": 4,
+      "header": "SEGMENT 4 — THE TRIPARTITE AGREEMENT (6:15–7:45)",
+      "label": "SEGMENT 4",
+      "title": "THE TRIPARTITE AGREEMENT",
+      "visual_cue_raw": "B.S. Das; Kazi Lhendup Dorjee; the palace at Gangtok; a signed page, 8 May 1973.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "In April 1973, protests filled the streets outside the palace. On May 8, at the palace itself, the Chogyal, India's Foreign Secretary Kewal Singh and the leaders of Sikkim's three main parties signed the Tripartite Agreement. The Chogyal would remain, as a figurehead. Real power would pass to an elected government, and an administrator named by India.",
+          "pieces": [
+            "In April 1973, protests filled the streets outside the palace. On May 8, at the palace itself, the Chogyal, India's Foreign Secretary Kewal Singh and the leaders of Sikkim's three main parties signed the Tripartite Agreement.",
+            "The Chogyal would remain, as a figurehead. Real power would pass to an elected government, and an administrator named by India."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In April 1973, protests filled the streets outside the palace."
+        },
+        {
+          "text": "That summer, Sidhu arrived in Gangtok. His job, as he describes it, was to help the pro-democracy groups unite behind one leader, the veteran politician Kazi Lhendup Dorji. Kazi was the only Sikkimese leader taken fully into Delhi's confidence. Later he would be called a traitor by his opponents. In Sidhu's book, he is the hero.",
+          "pieces": [
+            "That summer, Sidhu arrived in Gangtok. His job, as he describes it, was to help the pro-democracy groups unite behind one leader, the veteran politician Kazi Lhendup Dorji. Kazi was the only Sikkimese leader taken fully into Delhi's confidence. Later he would be called a traitor by his opponents.",
+            "In Sidhu's book, he is the hero."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "That summer, Sidhu arrived in Gangtok."
+        },
+        {
+          "text": "In April 1974, Sikkim held its first elections on the principle of one person, one vote, run under India's Election Commission. Kazi's party, the Sikkim National Congress, won thirty-one of thirty-two seats.",
+          "pieces": [
+            "In April 1974, Sikkim held its first elections on the principle of one person, one vote, run under India's Election Commission. Kazi's party, the Sikkim National Congress, won thirty-one of thirty-two seats."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In April 1974, Sikkim held its first elections on the principle of one person, one vote, run under India's Election Commission."
+        }
+      ],
+      "narration_text": "In April 1973, protests filled the streets outside the palace. On May 8, at the palace itself, the Chogyal, India's Foreign Secretary Kewal Singh and the leaders of Sikkim's three main parties signed the Tripartite Agreement. The Chogyal would remain, as a figurehead. Real power would pass to an elected government, and an administrator named by India.\n\nThat summer, Sidhu arrived in Gangtok. His job, as he describes it, was to help the pro-democracy groups unite behind one leader, the veteran politician Kazi Lhendup Dorji. Kazi was the only Sikkimese leader taken fully into Delhi's confidence. Later he would be called a traitor by his opponents. In Sidhu's book, he is the hero.\n\nIn April 1974, Sikkim held its first elections on the principle of one person, one vote, run under India's Election Commission. Kazi's party, the Sikkim National Congress, won thirty-one of thirty-two seats.",
+      "locations": [
+        "Gangtok",
+        "Delhi"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_05",
+      "index": 5,
+      "header": "SEGMENT 5 — THE ASSOCIATE STATE (7:45–9:15)",
+      "label": "SEGMENT 5",
+      "title": "THE ASSOCIATE STATE",
+      "visual_cue_raw": "Parliament House; the 35th Amendment; a ballot box; the Chogyal's coronation portrait.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "The new Assembly acted quickly. In May 1974, it passed resolutions seeking closer ties with India. In July, the Chogyal signed the Government of Sikkim Bill, despite his objections. Kazi became Chief Minister.",
+          "pieces": [
+            "The new Assembly acted quickly. In May 1974, it passed resolutions seeking closer ties with India. In July, the Chogyal signed the Government of Sikkim Bill, despite his objections. Kazi became Chief Minister."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The new Assembly acted quickly."
+        },
+        {
+          "text": "In September 1974, India's Parliament passed the 35th Amendment. It made Sikkim an Associate State of India, with representation in Parliament. China's People's Daily denounced it as an \"expansionist act.\"",
+          "pieces": [
+            "In September 1974, India's Parliament passed the 35th Amendment. It made Sikkim an Associate State of India, with representation in Parliament.",
+            "China's People's Daily denounced it as an \"expansionist act.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In September 1974, India's Parliament passed the 35th Amendment."
+        },
+        {
+          "text": "The Chogyal did not give up. In February 1975, at King Birendra's coronation in Kathmandu, he spoke against the arrangement. Delhi was irritated. The final phase had begun.",
+          "pieces": [
+            "The Chogyal did not give up. In February 1975, at King Birendra's coronation in Kathmandu, he spoke against the arrangement. Delhi was irritated.",
+            "The final phase had begun."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The Chogyal did not give up."
+        }
+      ],
+      "narration_text": "The new Assembly acted quickly. In May 1974, it passed resolutions seeking closer ties with India. In July, the Chogyal signed the Government of Sikkim Bill, despite his objections. Kazi became Chief Minister.\n\nIn September 1974, India's Parliament passed the 35th Amendment. It made Sikkim an Associate State of India, with representation in Parliament. China's People's Daily denounced it as an \"expansionist act.\"\n\nThe Chogyal did not give up. In February 1975, at King Birendra's coronation in Kathmandu, he spoke against the arrangement. Delhi was irritated. The final phase had begun.",
+      "locations": [
+        "Kathmandu",
+        "Delhi"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_06",
+      "index": 6,
+      "header": "SEGMENT 6 — THE 9TH AND THE 14TH OF APRIL (9:15–11:00)",
+      "label": "SEGMENT 6",
+      "title": "THE 9TH AND THE 14TH OF APRIL",
+      "visual_cue_raw": "Region map, Gangtok; the Sikkim Guards; the Assembly; a referendum ballot; the results card.",
+      "lower_third_text": "14 April 1975 · 59,637 for · 1,496 against · official turnout 63%",
+      "lower_third_after_paragraph": 3,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "On the afternoon of April 9, Indian troops entered Gangtok, disarmed the Sikkim Guards, and surrounded the palace. According to the journalist Sunanda Datta-Ray, one guardsman, nineteen-year-old Basant Kumar Chhetri, was killed in the first volley. Sidhu's view is that the guards would have blocked the Assembly's vote, and might have attacked its leaders. He later conceded the timing was a mistake.",
+          "pieces": [
+            "On the afternoon of April 9, Indian troops entered Gangtok, disarmed the Sikkim Guards, and surrounded the palace. According to the journalist Sunanda Datta-Ray, one guardsman, nineteen-year-old Basant Kumar Chhetri, was killed in the first volley. Sidhu's view is that the guards would have blocked the Assembly's vote, and might have attacked its leaders.",
+            "He later conceded the timing was a mistake."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "On the afternoon of April 9, Indian troops entered Gangtok, disarmed the Sikkim Guards, and surrounded the palace."
+        },
+        {
+          "text": "On April 10, Sikkim's Assembly passed two resolutions. Merge with India. Abolish the office of Chogyal. A referendum was called for four days later.",
+          "pieces": [
+            "On April 10, Sikkim's Assembly passed two resolutions. Merge with India. Abolish the office of Chogyal. A referendum was called for four days later."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "On April 10, Sikkim's Assembly passed two resolutions."
+        },
+        {
+          "text": "On April 14, the votes were counted. The official gazette recorded 61,133 votes cast. Of these, 59,637 were in favour. Only 1,496 were against. That is about ninety-seven and a half per cent. The announced turnout was sixty-three per cent. Critics say the vote was held under pressure. India's answer is the count.",
+          "pieces": [
+            "On April 14, the votes were counted. The official gazette recorded 61,133 votes cast. Of these, 59,637 were in favour. Only 1,496 were against. That is about ninety-seven and a half per cent. The announced turnout was sixty-three per cent.",
+            "Critics say the vote was held under pressure. India's answer is the count."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "On April 14, the votes were counted."
+        },
+        {
+          "text": "On April 23, the Lok Sabha passed the Constitution's 36th Amendment. The Rajya Sabha followed on April 26.",
+          "pieces": [
+            "On April 23, the Lok Sabha passed the Constitution's 36th Amendment. The Rajya Sabha followed on April 26."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "On April 23, the Lok Sabha passed the Constitution's 36th Amendment."
+        }
+      ],
+      "narration_text": "On the afternoon of April 9, Indian troops entered Gangtok, disarmed the Sikkim Guards, and surrounded the palace. According to the journalist Sunanda Datta-Ray, one guardsman, nineteen-year-old Basant Kumar Chhetri, was killed in the first volley. Sidhu's view is that the guards would have blocked the Assembly's vote, and might have attacked its leaders. He later conceded the timing was a mistake.\n\nOn April 10, Sikkim's Assembly passed two resolutions. Merge with India. Abolish the office of Chogyal. A referendum was called for four days later.\n\nOn April 14, the votes were counted. The official gazette recorded 61,133 votes cast. Of these, 59,637 were in favour. Only 1,496 were against. That is about ninety-seven and a half per cent. The announced turnout was sixty-three per cent. Critics say the vote was held under pressure. India's answer is the count.\n\nOn April 23, the Lok Sabha passed the Constitution's 36th Amendment. The Rajya Sabha followed on April 26.",
+      "locations": [
+        "Gangtok"
+      ],
+      "visual_type": "map",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_07",
+      "index": 7,
+      "header": "SEGMENT 7 — SIKKIM DAY (11:00–12:15)",
+      "label": "SEGMENT 7",
+      "title": "SIKKIM DAY",
+      "visual_cue_raw": "Gangtok, 16 May 1975; the Indian flag; Kazi Lhendup Dorji as Chief Minister; Nathu La, 2006.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "Sources — The Tribune, 2003; The Diplomat, \"The Sikkim Anniversary\"; Constitution of India, Article 371F",
+      "citation_after_paragraph": 2,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "On May 16, 1975, Sikkim became the twenty-second state of India. Kazi Lhendup Dorji was its first Chief Minister. B.B. Lal, who had served as India's Chief Executive in Gangtok, became its first Governor. Article 371F of the Constitution gave Sikkim special provisions, and a thirty-two-member Assembly.",
+          "pieces": [
+            "On May 16, 1975, Sikkim became the twenty-second state of India. Kazi Lhendup Dorji was its first Chief Minister. B.B. Lal, who had served as India's Chief Executive in Gangtok, became its first Governor. Article 371F of the Constitution gave Sikkim special provisions, and a thirty-two-member Assembly."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "On May 16, 1975, Sikkim became the twenty-second state of India."
+        },
+        {
+          "text": "China refused to accept it for nearly three decades. Then, in 2003, during Prime Minister Vajpayee's visit to Beijing, China quietly stopped treating Sikkim as an independent country. In 2005, a joint statement referred to the \"Sikkim state of the Republic of India.\" In July 2006, trade resumed through Nathu La, the very pass where Indian soldiers had died in 1967.",
+          "pieces": [
+            "China refused to accept it for nearly three decades.",
+            "Then, in 2003, during Prime Minister Vajpayee's visit to Beijing, China quietly stopped treating Sikkim as an independent country. In 2005, a joint statement referred to the \"Sikkim state of the Republic of India.\" In July 2006, trade resumed through Nathu La, the very pass where Indian soldiers had died in 1967."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "China refused to accept it for nearly three decades."
+        },
+        {
+          "text": "The Chogyal died in New York in 1982. Kazi lived to 102. Today, Sikkim celebrates May 16 as Sikkim Day.",
+          "pieces": [
+            "The Chogyal died in New York in 1982. Kazi lived to 102.",
+            "Today, Sikkim celebrates May 16 as Sikkim Day."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The Chogyal died in New York in 1982."
+        }
+      ],
+      "narration_text": "On May 16, 1975, Sikkim became the twenty-second state of India. Kazi Lhendup Dorji was its first Chief Minister. B.B. Lal, who had served as India's Chief Executive in Gangtok, became its first Governor. Article 371F of the Constitution gave Sikkim special provisions, and a thirty-two-member Assembly.\n\nChina refused to accept it for nearly three decades. Then, in 2003, during Prime Minister Vajpayee's visit to Beijing, China quietly stopped treating Sikkim as an independent country. In 2005, a joint statement referred to the \"Sikkim state of the Republic of India.\" In July 2006, trade resumed through Nathu La, the very pass where Indian soldiers had died in 1967.\n\nThe Chogyal died in New York in 1982. Kazi lived to 102. Today, Sikkim celebrates May 16 as Sikkim Day.",
+      "locations": [
+        "Gangtok",
+        "Nathu La",
+        "Beijing"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_08",
+      "index": 8,
+      "header": "CLOSING (12:15–13:15)",
+      "label": "CLOSING",
+      "title": "CLOSING",
+      "visual_cue_raw": "The silhouette of G.B.S. Sidhu; the diary; Gangtok at dawn; the map of India with Sikkim lit.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": true,
+      "paragraphs": [
+        {
+          "text": "G.B.S. Sidhu kept a diary through those two years. In 2018, he turned it into a book, \"Sikkim: Dawn of Democracy.\" No free photograph of him exists.",
+          "pieces": [
+            "G.B.S. Sidhu kept a diary through those two years. In 2018, he turned it into a book, \"Sikkim: Dawn of Democracy.\" No free photograph of him exists."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "G."
+        },
+        {
+          "text": "His account is India's account. Others tell it differently. But his central claim is easy to test against the map. Sikkim votes. Sikkim joins. The corridor stays open.",
+          "pieces": [
+            "His account is India's account. Others tell it differently. But his central claim is easy to test against the map.",
+            "Sikkim votes. Sikkim joins. The corridor stays open."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "His account is India's account."
+        },
+        {
+          "text": "It was a war India never had to fight. And the men who won it never took a bow.",
+          "pieces": [
+            "It was a war India never had to fight.",
+            "And the men who won it never took a bow."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "It was a war India never had to fight."
+        }
+      ],
+      "narration_text": "G.B.S. Sidhu kept a diary through those two years. In 2018, he turned it into a book, \"Sikkim: Dawn of Democracy.\" No free photograph of him exists.\n\nHis account is India's account. Others tell it differently. But his central claim is easy to test against the map. Sikkim votes. Sikkim joins. The corridor stays open.\n\nIt was a war India never had to fight. And the men who won it never took a bow.",
+      "locations": [
+        "Gangtok"
+      ],
+      "visual_type": "map",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "_note": "Instagram Reel teaser for File 06 (1080x1920, <=90s).",
+  "version": "1.0",
+  "max_seconds": 90,
+  "cta": "Full documentary · @SisodiaFiles",
+  "beats": [
+    {
+      "headline": "KANDAHAR, 1999",
+      "text": "December 1999. A hijacked Indian plane on a Taliban runway, and three prisoners traded to bring the hostages home.",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 0,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE PRICE",
+      "text": "The hostages walked free. So did the three men.",
+      "show": {
+        "segment": "seg_02",
+        "paragraph": 2,
+        "offset_ms": 2000
+      }
+    },
+    {
+      "headline": "THE CLERIC",
+      "text": "Within weeks, one of them founded Jaish-e-Mohammed.",
+      "show": {
+        "segment": "seg_03",
+        "paragraph": 2,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "THE CHAIN",
+      "text": "A parliament attacked. A journalist taken. A convoy bombed. Every link runs back to the same seven days.",
+      "show": {
+        "segment": "seg_08",
+        "paragraph": 1,
+        "offset_ms": 1500
+      }
+    },
+    {
+      "headline": "THE BUTTERFLY EFFECT",
+      "text": "The Butterfly Effect. Now on The Sisodia Files.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}

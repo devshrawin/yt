@@ -1,0 +1,535 @@
+{
+  "meta": {
+    "title": "THE CHRONICLER",
+    "subtitle": "B. Raman and the Voice R&AW Never Had"
+  },
+  "sources": [
+    "B. Raman, \"The Kaoboys of R&AW: Down Memory Lane\" (Lancer, 2007)",
+    "B. Raman, \"About Me\" (Raman's Strategic Analysis)",
+    "The Hindu, Amber Sen, \"Remembering a perfect spy\" (June 2013)",
+    "Rediff, \"Exclusive! B. Raman's unpublished 2007 article: Why Yakub Memon must not be hanged\" (July 23, 2015)",
+    "Indian Express, \"Yakub Memon must not hang, we brought him back: key RAW man in '07\" (July 24, 2015)",
+    "Times of India, reporting on Yakub Memon and the 1993 blasts (July 26, 2015)",
+    "US House of Representatives, Committee on International Relations, \"The Challenge of Terrorism in Asia and the Pacific,\" October 29, 2003 (Serial 108-69)",
+    "Rediff, B. Raman, \"Why is Mumbai a tempting target?\" (August 26, 2003)",
+    "Open Magazine, \"Living with cancer\" (June 2013)",
+    "Indian Express, \"B. Raman, one of RAW founders, passes away\" (June 17, 2013)",
+    "Business Standard / ANI, \"RAW founder B. Raman passes away in Chennai\" (June 17, 2013)",
+    "Wikipedia, \"B. Raman\", \"1993 Bombay bombings\", \"Yakub Memon\""
+  ],
+  "segments": [
+    {
+      "id": "seg_00",
+      "index": 0,
+      "header": "COLD OPEN (0:00–1:30)",
+      "label": "COLD OPEN",
+      "title": "COLD OPEN",
+      "visual_cue_raw": "The Bombay Stock Exchange, 12 March 1993; a desk lamp; a typed note.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": true,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "March 12, 1993. Bombay. At half past one, a car bomb explodes in the basement of the Stock Exchange. By twenty to four, twelve blasts have torn through the city. Two hundred and fifty-seven people are dead.",
+          "pieces": [
+            "March 12, 1993. Bombay. At half past one, a car bomb explodes in the basement of the Stock Exchange. By twenty to four, twelve blasts have torn through the city.",
+            "Two hundred and fifty-seven people are dead."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "March 12, 1993."
+        },
+        {
+          "text": "In Delhi, that same evening, one officer sits down and writes. According to The Hindu, he drafts a detailed note for the Prime Minister. It lists the likely motives. It names the groups that could have done it. It points to similar attacks abroad. By nightfall, he already knew what kind of enemy this was.",
+          "pieces": [
+            "In Delhi, that same evening, one officer sits down and writes. According to The Hindu, he drafts a detailed note for the Prime Minister. It lists the likely motives. It names the groups that could have done it. It points to similar attacks abroad.",
+            "By nightfall, he already knew what kind of enemy this was."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In Delhi, that same evening, one officer sits down and writes."
+        },
+        {
+          "text": "His name was B. Raman. He was head of counter-terrorism at India's Research and Analysis Wing. And for the next twenty years he would do something almost no Indian spy had ever done. He would explain it all, in public.",
+          "pieces": [
+            "His name was B. Raman. He was head of counter-terrorism at India's Research and Analysis Wing. And for the next twenty years he would do something almost no Indian spy had ever done.",
+            "He would explain it all, in public."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "His name was B."
+        },
+        {
+          "text": "So why did a man trained in silence become India's loudest voice on terror? Everything here comes from his own writing, the US Congressional record, and Indian newspapers. It begins with a sub-editor in Madras.",
+          "pieces": [
+            "So why did a man trained in silence become India's loudest voice on terror? Everything here comes from his own writing, the US Congressional record, and Indian newspapers.",
+            "It begins with a sub-editor in Madras."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "So why did a man trained in silence become India's loudest voice on terror?"
+        }
+      ],
+      "narration_text": "March 12, 1993. Bombay. At half past one, a car bomb explodes in the basement of the Stock Exchange. By twenty to four, twelve blasts have torn through the city. Two hundred and fifty-seven people are dead.\n\nIn Delhi, that same evening, one officer sits down and writes. According to The Hindu, he drafts a detailed note for the Prime Minister. It lists the likely motives. It names the groups that could have done it. It points to similar attacks abroad. By nightfall, he already knew what kind of enemy this was.\n\nHis name was B. Raman. He was head of counter-terrorism at India's Research and Analysis Wing. And for the next twenty years he would do something almost no Indian spy had ever done. He would explain it all, in public.\n\nSo why did a man trained in silence become India's loudest voice on terror? Everything here comes from his own writing, the US Congressional record, and Indian newspapers. It begins with a sub-editor in Madras.",
+      "locations": [
+        "Bombay",
+        "Delhi",
+        "Madras"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_01",
+      "index": 1,
+      "header": "SEGMENT 1 — THE SUB-EDITOR (1:30–3:00)",
+      "label": "SEGMENT 1",
+      "title": "THE SUB-EDITOR",
+      "visual_cue_raw": "Dossier portrait — B. Raman (silhouette; no free photograph). Loyola College, Madras; a newsroom; the Indian Police Service.",
+      "lower_third_text": "B. Raman · born 14 August 1936 · IPS 1961 · R&AW from September 1968",
+      "lower_third_after_paragraph": 1,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "Bahukutumbi Raman was born in Tamil Nadu on August 14, 1936. He studied chemistry at Loyola College in Madras. Then he took a course in journalism, and in 1957 joined The Indian Express as a sub-editor. Then he sat the civil services examination. In 1961 he joined the Indian Police Service, and was posted to Madhya Pradesh. He never married, and lived alone for most of his life.",
+          "pieces": [
+            "Bahukutumbi Raman was born in Tamil Nadu on August 14, 1936. He studied chemistry at Loyola College in Madras. Then he took a course in journalism, and in 1957 joined The Indian Express as a sub-editor.",
+            "Then he sat the civil services examination. In 1961 he joined the Indian Police Service, and was posted to Madhya Pradesh. He never married, and lived alone for most of his life."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Bahukutumbi Raman was born in Tamil Nadu on August 14, 1936."
+        },
+        {
+          "text": "In 1967 he was called to Delhi. A year later he was among the first analysts to join a brand-new agency, the Research and Analysis Wing. Its chief was R.N. Kao. Raman's first desk was Burma. He would spend the rest of his career reading other countries.",
+          "pieces": [
+            "In 1967 he was called to Delhi. A year later he was among the first analysts to join a brand-new agency, the Research and Analysis Wing. Its chief was R.N. Kao. Raman's first desk was Burma.",
+            "He would spend the rest of his career reading other countries."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In 1967 he was called to Delhi."
+        }
+      ],
+      "narration_text": "Bahukutumbi Raman was born in Tamil Nadu on August 14, 1936. He studied chemistry at Loyola College in Madras. Then he took a course in journalism, and in 1957 joined The Indian Express as a sub-editor. Then he sat the civil services examination. In 1961 he joined the Indian Police Service, and was posted to Madhya Pradesh. He never married, and lived alone for most of his life.\n\nIn 1967 he was called to Delhi. A year later he was among the first analysts to join a brand-new agency, the Research and Analysis Wing. Its chief was R.N. Kao. Raman's first desk was Burma. He would spend the rest of his career reading other countries.",
+      "locations": [
+        "Madras",
+        "Delhi"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_02",
+      "index": 2,
+      "header": "SEGMENT 2 — A KAOBOY (3:00–4:30)",
+      "label": "SEGMENT 2",
+      "title": "A KAOBOY",
+      "visual_cue_raw": "Kao's silhouette; the R&AW emblem; a bronze cowboy statuette; Paris and Geneva as text cards.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "Sources — B. Raman, \"The Kaoboys of R&AW\"; The Hindu, Amber Sen, June 2013",
+      "citation_after_paragraph": 2,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "Raman was one of the first of what the service called the \"Kaoboys.\" According to his own account, the name came from an Indian ambassador. It stuck after the CIA's chief, George H.W. Bush, gave Kao a small bronze cowboy statue.",
+          "pieces": [
+            "Raman was one of the first of what the service called the \"Kaoboys.\" According to his own account, the name came from an Indian ambassador. It stuck after the CIA's chief, George H.W. Bush, gave Kao a small bronze cowboy statue."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Raman was one of the first of what the service called the \"Kaoboys.\""
+        },
+        {
+          "text": "Raman worked overseas, under cover, in Paris and Geneva. Back home, he became R&AW's institutional memory on Pakistan. Amber Sen, a former R&AW colleague, wrote in The Hindu that Raman was a hard taskmaster. He had almost photographic recall, and could recite a note he had written years earlier.",
+          "pieces": [
+            "Raman worked overseas, under cover, in Paris and Geneva. Back home, he became R&AW's institutional memory on Pakistan. Amber Sen, a former R&AW colleague, wrote in The Hindu that Raman was a hard taskmaster. He had almost photographic recall, and could recite a note he had written years earlier."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Raman worked overseas, under cover, in Paris and Geneva."
+        },
+        {
+          "text": "Then, in 1988, he took charge of the Counter-Terrorism Division. Would his knowledge be enough? Punjab was burning.",
+          "pieces": [
+            "Then, in 1988, he took charge of the Counter-Terrorism Division. Would his knowledge be enough?",
+            "Punjab was burning."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Then, in 1988, he took charge of the Counter-Terrorism Division."
+        }
+      ],
+      "narration_text": "Raman was one of the first of what the service called the \"Kaoboys.\" According to his own account, the name came from an Indian ambassador. It stuck after the CIA's chief, George H.W. Bush, gave Kao a small bronze cowboy statue.\n\nRaman worked overseas, under cover, in Paris and Geneva. Back home, he became R&AW's institutional memory on Pakistan. Amber Sen, a former R&AW colleague, wrote in The Hindu that Raman was a hard taskmaster. He had almost photographic recall, and could recite a note he had written years earlier.\n\nThen, in 1988, he took charge of the Counter-Terrorism Division. Would his knowledge be enough? Punjab was burning.",
+      "locations": [
+        "Punjab"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_03",
+      "index": 3,
+      "header": "SEGMENT 3 — THE PUNJAB FILE (4:30–6:15)",
+      "label": "SEGMENT 3",
+      "title": "THE PUNJAB FILE",
+      "visual_cue_raw": "Checklist — Punjab terror, 1980s–1994: camps · aviation plots · Kanishka · the world doesn't believe.",
+      "lower_third_text": "Head, Counter-Terrorism Division, R&AW, 1988–1994",
+      "lower_third_after_paragraph": 3,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "For most of a decade, Punjab was under siege. Raman's desk tracked what India said was Pakistan's hand behind it. In a prepared statement to the US House of Representatives in 2003, he set it out plainly.",
+          "pieces": [
+            "For most of a decade, Punjab was under siege. Raman's desk tracked what India said was Pakistan's hand behind it. In a prepared statement to the US House of Representatives in 2003, he set it out plainly."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "For most of a decade, Punjab was under siege."
+        },
+        {
+          "text": "\"Religion was sought to be used as a weapon to drive a wedge between the Hindus and the Sikhs.\" Over half a dozen Sikh terrorist organisations, he said, had come into existence, and their cadres had been trained by the ISI in camps on Pakistani soil.",
+          "pieces": [
+            "\"Religion was sought to be used as a weapon to drive a wedge between the Hindus and the Sikhs.\" Over half a dozen Sikh terrorist organisations, he said, had come into existence, and their cadres had been trained by the ISI in camps on Pakistani soil."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "\"Religion was sought to be used as a weapon to drive a wedge between the Hindus and the Sikhs.\""
+        },
+        {
+          "text": "Some Western agencies were not convinced. According to Amber Sen, Raman never backed down. He insisted the data India was sharing had been double-checked. Then the evidence began to add up. Indian Airlines aircraft hijacked to Lahore. The bombing of Air India Flight 182, the Kanishka, in 1985. A plot to hit civil aviation from Narita.",
+          "pieces": [
+            "Some Western agencies were not convinced. According to Amber Sen, Raman never backed down. He insisted the data India was sharing had been double-checked.",
+            "Then the evidence began to add up. Indian Airlines aircraft hijacked to Lahore. The bombing of Air India Flight 182, the Kanishka, in 1985. A plot to hit civil aviation from Narita."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Some Western agencies were not convinced."
+        },
+        {
+          "text": "Raman told the House that the movement \"petered out after 1995,\" as Indian and Western agencies began to cooperate. He had spent seven years trying to make the world see it. He lived to see it.",
+          "pieces": [
+            "Raman told the House that the movement \"petered out after 1995,\" as Indian and Western agencies began to cooperate.",
+            "He had spent seven years trying to make the world see it. He lived to see it."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Raman told the House that the movement \"petered out after 1995,\" as Indian and Western agencies began to cooperate."
+        }
+      ],
+      "narration_text": "For most of a decade, Punjab was under siege. Raman's desk tracked what India said was Pakistan's hand behind it. In a prepared statement to the US House of Representatives in 2003, he set it out plainly.\n\n\"Religion was sought to be used as a weapon to drive a wedge between the Hindus and the Sikhs.\" Over half a dozen Sikh terrorist organisations, he said, had come into existence, and their cadres had been trained by the ISI in camps on Pakistani soil.\n\nSome Western agencies were not convinced. According to Amber Sen, Raman never backed down. He insisted the data India was sharing had been double-checked. Then the evidence began to add up. Indian Airlines aircraft hijacked to Lahore. The bombing of Air India Flight 182, the Kanishka, in 1985. A plot to hit civil aviation from Narita.\n\nRaman told the House that the movement \"petered out after 1995,\" as Indian and Western agencies began to cooperate. He had spent seven years trying to make the world see it. He lived to see it.",
+      "locations": [
+        "Punjab",
+        "Lahore"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_04",
+      "index": 4,
+      "header": "SEGMENT 4 — BOMBAY (6:15–7:45)",
+      "label": "SEGMENT 4",
+      "title": "BOMBAY",
+      "visual_cue_raw": "Kathmandu; Yakub Memon's name card; P.V. Narasimha Rao; Nagpur.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "Sources — Rediff, B. Raman's 2007 article; Times of India, July 2015",
+      "citation_after_paragraph": 2,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "After the 1993 blasts, Raman handled the external side of the investigation. According to his own account, the Prime Minister, P.V. Narasimha Rao, called R&AW's contribution \"worth its weight in gold.\"",
+          "pieces": [
+            "After the 1993 blasts, Raman handled the external side of the investigation. According to his own account, the Prime Minister, P.V. Narasimha Rao, called R&AW's contribution \"worth its weight in gold.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "After the 1993 blasts, Raman handled the external side of the investigation."
+        },
+        {
+          "text": "In July 1994, weeks before Raman retired, one of the blast conspirators was intercepted at Kathmandu. Yakub Memon, a chartered accountant from the family at the centre of the plot, was brought back to India. Raman wrote that he \"coordinated\" the operation. According to the Times of India, Memon then handed Indian investigators a large cache of documents, videos and passports, which pointed to Pakistan's ISI.",
+          "pieces": [
+            "In July 1994, weeks before Raman retired, one of the blast conspirators was intercepted at Kathmandu. Yakub Memon, a chartered accountant from the family at the centre of the plot, was brought back to India. Raman wrote that he \"coordinated\" the operation.",
+            "According to the Times of India, Memon then handed Indian investigators a large cache of documents, videos and passports, which pointed to Pakistan's ISI."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In July 1994, weeks before Raman retired, one of the blast conspirators was intercepted at Kathmandu."
+        },
+        {
+          "text": "Raman retired on August 31, 1994, as an Additional Secretary in the Cabinet Secretariat. He was fifty-eight years old. He was not finished.",
+          "pieces": [
+            "Raman retired on August 31, 1994, as an Additional Secretary in the Cabinet Secretariat. He was fifty-eight years old. He was not finished."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Raman retired on August 31, 1994, as an Additional Secretary in the Cabinet Secretariat."
+        }
+      ],
+      "narration_text": "After the 1993 blasts, Raman handled the external side of the investigation. According to his own account, the Prime Minister, P.V. Narasimha Rao, called R&AW's contribution \"worth its weight in gold.\"\n\nIn July 1994, weeks before Raman retired, one of the blast conspirators was intercepted at Kathmandu. Yakub Memon, a chartered accountant from the family at the centre of the plot, was brought back to India. Raman wrote that he \"coordinated\" the operation. According to the Times of India, Memon then handed Indian investigators a large cache of documents, videos and passports, which pointed to Pakistan's ISI.\n\nRaman retired on August 31, 1994, as an Additional Secretary in the Cabinet Secretariat. He was fifty-eight years old. He was not finished.",
+      "locations": [
+        "Kathmandu",
+        "Nagpur"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_05",
+      "index": 5,
+      "header": "SEGMENT 5 — THE VOICE (7:45–9:15)",
+      "label": "SEGMENT 5",
+      "title": "THE VOICE",
+      "visual_cue_raw": "A bookshelf of titles; the US Capitol; the Rayburn building; Raman's columns as text cards.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "Retirement made him famous. From 1998, Raman wrote almost daily, for the South Asia Analysis Group and for Rediff. He served on the National Security Advisory Board, and on the task force that reviewed India's intelligence system in 2000.",
+          "pieces": [
+            "Retirement made him famous. From 1998, Raman wrote almost daily, for the South Asia Analysis Group and for Rediff. He served on the National Security Advisory Board, and on the task force that reviewed India's intelligence system in 2000."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Retirement made him famous."
+        },
+        {
+          "text": "In June 2002 and again on October 29, 2003, he testified to committees of the US House of Representatives. Introduced as the former head of counter-terrorism at R&AW, he told them a sentence Indians had long repeated at home: \"India has been the victim of the use of cross-border terrorism by the State of Pakistan and its intelligence agencies since 1956.\"",
+          "pieces": [
+            "In June 2002 and again on October 29, 2003, he testified to committees of the US House of Representatives. Introduced as the former head of counter-terrorism at R&AW, he told them a sentence Indians had long repeated at home: \"India has been the victim of the use of cross-border terrorism by the State of Pakistan and its intelligence agencies since 1956.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In June 2002 and again on October 29, 2003, he testified to committees of the US House of Representatives."
+        },
+        {
+          "text": "In 2007 came his book, The Kaoboys of R&AW. It was one of the very few insider accounts of the service ever published. It claimed Pakistan's terror campaign against India did not start in Kashmir in 1989. It started in Nagaland, in 1956.",
+          "pieces": [
+            "In 2007 came his book, The Kaoboys of R&AW. It was one of the very few insider accounts of the service ever published.",
+            "It claimed Pakistan's terror campaign against India did not start in Kashmir in 1989. It started in Nagaland, in 1956."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In 2007 came his book, The Kaoboys of R&AW."
+        },
+        {
+          "text": "Sheela Bhatt of Rediff remembered him as meticulous, with \"a tremendous urge to educate.\" He treated journalists, she said, as his pupils.",
+          "pieces": [
+            "Sheela Bhatt of Rediff remembered him as meticulous, with \"a tremendous urge to educate.\" He treated journalists, she said, as his pupils."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Sheela Bhatt of Rediff remembered him as meticulous, with \"a tremendous urge to educate.\""
+        }
+      ],
+      "narration_text": "Retirement made him famous. From 1998, Raman wrote almost daily, for the South Asia Analysis Group and for Rediff. He served on the National Security Advisory Board, and on the task force that reviewed India's intelligence system in 2000.\n\nIn June 2002 and again on October 29, 2003, he testified to committees of the US House of Representatives. Introduced as the former head of counter-terrorism at R&AW, he told them a sentence Indians had long repeated at home: \"India has been the victim of the use of cross-border terrorism by the State of Pakistan and its intelligence agencies since 1956.\"\n\nIn 2007 came his book, The Kaoboys of R&AW. It was one of the very few insider accounts of the service ever published. It claimed Pakistan's terror campaign against India did not start in Kashmir in 1989. It started in Nagaland, in 1956.\n\nSheela Bhatt of Rediff remembered him as meticulous, with \"a tremendous urge to educate.\" He treated journalists, she said, as his pupils.",
+      "locations": [],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_06",
+      "index": 6,
+      "header": "SEGMENT 6 — THE EMAIL (9:15–10:45)",
+      "label": "SEGMENT 6",
+      "title": "THE EMAIL",
+      "visual_cue_raw": "An email inbox, 2 August 2007, 9:39 a.m.; the Nagpur jail; a hanging date, 30 July 2015.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "On August 2, 2007, at 9:39 in the morning, B. Raman sent a column to Rediff. It argued that Yakub Memon should not be hanged. Then he emailed again. \"Don't use it.\"",
+          "pieces": [
+            "On August 2, 2007, at 9:39 in the morning, B. Raman sent a column to Rediff. It argued that Yakub Memon should not be hanged. Then he emailed again. \"Don't use it.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "On August 2, 2007, at 9:39 in the morning, B."
+        },
+        {
+          "text": "Raman had no doubt about Memon's guilt. He wrote that there was \"not an iota of doubt\" about his involvement in the conspiracy. But Memon had come back on Indian promises, and had helped the case. Hanging him, Raman argued, would send the wrong message to anyone who might one day cooperate with India. His own words: \"I decided to write this in the belief that it is important to prevent a person, who in my view does not deserve to be hanged, from going to the gallows.\"",
+          "pieces": [
+            "Raman had no doubt about Memon's guilt. He wrote that there was \"not an iota of doubt\" about his involvement in the conspiracy. But Memon had come back on Indian promises, and had helped the case. Hanging him, Raman argued, would send the wrong message to anyone who might one day cooperate with India.",
+            "His own words: \"I decided to write this in the belief that it is important to prevent a person, who in my view does not deserve to be hanged, from going to the gallows.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Raman had no doubt about Memon's guilt."
+        },
+        {
+          "text": "The column sat unpublished for eight years. Raman died in 2013. Then, with his brother's permission, Rediff published it in July 2015. Seven days later, Yakub Memon was hanged.",
+          "pieces": [
+            "The column sat unpublished for eight years. Raman died in 2013. Then, with his brother's permission, Rediff published it in July 2015. Seven days later, Yakub Memon was hanged."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The column sat unpublished for eight years."
+        },
+        {
+          "text": "His caution stood on the record, unheeded.",
+          "pieces": [
+            "His caution stood on the record, unheeded."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "His caution stood on the record, unheeded."
+        }
+      ],
+      "narration_text": "On August 2, 2007, at 9:39 in the morning, B. Raman sent a column to Rediff. It argued that Yakub Memon should not be hanged. Then he emailed again. \"Don't use it.\"\n\nRaman had no doubt about Memon's guilt. He wrote that there was \"not an iota of doubt\" about his involvement in the conspiracy. But Memon had come back on Indian promises, and had helped the case. Hanging him, Raman argued, would send the wrong message to anyone who might one day cooperate with India. His own words: \"I decided to write this in the belief that it is important to prevent a person, who in my view does not deserve to be hanged, from going to the gallows.\"\n\nThe column sat unpublished for eight years. Raman died in 2013. Then, with his brother's permission, Rediff published it in July 2015. Seven days later, Yakub Memon was hanged.\n\nHis caution stood on the record, unheeded.",
+      "locations": [
+        "Nagpur"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_07",
+      "index": 7,
+      "header": "CLOSING (10:45–11:45)",
+      "label": "CLOSING",
+      "title": "CLOSING",
+      "visual_cue_raw": "The bookshelf; the empty photo frame; a Twitter timeline, February–May 2013.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": true,
+      "paragraphs": [
+        {
+          "text": "B. Raman spent his last months fighting cancer. He tweeted about it with the same dry precision he brought to everything. In February 2013: \"I am not yet prepared to walk into oblivion.\" On May 19: \"Courage, I have. Desire to live longer I no longer have.\"",
+          "pieces": [
+            "B. Raman spent his last months fighting cancer. He tweeted about it with the same dry precision he brought to everything. In February 2013: \"I am not yet prepared to walk into oblivion.\" On May 19: \"Courage, I have. Desire to live longer I no longer have.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "B."
+        },
+        {
+          "text": "He died in Chennai on June 16, 2013. He was seventy-six. He called the cancer, in the words of The Hindu, \"the last terrorist in his life.\"",
+          "pieces": [
+            "He died in Chennai on June 16, 2013. He was seventy-six. He called the cancer, in the words of The Hindu, \"the last terrorist in his life.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "He died in Chennai on June 16, 2013."
+        },
+        {
+          "text": "Almost no free photograph of him exists. But something better survives. Twenty years of notes, columns, statements and books.",
+          "pieces": [
+            "Almost no free photograph of him exists. But something better survives.",
+            "Twenty years of notes, columns, statements and books."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Almost no free photograph of him exists."
+        },
+        {
+          "text": "R.N. Kao built the service, and never wrote a word. B. Raman wrote for both of them. The silence and the voice. India needed both.",
+          "pieces": [
+            "R.N. Kao built the service, and never wrote a word. B. Raman wrote for both of them.",
+            "The silence and the voice. India needed both."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "R."
+        }
+      ],
+      "narration_text": "B. Raman spent his last months fighting cancer. He tweeted about it with the same dry precision he brought to everything. In February 2013: \"I am not yet prepared to walk into oblivion.\" On May 19: \"Courage, I have. Desire to live longer I no longer have.\"\n\nHe died in Chennai on June 16, 2013. He was seventy-six. He called the cancer, in the words of The Hindu, \"the last terrorist in his life.\"\n\nAlmost no free photograph of him exists. But something better survives. Twenty years of notes, columns, statements and books.\n\nR.N. Kao built the service, and never wrote a word. B. Raman wrote for both of them. The silence and the voice. India needed both.",
+      "locations": [
+        "Madras"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    }
+  ]
+}

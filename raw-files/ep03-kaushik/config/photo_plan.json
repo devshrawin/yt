@@ -1,0 +1,212 @@
+{
+  "_note": "Licensed images for RAW Files Ep 3 (public domain, GODL-India, CC0, CC BY / BY-SA via Wikimedia Commons). No licence-clean photograph of Ravindra Kaushik exists (the only published one is non-free); he appears as a silhouette dossier. Overlaps trimmed automatically.",
+  "placements": [
+    {
+      "segment": "seg_00",
+      "paragraph": 0,
+      "at_word": "Pakistani",
+      "seconds": 6,
+      "images": [
+        "mianwali"
+      ],
+      "caption": "Mianwali, Pakistan — where, by one account, he died"
+    },
+    {
+      "segment": "seg_00",
+      "paragraph": 1,
+      "at_word": "Ravindra",
+      "seconds": 6,
+      "images": [
+        "silhouette"
+      ],
+      "caption": "",
+      "person": {
+        "name": "RAVINDRA KAUSHIK",
+        "role": "Indian agent in Pakistan, 1975–1983",
+        "years": "1952–2001"
+      }
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 0,
+      "at_word": "Ganganagar",
+      "seconds": 6,
+      "images": [
+        "ganganagar_street"
+      ],
+      "caption": "Sri Ganganagar, Rajasthan"
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 0,
+      "at_word": "commerce",
+      "seconds": 5,
+      "images": [
+        "ganganagar_station"
+      ],
+      "caption": "Sri Ganganagar railway station"
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 1,
+      "at_word": "probably",
+      "seconds": 8,
+      "images": [],
+      "caption": "",
+      "quote": {
+        "text": "It was probably his mono-act in college in which he played an Indian army officer who refused to divulge information to China.",
+        "by": "Rajeshwarnath Kaushik, his brother, to Hindustan Times"
+      }
+    },
+    {
+      "segment": "seg_02",
+      "paragraph": 0,
+      "at_word": "General",
+      "seconds": 6,
+      "images": [
+        "zia"
+      ],
+      "caption": "",
+      "person": {
+        "name": "ZIA-UL-HAQ",
+        "role": "Military ruler of Pakistan",
+        "years": "1977–1988"
+      }
+    },
+    {
+      "segment": "seg_02",
+      "paragraph": 1,
+      "at_word": "Karachi",
+      "seconds": 5,
+      "images": [
+        "karachi_uni"
+      ],
+      "caption": "Karachi University, Silver Jubilee Gate"
+    },
+    {
+      "segment": "seg_03",
+      "paragraph": 0,
+      "at_word": "goldmine",
+      "seconds": 7,
+      "images": [],
+      "caption": "",
+      "quote": {
+        "text": "A goldmine for the agency.",
+        "by": "R&AW officers, to ThePrint's Praveen Swami"
+      }
+    },
+    {
+      "segment": "seg_03",
+      "paragraph": 1,
+      "at_word": "Some",
+      "seconds": 5,
+      "images": [
+        "islamabad"
+      ],
+      "caption": "Islamabad"
+    },
+    {
+      "segment": "seg_04",
+      "paragraph": 2,
+      "at_word": "Sialkot",
+      "seconds": 5,
+      "images": [
+        "sialkot_school"
+      ],
+      "caption": "Sialkot"
+    },
+    {
+      "segment": "seg_04",
+      "paragraph": 3,
+      "at_word": "prisons",
+      "seconds": 5,
+      "images": [
+        "mianwali_round"
+      ],
+      "caption": "Mianwali"
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 0,
+      "at_word": "Kya",
+      "seconds": 8,
+      "images": [],
+      "caption": "",
+      "quote": {
+        "text": "Kya Bharat jaise bade desh ke liye kurbani dene waalon ko yahi milta hai? — Is this the reward for those who sacrifice their lives for a country as big as India?",
+        "by": "Ravindra Kaushik, in a letter to his family — The Telegraph, 2002"
+      }
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 3,
+      "at_word": "brother",
+      "seconds": 8,
+      "images": [],
+      "caption": "",
+      "quote": {
+        "text": "He will always remain important for me. But for the country, he was just another agent.",
+        "by": "Rajeshwarnath Kaushik, to Hindustan Times"
+      }
+    },
+    {
+      "segment": "seg_06",
+      "paragraph": 0,
+      "at_word": "Black",
+      "seconds": 6,
+      "images": [
+        "indira"
+      ],
+      "caption": "",
+      "person": {
+        "name": "INDIRA GANDHI",
+        "role": "The family says she gave him the name. No document supports it.",
+        "years": "1917–1984"
+      }
+    },
+    {
+      "segment": "seg_06",
+      "paragraph": 2,
+      "at_word": "Kishori",
+      "seconds": 7,
+      "images": [],
+      "caption": "",
+      "quote": {
+        "text": "Even if you escape death, you die a slow death as nobody is there to own you.",
+        "by": "Kishori Lal Sharma, former agent, to ThePrint"
+      }
+    },
+    {
+      "segment": "seg_06",
+      "paragraph": 3,
+      "at_word": "want",
+      "seconds": 7,
+      "images": [],
+      "caption": "",
+      "quote": {
+        "text": "We don't want money. What we want from the government is recognition.",
+        "by": "Rajeshwarnath Kaushik, to The Telegraph, 2002"
+      }
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 0,
+      "at_word": "student",
+      "seconds": 5,
+      "images": [
+        "ganganagar_board"
+      ],
+      "caption": "Sri Ganganagar station — where the story began"
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 1,
+      "at_word": "memorial",
+      "seconds": 6,
+      "images": [
+        "wagah"
+      ],
+      "caption": "The India–Pakistan border at Wagah"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "_note": "Map places for RAW Files Ep 7 (Verma / Cactus).",
+  "places": {
+    "Male": {
+      "lonLat": [
+        73.5093,
+        4.1755
+      ],
+      "aliases": [
+        "Malé",
+        "Male",
+        "Maldives"
+      ],
+      "map": "world",
+      "label": "Malé, Maldives"
+    },
+    "Hulhule": {
+      "lonLat": [
+        73.529,
+        4.1918
+      ],
+      "aliases": [
+        "Hulhule"
+      ],
+      "map": "world",
+      "label": "Hulhule airport"
+    },
+    "Agra": {
+      "lonLat": [
+        78.0081,
+        27.1767
+      ],
+      "aliases": [
+        "Agra"
+      ],
+      "map": "world",
+      "label": "Agra"
+    },
+    "Delhi": {
+      "lonLat": [
+        77.209,
+        28.6139
+      ],
+      "aliases": [
+        "Delhi",
+        "South Block"
+      ],
+      "map": "world",
+      "label": "New Delhi"
+    },
+    "Cochin": {
+      "lonLat": [
+        76.2673,
+        9.9312
+      ],
+      "aliases": [
+        "Cochin"
+      ],
+      "map": "world",
+      "label": "Cochin"
+    },
+    "Jaffna": {
+      "lonLat": [
+        80.0074,
+        9.6615
+      ],
+      "aliases": [
+        "Jaffna"
+      ],
+      "map": "world",
+      "label": "Jaffna"
+    },
+    "Colombo": {
+      "lonLat": [
+        79.8612,
+        6.9271
+      ],
+      "aliases": [
+        "Colombo"
+      ],
+      "map": "world",
+      "label": "Colombo"
+    },
+    "Kabul": {
+      "lonLat": [
+        69.2075,
+        34.5553
+      ],
+      "aliases": [
+        "Kabul"
+      ],
+      "map": "world",
+      "label": "Kabul"
+    },
+    "Beijing": {
+      "lonLat": [
+        116.4074,
+        39.9042
+      ],
+      "aliases": [
+        "Beijing"
+      ],
+      "map": "world",
+      "label": "Beijing"
+    },
+    "Amman": {
+      "lonLat": [
+        35.9106,
+        31.9539
+      ],
+      "aliases": [
+        "Amman"
+      ],
+      "map": "world",
+      "label": "Amman"
+    }
+  },
+  "city_labels": [
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        72.797,
+        18.93
+      ],
+      "size": 30
+    },
+    {
+      "text": "BACK BAY",
+      "lonLat": [
+        72.814,
+        18.938
+      ],
+      "size": 18
+    },
+    {
+      "text": "MUMBAI HARBOUR",
+      "lonLat": [
+        72.858,
+        18.925
+      ],
+      "size": 22
+    },
+    {
+      "text": "COLABA",
+      "lonLat": [
+        72.818,
+        18.902
+      ],
+      "size": 18
+    },
+    {
+      "text": "FORT",
+      "lonLat": [
+        72.838,
+        18.932
+      ],
+      "size": 16
+    },
+    {
+      "text": "NARIMAN POINT",
+      "lonLat": [
+        72.8215,
+        18.9215
+      ],
+      "size": 14
+    },
+    {
+      "text": "MARINE DRIVE",
+      "lonLat": [
+        72.8235,
+        18.946
+      ],
+      "size": 14
+    }
+  ],
+  "region_labels": [
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        63.5,
+        17.5
+      ],
+      "size": 40
+    },
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79.0,
+        22.5
+      ],
+      "size": 50
+    },
+    {
+      "text": "PAKISTAN",
+      "lonLat": [
+        68.6,
+        28.2
+      ],
+      "size": 38
+    },
+    {
+      "text": "AFGHANISTAN",
+      "lonLat": [
+        65.0,
+        33.8
+      ],
+      "size": 32
+    },
+    {
+      "text": "NEPAL",
+      "lonLat": [
+        84.0,
+        28.4
+      ],
+      "size": 22
+    }
+  ],
+  "world_labels": [
+    {
+      "text": "ATLANTIC OCEAN",
+      "lonLat": [
+        -40,
+        32
+      ],
+      "size": 34
+    },
+    {
+      "text": "PACIFIC OCEAN",
+      "lonLat": [
+        -150,
+        20
+      ],
+      "size": 34
+    },
+    {
+      "text": "INDIAN OCEAN",
+      "lonLat": [
+        78,
+        -10
+      ],
+      "size": 34
+    },
+    {
+      "text": "NORTH AMERICA",
+      "lonLat": [
+        -100,
+        50
+      ],
+      "size": 28
+    },
+    {
+      "text": "EUROPE",
+      "lonLat": [
+        15,
+        50
+      ],
+      "size": 26
+    },
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79,
+        22
+      ],
+      "size": 26
+    }
+  ]
+}

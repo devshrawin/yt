@@ -1,0 +1,51 @@
+{
+  "_note": "Instagram Reel teaser for RAW Files Ep 3.",
+  "version": "1.0",
+  "max_seconds": 90,
+  "cta": "Full documentary · @SisodiaFiles",
+  "beats": [
+    {
+      "headline": "THE LAST LETTER",
+      "text": "\"Had I been an American, I would have been out of this jail in three days.\"",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 0,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE STAGE",
+      "text": "He was a college mimic in Rajasthan, playing an officer who would not talk under interrogation.",
+      "show": {
+        "segment": "seg_01",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "PROJECT X",
+      "text": "By 1975 he was across the border, in the office that mattered.",
+      "show": {
+        "segment": "seg_02",
+        "paragraph": 1,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "SIXTEEN YEARS",
+      "text": "Caught in 1983. Sentenced to death. Sixteen years in Pakistani jails.",
+      "show": {
+        "segment": "seg_04",
+        "paragraph": 2,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE BLACK TIGER",
+      "text": "RAW Files, Episode Three. Now on The Sisodia Files.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}

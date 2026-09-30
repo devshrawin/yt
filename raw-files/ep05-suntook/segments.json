@@ -1,0 +1,459 @@
+{
+  "meta": {
+    "title": "THE ACCIDENTAL CHIEF",
+    "subtitle": "N.F. Suntook and the Years RAW Almost Ended"
+  },
+  "sources": [
+    "B. Raman, \"On the RAW Hunt,\" Observer Research Foundation (June 16, 2004)",
+    "B. Raman, \"The Kaoboys of R&AW: Down Memory Lane\" (Lancer, 2007)",
+    "DailyO, \"The 21 spymasters of R&AW\" (September 22, 2016)",
+    "DailyO, R.K. Yadav, \"Ex-RAW chief K. Sankaran Nair was a legendary spy\" (2015)",
+    "Yatish Yadav, \"RAW: A History of India's Covert Operations\" (Westland, 2020)",
+    "Shashank Mattoo, thread on the 1983 Mauritius mission (January 14, 2025)",
+    "David Brewster and Ranjit Rai, \"Operation Lal Dora\"",
+    "Rory Medcalf, \"When India (almost) invaded Mauritius,\" The Diplomat (2015)",
+    "Swarajya, \"How We Killed the Kaoboys\" (2015)",
+    "Wikipedia, \"Operation Lal Dora\", \"Secretary of the Research and Analysis Wing\""
+  ],
+  "segments": [
+    {
+      "id": "seg_00",
+      "index": 0,
+      "header": "COLD OPEN (0:00–1:30)",
+      "label": "COLD OPEN",
+      "title": "COLD OPEN",
+      "visual_cue_raw": "A newspaper front page; a headline card; Parliament House; an empty chair.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": true,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "March 1983. A newspaper in Calcutta runs a front-page story. India's spy chief, it says, has been working for the CIA. He has fled the country, through Kathmandu, with a suitcase of top-secret files.",
+          "pieces": [
+            "March 1983. A newspaper in Calcutta runs a front-page story. India's spy chief, it says, has been working for the CIA.",
+            "He has fled the country, through Kathmandu, with a suitcase of top-secret files."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "March 1983."
+        },
+        {
+          "text": "Other papers follow. In Parliament, the Home Minister has to stand up and answer. The man, he says, is abroad. On a government assignment.",
+          "pieces": [
+            "Other papers follow. In Parliament, the Home Minister has to stand up and answer. The man, he says, is abroad. On a government assignment."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Other papers follow."
+        },
+        {
+          "text": "The story is false. According to B. Raman, a former R&AW colleague, it was planted by a disgruntled subordinate. The man at its centre is in the middle of a secret mission on Indira Gandhi's own request. Days later he returns, and retires on schedule, farewell party and all.",
+          "pieces": [
+            "The story is false. According to B. Raman, a former R&AW colleague, it was planted by a disgruntled subordinate. The man at its centre is in the middle of a secret mission on Indira Gandhi's own request. Days later he returns, and retires on schedule, farewell party and all."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The story is false."
+        },
+        {
+          "text": "His name was N.F. Suntook. He ran R&AW for six years. And almost no one knows what he did. So how does the head of India's spy agency vanish from history? Everything here comes from B. Raman's own account, Indian journalism, and the few historians who have looked. It starts six years earlier, with a wrecked agency.",
+          "pieces": [
+            "His name was N.F. Suntook. He ran R&AW for six years. And almost no one knows what he did.",
+            "So how does the head of India's spy agency vanish from history? Everything here comes from B. Raman's own account, Indian journalism, and the few historians who have looked. It starts six years earlier, with a wrecked agency."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "His name was N."
+        }
+      ],
+      "narration_text": "March 1983. A newspaper in Calcutta runs a front-page story. India's spy chief, it says, has been working for the CIA. He has fled the country, through Kathmandu, with a suitcase of top-secret files.\n\nOther papers follow. In Parliament, the Home Minister has to stand up and answer. The man, he says, is abroad. On a government assignment.\n\nThe story is false. According to B. Raman, a former R&AW colleague, it was planted by a disgruntled subordinate. The man at its centre is in the middle of a secret mission on Indira Gandhi's own request. Days later he returns, and retires on schedule, farewell party and all.\n\nHis name was N.F. Suntook. He ran R&AW for six years. And almost no one knows what he did. So how does the head of India's spy agency vanish from history? Everything here comes from B. Raman's own account, Indian journalism, and the few historians who have looked. It starts six years earlier, with a wrecked agency.",
+      "locations": [
+        "Delhi",
+        "Calcutta",
+        "Kathmandu"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_01",
+      "index": 1,
+      "header": "SEGMENT 1 — THE ACCIDENTAL CHIEF (1:30–3:00)",
+      "label": "SEGMENT 1",
+      "title": "THE ACCIDENTAL CHIEF",
+      "visual_cue_raw": "Dossier portrait — N.F. Suntook (silhouette; no photograph in the public record). The Indian Frontier Administrative Service.",
+      "lower_third_text": "N.F. Suntook · Indian Frontier Administrative Service · RAW chief, 1977–1983",
+      "lower_third_after_paragraph": 2,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "Naushervan Framji Suntook was a Parsi. He was not a policeman. That alone made him unusual. Most of R&AW's leaders came from the Indian Police Service. Suntook came from the Indian Frontier Administrative Service, a cadre created to run the country's north-east. According to some accounts, he had also served in the Navy.",
+          "pieces": [
+            "Naushervan Framji Suntook was a Parsi. He was not a policeman. That alone made him unusual. Most of R&AW's leaders came from the Indian Police Service. Suntook came from the Indian Frontier Administrative Service, a cadre created to run the country's north-east. According to some accounts, he had also served in the Navy."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Naushervan Framji Suntook was a Parsi."
+        },
+        {
+          "text": "DailyO would later call him \"an accidental chief.\" The description is fair. He was not the founder. He was not the visionary. He was the man who was in the room when everything fell apart.",
+          "pieces": [
+            "DailyO would later call him \"an accidental chief.\" The description is fair. He was not the founder. He was not the visionary.",
+            "He was the man who was in the room when everything fell apart."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "DailyO would later call him \"an accidental chief.\""
+        },
+        {
+          "text": "There is no biography of Suntook. No interview. No known photograph. What survives is the story of six years.",
+          "pieces": [
+            "There is no biography of Suntook. No interview. No known photograph.",
+            "What survives is the story of six years."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "There is no biography of Suntook."
+        }
+      ],
+      "narration_text": "Naushervan Framji Suntook was a Parsi. He was not a policeman. That alone made him unusual. Most of R&AW's leaders came from the Indian Police Service. Suntook came from the Indian Frontier Administrative Service, a cadre created to run the country's north-east. According to some accounts, he had also served in the Navy.\n\nDailyO would later call him \"an accidental chief.\" The description is fair. He was not the founder. He was not the visionary. He was the man who was in the room when everything fell apart.\n\nThere is no biography of Suntook. No interview. No known photograph. What survives is the story of six years.",
+      "locations": [],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_02",
+      "index": 2,
+      "header": "SEGMENT 2 — THE HOUSE THAT DESAI INHERITED (3:00–4:45)",
+      "label": "SEGMENT 2",
+      "title": "THE HOUSE THAT DESAI INHERITED",
+      "visual_cue_raw": "Morarji Desai; Indira Gandhi; a checklist — 1977: the Emergency ends · the founder goes · the deputy goes · the chief's rank is cut.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "Sources — B. Raman, \"On the RAW Hunt\" (ORF, 2004); DailyO, 2016",
+      "citation_after_paragraph": 2,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "In March 1977, the Emergency ended. Indira Gandhi lost the election. Morarji Desai became Prime Minister. And Desai despised R&AW. Before the election, he had called it Indira Gandhi's \"praetorian guard.\"",
+          "pieces": [
+            "In March 1977, the Emergency ended. Indira Gandhi lost the election. Morarji Desai became Prime Minister. And Desai despised R&AW. Before the election, he had called it Indira Gandhi's \"praetorian guard.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In March 1977, the Emergency ended."
+        },
+        {
+          "text": "He did not abolish it. According to B. Raman, he cut it. The budget was trimmed. The staff was reduced. Some operations in neighbouring countries were stopped. And the leaders went.",
+          "pieces": [
+            "He did not abolish it. According to B. Raman, he cut it. The budget was trimmed. The staff was reduced. Some operations in neighbouring countries were stopped.",
+            "And the leaders went."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "He did not abolish it."
+        },
+        {
+          "text": "Kao was pushed out in April. His deputy, K. Sankaran Nair, took over. Nair lasted about three months. He resigned rather than preside over the agency's downgrade. In his place, the government appointed Suntook, at a lower rank than Kao had held. DailyO would later call him a \"pliable officer.\" It was not a compliment.",
+          "pieces": [
+            "Kao was pushed out in April. His deputy, K. Sankaran Nair, took over. Nair lasted about three months. He resigned rather than preside over the agency's downgrade. In his place, the government appointed Suntook, at a lower rank than Kao had held. DailyO would later call him a \"pliable officer.\"",
+            "It was not a compliment."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Kao was pushed out in April."
+        }
+      ],
+      "narration_text": "In March 1977, the Emergency ended. Indira Gandhi lost the election. Morarji Desai became Prime Minister. And Desai despised R&AW. Before the election, he had called it Indira Gandhi's \"praetorian guard.\"\n\nHe did not abolish it. According to B. Raman, he cut it. The budget was trimmed. The staff was reduced. Some operations in neighbouring countries were stopped. And the leaders went.\n\nKao was pushed out in April. His deputy, K. Sankaran Nair, took over. Nair lasted about three months. He resigned rather than preside over the agency's downgrade. In his place, the government appointed Suntook, at a lower rank than Kao had held. DailyO would later call him a \"pliable officer.\" It was not a compliment.",
+      "locations": [],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_03",
+      "index": 3,
+      "header": "SEGMENT 3 — THREE YEARS OF HOLDING ON (4:45–6:30)",
+      "label": "SEGMENT 3",
+      "title": "THREE YEARS OF HOLDING ON",
+      "visual_cue_raw": "Charan Singh; Indira Gandhi in 1980; the RAW emblem; a calendar, 1977–1980.",
+      "lower_third_text": "1977–1980 · R&AW survives the Janata years",
+      "lower_third_after_paragraph": 3,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "For the next three years, Suntook did the least glamorous job in intelligence. He kept the building standing.",
+          "pieces": [
+            "For the next three years, Suntook did the least glamorous job in intelligence. He kept the building standing."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "For the next three years, Suntook did the least glamorous job in intelligence."
+        },
+        {
+          "text": "Yatish Yadav's history of R&AW puts it in one line. Desai, Yadav writes, put Suntook in charge. And somehow, Suntook \"saved R&AW from being plundered by its own customer, the government.\" The customer was the Prime Minister.",
+          "pieces": [
+            "Yatish Yadav's history of R&AW puts it in one line. Desai, Yadav writes, put Suntook in charge. And somehow, Suntook \"saved R&AW from being plundered by its own customer, the government.\"",
+            "The customer was the Prime Minister."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Yatish Yadav's history of R&AW puts it in one line."
+        },
+        {
+          "text": "According to B. Raman, the agency's files were reviewed by the new government's ministers. Home Minister Charan Singh, after going through the record, is reported to have told Kao that the allegations against R&AW had been wrong. It was a small vindication. It did not restore the budget.",
+          "pieces": [
+            "According to B. Raman, the agency's files were reviewed by the new government's ministers. Home Minister Charan Singh, after going through the record, is reported to have told Kao that the allegations against R&AW had been wrong.",
+            "It was a small vindication. It did not restore the budget."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "According to B."
+        },
+        {
+          "text": "The Janata government fell in 1979. In January 1980, Indira Gandhi returned to power. Kao came back as her security adviser. Now, R&AW's friends were in office again.",
+          "pieces": [
+            "The Janata government fell in 1979. In January 1980, Indira Gandhi returned to power. Kao came back as her security adviser. Now, R&AW's friends were in office again."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The Janata government fell in 1979."
+        }
+      ],
+      "narration_text": "For the next three years, Suntook did the least glamorous job in intelligence. He kept the building standing.\n\nYatish Yadav's history of R&AW puts it in one line. Desai, Yadav writes, put Suntook in charge. And somehow, Suntook \"saved R&AW from being plundered by its own customer, the government.\" The customer was the Prime Minister.\n\nAccording to B. Raman, the agency's files were reviewed by the new government's ministers. Home Minister Charan Singh, after going through the record, is reported to have told Kao that the allegations against R&AW had been wrong. It was a small vindication. It did not restore the budget.\n\nThe Janata government fell in 1979. In January 1980, Indira Gandhi returned to power. Kao came back as her security adviser. Now, R&AW's friends were in office again.",
+      "locations": [],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_04",
+      "index": 4,
+      "header": "SEGMENT 4 — THE MISSION (6:30–8:15)",
+      "label": "SEGMENT 4",
+      "title": "THE MISSION",
+      "visual_cue_raw": "Mauritius; a farewell party card, postponed; Anerood Jugnauth; Indira Gandhi.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "Sources — B. Raman; Shashank Mattoo; Brewster and Rai, \"Operation Lal Dora",
+      "citation_after_paragraph": 3,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "By 1983, Suntook was due to retire. The date was March 31. A farewell party had been arranged. The evening before, Indira Gandhi called him in.",
+          "pieces": [
+            "By 1983, Suntook was due to retire. The date was March 31. A farewell party had been arranged.",
+            "The evening before, Indira Gandhi called him in."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "By 1983, Suntook was due to retire."
+        },
+        {
+          "text": "According to Raman, she asked for one last task, a sensitive mission to a friendly country. His service was extended by a few days. The party was postponed.",
+          "pieces": [
+            "According to Raman, she asked for one last task, a sensitive mission to a friendly country. His service was extended by a few days. The party was postponed."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "According to Raman, she asked for one last task, a sensitive mission to a friendly country."
+        },
+        {
+          "text": "The country was Mauritius. It was in political turmoil. Prime Minister Anerood Jugnauth, a friend of India, faced a leftist rival whom Delhi distrusted. In Shashank Mattoo's account, Suntook worked with India's High Commissioner in Port Louis to help build a broad coalition of Indian-descent leaders around Jugnauth. Delhi had also drawn up contingency plans for a military response, Operation Lal Dora.",
+          "pieces": [
+            "The country was Mauritius. It was in political turmoil. Prime Minister Anerood Jugnauth, a friend of India, faced a leftist rival whom Delhi distrusted. In Shashank Mattoo's account, Suntook worked with India's High Commissioner in Port Louis to help build a broad coalition of Indian-descent leaders around Jugnauth.",
+            "Delhi had also drawn up contingency plans for a military response, Operation Lal Dora."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The country was Mauritius."
+        },
+        {
+          "text": "It did not come to that. In August 1983 Jugnauth won a decisive election, and Mauritius stayed close to India.",
+          "pieces": [
+            "It did not come to that. In August 1983 Jugnauth won a decisive election, and Mauritius stayed close to India."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "It did not come to that."
+        }
+      ],
+      "narration_text": "By 1983, Suntook was due to retire. The date was March 31. A farewell party had been arranged. The evening before, Indira Gandhi called him in.\n\nAccording to Raman, she asked for one last task, a sensitive mission to a friendly country. His service was extended by a few days. The party was postponed.\n\nThe country was Mauritius. It was in political turmoil. Prime Minister Anerood Jugnauth, a friend of India, faced a leftist rival whom Delhi distrusted. In Shashank Mattoo's account, Suntook worked with India's High Commissioner in Port Louis to help build a broad coalition of Indian-descent leaders around Jugnauth. Delhi had also drawn up contingency plans for a military response, Operation Lal Dora.\n\nIt did not come to that. In August 1983 Jugnauth won a decisive election, and Mauritius stayed close to India.",
+      "locations": [
+        "Mauritius",
+        "Delhi"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_05",
+      "index": 5,
+      "header": "SEGMENT 5 — THE RUMOUR (8:15–9:15)",
+      "label": "SEGMENT 5",
+      "title": "THE RUMOUR",
+      "visual_cue_raw": "Newspaper front pages; a clarification in Parliament; the farewell party, held.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "Then the rumour hit. While Suntook was out of the country, a story spread that he had defected. The press did not retract it, even after the government raised the matter with the Press Council.",
+          "pieces": [
+            "Then the rumour hit. While Suntook was out of the country, a story spread that he had defected. The press did not retract it, even after the government raised the matter with the Press Council."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Then the rumour hit."
+        },
+        {
+          "text": "On April 7 he flew home. On April 8, according to Raman, he retired, and the farewell party went ahead. The nation's spy chief had been called a traitor on the day he was serving his country.",
+          "pieces": [
+            "On April 7 he flew home. On April 8, according to Raman, he retired, and the farewell party went ahead.",
+            "The nation's spy chief had been called a traitor on the day he was serving his country."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "On April 7 he flew home."
+        },
+        {
+          "text": "He retired to Gurgaon. His wife died in 1991. Raman writes that by 1993 he was ill, and alone. A newspaper ran a story about a forgotten spymaster. By 2004, Raman was calling him \"the late N.F. Suntook.\"",
+          "pieces": [
+            "He retired to Gurgaon. His wife died in 1991. Raman writes that by 1993 he was ill, and alone. A newspaper ran a story about a forgotten spymaster.",
+            "By 2004, Raman was calling him \"the late N.F. Suntook.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "He retired to Gurgaon."
+        }
+      ],
+      "narration_text": "Then the rumour hit. While Suntook was out of the country, a story spread that he had defected. The press did not retract it, even after the government raised the matter with the Press Council.\n\nOn April 7 he flew home. On April 8, according to Raman, he retired, and the farewell party went ahead. The nation's spy chief had been called a traitor on the day he was serving his country.\n\nHe retired to Gurgaon. His wife died in 1991. Raman writes that by 1993 he was ill, and alone. A newspaper ran a story about a forgotten spymaster. By 2004, Raman was calling him \"the late N.F. Suntook.\"",
+      "locations": [
+        "Delhi",
+        "Gurgaon"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_06",
+      "index": 6,
+      "header": "CLOSING (9:15–10:15)",
+      "label": "CLOSING",
+      "title": "CLOSING",
+      "visual_cue_raw": "The empty chair from the cold open; the silhouette; the R&AW emblem.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": true,
+      "paragraphs": [
+        {
+          "text": "Kao built R&AW. Nair walked out for principle. B. Raman explained it to the world. And Suntook did the only thing left to do. He stayed.",
+          "pieces": [
+            "Kao built R&AW. Nair walked out for principle. B. Raman explained it to the world. And Suntook did the only thing left to do.",
+            "He stayed."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Kao built R&AW."
+        },
+        {
+          "text": "No memoir. No interview. No photograph. Almost nothing except a story planted by an enemy, and a farewell party postponed until the work was done.",
+          "pieces": [
+            "No memoir. No interview. No photograph. Almost nothing except a story planted by an enemy, and a farewell party postponed until the work was done."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "No memoir."
+        },
+        {
+          "text": "Some agencies are remembered for what they achieved. Was this one saved by a man history forgot?",
+          "pieces": [
+            "Some agencies are remembered for what they achieved.",
+            "Was this one saved by a man history forgot?"
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Some agencies are remembered for what they achieved."
+        }
+      ],
+      "narration_text": "Kao built R&AW. Nair walked out for principle. B. Raman explained it to the world. And Suntook did the only thing left to do. He stayed.\n\nNo memoir. No interview. No photograph. Almost nothing except a story planted by an enemy, and a farewell party postponed until the work was done.\n\nSome agencies are remembered for what they achieved. Was this one saved by a man history forgot?",
+      "locations": [],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    }
+  ]
+}

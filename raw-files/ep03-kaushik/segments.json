@@ -1,0 +1,3521 @@
+{
+  "meta": {
+    "title": "THE BLACK TIGER",
+    "subtitle": "Ravindra Kaushik"
+  },
+  "sources": [
+    "The Telegraph (India), Dalip Singh, \"India's forgotten spy\" (December 29, 2002)",
+    "Hindustan Times, Presley Thomas, \"The real life behind a 2002 spy thriller\" (December 6, 2009)",
+    "ThePrint, Praveen Swami, \"The cost of being an Indian spy: what happened to Ravindra Kaushik, RAW's Black Tiger\" (April 11, 2023)",
+    "The Pioneer, \"Late spy's kin fight for reel life credit\" (August 13, 2012)",
+    "Times of India, Jaipur, reporting on the Ek Tha Tiger legal notice (July 24, 2012)",
+    "India TV, reporting on the Ek Tha Tiger case (July 27, 2012)",
+    "The Tribune (2026) retrospective on Ravindra Kaushik",
+    "Wikipedia, \"Ravindra Kaushik\""
+  ],
+  "segments": [
+    {
+      "id": "seg_00",
+      "index": 0,
+      "header": "COLD OPEN (0:00–1:30)",
+      "label": "COLD OPEN",
+      "title": "COLD OPEN",
+      "visual_cue_raw": "A folded letter in Hindi on a dark table; a Pakistani jail wall; an Indian family home in Rajasthan.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": true,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "A prisoner in a Pakistani jail is dying of tuberculosis. Three days before the end, he writes one last letter home. According to the Hindustan Times, one line reads: \"Had I been an American, I would have been out of this jail in three days.\"",
+          "pieces": [
+            "A prisoner in a Pakistani jail is dying of tuberculosis. Three days before the end, he writes one last letter home.",
+            "According to the Hindustan Times, one line reads: \"Had I been an American, I would have been out of this jail in three days.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "A prisoner in a Pakistani jail is dying of tuberculosis."
+        },
+        {
+          "text": "He is an Indian. He has spent more than sixteen years in Pakistani custody. He was arrested as a spy, sentenced to death, and, by his family's account, never gave up who he really was.",
+          "pieces": [
+            "He is an Indian. He has spent more than sixteen years in Pakistani custody. He was arrested as a spy, sentenced to death, and, by his family's account, never gave up who he really was."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "He is an Indian."
+        },
+        {
+          "text": "His name was Ravindra Kaushik. The Indian government has never officially said he worked for it. So who was this man, and what did he give India that was worth a life?",
+          "pieces": [
+            "His name was Ravindra Kaushik. The Indian government has never officially said he worked for it.",
+            "So who was this man, and what did he give India that was worth a life?"
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "His name was Ravindra Kaushik."
+        },
+        {
+          "text": "Everything here comes from Indian newspapers, and from the family that fought to be heard. The Telegraph reported his story in 2002. ThePrint revisited it in 2023. It begins on a college stage in Rajasthan.",
+          "pieces": [
+            "Everything here comes from Indian newspapers, and from the family that fought to be heard. The Telegraph reported his story in 2002. ThePrint revisited it in 2023.",
+            "It begins on a college stage in Rajasthan."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Everything here comes from Indian newspapers, and from the family that fought to be heard."
+        }
+      ],
+      "narration_text": "A prisoner in a Pakistani jail is dying of tuberculosis. Three days before the end, he writes one last letter home. According to the Hindustan Times, one line reads: \"Had I been an American, I would have been out of this jail in three days.\"\n\nHe is an Indian. He has spent more than sixteen years in Pakistani custody. He was arrested as a spy, sentenced to death, and, by his family's account, never gave up who he really was.\n\nHis name was Ravindra Kaushik. The Indian government has never officially said he worked for it. So who was this man, and what did he give India that was worth a life?\n\nEverything here comes from Indian newspapers, and from the family that fought to be heard. The Telegraph reported his story in 2002. ThePrint revisited it in 2023. It begins on a college stage in Rajasthan.",
+      "locations": [],
+      "visual_type": "map",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "map": "region",
+      "pins": [
+        "Sri Ganganagar",
+        "Mianwali"
+      ],
+      "zoom": 0.7,
+      "clock_start": null,
+      "clock_events": [],
+      "audio_file": "audio/seg_00.mp3",
+      "audio_hash": "4cceea50731d3ae2",
+      "duration_seconds": 51.972,
+      "paragraph_starts": [
+        0,
+        15410,
+        26694,
+        37448
+      ],
+      "words": [
+        {
+          "text": "A",
+          "startMs": 50,
+          "endMs": 148,
+          "p": 0
+        },
+        {
+          "text": "prisoner",
+          "startMs": 159,
+          "endMs": 604,
+          "p": 0
+        },
+        {
+          "text": "in",
+          "startMs": 615,
+          "endMs": 735,
+          "p": 0
+        },
+        {
+          "text": "a",
+          "startMs": 746,
+          "endMs": 800,
+          "p": 0
+        },
+        {
+          "text": "Pakistani",
+          "startMs": 811,
+          "endMs": 1354,
+          "p": 0
+        },
+        {
+          "text": "jail",
+          "startMs": 1365,
+          "endMs": 1724,
+          "p": 0
+        },
+        {
+          "text": "is",
+          "startMs": 1746,
+          "endMs": 1920,
+          "p": 0
+        },
+        {
+          "text": "dying",
+          "startMs": 1930,
+          "endMs": 2322,
+          "p": 0
+        },
+        {
+          "text": "of",
+          "startMs": 2333,
+          "endMs": 2452,
+          "p": 0
+        },
+        {
+          "text": "tuberculosis.",
+          "startMs": 2463,
+          "endMs": 3300,
+          "p": 0
+        },
+        {
+          "text": "Three",
+          "startMs": 3641,
+          "endMs": 3870,
+          "p": 0
+        },
+        {
+          "text": "days",
+          "startMs": 3880,
+          "endMs": 4163,
+          "p": 0
+        },
+        {
+          "text": "before",
+          "startMs": 4174,
+          "endMs": 4467,
+          "p": 0
+        },
+        {
+          "text": "the",
+          "startMs": 4478,
+          "endMs": 4533,
+          "p": 0
+        },
+        {
+          "text": "end,",
+          "startMs": 4543,
+          "endMs": 4902,
+          "p": 0
+        },
+        {
+          "text": "he",
+          "startMs": 4913,
+          "endMs": 5283,
+          "p": 0
+        },
+        {
+          "text": "writes",
+          "startMs": 5293,
+          "endMs": 5609,
+          "p": 0
+        },
+        {
+          "text": "one",
+          "startMs": 5620,
+          "endMs": 5913,
+          "p": 0
+        },
+        {
+          "text": "last",
+          "startMs": 5924,
+          "endMs": 6261,
+          "p": 0
+        },
+        {
+          "text": "letter",
+          "startMs": 6272,
+          "endMs": 6478,
+          "p": 0
+        },
+        {
+          "text": "home.",
+          "startMs": 6489,
+          "endMs": 6837,
+          "p": 0
+        },
+        {
+          "text": "According",
+          "startMs": 7922,
+          "endMs": 8270,
+          "p": 0
+        },
+        {
+          "text": "to",
+          "startMs": 8281,
+          "endMs": 8357,
+          "p": 0
+        },
+        {
+          "text": "the",
+          "startMs": 8368,
+          "endMs": 8422,
+          "p": 0
+        },
+        {
+          "text": "Hindustan",
+          "startMs": 8433,
+          "endMs": 8911,
+          "p": 0
+        },
+        {
+          "text": "Times,",
+          "startMs": 8922,
+          "endMs": 9324,
+          "p": 0
+        },
+        {
+          "text": "one",
+          "startMs": 9650,
+          "endMs": 9857,
+          "p": 0
+        },
+        {
+          "text": "line",
+          "startMs": 9868,
+          "endMs": 10096,
+          "p": 0
+        },
+        {
+          "text": "reads:",
+          "startMs": 10107,
+          "endMs": 10455,
+          "p": 0
+        },
+        {
+          "text": "\"Had",
+          "startMs": 10955,
+          "endMs": 11085,
+          "p": 0
+        },
+        {
+          "text": "I",
+          "startMs": 11096,
+          "endMs": 11183,
+          "p": 0
+        },
+        {
+          "text": "been",
+          "startMs": 11194,
+          "endMs": 11346,
+          "p": 0
+        },
+        {
+          "text": "an",
+          "startMs": 11357,
+          "endMs": 11422,
+          "p": 0
+        },
+        {
+          "text": "American,",
+          "startMs": 11433,
+          "endMs": 11922,
+          "p": 0
+        },
+        {
+          "text": "I",
+          "startMs": 12476,
+          "endMs": 12542,
+          "p": 0
+        },
+        {
+          "text": "would",
+          "startMs": 12553,
+          "endMs": 12650,
+          "p": 0
+        },
+        {
+          "text": "have",
+          "startMs": 12661,
+          "endMs": 12737,
+          "p": 0
+        },
+        {
+          "text": "been",
+          "startMs": 12748,
+          "endMs": 12933,
+          "p": 0
+        },
+        {
+          "text": "out",
+          "startMs": 12944,
+          "endMs": 13074,
+          "p": 0
+        },
+        {
+          "text": "of",
+          "startMs": 13085,
+          "endMs": 13150,
+          "p": 0
+        },
+        {
+          "text": "this",
+          "startMs": 13161,
+          "endMs": 13324,
+          "p": 0
+        },
+        {
+          "text": "jail",
+          "startMs": 13335,
+          "endMs": 13683,
+          "p": 0
+        },
+        {
+          "text": "in",
+          "startMs": 13694,
+          "endMs": 13835,
+          "p": 0
+        },
+        {
+          "text": "three",
+          "startMs": 13846,
+          "endMs": 14074,
+          "p": 0
+        },
+        {
+          "text": "days.\"",
+          "startMs": 14085,
+          "endMs": 14498,
+          "p": 0
+        },
+        {
+          "text": "He",
+          "startMs": 15486,
+          "endMs": 15584,
+          "p": 1
+        },
+        {
+          "text": "is",
+          "startMs": 15595,
+          "endMs": 15725,
+          "p": 1
+        },
+        {
+          "text": "an",
+          "startMs": 15736,
+          "endMs": 15834,
+          "p": 1
+        },
+        {
+          "text": "Indian.",
+          "startMs": 15845,
+          "endMs": 16356,
+          "p": 1
+        },
+        {
+          "text": "He",
+          "startMs": 16703,
+          "endMs": 16780,
+          "p": 1
+        },
+        {
+          "text": "has",
+          "startMs": 16790,
+          "endMs": 16899,
+          "p": 1
+        },
+        {
+          "text": "spent",
+          "startMs": 16910,
+          "endMs": 17225,
+          "p": 1
+        },
+        {
+          "text": "more",
+          "startMs": 17236,
+          "endMs": 17497,
+          "p": 1
+        },
+        {
+          "text": "than",
+          "startMs": 17508,
+          "endMs": 17638,
+          "p": 1
+        },
+        {
+          "text": "sixteen",
+          "startMs": 17649,
+          "endMs": 18073,
+          "p": 1
+        },
+        {
+          "text": "years",
+          "startMs": 18084,
+          "endMs": 18453,
+          "p": 1
+        },
+        {
+          "text": "in",
+          "startMs": 18464,
+          "endMs": 18627,
+          "p": 1
+        },
+        {
+          "text": "Pakistani",
+          "startMs": 18638,
+          "endMs": 19182,
+          "p": 1
+        },
+        {
+          "text": "custody.",
+          "startMs": 19193,
+          "endMs": 19704,
+          "p": 1
+        },
+        {
+          "text": "He",
+          "startMs": 20062,
+          "endMs": 20193,
+          "p": 1
+        },
+        {
+          "text": "was",
+          "startMs": 20203,
+          "endMs": 20312,
+          "p": 1
+        },
+        {
+          "text": "arrested",
+          "startMs": 20323,
+          "endMs": 20758,
+          "p": 1
+        },
+        {
+          "text": "as",
+          "startMs": 20769,
+          "endMs": 20867,
+          "p": 1
+        },
+        {
+          "text": "a",
+          "startMs": 20877,
+          "endMs": 20932,
+          "p": 1
+        },
+        {
+          "text": "spy,",
+          "startMs": 20943,
+          "endMs": 21410,
+          "p": 1
+        },
+        {
+          "text": "sentenced",
+          "startMs": 21421,
+          "endMs": 21834,
+          "p": 1
+        },
+        {
+          "text": "to",
+          "startMs": 21845,
+          "endMs": 21921,
+          "p": 1
+        },
+        {
+          "text": "death,",
+          "startMs": 21932,
+          "endMs": 22345,
+          "p": 1
+        },
+        {
+          "text": "and,",
+          "startMs": 22573,
+          "endMs": 22932,
+          "p": 1
+        },
+        {
+          "text": "by",
+          "startMs": 22943,
+          "endMs": 23095,
+          "p": 1
+        },
+        {
+          "text": "his",
+          "startMs": 23106,
+          "endMs": 23258,
+          "p": 1
+        },
+        {
+          "text": "family's",
+          "startMs": 23269,
+          "endMs": 23606,
+          "p": 1
+        },
+        {
+          "text": "account,",
+          "startMs": 23617,
+          "endMs": 24040,
+          "p": 1
+        },
+        {
+          "text": "never",
+          "startMs": 24236,
+          "endMs": 24519,
+          "p": 1
+        },
+        {
+          "text": "gave",
+          "startMs": 24530,
+          "endMs": 24736,
+          "p": 1
+        },
+        {
+          "text": "up",
+          "startMs": 24747,
+          "endMs": 24888,
+          "p": 1
+        },
+        {
+          "text": "who",
+          "startMs": 24899,
+          "endMs": 24997,
+          "p": 1
+        },
+        {
+          "text": "he",
+          "startMs": 25008,
+          "endMs": 25117,
+          "p": 1
+        },
+        {
+          "text": "really",
+          "startMs": 25127,
+          "endMs": 25388,
+          "p": 1
+        },
+        {
+          "text": "was.",
+          "startMs": 25399,
+          "endMs": 25780,
+          "p": 1
+        },
+        {
+          "text": "His",
+          "startMs": 26744,
+          "endMs": 27016,
+          "p": 2
+        },
+        {
+          "text": "name",
+          "startMs": 27027,
+          "endMs": 27288,
+          "p": 2
+        },
+        {
+          "text": "was",
+          "startMs": 27298,
+          "endMs": 27505,
+          "p": 2
+        },
+        {
+          "text": "Ravindra Kaushik.",
+          "startMs": 27516,
+          "endMs": 28581,
+          "p": 2
+        },
+        {
+          "text": "The",
+          "startMs": 28901,
+          "endMs": 28955,
+          "p": 2
+        },
+        {
+          "text": "Indian",
+          "startMs": 28966,
+          "endMs": 29357,
+          "p": 2
+        },
+        {
+          "text": "government",
+          "startMs": 29368,
+          "endMs": 29792,
+          "p": 2
+        },
+        {
+          "text": "has",
+          "startMs": 29803,
+          "endMs": 30020,
+          "p": 2
+        },
+        {
+          "text": "never",
+          "startMs": 30031,
+          "endMs": 30390,
+          "p": 2
+        },
+        {
+          "text": "officially",
+          "startMs": 30401,
+          "endMs": 30814,
+          "p": 2
+        },
+        {
+          "text": "said",
+          "startMs": 30824,
+          "endMs": 31053,
+          "p": 2
+        },
+        {
+          "text": "he",
+          "startMs": 31064,
+          "endMs": 31183,
+          "p": 2
+        },
+        {
+          "text": "worked",
+          "startMs": 31194,
+          "endMs": 31466,
+          "p": 2
+        },
+        {
+          "text": "for",
+          "startMs": 31477,
+          "endMs": 31683,
+          "p": 2
+        },
+        {
+          "text": "it.",
+          "startMs": 31694,
+          "endMs": 31922,
+          "p": 2
+        },
+        {
+          "text": "So",
+          "startMs": 32979,
+          "endMs": 33131,
+          "p": 2
+        },
+        {
+          "text": "who",
+          "startMs": 33142,
+          "endMs": 33294,
+          "p": 2
+        },
+        {
+          "text": "was",
+          "startMs": 33305,
+          "endMs": 33468,
+          "p": 2
+        },
+        {
+          "text": "this",
+          "startMs": 33479,
+          "endMs": 33664,
+          "p": 2
+        },
+        {
+          "text": "man,",
+          "startMs": 33674,
+          "endMs": 34098,
+          "p": 2
+        },
+        {
+          "text": "and",
+          "startMs": 34348,
+          "endMs": 34566,
+          "p": 2
+        },
+        {
+          "text": "what",
+          "startMs": 34577,
+          "endMs": 34696,
+          "p": 2
+        },
+        {
+          "text": "did",
+          "startMs": 34707,
+          "endMs": 34805,
+          "p": 2
+        },
+        {
+          "text": "he",
+          "startMs": 34816,
+          "endMs": 34924,
+          "p": 2
+        },
+        {
+          "text": "give",
+          "startMs": 34935,
+          "endMs": 35109,
+          "p": 2
+        },
+        {
+          "text": "India",
+          "startMs": 35120,
+          "endMs": 35500,
+          "p": 2
+        },
+        {
+          "text": "that",
+          "startMs": 35511,
+          "endMs": 35653,
+          "p": 2
+        },
+        {
+          "text": "was",
+          "startMs": 35664,
+          "endMs": 35794,
+          "p": 2
+        },
+        {
+          "text": "worth",
+          "startMs": 35805,
+          "endMs": 36044,
+          "p": 2
+        },
+        {
+          "text": "a",
+          "startMs": 36055,
+          "endMs": 36087,
+          "p": 2
+        },
+        {
+          "text": "life?",
+          "startMs": 36098,
+          "endMs": 36544,
+          "p": 2
+        },
+        {
+          "text": "Everything",
+          "startMs": 37524,
+          "endMs": 37904,
+          "p": 3
+        },
+        {
+          "text": "here",
+          "startMs": 37915,
+          "endMs": 38187,
+          "p": 3
+        },
+        {
+          "text": "comes",
+          "startMs": 38198,
+          "endMs": 38470,
+          "p": 3
+        },
+        {
+          "text": "from",
+          "startMs": 38481,
+          "endMs": 38665,
+          "p": 3
+        },
+        {
+          "text": "Indian",
+          "startMs": 38687,
+          "endMs": 39013,
+          "p": 3
+        },
+        {
+          "text": "newspapers,",
+          "startMs": 39024,
+          "endMs": 39741,
+          "p": 3
+        },
+        {
+          "text": "and",
+          "startMs": 39991,
+          "endMs": 40198,
+          "p": 3
+        },
+        {
+          "text": "from",
+          "startMs": 40209,
+          "endMs": 40372,
+          "p": 3
+        },
+        {
+          "text": "the",
+          "startMs": 40383,
+          "endMs": 40448,
+          "p": 3
+        },
+        {
+          "text": "family",
+          "startMs": 40459,
+          "endMs": 40883,
+          "p": 3
+        },
+        {
+          "text": "that",
+          "startMs": 40894,
+          "endMs": 41057,
+          "p": 3
+        },
+        {
+          "text": "fought",
+          "startMs": 41068,
+          "endMs": 41350,
+          "p": 3
+        },
+        {
+          "text": "to",
+          "startMs": 41361,
+          "endMs": 41437,
+          "p": 3
+        },
+        {
+          "text": "be",
+          "startMs": 41448,
+          "endMs": 41546,
+          "p": 3
+        },
+        {
+          "text": "heard.",
+          "startMs": 41557,
+          "endMs": 41937,
+          "p": 3
+        },
+        {
+          "text": "The",
+          "startMs": 42274,
+          "endMs": 42328,
+          "p": 3
+        },
+        {
+          "text": "Telegraph",
+          "startMs": 42339,
+          "endMs": 42926,
+          "p": 3
+        },
+        {
+          "text": "reported",
+          "startMs": 42937,
+          "endMs": 43361,
+          "p": 3
+        },
+        {
+          "text": "his",
+          "startMs": 43372,
+          "endMs": 43502,
+          "p": 3
+        },
+        {
+          "text": "story",
+          "startMs": 43513,
+          "endMs": 43948,
+          "p": 3
+        },
+        {
+          "text": "in",
+          "startMs": 43959,
+          "endMs": 44089,
+          "p": 3
+        },
+        {
+          "text": "2002.",
+          "startMs": 44100,
+          "endMs": 44883,
+          "p": 3
+        },
+        {
+          "text": "ThePrint",
+          "startMs": 45220,
+          "endMs": 45622,
+          "p": 3
+        },
+        {
+          "text": "revisited",
+          "startMs": 45633,
+          "endMs": 46155,
+          "p": 3
+        },
+        {
+          "text": "it",
+          "startMs": 46165,
+          "endMs": 46350,
+          "p": 3
+        },
+        {
+          "text": "in",
+          "startMs": 46361,
+          "endMs": 46513,
+          "p": 3
+        },
+        {
+          "text": "2023.",
+          "startMs": 46524,
+          "endMs": 47470,
+          "p": 3
+        },
+        {
+          "text": "It",
+          "startMs": 48509,
+          "endMs": 48628,
+          "p": 3
+        },
+        {
+          "text": "begins",
+          "startMs": 48639,
+          "endMs": 49063,
+          "p": 3
+        },
+        {
+          "text": "on",
+          "startMs": 49074,
+          "endMs": 49215,
+          "p": 3
+        },
+        {
+          "text": "a",
+          "startMs": 49226,
+          "endMs": 49280,
+          "p": 3
+        },
+        {
+          "text": "college",
+          "startMs": 49291,
+          "endMs": 49693,
+          "p": 3
+        },
+        {
+          "text": "stage",
+          "startMs": 49704,
+          "endMs": 50107,
+          "p": 3
+        },
+        {
+          "text": "in",
+          "startMs": 50128,
+          "endMs": 50280,
+          "p": 3
+        },
+        {
+          "text": "Rajasthan.",
+          "startMs": 50280,
+          "endMs": 50889,
+          "p": 3
+        }
+      ],
+      "caption_lines": [
+        {
+          "text": "A prisoner in a Pakistani jail is dying of",
+          "startMs": 50,
+          "endMs": 2452
+        },
+        {
+          "text": "tuberculosis.",
+          "startMs": 2463,
+          "endMs": 3300
+        },
+        {
+          "text": "Three days before the end, he writes one",
+          "startMs": 3641,
+          "endMs": 5913
+        },
+        {
+          "text": "last letter home.",
+          "startMs": 5924,
+          "endMs": 6837
+        },
+        {
+          "text": "According to the Hindustan Times, one line",
+          "startMs": 7922,
+          "endMs": 10096
+        },
+        {
+          "text": "reads:",
+          "startMs": 10107,
+          "endMs": 10455
+        },
+        {
+          "text": "\"Had I been an American,",
+          "startMs": 10955,
+          "endMs": 11922
+        },
+        {
+          "text": "I would have been out of this jail in",
+          "startMs": 12476,
+          "endMs": 13835
+        },
+        {
+          "text": "three days.\"",
+          "startMs": 13846,
+          "endMs": 14498
+        },
+        {
+          "text": "He is an Indian.",
+          "startMs": 15486,
+          "endMs": 16356
+        },
+        {
+          "text": "He has spent more than sixteen years in",
+          "startMs": 16703,
+          "endMs": 18627
+        },
+        {
+          "text": "Pakistani custody.",
+          "startMs": 18638,
+          "endMs": 19704
+        },
+        {
+          "text": "He was arrested as a spy, sentenced to",
+          "startMs": 20062,
+          "endMs": 21921
+        },
+        {
+          "text": "death, and, by his family's account, never",
+          "startMs": 21932,
+          "endMs": 24519
+        },
+        {
+          "text": "gave up who he really was.",
+          "startMs": 24530,
+          "endMs": 25780
+        },
+        {
+          "text": "His name was Ravindra Kaushik.",
+          "startMs": 26744,
+          "endMs": 28581
+        },
+        {
+          "text": "The Indian government has never officially",
+          "startMs": 28901,
+          "endMs": 30814
+        },
+        {
+          "text": "said he worked for it.",
+          "startMs": 30824,
+          "endMs": 31922
+        },
+        {
+          "text": "So who was this man, and what did he give",
+          "startMs": 32979,
+          "endMs": 35109
+        },
+        {
+          "text": "India that was worth a life?",
+          "startMs": 35120,
+          "endMs": 36544
+        },
+        {
+          "text": "Everything here comes from Indian",
+          "startMs": 37524,
+          "endMs": 39013
+        },
+        {
+          "text": "newspapers, and from the family that",
+          "startMs": 39024,
+          "endMs": 41057
+        },
+        {
+          "text": "fought to be heard.",
+          "startMs": 41068,
+          "endMs": 41937
+        },
+        {
+          "text": "The Telegraph reported his story in 2002.",
+          "startMs": 42274,
+          "endMs": 44883
+        },
+        {
+          "text": "ThePrint revisited it in 2023.",
+          "startMs": 45220,
+          "endMs": 47470
+        },
+        {
+          "text": "It begins on a college stage in Rajasthan.",
+          "startMs": 48509,
+          "endMs": 50889
+        }
+      ]
+    },
+    {
+      "id": "seg_01",
+      "index": 1,
+      "header": "SEGMENT 1 — THE MIMIC OF SRI GANGANAGAR (1:30–3:00)",
+      "label": "SEGMENT 1",
+      "title": "THE MIMIC OF SRI GANGANAGAR",
+      "visual_cue_raw": "Dossier portrait — Ravindra Kaushik (silhouette; the only photograph is non-free). Sri Ganganagar station; a college stage.",
+      "lower_third_text": "Ravindra Kaushik · born Sri Ganganagar, Rajasthan, 11 April 1952",
+      "lower_third_after_paragraph": 2,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "Ravindra Kaushik was born on April 11, 1952, in Sri Ganganagar, a border town in Rajasthan. His father had served in the Indian Air Force. He studied commerce at a local college, and became known for two things: mimicry, and mono-acting.",
+          "pieces": [
+            "Ravindra Kaushik was born on April 11, 1952, in Sri Ganganagar, a border town in Rajasthan. His father had served in the Indian Air Force. He studied commerce at a local college, and became known for two things: mimicry, and mono-acting."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Ravindra Kaushik was born on April 11, 1952, in Sri Ganganagar, a border town in Rajasthan."
+        },
+        {
+          "text": "He grew up between the wars of 1965 and 1971, in a town close to the border. His brother, R.N. Kaushik, later told Hindustan Times what he thought caught the eye of India's intelligence men. It was, he said, \"probably his mono-act in college, in which he played an Indian army officer who refused to divulge information to China.\"",
+          "pieces": [
+            "He grew up between the wars of 1965 and 1971, in a town close to the border. His brother, R.N. Kaushik, later told Hindustan Times what he thought caught the eye of India's intelligence men. It was, he said, \"probably his mono-act in college, in which he played an Indian army officer who refused to divulge information to China.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "He grew up between the wars of 1965 and 1971, in a town close to the border."
+        },
+        {
+          "text": "He was playing a man who would not talk under interrogation. Years later, he would have to be that man.",
+          "pieces": [
+            "He was playing a man who would not talk under interrogation.",
+            "Years later, he would have to be that man."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "He was playing a man who would not talk under interrogation."
+        }
+      ],
+      "narration_text": "Ravindra Kaushik was born on April 11, 1952, in Sri Ganganagar, a border town in Rajasthan. His father had served in the Indian Air Force. He studied commerce at a local college, and became known for two things: mimicry, and mono-acting.\n\nHe grew up between the wars of 1965 and 1971, in a town close to the border. His brother, R.N. Kaushik, later told Hindustan Times what he thought caught the eye of India's intelligence men. It was, he said, \"probably his mono-act in college, in which he played an Indian army officer who refused to divulge information to China.\"\n\nHe was playing a man who would not talk under interrogation. Years later, he would have to be that man.",
+      "locations": [
+        "Sri Ganganagar"
+      ],
+      "visual_type": "map",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "map": "region",
+      "pins": [
+        "Sri Ganganagar"
+      ],
+      "zoom": 0.6,
+      "clock_start": null,
+      "clock_events": [],
+      "audio_file": "audio/seg_01.mp3",
+      "audio_hash": "0be6970a7d77018c",
+      "duration_seconds": 43.98,
+      "paragraph_starts": [
+        0,
+        16540,
+        36824
+      ],
+      "words": [
+        {
+          "text": "Ravindra Kaushik",
+          "startMs": 48,
+          "endMs": 951,
+          "p": 0
+        },
+        {
+          "text": "was",
+          "startMs": 961,
+          "endMs": 1124,
+          "p": 0
+        },
+        {
+          "text": "born",
+          "startMs": 1135,
+          "endMs": 1429,
+          "p": 0
+        },
+        {
+          "text": "on",
+          "startMs": 1440,
+          "endMs": 1657,
+          "p": 0
+        },
+        {
+          "text": "April",
+          "startMs": 1668,
+          "endMs": 1994,
+          "p": 0
+        },
+        {
+          "text": "11,",
+          "startMs": 2005,
+          "endMs": 2440,
+          "p": 0
+        },
+        {
+          "text": "1952,",
+          "startMs": 2690,
+          "endMs": 3722,
+          "p": 0
+        },
+        {
+          "text": "in",
+          "startMs": 3983,
+          "endMs": 4114,
+          "p": 0
+        },
+        {
+          "text": "Sri Ganganagar,",
+          "startMs": 4124,
+          "endMs": 4994,
+          "p": 0
+        },
+        {
+          "text": "a",
+          "startMs": 5244,
+          "endMs": 5331,
+          "p": 0
+        },
+        {
+          "text": "border",
+          "startMs": 5342,
+          "endMs": 5657,
+          "p": 0
+        },
+        {
+          "text": "town",
+          "startMs": 5668,
+          "endMs": 5983,
+          "p": 0
+        },
+        {
+          "text": "in",
+          "startMs": 5994,
+          "endMs": 6135,
+          "p": 0
+        },
+        {
+          "text": "Rajasthan.",
+          "startMs": 6146,
+          "endMs": 6864,
+          "p": 0
+        },
+        {
+          "text": "His",
+          "startMs": 7250,
+          "endMs": 7424,
+          "p": 0
+        },
+        {
+          "text": "father",
+          "startMs": 7435,
+          "endMs": 7793,
+          "p": 0
+        },
+        {
+          "text": "had",
+          "startMs": 7804,
+          "endMs": 7946,
+          "p": 0
+        },
+        {
+          "text": "served",
+          "startMs": 7957,
+          "endMs": 8402,
+          "p": 0
+        },
+        {
+          "text": "in",
+          "startMs": 8424,
+          "endMs": 8565,
+          "p": 0
+        },
+        {
+          "text": "the",
+          "startMs": 8576,
+          "endMs": 8630,
+          "p": 0
+        },
+        {
+          "text": "Indian",
+          "startMs": 8641,
+          "endMs": 9000,
+          "p": 0
+        },
+        {
+          "text": "Air",
+          "startMs": 9011,
+          "endMs": 9196,
+          "p": 0
+        },
+        {
+          "text": "Force.",
+          "startMs": 9207,
+          "endMs": 9630,
+          "p": 0
+        },
+        {
+          "text": "He",
+          "startMs": 9978,
+          "endMs": 10087,
+          "p": 0
+        },
+        {
+          "text": "studied",
+          "startMs": 10098,
+          "endMs": 10457,
+          "p": 0
+        },
+        {
+          "text": "commerce",
+          "startMs": 10467,
+          "endMs": 10913,
+          "p": 0
+        },
+        {
+          "text": "at",
+          "startMs": 10924,
+          "endMs": 11022,
+          "p": 0
+        },
+        {
+          "text": "a",
+          "startMs": 11033,
+          "endMs": 11076,
+          "p": 0
+        },
+        {
+          "text": "local",
+          "startMs": 11087,
+          "endMs": 11370,
+          "p": 0
+        },
+        {
+          "text": "college,",
+          "startMs": 11380,
+          "endMs": 11880,
+          "p": 0
+        },
+        {
+          "text": "and",
+          "startMs": 12174,
+          "endMs": 12326,
+          "p": 0
+        },
+        {
+          "text": "became",
+          "startMs": 12337,
+          "endMs": 12630,
+          "p": 0
+        },
+        {
+          "text": "known",
+          "startMs": 12641,
+          "endMs": 12924,
+          "p": 0
+        },
+        {
+          "text": "for",
+          "startMs": 12935,
+          "endMs": 13065,
+          "p": 0
+        },
+        {
+          "text": "two",
+          "startMs": 13076,
+          "endMs": 13250,
+          "p": 0
+        },
+        {
+          "text": "things:",
+          "startMs": 13261,
+          "endMs": 13717,
+          "p": 0
+        },
+        {
+          "text": "mimicry,",
+          "startMs": 14196,
+          "endMs": 14761,
+          "p": 0
+        },
+        {
+          "text": "and",
+          "startMs": 14772,
+          "endMs": 14978,
+          "p": 0
+        },
+        {
+          "text": "mono-acting.",
+          "startMs": 14989,
+          "endMs": 15630,
+          "p": 0
+        },
+        {
+          "text": "He",
+          "startMs": 16627,
+          "endMs": 16779,
+          "p": 1
+        },
+        {
+          "text": "grew",
+          "startMs": 16790,
+          "endMs": 17029,
+          "p": 1
+        },
+        {
+          "text": "up",
+          "startMs": 17040,
+          "endMs": 17225,
+          "p": 1
+        },
+        {
+          "text": "between",
+          "startMs": 17236,
+          "endMs": 17540,
+          "p": 1
+        },
+        {
+          "text": "the",
+          "startMs": 17551,
+          "endMs": 17627,
+          "p": 1
+        },
+        {
+          "text": "wars",
+          "startMs": 17638,
+          "endMs": 17975,
+          "p": 1
+        },
+        {
+          "text": "of",
+          "startMs": 17986,
+          "endMs": 18073,
+          "p": 1
+        },
+        {
+          "text": "1965",
+          "startMs": 18083,
+          "endMs": 19051,
+          "p": 1
+        },
+        {
+          "text": "and",
+          "startMs": 19062,
+          "endMs": 19160,
+          "p": 1
+        },
+        {
+          "text": "1971,",
+          "startMs": 19170,
+          "endMs": 20116,
+          "p": 1
+        },
+        {
+          "text": "in",
+          "startMs": 20573,
+          "endMs": 20703,
+          "p": 1
+        },
+        {
+          "text": "a",
+          "startMs": 20714,
+          "endMs": 20768,
+          "p": 1
+        },
+        {
+          "text": "town",
+          "startMs": 20779,
+          "endMs": 21094,
+          "p": 1
+        },
+        {
+          "text": "close",
+          "startMs": 21105,
+          "endMs": 21442,
+          "p": 1
+        },
+        {
+          "text": "to",
+          "startMs": 21453,
+          "endMs": 21540,
+          "p": 1
+        },
+        {
+          "text": "the",
+          "startMs": 21551,
+          "endMs": 21627,
+          "p": 1
+        },
+        {
+          "text": "border.",
+          "startMs": 21638,
+          "endMs": 22051,
+          "p": 1
+        },
+        {
+          "text": "His",
+          "startMs": 22399,
+          "endMs": 22551,
+          "p": 1
+        },
+        {
+          "text": "brother,",
+          "startMs": 22562,
+          "endMs": 22997,
+          "p": 1
+        },
+        {
+          "text": "R.N.",
+          "startMs": 23366,
+          "endMs": 23649,
+          "p": 1
+        },
+        {
+          "text": "Kaushik,",
+          "startMs": 23649,
+          "endMs": 24083,
+          "p": 1
+        },
+        {
+          "text": "later",
+          "startMs": 24464,
+          "endMs": 24757,
+          "p": 1
+        },
+        {
+          "text": "told",
+          "startMs": 24768,
+          "endMs": 24996,
+          "p": 1
+        },
+        {
+          "text": "Hindustan",
+          "startMs": 25007,
+          "endMs": 25442,
+          "p": 1
+        },
+        {
+          "text": "Times",
+          "startMs": 25453,
+          "endMs": 25823,
+          "p": 1
+        },
+        {
+          "text": "what",
+          "startMs": 25833,
+          "endMs": 25931,
+          "p": 1
+        },
+        {
+          "text": "he",
+          "startMs": 25942,
+          "endMs": 26051,
+          "p": 1
+        },
+        {
+          "text": "thought",
+          "startMs": 26062,
+          "endMs": 26355,
+          "p": 1
+        },
+        {
+          "text": "caught",
+          "startMs": 26366,
+          "endMs": 26583,
+          "p": 1
+        },
+        {
+          "text": "the",
+          "startMs": 26594,
+          "endMs": 26670,
+          "p": 1
+        },
+        {
+          "text": "eye",
+          "startMs": 26681,
+          "endMs": 26996,
+          "p": 1
+        },
+        {
+          "text": "of",
+          "startMs": 27007,
+          "endMs": 27105,
+          "p": 1
+        },
+        {
+          "text": "India's",
+          "startMs": 27116,
+          "endMs": 27464,
+          "p": 1
+        },
+        {
+          "text": "intelligence",
+          "startMs": 27475,
+          "endMs": 27997,
+          "p": 1
+        },
+        {
+          "text": "men.",
+          "startMs": 28007,
+          "endMs": 28279,
+          "p": 1
+        },
+        {
+          "text": "It",
+          "startMs": 28627,
+          "endMs": 28725,
+          "p": 1
+        },
+        {
+          "text": "was,",
+          "startMs": 28736,
+          "endMs": 29018,
+          "p": 1
+        },
+        {
+          "text": "he",
+          "startMs": 29029,
+          "endMs": 29127,
+          "p": 1
+        },
+        {
+          "text": "said,",
+          "startMs": 29138,
+          "endMs": 29442,
+          "p": 1
+        },
+        {
+          "text": "\"probably",
+          "startMs": 29953,
+          "endMs": 30323,
+          "p": 1
+        },
+        {
+          "text": "his",
+          "startMs": 30333,
+          "endMs": 30464,
+          "p": 1
+        },
+        {
+          "text": "mono-act",
+          "startMs": 30475,
+          "endMs": 30975,
+          "p": 1
+        },
+        {
+          "text": "in",
+          "startMs": 30986,
+          "endMs": 31062,
+          "p": 1
+        },
+        {
+          "text": "college,",
+          "startMs": 31073,
+          "endMs": 31507,
+          "p": 1
+        },
+        {
+          "text": "in",
+          "startMs": 31920,
+          "endMs": 31996,
+          "p": 1
+        },
+        {
+          "text": "which",
+          "startMs": 32007,
+          "endMs": 32160,
+          "p": 1
+        },
+        {
+          "text": "he",
+          "startMs": 32170,
+          "endMs": 32246,
+          "p": 1
+        },
+        {
+          "text": "played",
+          "startMs": 32257,
+          "endMs": 32540,
+          "p": 1
+        },
+        {
+          "text": "an",
+          "startMs": 32551,
+          "endMs": 32649,
+          "p": 1
+        },
+        {
+          "text": "Indian",
+          "startMs": 32660,
+          "endMs": 32997,
+          "p": 1
+        },
+        {
+          "text": "army",
+          "startMs": 33007,
+          "endMs": 33290,
+          "p": 1
+        },
+        {
+          "text": "officer",
+          "startMs": 33301,
+          "endMs": 33747,
+          "p": 1
+        },
+        {
+          "text": "who",
+          "startMs": 33757,
+          "endMs": 33877,
+          "p": 1
+        },
+        {
+          "text": "refused",
+          "startMs": 33888,
+          "endMs": 34366,
+          "p": 1
+        },
+        {
+          "text": "to",
+          "startMs": 34377,
+          "endMs": 34442,
+          "p": 1
+        },
+        {
+          "text": "divulge",
+          "startMs": 34453,
+          "endMs": 34833,
+          "p": 1
+        },
+        {
+          "text": "information",
+          "startMs": 34844,
+          "endMs": 35388,
+          "p": 1
+        },
+        {
+          "text": "to",
+          "startMs": 35399,
+          "endMs": 35475,
+          "p": 1
+        },
+        {
+          "text": "China.\"",
+          "startMs": 35486,
+          "endMs": 35910,
+          "p": 1
+        },
+        {
+          "text": "He",
+          "startMs": 36965,
+          "endMs": 37096,
+          "p": 2
+        },
+        {
+          "text": "was",
+          "startMs": 37107,
+          "endMs": 37270,
+          "p": 2
+        },
+        {
+          "text": "playing",
+          "startMs": 37281,
+          "endMs": 37585,
+          "p": 2
+        },
+        {
+          "text": "a",
+          "startMs": 37596,
+          "endMs": 37650,
+          "p": 2
+        },
+        {
+          "text": "man",
+          "startMs": 37661,
+          "endMs": 38009,
+          "p": 2
+        },
+        {
+          "text": "who",
+          "startMs": 38020,
+          "endMs": 38183,
+          "p": 2
+        },
+        {
+          "text": "would",
+          "startMs": 38194,
+          "endMs": 38324,
+          "p": 2
+        },
+        {
+          "text": "not",
+          "startMs": 38335,
+          "endMs": 38574,
+          "p": 2
+        },
+        {
+          "text": "talk",
+          "startMs": 38585,
+          "endMs": 38889,
+          "p": 2
+        },
+        {
+          "text": "under",
+          "startMs": 38911,
+          "endMs": 39139,
+          "p": 2
+        },
+        {
+          "text": "interrogation.",
+          "startMs": 39150,
+          "endMs": 39889,
+          "p": 2
+        },
+        {
+          "text": "Years",
+          "startMs": 40967,
+          "endMs": 41206,
+          "p": 2
+        },
+        {
+          "text": "later,",
+          "startMs": 41217,
+          "endMs": 41598,
+          "p": 2
+        },
+        {
+          "text": "he",
+          "startMs": 41619,
+          "endMs": 41782,
+          "p": 2
+        },
+        {
+          "text": "would",
+          "startMs": 41793,
+          "endMs": 41902,
+          "p": 2
+        },
+        {
+          "text": "have",
+          "startMs": 41913,
+          "endMs": 42076,
+          "p": 2
+        },
+        {
+          "text": "to",
+          "startMs": 42087,
+          "endMs": 42185,
+          "p": 2
+        },
+        {
+          "text": "be",
+          "startMs": 42195,
+          "endMs": 42337,
+          "p": 2
+        },
+        {
+          "text": "that",
+          "startMs": 42348,
+          "endMs": 42543,
+          "p": 2
+        },
+        {
+          "text": "man.",
+          "startMs": 42554,
+          "endMs": 42891,
+          "p": 2
+        }
+      ],
+      "caption_lines": [
+        {
+          "text": "Ravindra Kaushik was born on April 11,",
+          "startMs": 48,
+          "endMs": 2440
+        },
+        {
+          "text": "1952, in Sri Ganganagar, a border town in",
+          "startMs": 2690,
+          "endMs": 6135
+        },
+        {
+          "text": "Rajasthan.",
+          "startMs": 6146,
+          "endMs": 6864
+        },
+        {
+          "text": "His father had served in the Indian Air",
+          "startMs": 7250,
+          "endMs": 9196
+        },
+        {
+          "text": "Force.",
+          "startMs": 9207,
+          "endMs": 9630
+        },
+        {
+          "text": "He studied commerce at a local college,",
+          "startMs": 9978,
+          "endMs": 11880
+        },
+        {
+          "text": "and became known for two things:",
+          "startMs": 12174,
+          "endMs": 13717
+        },
+        {
+          "text": "mimicry, and mono-acting.",
+          "startMs": 14196,
+          "endMs": 15630
+        },
+        {
+          "text": "He grew up between the wars of 1965 and",
+          "startMs": 16627,
+          "endMs": 19160
+        },
+        {
+          "text": "1971,",
+          "startMs": 19170,
+          "endMs": 20116
+        },
+        {
+          "text": "in a town close to the border.",
+          "startMs": 20573,
+          "endMs": 22051
+        },
+        {
+          "text": "His brother, R.N.",
+          "startMs": 22399,
+          "endMs": 23649
+        },
+        {
+          "text": "Kaushik, later told Hindustan Times what",
+          "startMs": 23649,
+          "endMs": 25931
+        },
+        {
+          "text": "he thought caught the eye of India's",
+          "startMs": 25942,
+          "endMs": 27464
+        },
+        {
+          "text": "intelligence men.",
+          "startMs": 27475,
+          "endMs": 28279
+        },
+        {
+          "text": "It was, he said,",
+          "startMs": 28627,
+          "endMs": 29442
+        },
+        {
+          "text": "\"probably his mono-act in college, in",
+          "startMs": 29953,
+          "endMs": 31996
+        },
+        {
+          "text": "which he played an Indian army officer who",
+          "startMs": 32007,
+          "endMs": 33877
+        },
+        {
+          "text": "refused to divulge information to China.\"",
+          "startMs": 33888,
+          "endMs": 35910
+        },
+        {
+          "text": "He was playing a man who would not talk",
+          "startMs": 36965,
+          "endMs": 38889
+        },
+        {
+          "text": "under interrogation.",
+          "startMs": 38911,
+          "endMs": 39889
+        },
+        {
+          "text": "Years later, he would have to be that man.",
+          "startMs": 40967,
+          "endMs": 42891
+        }
+      ]
+    },
+    {
+      "id": "seg_02",
+      "index": 2,
+      "header": "SEGMENT 2 — PROJECT X (3:00–4:45)",
+      "label": "SEGMENT 2",
+      "title": "PROJECT X",
+      "visual_cue_raw": "Checklist — \"Project X · 1970s\" — the purpose, the office, the output, the shutdown.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "Sources — ThePrint, \"The cost of being an Indian spy\"; The Pioneer; The Telegraph",
+      "citation_after_paragraph": 2,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "In the mid-1970s, India was nervous. General Zia-ul-Haq had taken power in Pakistan in 1977, and India feared he might go to war. According to ThePrint's Praveen Swami, citing R&AW officers, the agency ran a secret effort called Project X. Its aim was to place long-term agents at the heart of Pakistan's establishment, to give India early warning of any military mobilisation.",
+          "pieces": [
+            "In the mid-1970s, India was nervous. General Zia-ul-Haq had taken power in Pakistan in 1977, and India feared he might go to war. According to ThePrint's Praveen Swami, citing R&AW officers, the agency ran a secret effort called Project X. Its aim was to place long-term agents at the heart of Pakistan's establishment, to give India early warning of any military mobilisation."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In the mid-1970s, India was nervous."
+        },
+        {
+          "text": "Kaushik was recruited in the early 1970s, and spent about two years in training in Delhi. He went across in 1975, under a new name: Nabi Ahmed Shakir. His own family says he even studied law at Karachi University.",
+          "pieces": [
+            "Kaushik was recruited in the early 1970s, and spent about two years in training in Delhi. He went across in 1975, under a new name: Nabi Ahmed Shakir.",
+            "His own family says he even studied law at Karachi University."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Kaushik was recruited in the early 1970s, and spent about two years in training in Delhi."
+        },
+        {
+          "text": "From there, the accounts split. His family says he joined the Pakistan Army as a commissioned officer, and rose to the rank of Major. R&AW's own officers, speaking to ThePrint, say he took a clerical job in the Army's military accounts service. Either way, he sat in the right office.",
+          "pieces": [
+            "From there, the accounts split. His family says he joined the Pakistan Army as a commissioned officer, and rose to the rank of Major. R&AW's own officers, speaking to ThePrint, say he took a clerical job in the Army's military accounts service.",
+            "Either way, he sat in the right office."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "From there, the accounts split."
+        }
+      ],
+      "narration_text": "In the mid-1970s, India was nervous. General Zia-ul-Haq had taken power in Pakistan in 1977, and India feared he might go to war. According to ThePrint's Praveen Swami, citing R&AW officers, the agency ran a secret effort called Project X. Its aim was to place long-term agents at the heart of Pakistan's establishment, to give India early warning of any military mobilisation.\n\nKaushik was recruited in the early 1970s, and spent about two years in training in Delhi. He went across in 1975, under a new name: Nabi Ahmed Shakir. His own family says he even studied law at Karachi University.\n\nFrom there, the accounts split. His family says he joined the Pakistan Army as a commissioned officer, and rose to the rank of Major. R&AW's own officers, speaking to ThePrint, say he took a clerical job in the Army's military accounts service. Either way, he sat in the right office.",
+      "locations": [
+        "Delhi",
+        "Karachi"
+      ],
+      "visual_type": "checklist",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "checklist": {
+        "title": "PROJECT X · 1970s",
+        "items": [
+          {
+            "year": "1977",
+            "who": "Zia-ul-Haq takes power in Pakistan",
+            "text": "India fears he might go to war",
+            "at_word": "General",
+            "paragraph": 0
+          },
+          {
+            "year": "Project X",
+            "who": "Long-term agents placed at the heart of Pakistan's establishment",
+            "text": "aim: early warning of military mobilisation · ThePrint",
+            "at_word": "Project",
+            "paragraph": 0
+          },
+          {
+            "year": "1970s",
+            "who": "Kaushik recruited · two years' training in Delhi",
+            "text": "language, religion, geography",
+            "at_word": "recruited",
+            "paragraph": 1
+          },
+          {
+            "year": "1975",
+            "who": "Goes across as \"Nabi Ahmed Shakir\"",
+            "text": "cover name",
+            "at_word": "Nabi",
+            "paragraph": 1
+          },
+          {
+            "year": "The office",
+            "who": "Military accounts service",
+            "text": "family: an officer · R&AW: a clerk",
+            "at_word": "clerical",
+            "paragraph": 2
+          }
+        ],
+        "tally": {
+          "text": "PROJECT X",
+          "at_word": "Project",
+          "paragraph": 0
+        }
+      },
+      "clock_start": null,
+      "clock_events": [],
+      "audio_file": "audio/seg_02.mp3",
+      "audio_hash": "699c58bcba4c8aa9",
+      "duration_seconds": 56.098,
+      "paragraph_starts": [
+        0,
+        23500,
+        38406
+      ],
+      "words": [
+        {
+          "text": "In",
+          "startMs": 76,
+          "endMs": 174,
+          "p": 0
+        },
+        {
+          "text": "the",
+          "startMs": 185,
+          "endMs": 250,
+          "p": 0
+        },
+        {
+          "text": "mid-1970s,",
+          "startMs": 261,
+          "endMs": 1391,
+          "p": 0
+        },
+        {
+          "text": "India",
+          "startMs": 1413,
+          "endMs": 1761,
+          "p": 0
+        },
+        {
+          "text": "was",
+          "startMs": 1772,
+          "endMs": 1935,
+          "p": 0
+        },
+        {
+          "text": "nervous.",
+          "startMs": 1946,
+          "endMs": 2489,
+          "p": 0
+        },
+        {
+          "text": "General",
+          "startMs": 2837,
+          "endMs": 3196,
+          "p": 0
+        },
+        {
+          "text": "Zia-ul-Haq",
+          "startMs": 3207,
+          "endMs": 3804,
+          "p": 0
+        },
+        {
+          "text": "had",
+          "startMs": 3815,
+          "endMs": 3967,
+          "p": 0
+        },
+        {
+          "text": "taken",
+          "startMs": 3978,
+          "endMs": 4239,
+          "p": 0
+        },
+        {
+          "text": "power",
+          "startMs": 4250,
+          "endMs": 4576,
+          "p": 0
+        },
+        {
+          "text": "in",
+          "startMs": 4587,
+          "endMs": 4728,
+          "p": 0
+        },
+        {
+          "text": "Pakistan",
+          "startMs": 4728,
+          "endMs": 5250,
+          "p": 0
+        },
+        {
+          "text": "in",
+          "startMs": 5261,
+          "endMs": 5391,
+          "p": 0
+        },
+        {
+          "text": "1977,",
+          "startMs": 5402,
+          "endMs": 6402,
+          "p": 0
+        },
+        {
+          "text": "and",
+          "startMs": 6685,
+          "endMs": 6880,
+          "p": 0
+        },
+        {
+          "text": "India",
+          "startMs": 6891,
+          "endMs": 7206,
+          "p": 0
+        },
+        {
+          "text": "feared",
+          "startMs": 7217,
+          "endMs": 7543,
+          "p": 0
+        },
+        {
+          "text": "he",
+          "startMs": 7554,
+          "endMs": 7674,
+          "p": 0
+        },
+        {
+          "text": "might",
+          "startMs": 7685,
+          "endMs": 7870,
+          "p": 0
+        },
+        {
+          "text": "go",
+          "startMs": 7880,
+          "endMs": 8011,
+          "p": 0
+        },
+        {
+          "text": "to",
+          "startMs": 8022,
+          "endMs": 8087,
+          "p": 0
+        },
+        {
+          "text": "war.",
+          "startMs": 8098,
+          "endMs": 8467,
+          "p": 0
+        },
+        {
+          "text": "According",
+          "startMs": 8815,
+          "endMs": 9120,
+          "p": 0
+        },
+        {
+          "text": "to",
+          "startMs": 9130,
+          "endMs": 9206,
+          "p": 0
+        },
+        {
+          "text": "ThePrint's ",
+          "startMs": 9217,
+          "endMs": 9587,
+          "p": 0
+        },
+        {
+          "text": "Praveen Swami,",
+          "startMs": 9598,
+          "endMs": 10370,
+          "p": 0
+        },
+        {
+          "text": "citing",
+          "startMs": 10783,
+          "endMs": 11207,
+          "p": 0
+        },
+        {
+          "text": "R&AW",
+          "startMs": 11217,
+          "endMs": 11859,
+          "p": 0
+        },
+        {
+          "text": "officers,",
+          "startMs": 11870,
+          "endMs": 12435,
+          "p": 0
+        },
+        {
+          "text": "the",
+          "startMs": 12935,
+          "endMs": 13000,
+          "p": 0
+        },
+        {
+          "text": "agency",
+          "startMs": 13011,
+          "endMs": 13478,
+          "p": 0
+        },
+        {
+          "text": "ran",
+          "startMs": 13489,
+          "endMs": 13750,
+          "p": 0
+        },
+        {
+          "text": "a",
+          "startMs": 13761,
+          "endMs": 13815,
+          "p": 0
+        },
+        {
+          "text": "secret",
+          "startMs": 13826,
+          "endMs": 14174,
+          "p": 0
+        },
+        {
+          "text": "effort",
+          "startMs": 14185,
+          "endMs": 14500,
+          "p": 0
+        },
+        {
+          "text": "called",
+          "startMs": 14511,
+          "endMs": 14772,
+          "p": 0
+        },
+        {
+          "text": "Project",
+          "startMs": 14783,
+          "endMs": 15185,
+          "p": 0
+        },
+        {
+          "text": "X.",
+          "startMs": 15196,
+          "endMs": 15543,
+          "p": 0
+        },
+        {
+          "text": "Its",
+          "startMs": 15865,
+          "endMs": 16050,
+          "p": 0
+        },
+        {
+          "text": "aim",
+          "startMs": 16061,
+          "endMs": 16300,
+          "p": 0
+        },
+        {
+          "text": "was",
+          "startMs": 16311,
+          "endMs": 16452,
+          "p": 0
+        },
+        {
+          "text": "to",
+          "startMs": 16463,
+          "endMs": 16550,
+          "p": 0
+        },
+        {
+          "text": "place",
+          "startMs": 16561,
+          "endMs": 16865,
+          "p": 0
+        },
+        {
+          "text": "long-term",
+          "startMs": 16876,
+          "endMs": 17365,
+          "p": 0
+        },
+        {
+          "text": "agents",
+          "startMs": 17376,
+          "endMs": 17789,
+          "p": 0
+        },
+        {
+          "text": "at",
+          "startMs": 17800,
+          "endMs": 17909,
+          "p": 0
+        },
+        {
+          "text": "the",
+          "startMs": 17920,
+          "endMs": 17974,
+          "p": 0
+        },
+        {
+          "text": "heart",
+          "startMs": 17985,
+          "endMs": 18224,
+          "p": 0
+        },
+        {
+          "text": "of",
+          "startMs": 18235,
+          "endMs": 18300,
+          "p": 0
+        },
+        {
+          "text": "Pakistan's",
+          "startMs": 18311,
+          "endMs": 18822,
+          "p": 0
+        },
+        {
+          "text": "establishment,",
+          "startMs": 18833,
+          "endMs": 19507,
+          "p": 0
+        },
+        {
+          "text": "to",
+          "startMs": 19800,
+          "endMs": 19898,
+          "p": 0
+        },
+        {
+          "text": "give",
+          "startMs": 19909,
+          "endMs": 20083,
+          "p": 0
+        },
+        {
+          "text": "India",
+          "startMs": 20093,
+          "endMs": 20463,
+          "p": 0
+        },
+        {
+          "text": "early",
+          "startMs": 20474,
+          "endMs": 20746,
+          "p": 0
+        },
+        {
+          "text": "warning",
+          "startMs": 20757,
+          "endMs": 21137,
+          "p": 0
+        },
+        {
+          "text": "of",
+          "startMs": 21148,
+          "endMs": 21246,
+          "p": 0
+        },
+        {
+          "text": "any",
+          "startMs": 21257,
+          "endMs": 21452,
+          "p": 0
+        },
+        {
+          "text": "military",
+          "startMs": 21463,
+          "endMs": 21865,
+          "p": 0
+        },
+        {
+          "text": "mobilisation.",
+          "startMs": 21876,
+          "endMs": 22604,
+          "p": 0
+        },
+        {
+          "text": "Kaushik",
+          "startMs": 23543,
+          "endMs": 23902,
+          "p": 1
+        },
+        {
+          "text": "was",
+          "startMs": 23902,
+          "endMs": 24087,
+          "p": 1
+        },
+        {
+          "text": "recruited",
+          "startMs": 24098,
+          "endMs": 24598,
+          "p": 1
+        },
+        {
+          "text": "in",
+          "startMs": 24609,
+          "endMs": 24739,
+          "p": 1
+        },
+        {
+          "text": "the",
+          "startMs": 24750,
+          "endMs": 24804,
+          "p": 1
+        },
+        {
+          "text": "early",
+          "startMs": 24815,
+          "endMs": 25098,
+          "p": 1
+        },
+        {
+          "text": "1970s,",
+          "startMs": 25109,
+          "endMs": 26011,
+          "p": 1
+        },
+        {
+          "text": "and",
+          "startMs": 26261,
+          "endMs": 26435,
+          "p": 1
+        },
+        {
+          "text": "spent",
+          "startMs": 26446,
+          "endMs": 26685,
+          "p": 1
+        },
+        {
+          "text": "about",
+          "startMs": 26696,
+          "endMs": 26935,
+          "p": 1
+        },
+        {
+          "text": "two",
+          "startMs": 26946,
+          "endMs": 27098,
+          "p": 1
+        },
+        {
+          "text": "years",
+          "startMs": 27109,
+          "endMs": 27457,
+          "p": 1
+        },
+        {
+          "text": "in",
+          "startMs": 27467,
+          "endMs": 27598,
+          "p": 1
+        },
+        {
+          "text": "training",
+          "startMs": 27609,
+          "endMs": 27946,
+          "p": 1
+        },
+        {
+          "text": "in",
+          "startMs": 27957,
+          "endMs": 28098,
+          "p": 1
+        },
+        {
+          "text": "Delhi.",
+          "startMs": 28098,
+          "endMs": 28413,
+          "p": 1
+        },
+        {
+          "text": "He",
+          "startMs": 28772,
+          "endMs": 28935,
+          "p": 1
+        },
+        {
+          "text": "went",
+          "startMs": 28946,
+          "endMs": 29087,
+          "p": 1
+        },
+        {
+          "text": "across",
+          "startMs": 29098,
+          "endMs": 29500,
+          "p": 1
+        },
+        {
+          "text": "in",
+          "startMs": 29511,
+          "endMs": 29641,
+          "p": 1
+        },
+        {
+          "text": "1975,",
+          "startMs": 29652,
+          "endMs": 30739,
+          "p": 1
+        },
+        {
+          "text": "under",
+          "startMs": 31011,
+          "endMs": 31239,
+          "p": 1
+        },
+        {
+          "text": "a",
+          "startMs": 31250,
+          "endMs": 31283,
+          "p": 1
+        },
+        {
+          "text": "new",
+          "startMs": 31293,
+          "endMs": 31500,
+          "p": 1
+        },
+        {
+          "text": "name:",
+          "startMs": 31511,
+          "endMs": 31891,
+          "p": 1
+        },
+        {
+          "text": "Nabi Ahmed Shakir.",
+          "startMs": 31902,
+          "endMs": 33054,
+          "p": 1
+        },
+        {
+          "text": "His",
+          "startMs": 34145,
+          "endMs": 34308,
+          "p": 1
+        },
+        {
+          "text": "own",
+          "startMs": 34319,
+          "endMs": 34504,
+          "p": 1
+        },
+        {
+          "text": "family",
+          "startMs": 34515,
+          "endMs": 34873,
+          "p": 1
+        },
+        {
+          "text": "says",
+          "startMs": 34884,
+          "endMs": 35178,
+          "p": 1
+        },
+        {
+          "text": "he",
+          "startMs": 35188,
+          "endMs": 35341,
+          "p": 1
+        },
+        {
+          "text": "even",
+          "startMs": 35351,
+          "endMs": 35569,
+          "p": 1
+        },
+        {
+          "text": "studied",
+          "startMs": 35580,
+          "endMs": 35949,
+          "p": 1
+        },
+        {
+          "text": "law",
+          "startMs": 35960,
+          "endMs": 36286,
+          "p": 1
+        },
+        {
+          "text": "at",
+          "startMs": 36297,
+          "endMs": 36493,
+          "p": 1
+        },
+        {
+          "text": "Karachi",
+          "startMs": 36493,
+          "endMs": 36851,
+          "p": 1
+        },
+        {
+          "text": "University.",
+          "startMs": 36851,
+          "endMs": 37493,
+          "p": 1
+        },
+        {
+          "text": "From",
+          "startMs": 38482,
+          "endMs": 38678,
+          "p": 2
+        },
+        {
+          "text": "there,",
+          "startMs": 38689,
+          "endMs": 39015,
+          "p": 2
+        },
+        {
+          "text": "the",
+          "startMs": 39026,
+          "endMs": 39113,
+          "p": 2
+        },
+        {
+          "text": "accounts",
+          "startMs": 39123,
+          "endMs": 39504,
+          "p": 2
+        },
+        {
+          "text": "split.",
+          "startMs": 39515,
+          "endMs": 39939,
+          "p": 2
+        },
+        {
+          "text": "His",
+          "startMs": 40352,
+          "endMs": 40536,
+          "p": 2
+        },
+        {
+          "text": "family",
+          "startMs": 40547,
+          "endMs": 40862,
+          "p": 2
+        },
+        {
+          "text": "says",
+          "startMs": 40873,
+          "endMs": 41134,
+          "p": 2
+        },
+        {
+          "text": "he",
+          "startMs": 41145,
+          "endMs": 41286,
+          "p": 2
+        },
+        {
+          "text": "joined",
+          "startMs": 41297,
+          "endMs": 41710,
+          "p": 2
+        },
+        {
+          "text": "the",
+          "startMs": 41721,
+          "endMs": 41797,
+          "p": 2
+        },
+        {
+          "text": "Pakistan",
+          "startMs": 41797,
+          "endMs": 42243,
+          "p": 2
+        },
+        {
+          "text": "Army",
+          "startMs": 42243,
+          "endMs": 42634,
+          "p": 2
+        },
+        {
+          "text": "as",
+          "startMs": 42645,
+          "endMs": 42786,
+          "p": 2
+        },
+        {
+          "text": "a",
+          "startMs": 42797,
+          "endMs": 42852,
+          "p": 2
+        },
+        {
+          "text": "commissioned",
+          "startMs": 42863,
+          "endMs": 43232,
+          "p": 2
+        },
+        {
+          "text": "officer,",
+          "startMs": 43243,
+          "endMs": 43743,
+          "p": 2
+        },
+        {
+          "text": "and",
+          "startMs": 44004,
+          "endMs": 44221,
+          "p": 2
+        },
+        {
+          "text": "rose",
+          "startMs": 44232,
+          "endMs": 44526,
+          "p": 2
+        },
+        {
+          "text": "to",
+          "startMs": 44536,
+          "endMs": 44634,
+          "p": 2
+        },
+        {
+          "text": "the",
+          "startMs": 44645,
+          "endMs": 44721,
+          "p": 2
+        },
+        {
+          "text": "rank",
+          "startMs": 44732,
+          "endMs": 45004,
+          "p": 2
+        },
+        {
+          "text": "of",
+          "startMs": 45015,
+          "endMs": 45102,
+          "p": 2
+        },
+        {
+          "text": "Major.",
+          "startMs": 45113,
+          "endMs": 45558,
+          "p": 2
+        },
+        {
+          "text": "R&AW's",
+          "startMs": 45906,
+          "endMs": 46613,
+          "p": 2
+        },
+        {
+          "text": "own",
+          "startMs": 46623,
+          "endMs": 46786,
+          "p": 2
+        },
+        {
+          "text": "officers,",
+          "startMs": 46797,
+          "endMs": 47308,
+          "p": 2
+        },
+        {
+          "text": "speaking",
+          "startMs": 47645,
+          "endMs": 48015,
+          "p": 2
+        },
+        {
+          "text": "to",
+          "startMs": 48026,
+          "endMs": 48102,
+          "p": 2
+        },
+        {
+          "text": "ThePrint,",
+          "startMs": 48113,
+          "endMs": 48515,
+          "p": 2
+        },
+        {
+          "text": "say",
+          "startMs": 49026,
+          "endMs": 49243,
+          "p": 2
+        },
+        {
+          "text": "he",
+          "startMs": 49254,
+          "endMs": 49352,
+          "p": 2
+        },
+        {
+          "text": "took",
+          "startMs": 49363,
+          "endMs": 49515,
+          "p": 2
+        },
+        {
+          "text": "a",
+          "startMs": 49526,
+          "endMs": 49580,
+          "p": 2
+        },
+        {
+          "text": "clerical",
+          "startMs": 49591,
+          "endMs": 50004,
+          "p": 2
+        },
+        {
+          "text": "job",
+          "startMs": 50015,
+          "endMs": 50319,
+          "p": 2
+        },
+        {
+          "text": "in",
+          "startMs": 50330,
+          "endMs": 50428,
+          "p": 2
+        },
+        {
+          "text": "the",
+          "startMs": 50439,
+          "endMs": 50526,
+          "p": 2
+        },
+        {
+          "text": "Army's",
+          "startMs": 50536,
+          "endMs": 50884,
+          "p": 2
+        },
+        {
+          "text": "military",
+          "startMs": 50895,
+          "endMs": 51319,
+          "p": 2
+        },
+        {
+          "text": "accounts",
+          "startMs": 51330,
+          "endMs": 51634,
+          "p": 2
+        },
+        {
+          "text": "service.",
+          "startMs": 51645,
+          "endMs": 52091,
+          "p": 2
+        },
+        {
+          "text": "Either",
+          "startMs": 53142,
+          "endMs": 53359,
+          "p": 2
+        },
+        {
+          "text": "way,",
+          "startMs": 53370,
+          "endMs": 53631,
+          "p": 2
+        },
+        {
+          "text": "he",
+          "startMs": 53653,
+          "endMs": 53816,
+          "p": 2
+        },
+        {
+          "text": "sat",
+          "startMs": 53827,
+          "endMs": 54120,
+          "p": 2
+        },
+        {
+          "text": "in",
+          "startMs": 54131,
+          "endMs": 54229,
+          "p": 2
+        },
+        {
+          "text": "the",
+          "startMs": 54240,
+          "endMs": 54294,
+          "p": 2
+        },
+        {
+          "text": "right",
+          "startMs": 54305,
+          "endMs": 54522,
+          "p": 2
+        },
+        {
+          "text": "office.",
+          "startMs": 54533,
+          "endMs": 55012,
+          "p": 2
+        }
+      ],
+      "caption_lines": [
+        {
+          "text": "In the mid-1970s, India was nervous.",
+          "startMs": 76,
+          "endMs": 2489
+        },
+        {
+          "text": "General Zia-ul-Haq had taken power in",
+          "startMs": 2837,
+          "endMs": 4728
+        },
+        {
+          "text": "Pakistan in 1977, and India feared he",
+          "startMs": 4728,
+          "endMs": 7674
+        },
+        {
+          "text": "might go to war.",
+          "startMs": 7685,
+          "endMs": 8467
+        },
+        {
+          "text": "According to ThePrint's  Praveen Swami,",
+          "startMs": 8815,
+          "endMs": 10370
+        },
+        {
+          "text": "citing R&AW officers,",
+          "startMs": 10783,
+          "endMs": 12435
+        },
+        {
+          "text": "the agency ran a secret effort called",
+          "startMs": 12935,
+          "endMs": 14772
+        },
+        {
+          "text": "Project X.",
+          "startMs": 14783,
+          "endMs": 15543
+        },
+        {
+          "text": "Its aim was to place long-term agents at",
+          "startMs": 15865,
+          "endMs": 17909
+        },
+        {
+          "text": "the heart of Pakistan's establishment, to",
+          "startMs": 17920,
+          "endMs": 19898
+        },
+        {
+          "text": "give India early warning of any military",
+          "startMs": 19909,
+          "endMs": 21865
+        },
+        {
+          "text": "mobilisation.",
+          "startMs": 21876,
+          "endMs": 22604
+        },
+        {
+          "text": "Kaushik was recruited in the early 1970s,",
+          "startMs": 23543,
+          "endMs": 26011
+        },
+        {
+          "text": "and spent about two years in training in",
+          "startMs": 26261,
+          "endMs": 28098
+        },
+        {
+          "text": "Delhi.",
+          "startMs": 28098,
+          "endMs": 28413
+        },
+        {
+          "text": "He went across in 1975, under a new name:",
+          "startMs": 28772,
+          "endMs": 31891
+        },
+        {
+          "text": "Nabi Ahmed Shakir.",
+          "startMs": 31902,
+          "endMs": 33054
+        },
+        {
+          "text": "His own family says he even studied law at",
+          "startMs": 34145,
+          "endMs": 36493
+        },
+        {
+          "text": "Karachi University.",
+          "startMs": 36493,
+          "endMs": 37493
+        },
+        {
+          "text": "From there, the accounts split.",
+          "startMs": 38482,
+          "endMs": 39939
+        },
+        {
+          "text": "His family says he joined the Pakistan",
+          "startMs": 40352,
+          "endMs": 42243
+        },
+        {
+          "text": "Army as a commissioned officer, and rose",
+          "startMs": 42243,
+          "endMs": 44526
+        },
+        {
+          "text": "to the rank of Major.",
+          "startMs": 44536,
+          "endMs": 45558
+        },
+        {
+          "text": "R&AW's own officers, speaking to ThePrint,",
+          "startMs": 45906,
+          "endMs": 48515
+        },
+        {
+          "text": "say he took a clerical job in the Army's",
+          "startMs": 49026,
+          "endMs": 50884
+        },
+        {
+          "text": "military accounts service.",
+          "startMs": 50895,
+          "endMs": 52091
+        },
+        {
+          "text": "Either way, he sat in the right office.",
+          "startMs": 53142,
+          "endMs": 55012
+        }
+      ]
+    },
+    {
+      "id": "seg_03",
+      "index": 3,
+      "header": "SEGMENT 3 — WHAT HE SAW (4:45–6:15)",
+      "label": "SEGMENT 3",
+      "title": "WHAT HE SAW",
+      "visual_cue_raw": "A quiet office ledger; then a montage of Pakistani landmarks from the 1970s; a Pakistan Army crest placeholder card.",
+      "lower_third_text": "Project X — early warning of military mobilisation · Kaushik's cover name: Nabi Ahmed Shakir",
+      "lower_third_after_paragraph": 3,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "What did a clerk in that office see? Movements of military units. Postings of key officers. Even the movement of trains carrying war material. ThePrint quotes R&AW officers calling it \"a goldmine for the agency.\"",
+          "pieces": [
+            "What did a clerk in that office see? Movements of military units. Postings of key officers. Even the movement of trains carrying war material.",
+            "ThePrint quotes R&AW officers calling it \"a goldmine for the agency.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "What did a clerk in that office see?"
+        },
+        {
+          "text": "Some retellings go much further. They say he gave India details of Pakistan's nuclear programme, or its war plans in Punjab. No primary source supports any of it. R&AW's file on him, ThePrint notes, has never been declassified. India's own officers will not say which battle he changed. They say only that the material was gold.",
+          "pieces": [
+            "Some retellings go much further. They say he gave India details of Pakistan's nuclear programme, or its war plans in Punjab. No primary source supports any of it. R&AW's file on him, ThePrint notes, has never been declassified.",
+            "India's own officers will not say which battle he changed. They say only that the material was gold."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Some retellings go much further."
+        },
+        {
+          "text": "The family knew nothing of the detail. But they knew he was alive. According to his nephew, he came home three or four times. And in Pakistan, by the family's account, he married and had a child. He was living a second life so deep that it had a second family.",
+          "pieces": [
+            "The family knew nothing of the detail. But they knew he was alive. According to his nephew, he came home three or four times. And in Pakistan, by the family's account, he married and had a child.",
+            "He was living a second life so deep that it had a second family."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The family knew nothing of the detail."
+        },
+        {
+          "text": "His mother, Amladevi, later wrote to Prime Minister Vajpayee. A spy sitting in the right place, she said, could save the lives of at least twenty thousand soldiers of his nation.",
+          "pieces": [
+            "His mother, Amladevi, later wrote to Prime Minister Vajpayee. A spy sitting in the right place, she said, could save the lives of at least twenty thousand soldiers of his nation."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "His mother, Amladevi, later wrote to Prime Minister Vajpayee."
+        }
+      ],
+      "narration_text": "What did a clerk in that office see? Movements of military units. Postings of key officers. Even the movement of trains carrying war material. ThePrint quotes R&AW officers calling it \"a goldmine for the agency.\"\n\nSome retellings go much further. They say he gave India details of Pakistan's nuclear programme, or its war plans in Punjab. No primary source supports any of it. R&AW's file on him, ThePrint notes, has never been declassified. India's own officers will not say which battle he changed. They say only that the material was gold.\n\nThe family knew nothing of the detail. But they knew he was alive. According to his nephew, he came home three or four times. And in Pakistan, by the family's account, he married and had a child. He was living a second life so deep that it had a second family.\n\nHis mother, Amladevi, later wrote to Prime Minister Vajpayee. A spy sitting in the right place, she said, could save the lives of at least twenty thousand soldiers of his nation.",
+      "locations": [],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_04",
+      "index": 4,
+      "header": "SEGMENT 4 — 1983 (6:15–7:45)",
+      "label": "SEGMENT 4",
+      "title": "1983",
+      "visual_cue_raw": "A park bench; an arrest; Sialkot; a sealed courtroom.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "Sources — The Telegraph, December 2002; Hindustan Times, December 2009",
+      "citation_after_paragraph": 3,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "In 1983, it ended. R&AW sent another man to make contact with Kaushik. His name was Inayat Masih. He was caught. According to The Telegraph, in the interrogation that followed, he gave Kaushik away. Kaushik was twenty-nine.",
+          "pieces": [
+            "In 1983, it ended. R&AW sent another man to make contact with Kaushik. His name was Inayat Masih. He was caught. According to The Telegraph, in the interrogation that followed, he gave Kaushik away.",
+            "Kaushik was twenty-nine."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In 1983, it ended."
+        },
+        {
+          "text": "ThePrint notes that R&AW's own files do not conclusively explain how Pakistan's counter-intelligence found him. Some officers suspect it was not a single mistake. Whatever the cause, the man who was never supposed to be seen had been seen.",
+          "pieces": [
+            "ThePrint notes that R&AW's own files do not conclusively explain how Pakistan's counter-intelligence found him. Some officers suspect it was not a single mistake.",
+            "Whatever the cause, the man who was never supposed to be seen had been seen."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "ThePrint notes that R&AW's own files do not conclusively explain how Pakistan's counter-intelligence found him."
+        },
+        {
+          "text": "He was held at an interrogation centre in Sialkot. The Telegraph reports he was tortured for two years. In 1985, a closed military court sentenced him to death. The sentence was later reduced to life.",
+          "pieces": [
+            "He was held at an interrogation centre in Sialkot. The Telegraph reports he was tortured for two years. In 1985, a closed military court sentenced him to death. The sentence was later reduced to life."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "He was held at an interrogation centre in Sialkot."
+        },
+        {
+          "text": "After that, the prisons. Sialkot. Kot Lakhpat. Mianwali. Different reports name different jails. All agree on the length: about sixteen years. And through all of it, his family says, he never gave up his real name.",
+          "pieces": [
+            "After that, the prisons. Sialkot. Kot Lakhpat. Mianwali. Different reports name different jails. All agree on the length: about sixteen years.",
+            "And through all of it, his family says, he never gave up his real name."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "After that, the prisons."
+        }
+      ],
+      "narration_text": "In 1983, it ended. R&AW sent another man to make contact with Kaushik. His name was Inayat Masih. He was caught. According to The Telegraph, in the interrogation that followed, he gave Kaushik away. Kaushik was twenty-nine.\n\nThePrint notes that R&AW's own files do not conclusively explain how Pakistan's counter-intelligence found him. Some officers suspect it was not a single mistake. Whatever the cause, the man who was never supposed to be seen had been seen.\n\nHe was held at an interrogation centre in Sialkot. The Telegraph reports he was tortured for two years. In 1985, a closed military court sentenced him to death. The sentence was later reduced to life.\n\nAfter that, the prisons. Sialkot. Kot Lakhpat. Mianwali. Different reports name different jails. All agree on the length: about sixteen years. And through all of it, his family says, he never gave up his real name.",
+      "locations": [
+        "Sialkot",
+        "Kot Lakhpat",
+        "Mianwali"
+      ],
+      "visual_type": "status",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "status": {
+        "steps": [
+          {
+            "text": "1983 · exposed",
+            "at_word": "1983",
+            "paragraph": 0
+          },
+          {
+            "text": "Two years in Sialkot",
+            "at_word": "tortured",
+            "paragraph": 2
+          },
+          {
+            "text": "1985 · death sentence",
+            "at_word": "1985",
+            "paragraph": 2
+          },
+          {
+            "text": "Reduced to life",
+            "at_word": "reduced",
+            "paragraph": 2
+          },
+          {
+            "text": "About 16 years in prison",
+            "at_word": "sixteen",
+            "paragraph": 3
+          }
+        ],
+        "pending": "Recognition",
+        "stamp": {
+          "text": "HE NEVER GAVE UP HIS NAME",
+          "at_word": "never",
+          "paragraph": 3
+        },
+        "as_of": "PER THE FAMILY · THE TELEGRAPH · HINDUSTAN TIMES"
+      },
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_05",
+      "index": 5,
+      "header": "SEGMENT 5 — THE LETTERS (7:45–9:15)",
+      "label": "SEGMENT 5",
+      "title": "THE LETTERS",
+      "visual_cue_raw": "Quote card — \"Kya Bharat jaise bade desh ke liye kurbani dene waalon ko yahi milta hai?\" Then a jail-visit mailbag; the family home in Jaipur.",
+      "lower_third_text": "Died in a Pakistani jail, November 2001 (The Telegraph) · aged 49",
+      "lower_third_after_paragraph": 3,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "In prison, he wrote home. His letters, smuggled out, reached his family in Rajasthan. In one, quoted by The Telegraph, he asked a question in Hindi. \"Kya Bharat jaise bade desh ke liye kurbani dene waalon ko yahi milta hai?\" \"Is this the reward for those who sacrifice their lives for a country as big as India?\"",
+          "pieces": [
+            "In prison, he wrote home. His letters, smuggled out, reached his family in Rajasthan. In one, quoted by The Telegraph, he asked a question in Hindi. \"Kya Bharat jaise bade desh ke liye kurbani dene waalon ko yahi milta hai?\"",
+            "\"Is this the reward for those who sacrifice their lives for a country as big as India?\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In prison, he wrote home."
+        },
+        {
+          "text": "His family wrote again and again to the government. From 1987, The Telegraph says, they received the same reply: the case had been taken up with Pakistan. Nothing more.",
+          "pieces": [
+            "His family wrote again and again to the government. From 1987, The Telegraph says, they received the same reply: the case had been taken up with Pakistan.",
+            "Nothing more."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "His family wrote again and again to the government."
+        },
+        {
+          "text": "In November 2001, according to The Telegraph, Ravindra Kaushik died in Mianwali jail. The cause was tuberculosis and heart disease. Other reports give a different jail, and a different year. His family remembers the pain, not the date. His father did not long outlive him.",
+          "pieces": [
+            "In November 2001, according to The Telegraph, Ravindra Kaushik died in Mianwali jail. The cause was tuberculosis and heart disease. Other reports give a different jail, and a different year. His family remembers the pain, not the date.",
+            "His father did not long outlive him."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "In November 2001, according to The Telegraph, Ravindra Kaushik died in Mianwali jail."
+        },
+        {
+          "text": "For years afterwards, the government sent his parents a monthly allowance: five hundred rupees, later two thousand. His brother Rajeshwarnath told Hindustan Times: \"He will always remain important for me. But for the country, he was just another agent.\"",
+          "pieces": [
+            "For years afterwards, the government sent his parents a monthly allowance: five hundred rupees, later two thousand. His brother Rajeshwarnath told Hindustan Times: \"He will always remain important for me. But for the country, he was just another agent.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "For years afterwards, the government sent his parents a monthly allowance: five hundred rupees, later two thousand."
+        }
+      ],
+      "narration_text": "In prison, he wrote home. His letters, smuggled out, reached his family in Rajasthan. In one, quoted by The Telegraph, he asked a question in Hindi. \"Kya Bharat jaise bade desh ke liye kurbani dene waalon ko yahi milta hai?\" \"Is this the reward for those who sacrifice their lives for a country as big as India?\"\n\nHis family wrote again and again to the government. From 1987, The Telegraph says, they received the same reply: the case had been taken up with Pakistan. Nothing more.\n\nIn November 2001, according to The Telegraph, Ravindra Kaushik died in Mianwali jail. The cause was tuberculosis and heart disease. Other reports give a different jail, and a different year. His family remembers the pain, not the date. His father did not long outlive him.\n\nFor years afterwards, the government sent his parents a monthly allowance: five hundred rupees, later two thousand. His brother Rajeshwarnath told Hindustan Times: \"He will always remain important for me. But for the country, he was just another agent.\"",
+      "locations": [
+        "Jaipur",
+        "Mianwali"
+      ],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_06",
+      "index": 6,
+      "header": "SEGMENT 6 — THE NAME (9:15–10:45)",
+      "label": "SEGMENT 6",
+      "title": "THE NAME",
+      "visual_cue_raw": "Karan Johar's poster is not shown; instead, a newspaper headline card — \"India's forgotten spy\" — and a Bollywood film title card.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": false,
+      "paragraphs": [
+        {
+          "text": "The name \"Black Tiger\" has stuck to him ever since. His family says it was given by Indira Gandhi herself. No document supports that. It is a family claim, first heard in 2012.",
+          "pieces": [
+            "The name \"Black Tiger\" has stuck to him ever since. His family says it was given by Indira Gandhi herself.",
+            "No document supports that. It is a family claim, first heard in 2012."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "The name \"Black Tiger\" has stuck to him ever since."
+        },
+        {
+          "text": "That year, his nephew took the makers of the film Ek Tha Tiger to court. He believed the story was his uncle's. The director, Kabir Khan, said he had only read about Kaushik in the papers. It was \"an interesting story,\" he said, \"but it's definitely not the story of my film.\"",
+          "pieces": [
+            "That year, his nephew took the makers of the film Ek Tha Tiger to court. He believed the story was his uncle's. The director, Kabir Khan, said he had only read about Kaushik in the papers. It was \"an interesting story,\" he said, \"but it's definitely not the story of my film.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "That year, his nephew took the makers of the film Ek Tha Tiger to court."
+        },
+        {
+          "text": "Kaushik was not the only one. ThePrint lists other Indian agents who came home after years in Pakistani jails, and found no recognition. One of them, Kishori Lal Sharma, said: \"Even if you escape death, you die a slow death as nobody is there to own you.\"",
+          "pieces": [
+            "Kaushik was not the only one. ThePrint lists other Indian agents who came home after years in Pakistani jails, and found no recognition. One of them, Kishori Lal Sharma, said: \"Even if you escape death, you die a slow death as nobody is there to own you.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Kaushik was not the only one."
+        },
+        {
+          "text": "His brother's demand was small. \"We don't want money,\" he told The Telegraph. \"What we want from the government is recognition.\"",
+          "pieces": [
+            "His brother's demand was small.",
+            "\"We don't want money,\" he told The Telegraph. \"What we want from the government is recognition.\""
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "His brother's demand was small."
+        }
+      ],
+      "narration_text": "The name \"Black Tiger\" has stuck to him ever since. His family says it was given by Indira Gandhi herself. No document supports that. It is a family claim, first heard in 2012.\n\nThat year, his nephew took the makers of the film Ek Tha Tiger to court. He believed the story was his uncle's. The director, Kabir Khan, said he had only read about Kaushik in the papers. It was \"an interesting story,\" he said, \"but it's definitely not the story of my film.\"\n\nKaushik was not the only one. ThePrint lists other Indian agents who came home after years in Pakistani jails, and found no recognition. One of them, Kishori Lal Sharma, said: \"Even if you escape death, you die a slow death as nobody is there to own you.\"\n\nHis brother's demand was small. \"We don't want money,\" he told The Telegraph. \"What we want from the government is recognition.\"",
+      "locations": [],
+      "visual_type": "headline",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "clock_start": null,
+      "clock_events": []
+    },
+    {
+      "id": "seg_07",
+      "index": 7,
+      "header": "CLOSING (10:45–11:45)",
+      "label": "CLOSING",
+      "title": "CLOSING",
+      "visual_cue_raw": "The folded letter from the cold open; the dark photo frame; the silhouette; the Indian tricolour on a blank wall.",
+      "lower_third_text": "",
+      "lower_third_after_paragraph": null,
+      "citation_card_text": "",
+      "citation_after_paragraph": null,
+      "title_card": false,
+      "end_card": true,
+      "paragraphs": [
+        {
+          "text": "A student pretended to be an army officer who would not talk. Years later he became a man who could not tell anyone who he was. He never did.",
+          "pieces": [
+            "A student pretended to be an army officer who would not talk. Years later he became a man who could not tell anyone who he was.",
+            "He never did."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "A student pretended to be an army officer who would not talk."
+        },
+        {
+          "text": "There is no memorial to the agents who gave their lives. There is no official photograph. There is a letter, from a Pakistani jail, asking why.",
+          "pieces": [
+            "There is no memorial to the agents who gave their lives. There is no official photograph. There is a letter, from a Pakistani jail, asking why."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "There is no memorial to the agents who gave their lives."
+        },
+        {
+          "text": "Ravindra Kaushik gave India its early warning, and asked for one line in return. India still owes it to him.",
+          "pieces": [
+            "Ravindra Kaushik gave India its early warning, and asked for one line in return.",
+            "India still owes it to him."
+          ],
+          "bold": [],
+          "bullet": false,
+          "headline": "",
+          "subline": "Ravindra Kaushik gave India its early warning, and asked for one line in return."
+        }
+      ],
+      "narration_text": "A student pretended to be an army officer who would not talk. Years later he became a man who could not tell anyone who he was. He never did.\n\nThere is no memorial to the agents who gave their lives. There is no official photograph. There is a letter, from a Pakistani jail, asking why.\n\nRavindra Kaushik gave India its early warning, and asked for one line in return. India still owes it to him.",
+      "locations": [],
+      "visual_type": "map",
+      "disputed": false,
+      "dark_grade": false,
+      "map_zoom_out": false,
+      "site_pins": [],
+      "map": "region",
+      "pins": [
+        "Jaipur",
+        "Sri Ganganagar"
+      ],
+      "zoom": 0.7,
+      "clock_start": null,
+      "clock_events": []
+    }
+  ]
+}

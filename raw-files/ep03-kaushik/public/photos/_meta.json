@@ -1,0 +1,111 @@
+{
+ "ganganagar_station": {
+  "file": "photos/ganganagar_station.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Stalinjeet Brar",
+  "source": "https://commons.wikimedia.org/wiki/File:Sri_Ganganagar_(03).jpg"
+ },
+ "ganganagar_board": {
+  "file": "photos/ganganagar_board.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Stalinjeet Brar",
+  "source": "https://commons.wikimedia.org/wiki/File:Sri_Ganganagar_(20).jpg"
+ },
+ "ganganagar_street": {
+  "file": "photos/ganganagar_street.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Stalinjeet Brar",
+  "source": "https://commons.wikimedia.org/wiki/File:Sri_Ganganagar_(02).jpg"
+ },
+ "gang_canal": {
+  "file": "photos/gang_canal.jpg",
+  "license": "CC BY 3.0",
+  "artist": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Gang_Canal_Rajasthan_Sivender.jpg"
+ },
+ "karachi_uni": {
+  "file": "photos/karachi_uni.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "King Eliot",
+  "source": "https://commons.wikimedia.org/wiki/File:Silver_Jubilee_Gate_Karachi_University.jpg"
+ },
+ "mazar": {
+  "file": "photos/mazar.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "John Standish Fforde",
+  "source": "https://commons.wikimedia.org/wiki/File:Mazar-e-Quaid_(Urdu-_مزارِ_قائد),_under_construction-_1964.jpg"
+ },
+ "mianwali": {
+  "file": "photos/mianwali.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Fahads1982",
+  "source": "https://commons.wikimedia.org/wiki/File:Mianwali_railway_station.jpg"
+ },
+ "mianwali_round": {
+  "file": "photos/mianwali_round.jpg",
+  "license": "CC BY 3.0",
+  "artist": "Najamuddin Shahwani",
+  "source": "https://commons.wikimedia.org/wiki/File:Mianwali_Roundabout_-_panoramio.jpg"
+ },
+ "kot_lakhpat": {
+  "file": "photos/kot_lakhpat.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Fahads1982",
+  "source": "https://commons.wikimedia.org/wiki/File:Kot_lakhpat_railway_station.jpg"
+ },
+ "sialkot_school": {
+  "file": "photos/sialkot_school.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Doctmwa",
+  "source": "https://commons.wikimedia.org/wiki/File:Sialkot_Muslim_High_School.jpg"
+ },
+ "sialkot_city": {
+  "file": "photos/sialkot_city.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "SaAd GhuMman",
+  "source": "https://commons.wikimedia.org/wiki/File:Sialkot_City_Way.jpg"
+ },
+ "indira": {
+  "file": "photos/indira.png",
+  "license": "GODL-India",
+  "artist": "Prime Minister's Office",
+  "source": "https://commons.wikimedia.org/wiki/File:Indira_Gandhi_official_portrait.png"
+ },
+ "vajpayee": {
+  "file": "photos/vajpayee.jpg",
+  "license": "GODL-India",
+  "artist": "Government of India",
+  "source": "https://commons.wikimedia.org/wiki/File:Atal_Bihari_Vajpayee_(crop_2).jpg"
+ },
+ "zia": {
+  "file": "photos/zia.jpg",
+  "license": "Public domain",
+  "artist": "Series: Reagan White House Photographs, 1/20/1981 - 1/20/1989 Collecti",
+  "source": "https://commons.wikimedia.org/wiki/File:President_Mohammad_Zia_Ul_Haq.jpg"
+ },
+ "wagah": {
+  "file": "photos/wagah.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Kamran Ali",
+  "source": "https://commons.wikimedia.org/wiki/File:International_border_at_Wagah_-_evening_flag_lowering_ceremony.jpg"
+ },
+ "troops": {
+  "file": "photos/troops.jpg",
+  "license": "GODL-India",
+  "artist": "Indian Army EasternCommand",
+  "source": "https://commons.wikimedia.org/wiki/File:1971_indian_army_troop.jpg"
+ },
+ "islamabad": {
+  "file": "photos/islamabad.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Kamranmangrio",
+  "source": "https://commons.wikimedia.org/wiki/File:Islamabad_skyline.jpg"
+ },
+ "silhouette": {
+  "file": "silhouette.svg",
+  "license": "",
+  "artist": "",
+  "credit": "Illustration: The Sisodia Files (no licence-clean photograph exists)",
+  "source": "original"
+ }
+}

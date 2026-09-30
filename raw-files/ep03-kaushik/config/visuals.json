@@ -1,0 +1,118 @@
+{
+  "_note": "RAW Files Ep 3 (Kaushik). No licence-clean photograph of Kaushik exists: silhouette dossier.",
+  "segments": {
+    "seg_00": {
+      "visual_type": "map",
+      "map": "region",
+      "pins": [
+        "Sri Ganganagar",
+        "Mianwali"
+      ],
+      "zoom": 0.7
+    },
+    "seg_01": {
+      "visual_type": "map",
+      "map": "region",
+      "pins": [
+        "Sri Ganganagar"
+      ],
+      "zoom": 0.6
+    },
+    "seg_02": {
+      "visual_type": "checklist",
+      "checklist": {
+        "title": "PROJECT X · 1970s",
+        "items": [
+          {
+            "year": "1977",
+            "who": "Zia-ul-Haq takes power in Pakistan",
+            "text": "India fears he might go to war",
+            "at_word": "General",
+            "paragraph": 0
+          },
+          {
+            "year": "Project X",
+            "who": "Long-term agents placed at the heart of Pakistan's establishment",
+            "text": "aim: early warning of military mobilisation · ThePrint",
+            "at_word": "Project",
+            "paragraph": 0
+          },
+          {
+            "year": "1970s",
+            "who": "Kaushik recruited · two years' training in Delhi",
+            "text": "language, religion, geography",
+            "at_word": "recruited",
+            "paragraph": 1
+          },
+          {
+            "year": "1975",
+            "who": "Goes across as \"Nabi Ahmed Shakir\"",
+            "text": "cover name",
+            "at_word": "Nabi",
+            "paragraph": 1
+          },
+          {
+            "year": "The office",
+            "who": "Military accounts service",
+            "text": "family: an officer · R&AW: a clerk",
+            "at_word": "clerical",
+            "paragraph": 2
+          }
+        ],
+        "tally": {
+          "text": "PROJECT X",
+          "at_word": "Project",
+          "paragraph": 0
+        }
+      }
+    },
+    "seg_04": {
+      "visual_type": "status",
+      "status": {
+        "steps": [
+          {
+            "text": "1983 · exposed",
+            "at_word": "1983",
+            "paragraph": 0
+          },
+          {
+            "text": "Two years in Sialkot",
+            "at_word": "tortured",
+            "paragraph": 2
+          },
+          {
+            "text": "1985 · death sentence",
+            "at_word": "1985",
+            "paragraph": 2
+          },
+          {
+            "text": "Reduced to life",
+            "at_word": "reduced",
+            "paragraph": 2
+          },
+          {
+            "text": "About 16 years in prison",
+            "at_word": "sixteen",
+            "paragraph": 3
+          }
+        ],
+        "pending": "Recognition",
+        "stamp": {
+          "text": "HE NEVER GAVE UP HIS NAME",
+          "at_word": "never",
+          "paragraph": 3
+        },
+        "as_of": "PER THE FAMILY · THE TELEGRAPH · HINDUSTAN TIMES"
+      }
+    },
+    "seg_07": {
+      "visual_type": "map",
+      "map": "region",
+      "pins": [
+        "Jaipur",
+        "Sri Ganganagar"
+      ],
+      "zoom": 0.7
+    }
+  }
+}

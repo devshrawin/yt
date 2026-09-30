@@ -1,0 +1,41 @@
+{
+  "_note": "Coordinates for automated map-pin placement (MapPin component). City/town-level entries are accurate to the settlement; precision notes flag where the real site sits within a larger city. script1 ('Inside the Terror Factory'): pakistan_training_camps for Segment 2 map, op_sindoor_nine_camps for Segment 9. script2 ('60 Hours'): mumbai_2611_sites plus the karachi reference point.",
+
+  "pakistan_training_camps": {
+    "muridke": { "label": "Muridke (Markaz-e-Taiba / Markaz Taiba)", "lat": 31.802, "lng": 74.255, "note": "City-level coordinate. Markaz Taiba compound sits on the edge of Muridke town, ~30km from Lahore.", "used_in": ["script1: LeT training structure", "script2: Op Sindoor strike"] },
+    "muzaffarabad": { "label": "Muzaffarabad (Sawai Nala & Syedna Bilal camps)", "lat": 34.358, "lng": 73.472, "note": "City-level coordinate for capital of Illegally Occupied Pakistani Kashmir. Both Op Sindoor camps here are sub-locations within/near the city.", "used_in": ["script1: Daura-e-Aam/Khaas training", "script2: Op Sindoor strike"] },
+    "mansehra": { "label": "Mansehra (Daura-e-Ribat course)", "lat": 34.333, "lng": 73.2, "note": "City-level coordinate, near Abbottabad.", "used_in": ["script1: LeT training structure"] },
+    "bahawalpur": { "label": "Bahawalpur (Markaz Subhanallah / JeM HQ)", "lat": 29.396, "lng": 71.684, "note": "City-level coordinate. The struck complex (Ahmedpur Sharqia/Masjid Subhan) is a town just outside Bahawalpur proper.", "used_in": ["script2: Op Sindoor strike"] },
+    "kotli": { "label": "Kotli, Illegally Occupied Pakistani Kashmir (Gulpur & Abbas camps)", "lat": 33.505, "lng": 73.899, "note": "City-level coordinate. Gulpur specifically is a village southwest of Kotli town.", "used_in": ["script2: Op Sindoor strike"] },
+    "bhimber": { "label": "Bhimber, Illegally Occupied Pakistani Kashmir (Barnala camp)", "lat": 32.975, "lng": 74.073, "note": "City-level coordinate.", "used_in": ["script2: Op Sindoor strike"] },
+    "sialkot": { "label": "Sialkot (Sarjal & Mahmoona Joya camps)", "lat": 32.499, "lng": 74.525, "note": "City-level coordinate for Sialkot city, Punjab. Do not confuse with the unrelated village 'Sialkot, Mansehra' in KP.", "used_in": ["script2: Op Sindoor strike"] }
+  },
+
+  "op_sindoor_nine_camps": {
+    "_note": "Nine individually-named camps for Segment 9. Several share a parent city's coordinate; the map applies a small pixel offset so pins don't overlap.",
+    "markaz_taiba_muridke": { "label": "Markaz Taiba, Muridke", "lat": 31.802, "lng": 74.255, "precision": "city-level", "org": "LeT" },
+    "markaz_subhanallah_bahawalpur": { "label": "Markaz Subhanallah, Bahawalpur", "lat": 29.396, "lng": 71.684, "precision": "city-level (struck site is in Ahmedpur Sharqia, just outside Bahawalpur proper)", "org": "JeM" },
+    "sawai_nala_muzaffarabad": { "label": "Sawai Nala camp, Muzaffarabad", "lat": 34.358, "lng": 73.472, "precision": "city-level", "org": "LeT", "note": "Officials linked this camp to planning of the April 2025 Pahalgam attack" },
+    "syedna_bilal_muzaffarabad": { "label": "Syedna Bilal camp, Muzaffarabad", "lat": 34.358, "lng": 73.472, "precision": "city-level (same as Sawai Nala)", "org": "JeM" },
+    "gulpur_kotli": { "label": "Gulpur camp, Kotli", "lat": 33.43472, "lng": 73.86111, "precision": "town-level, confirmed via Wikipedia", "org": "LeT" },
+    "barnala_bhimber": { "label": "Barnala camp, Bhimber", "lat": 32.975, "lng": 74.073, "precision": "city-level", "org": "unspecified" },
+    "abbas_kotli": { "label": "Abbas camp, Kotli", "lat": 33.505, "lng": 73.899, "precision": "city-level", "org": "LeT" },
+    "sarjal_sialkot": { "label": "Sarjal camp, Sialkot", "lat": 32.499, "lng": 74.525, "precision": "city-level", "org": "unspecified" },
+    "mahmoona_joya_sialkot": { "label": "Mahmoona Joya (Mehmoona Jaya) camp, Sialkot", "lat": 32.499, "lng": 74.525, "precision": "city-level (same as Sarjal)", "org": "Hizbul Mujahideen" }
+  },
+
+  "mumbai_2611_sites": {
+    "cst_station": { "label": "Chhatrapati Shivaji Terminus (CST)", "lat": 18.9398, "lng": 72.8355, "note": "Railway station, deadliest single site of the attack.", "used_in": ["script2"] },
+    "leopold_cafe": { "label": "Leopold Café", "lat": 18.9068, "lng": 72.8322, "note": "Colaba Causeway.", "used_in": ["script2"] },
+    "taj_mahal_palace": { "label": "Taj Mahal Palace Hotel", "lat": 18.9217, "lng": 72.8332, "note": "Opposite Gateway of India, Colaba.", "used_in": ["script2"] },
+    "oberoi_trident": { "label": "Oberoi-Trident Hotel, Nariman Point", "lat": 18.927, "lng": 72.8204, "note": "Confirmed via Wikipedia.", "used_in": ["script2"] },
+    "nariman_house": { "label": "Nariman House (Chabad House)", "lat": 18.9086, "lng": 72.8281, "note": "Colaba.", "used_in": ["script2"] },
+    "cama_hospital": { "label": "Cama Hospital", "lat": 18.9377, "lng": 72.8323, "note": "Near CST.", "used_in": ["script2"] },
+    "girgaum_chowpatty": { "label": "Girgaum Chowpatty (Kasab's capture site)", "lat": 18.955552, "lng": 72.812909, "note": "Confirmed via Wikipedia coordinates.", "used_in": ["script2"] },
+    "cuffe_parade_landing": { "label": "Cuffe Parade landing points (Badhwar Park / Macchimar Nagar)", "lat": 18.9095, "lng": 72.8092, "note": "Approximate.", "used_in": ["script2"] }
+  },
+
+  "reference_points": {
+    "karachi": { "label": "Karachi (departure point / alleged control-room city)", "lat": 24.8607, "lng": 67.0011, "note": "City-level.", "used_in": ["script1", "script2"] }
+  }
+}
