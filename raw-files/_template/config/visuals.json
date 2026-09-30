@@ -1,0 +1,284 @@
+{
+  "_note": "Per-segment visual overrides for File 06 (IC-814). No licence-clean photos of Azhar, Sheikh or Zargar exist, so they are profile cards. Every element is keyed to the word that triggers it.",
+  "segments": {
+    "seg_00": {
+      "map": "region",
+      "pins": [
+        "Kathmandu",
+        "Amritsar",
+        "Lahore",
+        "Dubai",
+        "Kandahar"
+      ],
+      "route": [
+        "Kathmandu",
+        "Amritsar",
+        "Lahore",
+        "Dubai",
+        "Kandahar"
+      ],
+      "route_from_paragraph": 0,
+      "intro_zoom": true,
+      "visual_type": "map"
+    },
+    "seg_01": {
+      "map": "region",
+      "pins": [
+        "Kathmandu",
+        "Amritsar",
+        "Lahore",
+        "Dubai",
+        "Kandahar"
+      ],
+      "route": [
+        "Kathmandu",
+        "Amritsar",
+        "Lahore",
+        "Dubai",
+        "Kandahar"
+      ],
+      "route_from_paragraph": 1,
+      "visual_type": "map"
+    },
+    "seg_02": {
+      "visual_type": "verdict",
+      "verdict": {
+        "titles": [
+          "HIJACKERS DEMAND",
+          "INDIA PAYS"
+        ],
+        "intro": {
+          "text": "Kandahar · six days on the tarmac · the Taliban as go-between",
+          "at_word": "tarmac",
+          "paragraph": 0
+        },
+        "acquitted": [
+          {
+            "text": "36 prisoners",
+            "at_word": "Thirty-six",
+            "paragraph": 0
+          },
+          {
+            "text": "US$200 million",
+            "at_word": "hundred",
+            "paragraph": 0
+          },
+          {
+            "text": "The body of Sajjad Afghani",
+            "at_word": "Sajjad",
+            "paragraph": 0
+          }
+        ],
+        "convicted": [
+          {
+            "text": "Maulana Masood Azhar",
+            "at_word": "Masood",
+            "paragraph": 1
+          },
+          {
+            "text": "Ahmed Omar Saeed Sheikh",
+            "at_word": "Omar",
+            "paragraph": 1
+          },
+          {
+            "text": "Mushtaq Ahmed Zargar",
+            "at_word": "Mushtaq",
+            "paragraph": 1
+          }
+        ],
+        "sentence": {
+          "text": "3 FREED · 0 ARRESTED",
+          "at_word": "None",
+          "paragraph": 2
+        }
+      }
+    },
+    "seg_03": {
+      "visual_type": "checklist",
+      "checklist": {
+        "title": "MAULANA MASOOD AZHAR",
+        "items": [
+          {
+            "year": "Feb 1994",
+            "who": "Arrested near Anantnag",
+            "text": "travelled to Kashmir under a false identity",
+            "at_word": "arrested",
+            "paragraph": 0
+          },
+          {
+            "year": "1995",
+            "who": "Six Western tourists kidnapped",
+            "text": "demands included his release · India refused",
+            "at_word": "kidnapped",
+            "paragraph": 1
+          },
+          {
+            "year": "Dec 1999",
+            "who": "Freed at Kandahar",
+            "text": "exchanged for the IC-814 hostages",
+            "at_word": "did",
+            "paragraph": 2
+          },
+          {
+            "year": "2000",
+            "who": "Founds Jaish-e-Mohammed",
+            "text": "\"the Army of Mohammed\"",
+            "at_word": "Jaish-e-Mohammed",
+            "paragraph": 2
+          }
+        ],
+        "tally": {
+          "text": "FREED AT KANDAHAR",
+          "at_word": "Kandahar",
+          "paragraph": 2
+        }
+      }
+    },
+    "seg_04": {
+      "map": "region",
+      "pins": [
+        "New Delhi"
+      ],
+      "zoom": 0.8,
+      "visual_type": "map"
+    },
+    "seg_05": {
+      "visual_type": "checklist",
+      "checklist": {
+        "title": "AHMED OMAR SAEED SHEIKH",
+        "items": [
+          {
+            "year": "1994",
+            "who": "Arrested in India",
+            "text": "kidnapping of Western tourists to free jailed militants",
+            "at_word": "arrested",
+            "paragraph": 0
+          },
+          {
+            "year": "Dec 1999",
+            "who": "Freed at Kandahar",
+            "text": "exchanged for the IC-814 hostages",
+            "at_word": "hijacked",
+            "paragraph": 0
+          },
+          {
+            "year": "Jan 2002",
+            "who": "Daniel Pearl kidnapped in Karachi",
+            "text": "The Wall Street Journal reporter was killed",
+            "at_word": "Pearl",
+            "paragraph": 1
+          },
+          {
+            "year": "2002",
+            "who": "Convicted · sentenced to death",
+            "text": "Pakistani anti-terrorism court",
+            "at_word": "convicted",
+            "paragraph": 2
+          },
+          {
+            "year": "2020",
+            "who": "Murder conviction overturned",
+            "text": "Sindh High Court",
+            "at_word": "overturned",
+            "paragraph": 2
+          },
+          {
+            "year": "Jan 2021",
+            "who": "Acquitted",
+            "text": "Supreme Court of Pakistan",
+            "at_word": "acquitted",
+            "paragraph": 2
+          }
+        ],
+        "tally": {
+          "text": "OFF DEATH ROW",
+          "at_word": "safe",
+          "paragraph": 2
+        }
+      }
+    },
+    "seg_06": {
+      "map": "region",
+      "pins": [
+        "Srinagar",
+        "Muzaffarabad"
+      ],
+      "route": [
+        "Srinagar",
+        "Muzaffarabad"
+      ],
+      "route_from_paragraph": 1,
+      "zoom": 0.9,
+      "visual_type": "map"
+    },
+    "seg_07": {
+      "map": "region",
+      "pins": [
+        "Pathankot",
+        "Pulwama",
+        "Balakot"
+      ],
+      "route": [
+        "Pulwama",
+        "Balakot"
+      ],
+      "route_from_paragraph": 1,
+      "visual_type": "map"
+    },
+    "seg_08": {
+      "visual_type": "status",
+      "status": {
+        "steps": [
+          {
+            "text": "Dec 1999 · Kandahar",
+            "at_word": "runway",
+            "paragraph": 1
+          },
+          {
+            "text": "2000 · Jaish-e-Mohammed",
+            "at_word": "group",
+            "paragraph": 1
+          },
+          {
+            "text": "2001 · Parliament attack",
+            "at_word": "parliament",
+            "paragraph": 1
+          },
+          {
+            "text": "2002 · Daniel Pearl",
+            "at_word": "journalist",
+            "paragraph": 1
+          },
+          {
+            "text": "2019 · Pulwama → Balakot",
+            "at_word": "convoy",
+            "paragraph": 1
+          }
+        ],
+        "pending": "What next?",
+        "stamp": {
+          "text": "THE SAME SEVEN DAYS",
+          "at_word": "seven",
+          "paragraph": 2
+        },
+        "as_of": "EVERY LINK RUNS BACK THROUGH KANDAHAR"
+      }
+    },
+    "seg_09": {
+      "map": "region",
+      "pins": [
+        "Kandahar"
+      ],
+      "route": [
+        "Kathmandu",
+        "Amritsar",
+        "Lahore",
+        "Dubai",
+        "Kandahar"
+      ],
+      "route_from_paragraph": 0,
+      "map_zoom_out": true,
+      "visual_type": "map"
+    }
+  }
+}
