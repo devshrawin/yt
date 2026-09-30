@@ -1,0 +1,548 @@
+{
+  "id": "teaser",
+  "index": 99,
+  "gap_ms": 350,
+  "tail_ms": 600,
+  "paragraphs": [
+    {
+      "text": "A bomb brings down an airliner meant for China's Premier. Nehru sends one Indian police officer to find who did it."
+    },
+    {
+      "text": "Thirteen years later, that officer builds India's foreign intelligence service from scratch."
+    },
+    {
+      "text": "He warns that Pakistan's dictator may start a war. Thirteen days of fighting later, Bangladesh is born."
+    },
+    {
+      "text": "And almost no photograph of him exists."
+    },
+    {
+      "text": "RAW Files, Episode One. Now on The Sisodia Files."
+    }
+  ],
+  "audio_file": "audio/teaser.mp3",
+  "audio_hash": "c1b4302aa153b3e0",
+  "duration_seconds": 25.616,
+  "paragraph_starts": [
+    0,
+    6854,
+    11980,
+    18378,
+    21248
+  ],
+  "words": [
+    {
+      "text": "A",
+      "startMs": 76,
+      "endMs": 141,
+      "p": 0
+    },
+    {
+      "text": "bomb",
+      "startMs": 152,
+      "endMs": 424,
+      "p": 0
+    },
+    {
+      "text": "brings",
+      "startMs": 435,
+      "endMs": 728,
+      "p": 0
+    },
+    {
+      "text": "down",
+      "startMs": 739,
+      "endMs": 1043,
+      "p": 0
+    },
+    {
+      "text": "an",
+      "startMs": 1054,
+      "endMs": 1196,
+      "p": 0
+    },
+    {
+      "text": "airliner",
+      "startMs": 1207,
+      "endMs": 1620,
+      "p": 0
+    },
+    {
+      "text": "meant",
+      "startMs": 1630,
+      "endMs": 1870,
+      "p": 0
+    },
+    {
+      "text": "for",
+      "startMs": 1880,
+      "endMs": 2022,
+      "p": 0
+    },
+    {
+      "text": "China's",
+      "startMs": 2033,
+      "endMs": 2402,
+      "p": 0
+    },
+    {
+      "text": "Premier.",
+      "startMs": 2413,
+      "endMs": 2859,
+      "p": 0
+    },
+    {
+      "text": "Nehru",
+      "startMs": 3174,
+      "endMs": 3446,
+      "p": 0
+    },
+    {
+      "text": "sends",
+      "startMs": 3446,
+      "endMs": 3804,
+      "p": 0
+    },
+    {
+      "text": "one",
+      "startMs": 3815,
+      "endMs": 4076,
+      "p": 0
+    },
+    {
+      "text": "Indian",
+      "startMs": 4087,
+      "endMs": 4446,
+      "p": 0
+    },
+    {
+      "text": "police",
+      "startMs": 4457,
+      "endMs": 4761,
+      "p": 0
+    },
+    {
+      "text": "officer",
+      "startMs": 4772,
+      "endMs": 5217,
+      "p": 0
+    },
+    {
+      "text": "to",
+      "startMs": 5228,
+      "endMs": 5315,
+      "p": 0
+    },
+    {
+      "text": "find",
+      "startMs": 5326,
+      "endMs": 5630,
+      "p": 0
+    },
+    {
+      "text": "who",
+      "startMs": 5641,
+      "endMs": 5750,
+      "p": 0
+    },
+    {
+      "text": "did",
+      "startMs": 5761,
+      "endMs": 5924,
+      "p": 0
+    },
+    {
+      "text": "it.",
+      "startMs": 5935,
+      "endMs": 6185,
+      "p": 0
+    },
+    {
+      "text": "Thirteen",
+      "startMs": 6908,
+      "endMs": 7234,
+      "p": 1
+    },
+    {
+      "text": "years",
+      "startMs": 7245,
+      "endMs": 7484,
+      "p": 1
+    },
+    {
+      "text": "later,",
+      "startMs": 7495,
+      "endMs": 7919,
+      "p": 1
+    },
+    {
+      "text": "that",
+      "startMs": 8147,
+      "endMs": 8354,
+      "p": 1
+    },
+    {
+      "text": "officer",
+      "startMs": 8365,
+      "endMs": 8789,
+      "p": 1
+    },
+    {
+      "text": "builds",
+      "startMs": 8800,
+      "endMs": 9093,
+      "p": 1
+    },
+    {
+      "text": "India's",
+      "startMs": 9104,
+      "endMs": 9506,
+      "p": 1
+    },
+    {
+      "text": "foreign",
+      "startMs": 9517,
+      "endMs": 9800,
+      "p": 1
+    },
+    {
+      "text": "intelligence",
+      "startMs": 9811,
+      "endMs": 10289,
+      "p": 1
+    },
+    {
+      "text": "service",
+      "startMs": 10300,
+      "endMs": 10626,
+      "p": 1
+    },
+    {
+      "text": "from",
+      "startMs": 10637,
+      "endMs": 10756,
+      "p": 1
+    },
+    {
+      "text": "scratch.",
+      "startMs": 10767,
+      "endMs": 11300,
+      "p": 1
+    },
+    {
+      "text": "He",
+      "startMs": 12056,
+      "endMs": 12143,
+      "p": 2
+    },
+    {
+      "text": "warns",
+      "startMs": 12154,
+      "endMs": 12491,
+      "p": 2
+    },
+    {
+      "text": "that",
+      "startMs": 12502,
+      "endMs": 12621,
+      "p": 2
+    },
+    {
+      "text": "Pakistan's",
+      "startMs": 12632,
+      "endMs": 13219,
+      "p": 2
+    },
+    {
+      "text": "dictator",
+      "startMs": 13230,
+      "endMs": 13719,
+      "p": 2
+    },
+    {
+      "text": "may",
+      "startMs": 13730,
+      "endMs": 13882,
+      "p": 2
+    },
+    {
+      "text": "start",
+      "startMs": 13893,
+      "endMs": 14176,
+      "p": 2
+    },
+    {
+      "text": "a",
+      "startMs": 14187,
+      "endMs": 14241,
+      "p": 2
+    },
+    {
+      "text": "war.",
+      "startMs": 14252,
+      "endMs": 14610,
+      "p": 2
+    },
+    {
+      "text": "Thirteen",
+      "startMs": 14958,
+      "endMs": 15393,
+      "p": 2
+    },
+    {
+      "text": "days",
+      "startMs": 15404,
+      "endMs": 15708,
+      "p": 2
+    },
+    {
+      "text": "of",
+      "startMs": 15719,
+      "endMs": 15817,
+      "p": 2
+    },
+    {
+      "text": "fighting",
+      "startMs": 15828,
+      "endMs": 16187,
+      "p": 2
+    },
+    {
+      "text": "later,",
+      "startMs": 16197,
+      "endMs": 16567,
+      "p": 2
+    },
+    {
+      "text": "Bangladesh",
+      "startMs": 16578,
+      "endMs": 17121,
+      "p": 2
+    },
+    {
+      "text": "is",
+      "startMs": 17121,
+      "endMs": 17273,
+      "p": 2
+    },
+    {
+      "text": "born.",
+      "startMs": 17284,
+      "endMs": 17686,
+      "p": 2
+    },
+    {
+      "text": "And",
+      "startMs": 18454,
+      "endMs": 18552,
+      "p": 3
+    },
+    {
+      "text": "almost",
+      "startMs": 18563,
+      "endMs": 18911,
+      "p": 3
+    },
+    {
+      "text": "no",
+      "startMs": 18921,
+      "endMs": 19106,
+      "p": 3
+    },
+    {
+      "text": "photograph",
+      "startMs": 19117,
+      "endMs": 19715,
+      "p": 3
+    },
+    {
+      "text": "of",
+      "startMs": 19726,
+      "endMs": 19813,
+      "p": 3
+    },
+    {
+      "text": "him",
+      "startMs": 19824,
+      "endMs": 19998,
+      "p": 3
+    },
+    {
+      "text": "exists.",
+      "startMs": 20008,
+      "endMs": 20563,
+      "p": 3
+    },
+    {
+      "text": "RAW",
+      "startMs": 21324,
+      "endMs": 21498,
+      "p": 4
+    },
+    {
+      "text": "Files,",
+      "startMs": 21509,
+      "endMs": 22009,
+      "p": 4
+    },
+    {
+      "text": "Episode",
+      "startMs": 22020,
+      "endMs": 22455,
+      "p": 4
+    },
+    {
+      "text": "One.",
+      "startMs": 22465,
+      "endMs": 22781,
+      "p": 4
+    },
+    {
+      "text": "Now",
+      "startMs": 23118,
+      "endMs": 23422,
+      "p": 4
+    },
+    {
+      "text": "on",
+      "startMs": 23433,
+      "endMs": 23596,
+      "p": 4
+    },
+    {
+      "text": "The",
+      "startMs": 23607,
+      "endMs": 23683,
+      "p": 4
+    },
+    {
+      "text": "Sisodia",
+      "startMs": 23694,
+      "endMs": 24183,
+      "p": 4
+    },
+    {
+      "text": "Files.",
+      "startMs": 24194,
+      "endMs": 24683,
+      "p": 4
+    }
+  ],
+  "caption_lines": [
+    {
+      "text": "A bomb brings down an airliner meant for",
+      "startMs": 76,
+      "endMs": 2022
+    },
+    {
+      "text": "China's Premier.",
+      "startMs": 2033,
+      "endMs": 2859
+    },
+    {
+      "text": "Nehru sends one Indian police officer to",
+      "startMs": 3174,
+      "endMs": 5315
+    },
+    {
+      "text": "find who did it.",
+      "startMs": 5326,
+      "endMs": 6185
+    },
+    {
+      "text": "Thirteen years later, that officer builds",
+      "startMs": 6908,
+      "endMs": 9093
+    },
+    {
+      "text": "India's foreign intelligence service from",
+      "startMs": 9104,
+      "endMs": 10756
+    },
+    {
+      "text": "scratch.",
+      "startMs": 10767,
+      "endMs": 11300
+    },
+    {
+      "text": "He warns that Pakistan's dictator may",
+      "startMs": 12056,
+      "endMs": 13882
+    },
+    {
+      "text": "start a war.",
+      "startMs": 13893,
+      "endMs": 14610
+    },
+    {
+      "text": "Thirteen days of fighting later,",
+      "startMs": 14958,
+      "endMs": 16567
+    },
+    {
+      "text": "Bangladesh is born.",
+      "startMs": 16578,
+      "endMs": 17686
+    },
+    {
+      "text": "And almost no photograph of him exists.",
+      "startMs": 18454,
+      "endMs": 20563
+    },
+    {
+      "text": "RAW Files, Episode One.",
+      "startMs": 21324,
+      "endMs": 22781
+    },
+    {
+      "text": "Now on The Sisodia Files.",
+      "startMs": 23118,
+      "endMs": 24683
+    }
+  ],
+  "beats": [
+    {
+      "headline": "1955",
+      "text": "A bomb brings down an airliner meant for China's Premier. Nehru sends one Indian police officer to find who did it.",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 0,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE FOUNDER",
+      "text": "Thirteen years later, that officer builds India's foreign intelligence service from scratch.",
+      "show": {
+        "segment": "seg_03",
+        "paragraph": 2,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "1971",
+      "text": "He warns that Pakistan's dictator may start a war. Thirteen days of fighting later, Bangladesh is born.",
+      "show": {
+        "segment": "seg_05",
+        "paragraph": 4,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE MAN NOBODY PHOTOGRAPHED",
+      "text": "And almost no photograph of him exists.",
+      "show": {
+        "segment": "seg_08",
+        "paragraph": 0,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE SPYMASTER",
+      "text": "RAW Files, Episode One. Now on The Sisodia Files.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}

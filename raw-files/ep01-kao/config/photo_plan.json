@@ -1,0 +1,383 @@
+{
+  "_note": "Licensed images for RAW Files Ep 1 (US-government and Government of India public domain, GODL-India, CC0, CC BY / BY-SA, OGL via Wikimedia Commons). No licence-clean photograph of R.N. Kao exists; he appears as a silhouette dossier. Overlaps trimmed automatically.",
+  "placements": [
+    {
+      "segment": "seg_00",
+      "paragraph": 0,
+      "at_word": "Kashmir",
+      "seconds": 5,
+      "images": [
+        "constellation"
+      ],
+      "caption": "An Air India Lockheed Constellation — the same type as the Kashmir Princess"
+    },
+    {
+      "segment": "seg_00",
+      "paragraph": 0,
+      "at_word": "Zhou",
+      "seconds": 4.5,
+      "images": [
+        "zhou"
+      ],
+      "caption": "Zhou Enlai, Premier of China"
+    },
+    {
+      "segment": "seg_00",
+      "paragraph": 1,
+      "at_word": "Nehru",
+      "seconds": 5,
+      "images": [
+        "nehru"
+      ],
+      "caption": "",
+      "person": {
+        "name": "JAWAHARLAL NEHRU",
+        "role": "Prime Minister of India",
+        "years": "1947–1964"
+      }
+    },
+    {
+      "segment": "seg_00",
+      "paragraph": 2,
+      "at_word": "Rameshwar",
+      "seconds": 7,
+      "images": [
+        "silhouette"
+      ],
+      "caption": "",
+      "person": {
+        "name": "R.N. KAO",
+        "role": "Founder, Research and Analysis Wing",
+        "years": "1918–2002"
+      }
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 0,
+      "at_word": "Bandung",
+      "seconds": 5,
+      "images": [
+        "bandung"
+      ],
+      "caption": "The Asian–African Conference, Bandung, April 1955"
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 1,
+      "at_word": "Kai",
+      "seconds": 5,
+      "images": [
+        "kaitak"
+      ],
+      "caption": "Kai Tak airport, Hong Kong, in the 1950s"
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 2,
+      "at_word": "Zhou",
+      "seconds": 6,
+      "images": [
+        "zhou"
+      ],
+      "caption": "",
+      "person": {
+        "name": "ZHOU ENLAI",
+        "role": "Premier of China — the target of the 1955 plot",
+        "years": "1898–1976"
+      }
+    },
+    {
+      "segment": "seg_01",
+      "paragraph": 3,
+      "at_word": "Nehru",
+      "seconds": 5,
+      "images": [
+        "nehru_zhou"
+      ],
+      "caption": "Nehru with Zhou Enlai in Beijing, 1954"
+    },
+    {
+      "segment": "seg_02",
+      "paragraph": 0,
+      "at_word": "Benares",
+      "seconds": 5,
+      "images": [
+        "varanasi"
+      ],
+      "caption": "Benares (Varanasi), 1924"
+    },
+    {
+      "segment": "seg_02",
+      "paragraph": 0,
+      "at_word": "Allahabad",
+      "seconds": 4,
+      "images": [
+        "allahabad"
+      ],
+      "caption": "Senate House, Allahabad University"
+    },
+    {
+      "segment": "seg_02",
+      "paragraph": 2,
+      "at_word": "Nkrumah",
+      "seconds": 6,
+      "images": [
+        "nkrumah"
+      ],
+      "caption": "",
+      "person": {
+        "name": "KWAME NKRUMAH",
+        "role": "Ghana's founding president — asked India to help build an intelligence service",
+        "years": "1909–1972"
+      }
+    },
+    {
+      "segment": "seg_02",
+      "paragraph": 3,
+      "at_word": "pulsated",
+      "seconds": 6,
+      "images": [],
+      "caption": "",
+      "quote": {
+        "text": "Kao pulsated warmth and was essentially a father figure.",
+        "by": "M.K. Narayanan, former National Security Adviser, to ThePrint"
+      }
+    },
+    {
+      "segment": "seg_03",
+      "paragraph": 2,
+      "at_word": "Indira",
+      "seconds": 6,
+      "images": [
+        "indira"
+      ],
+      "caption": "",
+      "person": {
+        "name": "INDIRA GANDHI",
+        "role": "Prime Minister — created R&AW in 1968",
+        "years": "PM 1966–77 · 1980–84"
+      }
+    },
+    {
+      "segment": "seg_04",
+      "paragraph": 2,
+      "at_word": "Daruwala",
+      "seconds": 7,
+      "images": [],
+      "caption": "",
+      "quote": {
+        "text": "His contacts the world over, particularly in Asia — Afghanistan, Iran, China, you name it — were something else.",
+        "by": "K.N. Daruwala, former chairman, Joint Intelligence Committee"
+      }
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 0,
+      "at_word": "temptation",
+      "seconds": 8,
+      "images": [
+        "silhouette"
+      ],
+      "caption": "",
+      "quote": {
+        "text": "There would be a temptation for Yahya Khan to consider the prospects of embarking on a military venture against India.",
+        "by": "R.N. Kao, secret note to the Cabinet Secretary, 14 January 1971"
+      }
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 0,
+      "at_word": "dictator",
+      "seconds": 5,
+      "images": [
+        "yahya"
+      ],
+      "caption": "",
+      "person": {
+        "name": "YAHYA KHAN",
+        "role": "Pakistan's military ruler",
+        "years": "1969–1971"
+      }
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 2,
+      "at_word": "Sheikh",
+      "seconds": 5,
+      "images": [
+        "mujib"
+      ],
+      "caption": "Sheikh Mujibur Rahman"
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 3,
+      "at_word": "Mukti",
+      "seconds": 5,
+      "images": [
+        "mukti"
+      ],
+      "caption": "Mukti Bahini fighters, 1971"
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 4,
+      "at_word": "December",
+      "seconds": 5,
+      "images": [
+        "indira_chiefs"
+      ],
+      "caption": "Indira Gandhi with India's service chiefs, 1971"
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 4,
+      "at_word": "Dhaka",
+      "seconds": 6,
+      "images": [
+        "surrender_sign"
+      ],
+      "caption": "Dhaka, 16 December 1971: the Instrument of Surrender is signed"
+    },
+    {
+      "segment": "seg_05",
+      "paragraph": 5,
+      "at_word": "knows",
+      "seconds": 7,
+      "images": [
+        "zia"
+      ],
+      "caption": "",
+      "quote": {
+        "text": "This man knows more about my country than me.",
+        "by": "Ziaur Rahman, later President of Bangladesh, to Indira Gandhi — as reported by ThePrint"
+      }
+    },
+    {
+      "segment": "seg_06",
+      "paragraph": 0,
+      "at_word": "Chogyal",
+      "seconds": 6,
+      "images": [
+        "chogyal"
+      ],
+      "caption": "",
+      "person": {
+        "name": "PALDEN THONDUP NAMGYAL",
+        "role": "The Chogyal — ruler of Sikkim",
+        "years": "1923–1982"
+      }
+    },
+    {
+      "segment": "seg_06",
+      "paragraph": 0,
+      "at_word": "Can",
+      "seconds": 6,
+      "images": [
+        "indira"
+      ],
+      "caption": "",
+      "quote": {
+        "text": "Can you do something about this?",
+        "by": "Indira Gandhi to R.N. Kao, 1972 — as recounted by R&AW officer G.B.S. Sidhu"
+      }
+    },
+    {
+      "segment": "seg_06",
+      "paragraph": 2,
+      "at_word": "referendum",
+      "seconds": 5,
+      "images": [
+        "tsuklakhang"
+      ],
+      "caption": "Tsuklakhang, the royal chapel in Gangtok"
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 0,
+      "at_word": "Sheikh",
+      "seconds": 6,
+      "images": [
+        "mujib"
+      ],
+      "caption": "",
+      "person": {
+        "name": "SHEIKH MUJIBUR RAHMAN",
+        "role": "Bangladesh's founding leader",
+        "years": "1920–1975"
+      }
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 1,
+      "at_word": "Desai",
+      "seconds": 5,
+      "images": [
+        "desai"
+      ],
+      "caption": "",
+      "person": {
+        "name": "MORARJI DESAI",
+        "role": "Prime Minister",
+        "years": "1977–1979"
+      }
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 1,
+      "at_word": "contemptuous",
+      "seconds": 6,
+      "images": [],
+      "caption": "",
+      "quote": {
+        "text": "Prime Minister Morarji Desai was contemptuous of RAW and he believed that it was just another police force.",
+        "by": "Asoka Raina, journalist and author"
+      }
+    },
+    {
+      "segment": "seg_07",
+      "paragraph": 2,
+      "at_word": "Rajiv",
+      "seconds": 5,
+      "images": [
+        "rajiv"
+      ],
+      "caption": "Rajiv Gandhi, Prime Minister 1984–89"
+    },
+    {
+      "segment": "seg_08",
+      "paragraph": 0,
+      "at_word": "memoir",
+      "seconds": 6,
+      "images": [
+        "silhouette"
+      ],
+      "caption": "",
+      "person": {
+        "name": "R.N. KAO",
+        "role": "No memoir. Almost no photographs.",
+        "years": "1918–2002"
+      }
+    },
+    {
+      "segment": "seg_08",
+      "paragraph": 1,
+      "at_word": "Marenches",
+      "seconds": 5,
+      "images": [
+        "marenches"
+      ],
+      "caption": "Alexandre de Marenches, head of French intelligence, with President Ronald Reagan"
+    },
+    {
+      "segment": "seg_08",
+      "paragraph": 2,
+      "at_word": "memorial",
+      "seconds": 6,
+      "images": [
+        "kao_lecture"
+      ],
+      "caption": "The R.N. Kao Memorial Lecture, 2026"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "_note": "Map places for RAW Files Ep 1 (Kao).",
+  "places": {
+    "Hong Kong": {
+      "lonLat": [
+        114.1994,
+        22.3308
+      ],
+      "aliases": [
+        "Hong Kong"
+      ],
+      "map": "world",
+      "label": "Hong Kong (Kai Tak)"
+    },
+    "Bandung": {
+      "lonLat": [
+        107.6099,
+        -6.921
+      ],
+      "aliases": [
+        "Bandung",
+        "Indonesia"
+      ],
+      "map": "world",
+      "label": "Bandung, Indonesia"
+    },
+    "Crash": {
+      "lonLat": [
+        108.0,
+        4.0
+      ],
+      "aliases": [
+        "South China Sea"
+      ],
+      "map": "world",
+      "label": "Crash site (approx.)"
+    },
+    "Beijing": {
+      "lonLat": [
+        116.4074,
+        39.9042
+      ],
+      "aliases": [
+        "Beijing"
+      ],
+      "map": "world",
+      "label": "Beijing"
+    },
+    "Delhi": {
+      "lonLat": [
+        77.209,
+        28.6139
+      ],
+      "aliases": [
+        "Delhi"
+      ],
+      "map": "world",
+      "label": "New Delhi"
+    },
+    "Accra": {
+      "lonLat": [
+        -0.187,
+        5.6037
+      ],
+      "aliases": [
+        "Accra",
+        "Ghana"
+      ],
+      "map": "world",
+      "label": "Accra, Ghana"
+    },
+    "Varanasi": {
+      "lonLat": [
+        82.9739,
+        25.3176
+      ],
+      "aliases": [
+        "Varanasi",
+        "Benares"
+      ],
+      "map": "region",
+      "label": "Varanasi"
+    },
+    "Charbatia": {
+      "lonLat": [
+        86.0994,
+        20.4434
+      ],
+      "aliases": [
+        "Charbatia"
+      ],
+      "map": "region",
+      "label": "Charbatia (Aviation Research Centre)"
+    },
+    "Calcutta": {
+      "lonLat": [
+        88.3639,
+        22.5726
+      ],
+      "aliases": [
+        "Calcutta"
+      ],
+      "map": "region",
+      "label": "Calcutta"
+    },
+    "Dhaka": {
+      "lonLat": [
+        90.3947,
+        23.736
+      ],
+      "aliases": [
+        "Dhaka"
+      ],
+      "map": "region",
+      "label": "Dhaka"
+    },
+    "Srinagar": {
+      "lonLat": [
+        74.7973,
+        34.0837
+      ],
+      "aliases": [
+        "Srinagar"
+      ],
+      "map": "region",
+      "label": "Srinagar"
+    },
+    "Lahore": {
+      "lonLat": [
+        74.3587,
+        31.5204
+      ],
+      "aliases": [
+        "Lahore"
+      ],
+      "map": "region",
+      "label": "Lahore"
+    },
+    "Gangtok": {
+      "lonLat": [
+        88.6065,
+        27.3389
+      ],
+      "aliases": [
+        "Gangtok",
+        "Sikkim"
+      ],
+      "map": "region",
+      "label": "Gangtok, Sikkim"
+    }
+  },
+  "city_labels": [
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        72.797,
+        18.93
+      ],
+      "size": 30
+    },
+    {
+      "text": "BACK BAY",
+      "lonLat": [
+        72.814,
+        18.938
+      ],
+      "size": 18
+    },
+    {
+      "text": "MUMBAI HARBOUR",
+      "lonLat": [
+        72.858,
+        18.925
+      ],
+      "size": 22
+    },
+    {
+      "text": "COLABA",
+      "lonLat": [
+        72.818,
+        18.902
+      ],
+      "size": 18
+    },
+    {
+      "text": "FORT",
+      "lonLat": [
+        72.838,
+        18.932
+      ],
+      "size": 16
+    },
+    {
+      "text": "NARIMAN POINT",
+      "lonLat": [
+        72.8215,
+        18.9215
+      ],
+      "size": 14
+    },
+    {
+      "text": "MARINE DRIVE",
+      "lonLat": [
+        72.8235,
+        18.946
+      ],
+      "size": 14
+    }
+  ],
+  "region_labels": [
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79.0,
+        22.5
+      ],
+      "size": 50
+    },
+    {
+      "text": "PAKISTAN",
+      "lonLat": [
+        68.6,
+        28.2
+      ],
+      "size": 34
+    },
+    {
+      "text": "BAY OF BENGAL",
+      "lonLat": [
+        88.5,
+        15.0
+      ],
+      "size": 34
+    },
+    {
+      "text": "ARABIAN SEA",
+      "lonLat": [
+        65.5,
+        15.0
+      ],
+      "size": 34
+    },
+    {
+      "text": "CHINA",
+      "lonLat": [
+        88,
+        33.5
+      ],
+      "size": 30
+    }
+  ],
+  "world_labels": [
+    {
+      "text": "ATLANTIC OCEAN",
+      "lonLat": [
+        -40,
+        32
+      ],
+      "size": 34
+    },
+    {
+      "text": "PACIFIC OCEAN",
+      "lonLat": [
+        -150,
+        20
+      ],
+      "size": 34
+    },
+    {
+      "text": "INDIAN OCEAN",
+      "lonLat": [
+        78,
+        -10
+      ],
+      "size": 34
+    },
+    {
+      "text": "NORTH AMERICA",
+      "lonLat": [
+        -100,
+        50
+      ],
+      "size": 28
+    },
+    {
+      "text": "EUROPE",
+      "lonLat": [
+        15,
+        50
+      ],
+      "size": 26
+    },
+    {
+      "text": "INDIA",
+      "lonLat": [
+        79,
+        22
+      ],
+      "size": 26
+    }
+  ]
+}

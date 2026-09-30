@@ -1,0 +1,102 @@
+{
+  "_note": "RAW Files Ep 1 (Kao) visuals. Kao has no licence-clean photo: silhouette dossier.",
+  "segments": {
+    "seg_00": {
+      "visual_type": "map",
+      "map": "world",
+      "pins": [
+        "Hong Kong",
+        "Crash",
+        "Bandung",
+        "Beijing"
+      ],
+      "route": [
+        "Hong Kong",
+        "Crash"
+      ],
+      "route_from_paragraph": 0,
+      "intro_zoom": true
+    },
+    "seg_03": {
+      "visual_type": "checklist",
+      "checklist": {
+        "title": "BUILDING R&AW",
+        "items": [
+          {
+            "year": "1962",
+            "who": "War with China",
+            "text": "exposes how little India knows beyond its borders",
+            "at_word": "1962",
+            "paragraph": 0
+          },
+          {
+            "year": "1962–63",
+            "who": "Aviation Research Centre, Charbatia",
+            "text": "aerial and technical intelligence · first head: Kao",
+            "at_word": "Charbatia",
+            "paragraph": 1
+          },
+          {
+            "year": "1965",
+            "who": "War with Pakistan",
+            "text": "the case for a separate foreign service",
+            "at_word": "1965",
+            "paragraph": 2
+          },
+          {
+            "year": "21 Sep 1968",
+            "who": "Research and Analysis Wing founded",
+            "text": "inside the Cabinet Secretariat, answering to the PM",
+            "at_word": "born",
+            "paragraph": 2
+          },
+          {
+            "year": "1968",
+            "who": "About 250 people · about ₹2 crore",
+            "text": "both grew many times within a few years",
+            "at_word": "250",
+            "paragraph": 3
+          }
+        ],
+        "tally": {
+          "text": "FIRST CHIEF: R.N. KAO",
+          "at_word": "chief",
+          "paragraph": 2
+        }
+      }
+    },
+    "seg_05": {
+      "visual_type": "map",
+      "map": "region",
+      "pins": [
+        "Srinagar",
+        "Lahore",
+        "Calcutta",
+        "Dhaka"
+      ],
+      "zoom": 0.8
+    },
+    "seg_06": {
+      "visual_type": "map",
+      "map": "region",
+      "pins": [
+        "Gangtok"
+      ],
+      "zoom": 0.6
+    },
+    "seg_09": {
+      "visual_type": "map",
+      "map": "world",
+      "pins": [
+        "Hong Kong",
+        "Delhi"
+      ],
+      "route": [
+        "Hong Kong",
+        "Crash"
+      ],
+      "route_from_paragraph": 0,
+      "map_zoom_out": true
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_note": "Instagram Reel teaser for RAW Files Ep 1.",
+  "version": "1.0",
+  "max_seconds": 90,
+  "cta": "Full documentary · @SisodiaFiles",
+  "beats": [
+    {
+      "headline": "1955",
+      "text": "A bomb brings down an airliner meant for China's Premier. Nehru sends one Indian police officer to find who did it.",
+      "show": {
+        "segment": "seg_00",
+        "paragraph": 0,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE FOUNDER",
+      "text": "Thirteen years later, that officer builds India's foreign intelligence service from scratch.",
+      "show": {
+        "segment": "seg_03",
+        "paragraph": 2,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "1971",
+      "text": "He warns that Pakistan's dictator may start a war. Thirteen days of fighting later, Bangladesh is born.",
+      "show": {
+        "segment": "seg_05",
+        "paragraph": 4,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE MAN NOBODY PHOTOGRAPHED",
+      "text": "And almost no photograph of him exists.",
+      "show": {
+        "segment": "seg_08",
+        "paragraph": 0,
+        "offset_ms": 0
+      }
+    },
+    {
+      "headline": "THE SPYMASTER",
+      "text": "RAW Files, Episode One. Now on The Sisodia Files.",
+      "show": {
+        "title_card": true
+      }
+    }
+  ]
+}

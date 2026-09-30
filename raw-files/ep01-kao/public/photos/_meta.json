@@ -1,0 +1,153 @@
+{
+ "indira": {
+  "file": "photos/indira.jpg",
+  "license": "Public domain",
+  "artist": "U.S. News & World Report photographer Warren K. Leffler",
+  "source": "https://commons.wikimedia.org/wiki/File:Indira_Gandhi_1966.jpg"
+ },
+ "indira_chiefs": {
+  "file": "photos/indira_chiefs.jpg",
+  "license": "GODL-India",
+  "artist": "Indian Air Force",
+  "source": "https://commons.wikimedia.org/wiki/File:PM_with_the_three_Chiefs,_1971.jpg"
+ },
+ "nehru": {
+  "file": "photos/nehru.jpg",
+  "license": "GODL-India",
+  "artist": "Prime Minister's Office",
+  "source": "https://commons.wikimedia.org/wiki/File:Shri_Jawaharlal_Nehru.jpg"
+ },
+ "nehru_zhou": {
+  "file": "photos/nehru_zhou.jpg",
+  "license": "Public domain",
+  "artist": "Unknown author",
+  "source": "https://commons.wikimedia.org/wiki/File:Jawaharlal_Nehru_in_Peking_with_Chou_En-Lai_and_Madam_Sun_Yat-sen,_1954.jpg"
+ },
+ "desai": {
+  "file": "photos/desai.jpg",
+  "license": "Public domain",
+  "artist": "Photo division Government of India",
+  "source": "https://commons.wikimedia.org/wiki/File:Morarji_Desai_portrait.jpg"
+ },
+ "rajiv": {
+  "file": "photos/rajiv.jpg",
+  "license": "GODL-India",
+  "artist": "India Post, Government of India",
+  "source": "https://commons.wikimedia.org/wiki/File:Rajiv_Gandhi,_the_6th_PM_of_India.jpg"
+ },
+ "manekshaw": {
+  "file": "photos/manekshaw.jpg",
+  "license": "GODL-India",
+  "artist": "Rashtrapathi Bhavan, India",
+  "source": "https://commons.wikimedia.org/wiki/File:FM_Manekshaw_-_Rashtrapathi_Bhavan.jpg"
+ },
+ "surrender_sign": {
+  "file": "photos/surrender_sign.jpg",
+  "license": "Public domain",
+  "artist": "Press Information Department",
+  "source": "https://commons.wikimedia.org/wiki/File:Pakistan_Instrument_of_Surrender_signed_by_A_A_K_Niazi_and_Jagjit_Singh_Aurora_at_Ramna_Race_Course_Maidan_1971-12-16_(PID-h0029).jpg"
+ },
+ "surrender_doc": {
+  "file": "photos/surrender_doc.jpg",
+  "license": "GODL-India",
+  "artist": "Indian Navy",
+  "source": "https://commons.wikimedia.org/wiki/File:1971_Instrument_of_Surrender.jpg"
+ },
+ "mujib": {
+  "file": "photos/mujib.jpg",
+  "license": "Public domain",
+  "artist": "Press Information Department",
+  "source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Sheikh_Mujibur_Rahman.jpg"
+ },
+ "yahya": {
+  "file": "photos/yahya.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Oliver F. Atkins",
+  "source": "https://commons.wikimedia.org/wiki/File:Yahya_Khan_in_1970.jpg"
+ },
+ "zia": {
+  "file": "photos/zia.jpg",
+  "license": "CC0",
+  "artist": "Croes, Rob C. / Anefo",
+  "source": "https://commons.wikimedia.org/wiki/File:Ziaur_Rahman_1979.jpg"
+ },
+ "mukti": {
+  "file": "photos/mukti.jpg",
+  "license": "CC0",
+  "artist": "K. Amin 88",
+  "source": "https://commons.wikimedia.org/wiki/File:Mukti_Bahini.jpg"
+ },
+ "constellation": {
+  "file": "photos/constellation.jpg",
+  "license": "CC BY 3.0",
+  "artist": "RuthAS",
+  "source": "https://commons.wikimedia.org/wiki/File:Lockheed_L-749A_VT-DEO_AII_LAP_08.06.53_edited-2.jpg"
+ },
+ "zhou": {
+  "file": "photos/zhou.jpg",
+  "license": "Public domain",
+  "artist": "Unknown author",
+  "source": "https://commons.wikimedia.org/wiki/File:Zhou_Enlai_3.jpg"
+ },
+ "bandung": {
+  "file": "photos/bandung.jpg",
+  "license": "Public domain",
+  "artist": "Unknown author",
+  "source": "https://commons.wikimedia.org/wiki/File:Asian\u2013African_Conference_at_Bandung_April_1955.jpg"
+ },
+ "kaitak": {
+  "file": "photos/kaitak.jpg",
+  "license": "Public domain",
+  "artist": "uncredited",
+  "source": "https://commons.wikimedia.org/wiki/File:1950s_Kai_Tak_Airport_runway.jpg"
+ },
+ "nkrumah": {
+  "file": "photos/nkrumah.jpg",
+  "license": "OGL v1.0",
+  "artist": "The National Archives UK - Flickr account",
+  "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_-_The_National_Archives_UK_-_CO_1069-50-1.jpg"
+ },
+ "chogyal": {
+  "file": "photos/chogyal.jpg",
+  "license": "Public domain",
+  "artist": "Alice S. Kandell",
+  "source": "https://commons.wikimedia.org/wiki/File:Palden_Thondup_Namgyal.jpg"
+ },
+ "tsuklakhang": {
+  "file": "photos/tsuklakhang.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Amitabha Gupta",
+  "source": "https://commons.wikimedia.org/wiki/File:Tsuklakhang_Monastery,_Gangtok_district,_East_Sikkim_03.jpg"
+ },
+ "varanasi": {
+  "file": "photos/varanasi.jpg",
+  "license": "Public domain",
+  "artist": "Agnes Morgenstierne",
+  "source": "https://commons.wikimedia.org/wiki/File:Ghats_in_Varanasi,_Uttar_Pradesh,_India_(1924).jpg"
+ },
+ "allahabad": {
+  "file": "photos/allahabad.jpg",
+  "license": "CC BY 4.0",
+  "artist": "TuckDB Postcards",
+  "source": "https://commons.wikimedia.org/wiki/File:Senate_House,_Allahabad_University.jpg"
+ },
+ "marenches": {
+  "file": "photos/marenches.jpg",
+  "license": "Public domain",
+  "artist": "Mary Anne Fackelman, White House photographer",
+  "source": "https://commons.wikimedia.org/wiki/File:Ronald_Reagan_with_Alexandre_de_Marenches.jpg"
+ },
+ "kao_lecture": {
+  "file": "photos/kao_lecture.jpg",
+  "license": "GODL-India",
+  "artist": "Research & Analysis Wing (R&AW)",
+  "source": "https://commons.wikimedia.org/wiki/File:RN_Kao_Memorial_Lecture_2026.jpg"
+ },
+ "silhouette": {
+  "file": "silhouette.svg",
+  "license": "",
+  "artist": "",
+  "credit": "Illustration: The Sisodia Files (no licence-clean photograph exists)",
+  "source": "original"
+ }
+}
