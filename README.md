@@ -2,14 +2,11 @@
 
 Code-driven investigative documentaries (Remotion + edge-tts) for [@SisodiaFiles](https://www.youtube.com/@SisodiaFiles). One folder per video; channel branding in [`brand/`](brand/).
 
-| Video | Folder | Status |
+Files 01–06 (Inside the Terror Factory · 60 Hours · The Front Man · The Mercenary · The Voice in the Room · The Butterfly Effect) are uploaded; their project folders were removed locally and are preserved in git at tag `archive-files-01-06`.
+
+| Series | Folder | Status |
 |---|---|---|
-| File 06 — The Butterfly Effect (IC-814) | [`ic-814/`](ic-814/) | v1.0 |
-| File 05 — The Voice in the Room (Sajid Mir) | [`voice-in-the-room/`](voice-in-the-room/) | v1.1 |
-| File 04 — The Mercenary (David Headley) | [`mercenary/`](mercenary/) | v1.2 |
-| File 03 — The Front Man (Tahawwur Rana) | [`front-man/`](front-man/) | v1.2 |
-| File 02 — 60 Hours (26/11 hour by hour) | [`60-hours/`](60-hours/) | v1.4 |
-| Inside the Terror Factory | [`terror-factory/`](terror-factory/) | File 01 — v1.3 + Instagram teaser v1.2 (renders kept locally, not in git) |
+| RAW Files (10 episodes) | [`raw-files/`](raw-files/) | in production — see [`raw-files/SERIES.md`](raw-files/SERIES.md) |
 
 Script rules for every video: [`SCRIPT_RULES.md`](SCRIPT_RULES.md) (checked by `pipeline/script_lint.py`).
 
